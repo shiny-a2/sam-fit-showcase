@@ -4,11 +4,20 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. The current release adds the approved branch directory, scoped role accounts and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
+Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. The current release adds a sports command center, scoped branch workspaces, actionable CRM and honest future-module previews. It preserves mature wallet behavior and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — Sports command center 0.7.0
+
+Built on CRM-0 with management drill-down, branch context, global search and feedback. Existing operational data drives every available KPI; unavailable attendance, revenue, approvals and service engines remain explicitly coming soon. Final production remains a separate VPS track.
+
+### 2026-10-06 — CRM workflows 0.6.0
+
+Delivered scoped ownership, separated sales/member states, outcome-driven follow-ups and stable identity conversion. Verified target-runtime acceptance checks, mobile end-to-end workflows and recoverable form submissions.
+
 
 ### 2026-10-06 — Sports validation release 0.5.0
 

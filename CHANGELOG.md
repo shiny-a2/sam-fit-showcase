@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.7.0 — 2026-10-06
+
+- Delivered a sports management command center with scoped branch workspaces, actionable CRM drill-down and feedback.
+- Reused mature financial behavior and interface components while making unavailable future operations explicit.
+- Added role-aware navigation, investigated operational change history and documented consistent KPI definitions.
+- Verified target-runtime checks, actual role access and mobile/tablet/desktop light/dark interactions using synthetic data only.
+
 ## 0.6.0 — 2026-10-06
 
 - Delivered a sports CRM workspace with scoped ownership, sales stages, member lifecycle and actionable follow-up outcomes.
