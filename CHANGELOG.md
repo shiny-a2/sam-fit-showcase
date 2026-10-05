@@ -40,3 +40,9 @@ Resolved relay authentication and verified listener isolation, port restrictions
 - Preserved a verified reusable financial source baseline and matching upstream tests: 333 tests and 1,746 assertions passed locally.
 - Recorded selected CRM source provenance and approved official brand colors.
 - Deployment remains pending an isolated hosting configuration. These are source-level checks; the sports application is not live yet.
+
+## Sports environment preflight
+
+- Established the isolated demo domain/root and verified HTTPS while preserving the existing site.
+- Actual runtime checks found that the hosting control panel's saved PHP selection is not applied to web execution. Application installation is paused until the supported runtime is verified.
+- Source-level validation remains complete; M1 and the sports application are not yet live.
