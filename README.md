@@ -17,7 +17,8 @@ The private repository contains implementation tools. This showcase publishes pr
 - Prepared a dedicated public-key access design with no public listener at the branch.
 - Created isolated relay account storage without restarting existing services.
 - Prepared the reception bootstrap for review, including bounded automatic reconnection.
-- A Windows account-profile initialization error blocked relay validation. The temporary task was removed and the new account was disabled while the correction is reviewed.
-- Branch identity and reception-PC bootstrap execution remain pending.
+- Resolved the relay account-profile blocker with an approved account-only correction.
+- Verified key authentication, loopback isolation, access restrictions and a fresh relay connection. Removed the test credentials and listener afterward.
+- Branch identity and reception-PC bootstrap execution remain pending. Network-loss and reboot recovery have not yet been validated on site.
 
 No hardware integration, database access or production connector has been validated yet.
