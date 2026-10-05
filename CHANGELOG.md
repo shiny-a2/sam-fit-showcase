@@ -33,3 +33,10 @@ Prepared isolated relay storage and a reception bootstrap. Existing services hav
 Recorded the Windows profile initialization blocker and disabled the temporary relay account after the failed check. Reception handoff remains pending validation.
 
 Resolved relay authentication and verified listener isolation, port restrictions, shell denial and a fresh connection. Removed test access afterward. Reception deployment and disconnect/reboot recovery still need on-site validation.
+
+## Foundation source checkpoint
+
+- Selected the independent WordPress architecture for the sports implementation.
+- Preserved a verified reusable financial source baseline and matching upstream tests: 333 tests and 1,746 assertions passed locally.
+- Recorded selected CRM source provenance and approved official brand colors.
+- Deployment remains pending an isolated hosting configuration. These are source-level checks; the sports application is not live yet.
