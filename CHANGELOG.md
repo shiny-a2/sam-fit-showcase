@@ -46,3 +46,9 @@ Resolved relay authentication and verified listener isolation, port restrictions
 - Established the isolated demo domain/root and verified HTTPS while preserving the existing site.
 - Actual runtime checks found that the hosting control panel's saved PHP selection is not applied to web execution. Application installation is paused until the supported runtime is verified.
 - Source-level validation remains complete; M1 and the sports application are not yet live.
+
+## v0.2.0-infrastructure-checkpoint
+
+- Completed the sports demo infrastructure preparation and verified DNS/HTTPS.
+- Preserved official brand assets and a tested financial source baseline.
+- Clarified the next phase: an independent backend, subject to runtime and reuse review. No WordPress or operational sports application is installed; application foundations and functional CRM/wallet remain ahead.
