@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 — 2026-10-05
+
+Prepared ongoing reception access at the owner's request and recorded the first branch identification privately. Key authentication and dedicated-account revocation remain in place. Hardware, database permissions and reconnect behavior still require field validation.
+
 ## 0.1.1 — 2026-10-05
 
 Approved the reception access resource and prepared administrator access through a dedicated account. Access remains temporary and key-authenticated; reception software, databases and hardware are outside the modification scope. Reception execution and recovery checks remain pending.
