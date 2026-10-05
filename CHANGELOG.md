@@ -73,3 +73,7 @@ Resolved relay authentication and verified listener isolation, port restrictions
 - Prepared a separate synthetic-only product-validation environment with isolated application resources.
 - Added sports branch/member and CRM foundations, follow-up/feedback and three Persian product surfaces.
 - Preserved the mature financial behavior reference; gated unvalidated financial writes, external messaging and future modules explicitly.
+
+## 0.3.1 — 2026-10-06
+
+Adapted the established operator workstation and management dashboard components into the independent sports validation product. Added consistent Persian typography, the existing accessible day/night control, desktop member detail and mobile record sheets. Exposed three clear operator, management and member routes. Future services remain explicitly marked as coming soon; private implementation details and credentials are excluded.
