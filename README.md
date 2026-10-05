@@ -15,6 +15,9 @@ The private repository contains implementation tools. This showcase publishes pr
 - Inspected the available hosts and confirmed the owner's choice of a temporary relay.
 - Separated the relay role from the future application host.
 - Prepared a dedicated public-key access design with no public listener at the branch.
-- Branch identity, reception-PC execution and end-to-end connectivity are still pending.
+- Created isolated relay account storage without restarting existing services.
+- Prepared the reception bootstrap for review, including bounded automatic reconnection.
+- Windows account-profile initialization and end-to-end connectivity are still pending validation.
+- Branch identity and reception-PC bootstrap execution remain pending.
 
 No hardware integration, database access or production connector has been validated yet.
