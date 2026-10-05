@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 — 2026-10-05
+
+Improved operator handoff to preserve script formatting through a single-line encoded transport. Connected status now waits for central authentication and route verification. Reception execution remains pending; public-key enrollment requires one initial owner handoff.
+
 ## 0.1.2 — 2026-10-05
 
 Prepared ongoing reception access at the owner's request and recorded the first branch identification privately. Key authentication and dedicated-account revocation remain in place. Hardware, database permissions and reconnect behavior still require field validation.
