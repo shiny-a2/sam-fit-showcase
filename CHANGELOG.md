@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4 — 2026-10-05
+
+Enrolled the first reception's public key and pinned its host identity. Local SSH startup remains blocked; added targeted runner diagnostics and preserved rollback boundaries. End-to-end reception connectivity and discovery remain unverified.
+
 ## 0.1.3 — 2026-10-05
 
 Improved operator handoff to preserve script formatting through a single-line encoded transport. Connected status now waits for central authentication and route verification. Reception execution remains pending; public-key enrollment requires one initial owner handoff.

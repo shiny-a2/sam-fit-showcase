@@ -22,5 +22,6 @@ The private repository contains implementation tools. This showcase publishes pr
 - Branch identity and reception-PC bootstrap execution remain pending. Network-loss and reboot recovery have not yet been validated on site.
 - Prepared an approved single-paste operator handoff with a dedicated administrator account and key authentication. The owner requested ongoing access with explicit revocation instead of automatic expiry. Reception execution is pending; operational discovery remains read-only first.
 - Updated the handoff after operator diagnostics exposed damaged multiline pasting. The new transport preserves the source and waits for central verification before displaying Connected. The owner forwards the initial public-key output once; no second reception command is required for normal enrollment.
+- Field execution reached key generation but failed at local SSH startup. Public-key enrollment is complete; a targeted diagnostic repair is prepared. The branch is not yet marked Connected or Ready.
 
 No hardware integration, database access or production connector has been validated yet.
