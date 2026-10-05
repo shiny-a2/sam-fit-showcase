@@ -1,8 +1,11 @@
 # Changelog
 
-## Unreleased — CRM productization planning
+## 0.6.0 — 2026-10-06
 
-Reviewed the existing sports CRM and documented intentional mobile/tablet workflows, operational action centers and the next acceptance gate. Data-model and delegation changes remain pending owner decisions; the deployed validation release is unchanged.
+- Delivered a sports CRM workspace with scoped ownership, sales stages, member lifecycle and actionable follow-up outcomes.
+- Added mobile workflows, useful search and recoverable form drafts while preserving stable member identity and the mature wallet behavior.
+- Verified target-runtime acceptance checks, end-to-end workflows and responsive light/dark layouts using synthetic data only.
+- Kept future service engines and unconnected messaging clearly marked as unavailable.
 
 ## 0.5.0 — 2026-10-06
 
