@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — 2026-10-06
+
+- Added the approved branch directory and realistic synthetic profiles for product validation.
+- Expanded role-based branch testing and varied demo wallet scenarios.
+- Standardized Persian copy, Jalali scheduling and Tehran time across product views.
+- Verified responsive light/dark layouts and calendar input without using customer production data.
+
 ## Unreleased — Phase 1 discovery
 
 Verified authenticated read-only hosting discovery. The first-demo runtime recommendation now uses account capability evidence, while exact interpreter versions and resource isolation still require checks. No deployment or existing application change was performed.

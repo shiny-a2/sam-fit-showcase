@@ -4,11 +4,15 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Phase 0 covers infrastructure discovery and integration feasibility. The first step is temporary remote access that keeps the branch behind its existing network boundary. Reception software, databases and access-control equipment are outside the change scope.
+Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. The current release adds the approved branch directory, scoped role accounts and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — Sports validation release 0.5.0
+
+Added branch-aware synthetic profiles, varied wallet scenarios and role-specific testing. Standardized Persian product copy and Jalali reminder scheduling. Verified calendar boundaries, server-side permissions and light/dark interfaces at mobile and desktop widths. No customer production data was imported.
 
 ### 2026-10-05 — Discovery groundwork
 
