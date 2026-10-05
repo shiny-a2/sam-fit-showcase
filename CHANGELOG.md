@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — CRM productization planning
+
+Reviewed the existing sports CRM and documented intentional mobile/tablet workflows, operational action centers and the next acceptance gate. Data-model and delegation changes remain pending owner decisions; the deployed validation release is unchanged.
+
 ## 0.5.0 — 2026-10-06
 
 - Added the approved branch directory and realistic synthetic profiles for product validation.
