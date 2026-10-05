@@ -66,3 +66,10 @@ Resolved relay authentication and verified listener isolation, port restrictions
 - Kept the future independent production backend as a separate VPS-based track, informed by demo product decisions.
 - Distinguished mature demo wallet reuse from future behavior-preserving financial migration with parity tests.
 - Demo runtime architecture is approved; application delivery remains pending supported host execution; no existing production changes or real customer-data import.
+
+## 0.3.0 — Sports demo foundations
+
+- Verified hosting compatibility and a modern account runtime while preserving the live personal site's content.
+- Prepared a separate synthetic-only product-validation environment with isolated application resources.
+- Added sports branch/member and CRM foundations, follow-up/feedback and three Persian product surfaces.
+- Preserved the mature financial behavior reference; gated unvalidated financial writes, external messaging and future modules explicitly.
