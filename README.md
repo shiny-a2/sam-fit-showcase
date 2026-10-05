@@ -10,6 +10,14 @@ The private repository contains implementation tools. This showcase publishes pr
 
 ## Updates
 
+### 2026-10-06 — Current-state audit (documentation only)
+
+Compared the repository, running validation environment, schema and actual browser behavior. Confirmed bounded CRM and management workflows while distinguishing the partial member experience from inactive future engines. Password login and internal wallet reads work; OTP, online payments, loyalty/referral workflows and sports service engines remain unavailable.
+
+Fresh checks covered all 55 management and 22 member navigation entries, role/branch denials, four viewport widths in both themes, and 333 pure financial tests with 1,746 assertions on the target PHP runtime. No business records or financial transactions were submitted during this audit. Earlier write acceptance is recorded separately from fresh read-only verification.
+
+Recorded documentation drift, mobile usability limits and pre-handoff hardening priorities privately. No application change or deployment was made; runtime release remains 0.7.0. The final independent platform remains a separate future VPS track.
+
 ### 2026-10-06 — Sports command center 0.7.0
 
 Built on CRM-0 with management drill-down, branch context, global search and feedback. Existing operational data drives every available KPI; unavailable attendance, revenue, approvals and service engines remain explicitly coming soon. Final production remains a separate VPS track.

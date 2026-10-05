@@ -1,5 +1,13 @@
 # Changelog
 
+## Current-state audit — 2026-10-06 (no runtime release)
+
+- Reconciled implementation, runtime, schema and browser evidence without changing application behavior.
+- Distinguished working CRM/management capabilities, partial member features and explicit coming-soon modules.
+- Verified read-only navigation/access/layout checks and target-runtime pure financial tests; did not repeat financial or business mutations.
+- Documented usability, scope and handoff limits with private evidence and sanitized public notes.
+- Kept deployed release 0.7.0 unchanged; documentation updates are not deployment claims.
+
 ## 0.7.0 — 2026-10-06
 
 - Delivered a sports management command center with scoped branch workspaces, actionable CRM drill-down and feedback.
