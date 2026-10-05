@@ -59,3 +59,10 @@ Resolved relay authentication and verified listener isolation, port restrictions
 - Separated verified capabilities from unresolved database/cache and persistent-worker requirements; no infrastructure destination has been selected.
 - Compared financial migration approaches and proposed behavior-preserving parity tests before any wallet replacement.
 - Product implementation and deployment remain pending owner architecture decisions; no existing production changes performed.
+
+## Parallel demo and production tracks
+
+- Prioritized an isolated sports demo for CRM workflow validation and tester feedback using mature reusable modules.
+- Kept the future independent production backend as a separate VPS-based track, informed by demo product decisions.
+- Distinguished mature demo wallet reuse from future behavior-preserving financial migration with parity tests.
+- Demo runtime architecture is approved; application delivery remains pending supported host execution; no existing production changes or real customer-data import.
