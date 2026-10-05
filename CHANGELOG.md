@@ -77,3 +77,7 @@ Resolved relay authentication and verified listener isolation, port restrictions
 ## 0.3.1 — 2026-10-06
 
 Adapted the established operator workstation and management dashboard components into the independent sports validation product. Added consistent Persian typography, the existing accessible day/night control, desktop member detail and mobile record sheets. Exposed three clear operator, management and member routes. Future services remain explicitly marked as coming soon; private implementation details and credentials are excluded.
+
+## 0.4.1 — 2026-10-06
+
+Refined the sports product around the owner's visual direction: navy surfaces, restrained green accents, consistent Persian typography, actionable operator metrics and a member home built for mobile. Management charts use recorded preview data; unavailable services remain clearly marked. Natural sample names improve product walkthroughs without introducing customer data. Retained the mature reusable foundations and isolated validation environment.
