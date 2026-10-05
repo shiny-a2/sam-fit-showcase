@@ -20,6 +20,6 @@ The private repository contains implementation tools. This showcase publishes pr
 - Resolved the relay account-profile blocker with an approved account-only correction.
 - Verified key authentication, loopback isolation, access restrictions and a fresh relay connection. Removed the test credentials and listener afterward.
 - Branch identity and reception-PC bootstrap execution remain pending. Network-loss and reboot recovery have not yet been validated on site.
-- Prepared a single-paste operator handoff and a readable source copy for review; execution is pending the remaining resource approval.
+- Prepared an approved single-paste operator handoff with a dedicated administrator account, key authentication and a bounded access window. Reception execution is pending; operational discovery remains read-only first.
 
 No hardware integration, database access or production connector has been validated yet.
