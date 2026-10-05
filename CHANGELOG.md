@@ -2,6 +2,8 @@
 
 ## Unreleased — Phase 1 discovery
 
+Refined the extraction gate with source-provenance comparisons and a hosting-dependent runtime recommendation. Distinguished the custom account renderer from a legacy ticket-storage dependency. Installed financial source passes syntax checks; expanded financial behavior and target-host capabilities remain unverified.
+
 Audited existing business-platform modules before implementation. Identified reusable CRM, financial ledger, authentication, permissions and UI boundaries, and compared existing runtime options. Recorded source-version gaps and planned independent sports configuration, data storage and three application surfaces. Official brand artwork is available privately. No application deployment or sports workflow is claimed complete.
 
 ## 0.1.4 — 2026-10-05
