@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased — Personal login and workspace experience
+
+- Built a branded Persian login candidate using the existing design tokens, typography and theme controls.
+- Added role-aware landing and an authorized workspace picker for multiple assigned roles, without granting new permissions.
+- Verified target-runtime contracts and responsive browser presentation; authentication acceptance and deployment are still pending.
+- Kept the temporary validation runtime distinct from the future dedicated backend.
+
 ## Unreleased — Reception productization foundation
 
 - Completed the Reception productization scope audit and documented daily-workflow gaps before extending the interface.

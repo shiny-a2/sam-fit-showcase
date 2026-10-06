@@ -16,3 +16,6 @@ Mapped installed software control paths without operating or changing live branc
 ## Reception productization — work in progress
 
 The next Reception milestone focuses on finding a member, understanding their status and completing the next front-desk action clearly. The audit separates stable shared foundations from missing operational screens, approval handoffs, temporary guest flows and recovery behavior. Initial candidate changes narrow registration authority and improve phone lookup and role landing. Target-runtime contract checks passed; full product acceptance and deployment remain pending. Hardware control and real payment remain unavailable.
+## Personal login and workspace candidate
+
+The login candidate presents a consistent Persian Sam Fit experience in light and dark themes. Each person lands in their assigned workspace; people with multiple roles can choose among permitted spaces. Member loyalty level remains separate from staff access. Responsive presentation checks passed across mobile, tablet and desktop widths, while successful role-session acceptance and release verification remain pending. The final dedicated backend remains a separate architecture track; this update does not claim it is deployed.
