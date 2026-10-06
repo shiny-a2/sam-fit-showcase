@@ -275,3 +275,9 @@ Conditional acceptance remains explicit: real receptionist comprehension, tablet
 Evaluated the current validation hosting for an independent backend alongside the existing application. A bounded Node runtime boot passed, but database connectivity/version, secure connection support and application/worker lifecycle have not met admission requirements. Local Redis connectivity was unavailable. Full application compatibility and data/financial parity are not claimed.
 
 Migration is paused at the hosting gate. The validated reference application remains unchanged; no database creation, cutover, hardware control or deletion occurred. The owner must establish suitable services before independent deployment proceeds.
+
+## 2026-10-07 — Management architecture specification
+
+Completed role-specific management IA, route migration mapping, action-first Command Center, contextual decision and attention contracts, scoped search and KPI definitions. Documented phone/tablet/desktop patterns and produced clearly labelled static conceptual previews in light and dark themes. Consolidated workspace/domain ownership, testing, pilot and retirement prerequisites.
+
+The specification gate is complete; independent-backend implementation is blocked. Current runtime remains 0.12.4. No operational navigation change or implementation/security/performance acceptance is claimed. Real manager and device acceptance remain pending. The next recommendation is infrastructure admission/hardening; it is not executed automatically.

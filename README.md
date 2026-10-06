@@ -4,6 +4,10 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+MANAGE-C management specification is complete; independent-backend implementation remains blocked by prerequisite admission. The plan reorganizes management around attention, contextual decisions and operational oversight, with distinct branch, central and technical experiences. It maps the existing navigation to smaller permission-based groups and consolidates future modules into a secondary catalogue. Sanitized conceptual previews cover desktop, tablet and phone in both themes; they are design evidence, not a deployed management application or human acceptance.
+
+This milestone changes documentation only. The validated runtime remains 0.12.4. No migration, financial cutover, hardware/payment command, legacy retirement or subsequent phase occurred.
+
 Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Current deployed release: 0.12.4. Reception now supports native renewal quotes, shared manager approval, explicit Demo payment verification, temporary guest passes and conversion, protected draft recovery, operational handoffs and a searchable locker map. Financial behavior stays with the mature existing ledger.
 
 REC-1C exits with **CONDITIONAL PASS: software ready; actual operator and device acceptance pending**. Real browser workflow, recovery, role/security and concurrency checks passed, and protected records and ledger balances reconciled. Plan prices remain configurable rather than invented. Physical gate/lock control, real payments, active Push and the final independent backend remain outside this release. No subsequent phase starts automatically.
