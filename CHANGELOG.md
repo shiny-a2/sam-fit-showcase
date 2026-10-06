@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.12.0 — Reception foundation
+
+- Added a separate search-first Reception workspace with branch-scoped identity and clear eligibility reasons.
+- Kept membership, access decisions, manual visit evidence and software locker assignment separate from sales and money.
+- Reused the existing identity, financial, CRM, operational, audit and feedback foundations.
+- Verified the actual target runtime, four two-worker concurrency scenarios and responsive theme interactions.
+- Retained conditional acceptance for final club policies, field testing and physical integration. No hardware control was enabled.
+
 ## Phase 0 discovery — 2026-10-06
 
 - Completed a controlled read-only discovery milestone for an existing branch system.

@@ -4,7 +4,9 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.11.1 adds a branch-manager workspace with daily attention, assigned tasks, shared issues, proposal review and team workload. Existing CRM, wallet and identity behavior remain shared and passed target-runtime regression checks. Controlled testing is ready with explicit limits: physical devices and a full multibranch manager field journey still need acceptance. Services, attendance, external messaging and payments remain unavailable. The final independent platform remains a separate future VPS track.
+Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Release 0.12.0 adds canonical identity reuse, explicit operational review, versioned Demo membership, explainable access, immutable manual visit events and software locker assignment. Financial behavior remains with the mature existing ledger.
+
+The exit is conditional foundation acceptance. Physical gates/locks, biometric enrollment, real payments and final club policies remain outside this release. The final independent platform is still a separate future VPS track. No next milestone starts automatically.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
