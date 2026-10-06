@@ -1,4 +1,10 @@
 
+
+## Unreleased — Mobile installation guidance
+
+Added a shared, accessible mobile installation guide across the validation workspaces. Users receive browser-appropriate instructions and can reopen the guide after dismissal; the installed experience launches through existing access routing. Official brand icons are preserved. Notifications and offline behavior are explicitly identified as unavailable. Local presentation checks passed; deployment and actual device installation remain pending.
+
+
 ## Reception foundation audit
 
 Documented the existing identity, financial and operations boundaries before adding reception functionality. The new reception milestone will keep access decisions separate from sales status and physical hardware control. No legacy operational data is imported.

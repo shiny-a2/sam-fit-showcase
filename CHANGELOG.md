@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — Mobile installation guidance
+
+Added a shared, accessible mobile installation guide across the validation workspaces. Users receive browser-appropriate instructions and can reopen the guide after dismissal; the installed experience launches through existing access routing. Official brand icons are preserved. Notifications and offline behavior are explicitly identified as unavailable. Local presentation checks passed; deployment and actual device installation remain pending.
+
+
+
 ## Unreleased — Reception Search interaction
 
 - Added keyboard selection and scoped branch choices for staff who are also members.
