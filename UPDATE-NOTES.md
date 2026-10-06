@@ -60,3 +60,7 @@ Search now supports keyboard result selection and body-based requests, while kee
 The candidate completes the reception membership request and renewal journey, temporary guest passes, shared task and support handoffs, and a searchable locker inventory. Form drafts are protected and uncertain submissions can be checked against their original reference instead of blindly repeated. No real payment or physical hardware operation is enabled.
 
 Target-runtime workflow and regression checks have passed. Deployment, full browser journeys, concurrency and real receptionist/device acceptance remain release gates. The owner will configure plan prices; none are invented. Manage navigation debt is recorded separately rather than expanding this milestone.
+
+## Reception recovery hardening — 0.12.4 candidate
+
+Encrypted form drafts now remain available until the browser acknowledges the result. This closes the lost-response/reload recovery gap. Repeated forms are bound to their exact request and locker context. Three actual two-worker checks passed for identity registration, guest conversion and approved membership activation; mature financial parity remains unchanged. Native browser acceptance is still being completed before an exit decision.
