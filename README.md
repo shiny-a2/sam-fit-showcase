@@ -4,11 +4,20 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.8.5 adds sales operations, scoped action queues, same-member renewal and a feedback-to-verification workflow on top of the sports command center. It preserves mature wallet behavior and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
+Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.9.1 extends the existing sales core with retention, explainable member health, commercial opportunities, recommendations, audience segments and safe campaign simulation. Service recovery and shared approval requests are available as a bounded foundation. Mature financial behavior is preserved. Real messaging, attendance connectors and actual revenue attribution are not connected. The final independent platform remains a separate future VPS track.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — Retention and customer intelligence 0.9.1
+
+Delivered scoped retention and win-back workflows, explicit reasons and ownership, commercial opportunities, marketing preferences and audience previews. Campaign simulation preserves partial failures, cancellation and safe retries without sending external messages. Recovery requests link satisfaction follow-through to the existing follow-up core. Potential opportunity value remains distinct from confirmed revenue.
+
+The bounded demo gate passed 76 target integration assertions, 41 previous-release regressions, 29 deterministic rule checks and a 10,000-input rule scenario. A transactional 2,000-member segment scenario used three queries. Browser acceptance covered 74 interactive checks, 144 responsive route/theme combinations and 12 final preference-form checks. Original demo records, balances and financial source were preserved. These are demo results, not a production load guarantee or physical-device certification.
+
+Known limits include incomplete live data adapters, simulation-only delivery, activity-dependent background jobs and an advanced segment editor that still uses validated structured rules. Consolidation should review overlapping workflows, terminology, permissions, pagination and portability before further expansion. No next-stage hardware, telephony, AI or automation work begins automatically.
+
 
 ### 2026-10-06 — CRM sales operations 0.8.5
 

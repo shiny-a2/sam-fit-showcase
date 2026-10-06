@@ -1,3 +1,13 @@
+# Changelog
+
+## 0.9.1 — 2026-10-06
+
+- Added protected retention, commercial opportunities, recommendations and safe audience workflows on the existing CRM core.
+- Added simulation-only campaigns and bounded recovery/approval requests; no external messages or financial actions are created.
+- Verified target-runtime regression, role/branch privacy, replay, failure recovery and responsive light/dark interactions.
+- Preserved original demo history, balances and mature financial behavior; documented missing integrations and consolidation inputs.
+- Completed the bounded product-validation gate. Final production readiness and the next milestone remain separate.
+
 # CRM-2 validation hardening
 
 Improved replay protection, branch privacy and responsive retention workflows. Validation now covers 72 transactional contracts, a 2,000-member database scale scenario and 144 layout combinations. Final interactive acceptance is still in progress. Campaigns remain simulation-only; no external messages or financial actions are created.
@@ -6,7 +16,6 @@ Improved replay protection, branch privacy and responsive retention workflows. V
 
 Retention and member-health rules, commercial opportunities, audience segments and safe campaign simulation are now under validation in the isolated product demo. Existing identity, follow-up and financial foundations are preserved. The release is not yet certified; external messaging and real financial attribution remain unavailable.
 
-# Changelog
 
 ## 0.8.5 — 2026-10-06
 
