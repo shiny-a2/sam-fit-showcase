@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — Reception Search interaction
+
+- Added keyboard selection and scoped branch choices for staff who are also members.
+- Kept generated name/mobile searches in request bodies rather than navigation URLs.
+- Expanded isolated policy checks and offline responsive presentation coverage; deployment and real-session acceptance remain pending.
+
 ## Unreleased — Reception daily-work preview
 
 - Added a branch-scoped daily Reception preview with manual visit evidence, review queues and shared own work.

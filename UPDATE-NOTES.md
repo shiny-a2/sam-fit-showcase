@@ -27,3 +27,7 @@ The current candidate uses effective permissions and assigned branch scope to de
 ## Unreleased — Reception daily-work preview
 
 The Reception candidate now places Search above bounded daily read models and separates unavailable sources from valid zero counts. Member identity and access context remain available when the wallet source fails. Existing financial and operations foundations are reused. Synthetic checks cover role-scoped read boundaries and responsive interactions, including neutral next-member navigation. The validation environment is unchanged, and real runtime/session acceptance is still required.
+
+## Unreleased — Reception Search interaction
+
+Search now supports keyboard result selection and body-based requests, while keeping member navigation separate from search terms. Staff branch choices remain within actual staff assignments even when the same person also has a Member identity. Offline fixtures cover Search with the other Reception states in both themes at six widths. Real runtime/session acceptance and the full Reception milestone remain pending.
