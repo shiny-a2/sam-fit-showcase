@@ -4,9 +4,9 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Current deployed checkpoint: 0.12.2. Recent changes add shared mobile installation guidance, permission-aware login/workspace routing, readable member references and safe visit-correction previews. Financial behavior stays with the mature existing ledger.
+Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Current deployed release: 0.12.4. Reception now supports native renewal quotes, shared manager approval, explicit Demo payment verification, temporary guest passes and conversion, protected draft recovery, operational handoffs and a searchable locker map. Financial behavior stays with the mature existing ledger.
 
-The complete Reception milestone has not passed its exit gate: temporary guest workflows, protected recovery, full renewal/approval handoffs and operator acceptance remain incomplete. Successful checkpoint deployment is distinct from product acceptance. Physical gate/lock control, real payments, active Push and the final independent backend remain outside this update. No subsequent phase starts automatically.
+REC-1C exits with **CONDITIONAL PASS: software ready; actual operator and device acceptance pending**. Real browser workflow, recovery, role/security and concurrency checks passed, and protected records and ledger balances reconciled. Plan prices remain configurable rather than invented. Physical gate/lock control, real payments, active Push and the final independent backend remain outside this release. No subsequent phase starts automatically.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 

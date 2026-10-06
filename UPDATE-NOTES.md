@@ -64,3 +64,11 @@ Target-runtime workflow and regression checks have passed. Deployment, full brow
 ## Reception recovery hardening — 0.12.4 candidate
 
 Encrypted form drafts now remain available until the browser acknowledges the result. This closes the lost-response/reload recovery gap. Repeated forms are bound to their exact request and locker context. Three actual two-worker checks passed for identity registration, guest conversion and approved membership activation; mature financial parity remains unchanged. Native browser acceptance is still being completed before an exit decision.
+
+## 2026-10-07 — Reception blocker closure 0.12.4
+
+Closed the software gaps recorded at the previous Reception checkpoint: renewal and payment-state handoffs, temporary guest journeys, safe draft recovery, uncertain-result reconciliation, shared work submissions and operational locker browsing. Manager approval remains distinct from explicit Demo payment verification, and software check-in does not claim physical passage.
+
+Verified 47 native browser journey checks, 10 real recovery checks, 100 authenticated role/PWA checks, seven session security checks, and native plus legacy concurrency scenarios. The mature financial reference suite passed 333 tests; original validation records and ledger balances reconciled after temporary test cleanup. A dedicated scoped Reception tester and Persian acceptance flow are prepared.
+
+Conditional acceptance remains explicit: real receptionist comprehension, tablet touch and phone installation have not been verified. Hardware controls, Push and real payments remain unavailable. Management UX debt is registered for later work rather than expanded into this milestone. No final-platform or next-domain phase begins.

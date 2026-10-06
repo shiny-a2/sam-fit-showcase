@@ -261,3 +261,11 @@ The Demo candidate now passes target PHP 8.3 checks for operational task transit
 Released a daily manager workspace with action-first navigation, assigned tasks, shared issue handling, scoped team workload and source-owned proposal decisions. Manager and reception roles were exercised through real browser workflows. Existing CRM and financial behavior passed target-runtime regression checks.
 
 Controlled testing is ready with explicit limits: physical phones and a complete multibranch manager field journey still need acceptance. Services, attendance, equipment, inventory and operational finance remain clearly marked for future delivery.
+
+## 2026-10-07 — Reception blocker closure 0.12.4
+
+Closed the software gaps recorded at the previous Reception checkpoint: renewal and payment-state handoffs, temporary guest journeys, safe draft recovery, uncertain-result reconciliation, shared work submissions and operational locker browsing. Manager approval remains distinct from explicit Demo payment verification, and software check-in does not claim physical passage.
+
+Verified 47 native browser journey checks, 10 real recovery checks, 100 authenticated role/PWA checks, seven session security checks, and native plus legacy concurrency scenarios. The mature financial reference suite passed 333 tests; original validation records and ledger balances reconciled after temporary test cleanup. A dedicated scoped Reception tester and Persian acceptance flow are prepared.
+
+Conditional acceptance remains explicit: real receptionist comprehension, tablet touch and phone installation have not been verified. Hardware controls, Push and real payments remain unavailable. Management UX debt is registered for later work rather than expanded into this milestone. No final-platform or next-domain phase begins.
