@@ -1,5 +1,12 @@
 # Changelog
 
+## Phase 0 discovery — 2026-10-06
+
+- Completed a controlled read-only discovery milestone for an existing branch system.
+- Documented integration boundaries, identity/event semantics, recovery validation and explicit readiness gates.
+- Preserved operational services and device ownership; no connector, device control or source-data import was deployed.
+- Kept customer information, credentials, recovery archives and detailed infrastructure evidence out of the public repository.
+
 ## Access verification — 2026-10-06
 
 - Verified dedicated reception access and completed an initial read-only infrastructure inventory.

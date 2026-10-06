@@ -78,10 +78,15 @@ Added branch-aware synthetic profiles, varied wallet scenarios and role-specific
 - Updated the handoff after operator diagnostics exposed damaged multiline pasting. The new transport preserves the source and waits for central verification before displaying Connected. The owner forwards the initial public-key output once; no second reception command is required for normal enrollment.
 - Field execution reached key generation but failed at local SSH startup. Public-key enrollment is complete; a targeted diagnostic repair is prepared. The branch is not yet marked Connected or Ready.
 
-No hardware integration, database access or production connector has been validated yet.
+At that groundwork checkpoint, hardware integration, database access and a production connector were not yet validated. The discovery update below supersedes its pending access status.
 
 ### 2026-10-06 — Branch Manager workspace
 
 The manager validation release is ready for controlled testing. It brings daily attention, task ownership, issue handling, proposal review and team workload into a single branch context. Source workflows remain shared with the existing platform. Mobile and desktop interfaces were checked in both themes, and financial regression checks passed on the target runtime.
 
 Physical-device acceptance remains open. Future service and finance engines are not represented as active features. The next role workspace will follow product review rather than start automatically.
+
+
+### 2026-10-06 — Phase 0 discovery checkpoint
+
+Verified branch access and completed read-only discovery of the existing application, live database structure, identity/event boundaries and configured hardware relationships. Documented recovery-validation limits and a future shadow-read architecture without deploying a connector or sending device commands. Source operational services remained running. Integration readiness is conditional; event correction/time semantics, supported read access, restoration and physical-device acceptance remain separate gates. Detailed infrastructure evidence, customer information, credentials and recovery archives stay outside this public repository.
