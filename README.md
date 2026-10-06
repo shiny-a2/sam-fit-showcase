@@ -4,11 +4,17 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.10.0 consolidates the existing CRM into action-first reception and scoped management, with central branch drill-down, safer feedback delivery and in-product member profile. Security and background execution were hardened while mature financial behavior and existing records remained intact. The demo release is conditionally ready for testing; physical-device acceptance remains outstanding. Messaging, actual attendance and payments remain unconnected. The final independent platform is a separate future VPS track.
+Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.10.1 improves the three mobile headers and makes operator urgency, queue context and next actions easier to distinguish. Members have fuller profile summaries and ledger-backed wallet breakdowns; administrators can assign member levels with an audit trail and branch authorization. Security and background execution were hardened while mature financial behavior and existing records remained intact. The demo release is conditionally ready for testing; physical-device acceptance remains outstanding. Messaging, actual attendance and payments remain unconnected. The final independent platform is a separate future VPS track.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — Workspace refinement 0.10.1
+
+Compacted operator search, introduced readable severity and work lanes, and aligned mobile headers across management and member experiences. Tier assignment reuses extracted selection primitives with a scoped sports adapter; retail thresholds and customer data are excluded. Wallet balances and bucket breakdowns use the unchanged financial ledger. Automatic loyalty rules and external payments remain unavailable.
+
+Validated the actual runtime with 333 financial tests, 161 CRM assertions, 13 transactional level checks and responsive browser interactions in both themes. Physical-device validation remains outstanding. Account-specific member linking requires an explicit branch choice before funding; no assumed branch or private account data is published here.
 
 ### 2026-10-06 — CRM consolidation 0.10.0
 

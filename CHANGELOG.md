@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.10.1 — 2026-10-06
+
+- Unified mobile headers and reduced operator search overhead across the three sports experiences.
+- Added explicit urgency, queue and next-action styling in both themes.
+- Added scoped, audited manual member levels, fuller own-profile summaries and ledger-backed wallet breakdowns.
+- Preserved mature financial and CRM behavior; automatic loyalty rules, payments and messaging remain unavailable.
+- Verified target-runtime regression and responsive interaction/privacy checks; physical-device testing remains outstanding.
+
 ## 0.10.0 — 2026-10-06
 
 - Consolidated reception actions, manager exceptions, central branch comparison and progressive member context.
