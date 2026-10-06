@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased — Independent Auth ownership and workspace routing
+
+- Replaced role-label destination rules with effective access and branch-aware workspace resolution.
+- Separated the temporary authentication adapter from portable product policy and lightweight Login/Selector loading.
+- Added authorized workspace switching, branded access-denied presentation and clear login validation/loading recovery.
+- Documented the future independent backend identity, session, RBAC and migration contracts.
+- Passed isolated policy/bootstrap checks and responsive presentation fixtures; real-session and current hosting-runtime acceptance remain pending. No deployment or new release is claimed.
+
 ## Unreleased — Personal login and workspace experience
 
 - Built a branded Persian login candidate using the existing design tokens, typography and theme controls.

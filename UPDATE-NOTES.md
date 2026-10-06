@@ -19,3 +19,7 @@ The next Reception milestone focuses on finding a member, understanding their st
 ## Personal login and workspace candidate
 
 The login candidate presents a consistent Persian Sam Fit experience in light and dark themes. Each person lands in their assigned workspace; people with multiple roles can choose among permitted spaces. Member loyalty level remains separate from staff access. Responsive presentation checks passed across mobile, tablet and desktop widths, while successful role-session acceptance and release verification remain pending. The final dedicated backend remains a separate architecture track; this update does not claim it is deployed.
+
+## Unreleased — Auth architecture and workspace routing
+
+The current candidate uses effective permissions and assigned branch scope to determine available workspaces. Multiple authorized spaces use an explicit authorized default or selector; customer benefits cannot grant staff authority. The temporary Auth adapter is separate from portable policy, and Login/Selector avoid loading operational and financial engines. Branded denial and login recovery states were checked in both themes at phone, tablet and desktop widths. Independent backend contracts are documented, while deployment, real-session acceptance and Reception productization remain pending.
