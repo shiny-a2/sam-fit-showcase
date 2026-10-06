@@ -1,3 +1,7 @@
+# CRM-2 validation candidate
+
+Retention and member-health rules, commercial opportunities, audience segments and safe campaign simulation are now under validation in the isolated product demo. Existing identity, follow-up and financial foundations are preserved. The release is not yet certified; external messaging and real financial attribution remain unavailable.
+
 # Changelog
 
 ## 0.8.5 — 2026-10-06
