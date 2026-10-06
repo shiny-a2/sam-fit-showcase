@@ -23,3 +23,7 @@ The login candidate presents a consistent Persian Sam Fit experience in light an
 ## Unreleased — Auth architecture and workspace routing
 
 The current candidate uses effective permissions and assigned branch scope to determine available workspaces. Multiple authorized spaces use an explicit authorized default or selector; customer benefits cannot grant staff authority. The temporary Auth adapter is separate from portable policy, and Login/Selector avoid loading operational and financial engines. Branded denial and login recovery states were checked in both themes at phone, tablet and desktop widths. Independent backend contracts are documented, while deployment, real-session acceptance and Reception productization remain pending.
+
+## Unreleased — Reception daily-work preview
+
+The Reception candidate now places Search above bounded daily read models and separates unavailable sources from valid zero counts. Member identity and access context remain available when the wallet source fails. Existing financial and operations foundations are reused. Synthetic checks cover role-scoped read boundaries and responsive interactions, including neutral next-member navigation. The validation environment is unchanged, and real runtime/session acceptance is still required.

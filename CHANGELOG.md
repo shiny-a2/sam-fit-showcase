@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased — Reception daily-work preview
+
+- Added a branch-scoped daily Reception preview with manual visit evidence, review queues and shared own work.
+- Isolated unavailable financial reads so the member workflow does not imply a false zero balance.
+- Added neutral next-member navigation and reused product feedback within Reception.
+- Verified isolated read contracts and offline responsive presentation fixtures; deployed behavior and full milestone acceptance remain pending.
+
 ## Unreleased — Independent Auth ownership and workspace routing
 
 - Replaced role-label destination rules with effective access and branch-aware workspace resolution.
