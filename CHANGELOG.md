@@ -164,3 +164,7 @@ Refined the sports product around the owner's visual direction: navy surfaces, r
 ## Operations foundations — 2026-10-06
 
 Prepared a branch-manager workspace candidate with action-first navigation, scoped operational tasks and shared ticket/approval adapters. Added source revalidation, retry protection and documented acceptance gates. Local contract checks pass; deployment and target QA remain pending. Existing financial behavior is preserved.
+
+### Operations candidate validation
+
+The Demo candidate now passes target PHP 8.3 checks for operational task transitions, source-owned ticket behavior, proposal revalidation and financial reconciliation. Six viewport widths in both themes passed browser route and interaction checks. Further manager journey and release acceptance checks remain in progress.
