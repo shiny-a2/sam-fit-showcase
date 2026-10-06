@@ -269,3 +269,9 @@ Closed the software gaps recorded at the previous Reception checkpoint: renewal 
 Verified 47 native browser journey checks, 10 real recovery checks, 100 authenticated role/PWA checks, seven session security checks, and native plus legacy concurrency scenarios. The mature financial reference suite passed 333 tests; original validation records and ledger balances reconciled after temporary test cleanup. A dedicated scoped Reception tester and Persian acceptance flow are prepared.
 
 Conditional acceptance remains explicit: real receptionist comprehension, tablet touch and phone installation have not been verified. Hardware controls, Push and real payments remain unavailable. Management UX debt is registered for later work rather than expanded into this milestone. No final-platform or next-domain phase begins.
+
+## 2026-10-07 — Independent-backend hosting admission
+
+Evaluated the current validation hosting for an independent backend alongside the existing application. A bounded Node runtime boot passed, but database connectivity/version, secure connection support and application/worker lifecycle have not met admission requirements. Local Redis connectivity was unavailable. Full application compatibility and data/financial parity are not claimed.
+
+Migration is paused at the hosting gate. The validated reference application remains unchanged; no database creation, cutover, hardware control or deletion occurred. The owner must establish suitable services before independent deployment proceeds.
