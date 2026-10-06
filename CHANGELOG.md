@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.8.5 — 2026-10-06
+
+- Delivered actionable sports sales/reception queues and same-member renewal on the existing core.
+- Added protected transitions, explicit response rules and useful scoped management metrics.
+- Connected reviewed feedback to accepted work, actual release tracking and reporter verification/reopening.
+- Preserved original demo history and mature financial behavior; verified matched rollback.
+- Completed bounded demo acceptance and mobile/light/dark recovery checks; documented remaining device and integration limits.
+
+
 ## CRM-1 candidate — 2026-10-06
 
 - Prepared sales/reception operations by extending existing core workflows.

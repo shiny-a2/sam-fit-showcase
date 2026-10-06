@@ -4,11 +4,18 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. The current release adds a sports command center, scoped branch workspaces, actionable CRM and honest future-module previews. It preserves mature wallet behavior and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
+Track A is a deployed, isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.8.5 adds sales operations, scoped action queues, same-member renewal and a feedback-to-verification workflow on top of the sports command center. It preserves mature wallet behavior and realistic synthetic scenarios. Dates use the Jalali calendar and Tehran time. Final independent platform architecture remains a separate future VPS track. Reception software and hardware integration remain outside this release.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — CRM sales operations 0.8.5
+
+Delivered role-aware action queues, configurable first-response rules, protected sales transitions, visit/trial contexts and renewal that preserves the member identity. Managers can review documented cohort/source metrics. Feedback stays in a shared review inbox, becomes product work only after acceptance and completes after reporter verification.
+
+The isolated demo migration preserved existing records and financial behavior. Validation covered 101 rule assertions, 41 target-runtime integration assertions, 40 browser journey assertions and 128 interactive/role checks, with mobile/tablet/desktop light/dark review. Import and unconnected service engines remain unavailable. Physical dialer and external integration validation remain separate. CRM-2 has not started.
+
 
 ### 2026-10-06 — CRM-1 implementation checkpoint
 
