@@ -1,5 +1,11 @@
 # Changelog
 
+## Access verification — 2026-10-06
+
+- Verified dedicated reception access and completed an initial read-only infrastructure inventory.
+- Preserved database and device boundaries; no customer-data import or operational service changes.
+- Kept restart recovery and deeper database/hardware discovery explicitly pending.
+
 ## 0.11.2 — 2026-10-06
 
 - Refined the member experience with grouped icon navigation, semantic status labels and clearer account/service hierarchy.
