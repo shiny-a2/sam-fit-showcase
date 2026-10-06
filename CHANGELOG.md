@@ -1,5 +1,11 @@
 # Changelog
 
+## Read-only hardware discovery
+
+- Documented software control-path candidates and explicit physical capability unknowns.
+- Added safe branch-specific learning, future edge/lab gates and familiar reception workflow guidance.
+- Left live systems and deployed application unchanged; no control adapter or pilot enabled.
+
 ## 0.12.0 — Reception foundation
 
 - Added a separate search-first Reception workspace with branch-scoped identity and clear eligibility reasons.
