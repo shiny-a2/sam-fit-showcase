@@ -4,7 +4,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.10.1 improves the three mobile headers and makes operator urgency, queue context and next actions easier to distinguish. Members have fuller profile summaries and ledger-backed wallet breakdowns; administrators can assign member levels with an audit trail and branch authorization. Security and background execution were hardened while mature financial behavior and existing records remained intact. The demo release is conditionally ready for testing; physical-device acceptance remains outstanding. Messaging, actual attendance and payments remain unconnected. The final independent platform is a separate future VPS track.
+Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.11.1 adds a branch-manager workspace with daily attention, assigned tasks, shared issues, proposal review and team workload. Existing CRM, wallet and identity behavior remain shared and passed target-runtime regression checks. Controlled testing is ready with explicit limits: physical devices and a full multibranch manager field journey still need acceptance. Services, attendance, external messaging and payments remain unavailable. The final independent platform remains a separate future VPS track.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
@@ -79,3 +79,9 @@ Added branch-aware synthetic profiles, varied wallet scenarios and role-specific
 - Field execution reached key generation but failed at local SSH startup. Public-key enrollment is complete; a targeted diagnostic repair is prepared. The branch is not yet marked Connected or Ready.
 
 No hardware integration, database access or production connector has been validated yet.
+
+### 2026-10-06 — Branch Manager workspace
+
+The manager validation release is ready for controlled testing. It brings daily attention, task ownership, issue handling, proposal review and team workload into a single branch context. Source workflows remain shared with the existing platform. Mobile and desktop interfaces were checked in both themes, and financial regression checks passed on the target runtime.
+
+Physical-device acceptance remains open. Future service and finance engines are not represented as active features. The next role workspace will follow product review rather than start automatically.

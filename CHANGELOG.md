@@ -168,3 +168,9 @@ Prepared a branch-manager workspace candidate with action-first navigation, scop
 ### Operations candidate validation
 
 The Demo candidate now passes target PHP 8.3 checks for operational task transitions, source-owned ticket behavior, proposal revalidation and financial reconciliation. Six viewport widths in both themes passed browser route and interaction checks. Further manager journey and release acceptance checks remain in progress.
+
+## 0.11.1 — Branch Manager validation release
+
+Released a daily manager workspace with action-first navigation, assigned tasks, shared issue handling, scoped team workload and source-owned proposal decisions. Manager and reception roles were exercised through real browser workflows. Existing CRM and financial behavior passed target-runtime regression checks.
+
+Controlled testing is ready with explicit limits: physical phones and a complete multibranch manager field journey still need acceptance. Services, attendance, equipment, inventory and operational finance remain clearly marked for future delivery.
