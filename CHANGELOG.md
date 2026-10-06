@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.10.0 — 2026-10-06
+
+- Consolidated reception actions, manager exceptions, central branch comparison and progressive member context.
+- Protected reassignment previews, member profile boundaries, feedback delivery and internal product permissions.
+- Hardened authentication/session handling, directory exposure, draft secrets and isolated scheduled execution.
+- Preserved mature financial behavior, identities and balances with target-runtime regression and role/visual verification.
+- Documented conditional demo readiness, physical-device follow-up and final-platform portability.
+
 ## 0.9.1 — 2026-10-06
 
 - Added protected retention, commercial opportunities, recommendations and safe audience workflows on the existing CRM core.

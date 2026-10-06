@@ -4,11 +4,17 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.9.1 extends the existing sales core with retention, explainable member health, commercial opportunities, recommendations, audience segments and safe campaign simulation. Service recovery and shared approval requests are available as a bounded foundation. Mature financial behavior is preserved. Real messaging, attendance connectors and actual revenue attribution are not connected. The final independent platform remains a separate future VPS track.
+Track A is an isolated sports product-validation environment with operator CRM, management and member experiences. Release 0.10.0 consolidates the existing CRM into action-first reception and scoped management, with central branch drill-down, safer feedback delivery and in-product member profile. Security and background execution were hardened while mature financial behavior and existing records remained intact. The demo release is conditionally ready for testing; physical-device acceptance remains outstanding. Messaging, actual attendance and payments remain unconnected. The final independent platform is a separate future VPS track.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 
 ## Updates
+
+### 2026-10-06 — CRM consolidation 0.10.0
+
+Unified immediate-action queues, progressive member context, explicit assignment previews and exceptions-first management. Product feedback is separate from operational management permissions, and the reporter retains delivery confirmation and reopening. Member profiles remain inside the product.
+
+Hardened authentication, session revocation, public enumeration and secret-free drafts. Coordinated, independently scheduled background checks preserve existing account tasks. The current regression suites, financial reference suite, four-role browser checks and responsive theme matrix passed. Data and balances reconciled. Physical iOS/Android behavior still requires owner verification; simulation and incomplete engines are labelled honestly. No next CRM phase starts automatically.
 
 ### 2026-10-06 — Retention and customer intelligence 0.9.1
 
