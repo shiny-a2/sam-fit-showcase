@@ -54,3 +54,9 @@ The Reception candidate now places Search above bounded daily read models and se
 ## Unreleased — Reception Search interaction
 
 Search now supports keyboard result selection and body-based requests, while keeping member navigation separate from search terms. Staff branch choices remain within actual staff assignments even when the same person also has a Member identity. Offline fixtures cover Search with the other Reception states in both themes at six widths. Real runtime/session acceptance and the full Reception milestone remain pending.
+
+## Reception closure candidate — 0.12.3
+
+The candidate completes the reception membership request and renewal journey, temporary guest passes, shared task and support handoffs, and a searchable locker inventory. Form drafts are protected and uncertain submissions can be checked against their original reference instead of blindly repeated. No real payment or physical hardware operation is enabled.
+
+Target-runtime workflow and regression checks have passed. Deployment, full browser journeys, concurrency and real receptionist/device acceptance remain release gates. The owner will configure plan prices; none are invented. Manage navigation debt is recorded separately rather than expanding this milestone.
