@@ -1,3 +1,9 @@
+## 0.12.2 — Reception safety checkpoint
+
+- Retained successful-login auditing while keeping authentication lightweight.
+- Added readable member references and safe visit-correction preview/revision checks.
+- Verified isolated target-runtime and real-role checks; full Reception acceptance remains pending.
+
 # Changelog
 
 ## Unreleased — Auth architecture acceptance checkpoint

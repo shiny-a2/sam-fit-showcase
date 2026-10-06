@@ -1,3 +1,9 @@
+## Reception staging checkpoints 0.12.1–0.12.2
+
+Deployed the shared installation guide and permission-aware login/workspace routing to isolated validation hosting. Actual five-role checks cover mobile, tablet and desktop views in both themes, route denial and branch isolation. Added readable member references and a correction preview that preserves original visit events and rejects stale revisions. Successful-login auditing stays active in the lightweight authentication runtime.
+
+Target PHP 8.3 checks passed. Mature financial reference behavior passed 333 tests and 1,746 assertions. Database integration tests use rolled-back synthetic work; original customer systems and physical equipment are outside this deployment. The milestone remains in progress: full operational workflows and real receptionist/device acceptance are not yet complete. This update is not a claim of production readiness, hardware control, active Push notifications or REC-1 completion.
+
 
 
 ## Unreleased — Auth architecture acceptance checkpoint
