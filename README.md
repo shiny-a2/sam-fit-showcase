@@ -4,9 +4,9 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Release 0.12.0 adds canonical identity reuse, explicit operational review, versioned Demo membership, explainable access, immutable manual visit events and software locker assignment. Financial behavior remains with the mature existing ledger.
+Track A is an isolated sports product-validation environment with operator CRM, management, member and dedicated Reception experiences. Current deployed checkpoint: 0.12.2. Recent changes add shared mobile installation guidance, permission-aware login/workspace routing, readable member references and safe visit-correction previews. Financial behavior stays with the mature existing ledger.
 
-The exit is conditional foundation acceptance. Physical gates/locks, biometric enrollment, real payments and final club policies remain outside this release. The final independent platform is still a separate future VPS track. No next milestone starts automatically.
+The complete Reception milestone has not passed its exit gate: temporary guest workflows, protected recovery, full renewal/approval handoffs and operator acceptance remain incomplete. Successful checkpoint deployment is distinct from product acceptance. Physical gate/lock control, real payments, active Push and the final independent backend remain outside this update. No subsequent phase starts automatically.
 
 The private repository contains implementation tools. This showcase publishes progress and validation notes without credentials, customer records, infrastructure addresses or private implementation details.
 

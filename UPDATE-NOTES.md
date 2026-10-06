@@ -1,3 +1,9 @@
+## Reception exit-gate assessment — 0.12.2
+
+The isolated checkpoint is deployed and source-verified. Actual testing passed 100 role/workspace/mobile-guide checks, seven session/security checks, the current CRM/Operations/Reception database regressions and five two-worker concurrency scenarios. Protected business records remain unchanged and all current Demo member balances reconcile to the ledger. Legitimate security and read-audit events are retained.
+
+The full Reception exit is FAIL because required guest, recovery and renewal/approval workflows are incomplete. Real receptionist acceptance and physical-device installation remain pending. Passing technical checks is not a claim of complete front-desk operation. Work remains in the same milestone; no subsequent domain or final-backend phase starts.
+
 ## Reception staging checkpoints 0.12.1–0.12.2
 
 Deployed the shared installation guide and permission-aware login/workspace routing to isolated validation hosting. Actual five-role checks cover mobile, tablet and desktop views in both themes, route denial and branch isolation. Added readable member references and a correction preview that preserves original visit events and rejects stale revisions. Successful-login auditing stays active in the lightweight authentication runtime.
