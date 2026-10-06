@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased — Auth architecture acceptance checkpoint
+
+Reconfirmed the independent final-platform Auth ownership and documented the current candidate's implementation and acceptance gaps. Added isolated security regressions for the temporary authentication adapter, covering disabled access, safe failures and separation of staff authority from member benefits. Local checks passed; deployment, real-session acceptance and the final independent backend remain pending.
+
+
 ## Unreleased — Mobile installation guidance
 
 Added a shared, accessible mobile installation guide across the validation workspaces. Users receive browser-appropriate instructions and can reopen the guide after dismissal; the installed experience launches through existing access routing. Official brand icons are preserved. Notifications and offline behavior are explicitly identified as unavailable. Local presentation checks passed; deployment and actual device installation remain pending.
