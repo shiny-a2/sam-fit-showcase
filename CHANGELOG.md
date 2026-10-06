@@ -1,5 +1,13 @@
 # Changelog
 
+## CRM-1 candidate — 2026-10-06
+
+- Prepared sales/reception operations by extending existing core workflows.
+- Added isolated additive migration and reconciliation tools with matched rollback requirements.
+- Passed pure source/target preflight checks; full deployment acceptance is pending.
+- Kept financial behavior and final-platform architecture unchanged.
+
+
 ## Current-state audit — 2026-10-06 (no runtime release)
 
 - Reconciled implementation, runtime, schema and browser evidence without changing application behavior.

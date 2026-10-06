@@ -10,6 +10,11 @@ The private repository contains implementation tools. This showcase publishes pr
 
 ## Updates
 
+### 2026-10-06 — CRM-1 implementation checkpoint
+
+Prepared role-aware work queues, configurable response deadlines, sales/renewal contexts and a shared product-feedback review loop on the existing identity, CRM and financial foundations. Source-level checks passed 101 assertions; target PHP preflight passed. A matched demo files/database rollback checkpoint is ready. Deployment and golden-journey acceptance are still pending; this checkpoint is not a completed release.
+
+
 ### 2026-10-06 — Current-state audit (documentation only)
 
 Compared the repository, running validation environment, schema and actual browser behavior. Confirmed bounded CRM and management workflows while distinguishing the partial member experience from inactive future engines. Password login and internal wallet reads work; OTP, online payments, loyalty/referral workflows and sports service engines remain unavailable.
