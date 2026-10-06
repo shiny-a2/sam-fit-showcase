@@ -1,3 +1,7 @@
+# CRM-2 validation hardening
+
+Improved replay protection, branch privacy and responsive retention workflows. Validation now covers 72 transactional contracts, a 2,000-member database scale scenario and 144 layout combinations. Final interactive acceptance is still in progress. Campaigns remain simulation-only; no external messages or financial actions are created.
+
 # CRM-2 validation candidate
 
 Retention and member-health rules, commercial opportunities, audience segments and safe campaign simulation are now under validation in the isolated product demo. Existing identity, follow-up and financial foundations are preserved. The release is not yet certified; external messaging and real financial attribution remain unavailable.
