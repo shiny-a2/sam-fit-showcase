@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased — Reception productization foundation
+
+- Completed the Reception productization scope audit and documented daily-workflow gaps before extending the interface.
+- Added candidate fixes for role-specific landing, phone lookup and registration without broad CRM editing authority.
+- Checked isolated contracts on the target runtime and established protected-data integrity baselines.
+- The deployed foundation remains unchanged. Full workflow, visual, concurrency and operator acceptance are pending; no new release is claimed.
+
 ## Read-only hardware discovery
 
 - Documented software control-path candidates and explicit physical capability unknowns.

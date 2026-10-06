@@ -13,3 +13,6 @@ Light/dark mobile, tablet and desktop interactions were checked. The release is 
 ## Read-only hardware discovery checkpoint
 
 Mapped installed software control paths without operating or changing live branch equipment. The documentation separates transmitted commands, protocol replies, physical movement and actual passage. Device compatibility remains conditional pending verified model bindings, manufacturer documentation and isolated lab validation. A portable static-metadata audit utility and documented reception workflow learning plan support future branch-specific discovery. No live hardware capability or complete migration is claimed; the deployed reception release remains 0.12.0.
+## Reception productization — work in progress
+
+The next Reception milestone focuses on finding a member, understanding their status and completing the next front-desk action clearly. The audit separates stable shared foundations from missing operational screens, approval handoffs, temporary guest flows and recovery behavior. Initial candidate changes narrow registration authority and improve phone lookup and role landing. Target-runtime contract checks passed; full product acceptance and deployment remain pending. Hardware control and real payment remain unavailable.
