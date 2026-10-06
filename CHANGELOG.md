@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.11.2 — 2026-10-06
+
+- Refined the member experience with grouped icon navigation, semantic status labels and clearer account/service hierarchy.
+- Adapted mature mobile drawer behavior while preserving the shared typeface and theme switch.
+- Verified mobile/desktop routes and interactive states in both themes; future services remain explicitly unavailable.
+- Financial behavior and production systems were unchanged.
+
 ## 0.10.1 — 2026-10-06
 
 - Unified mobile headers and reduced operator search overhead across the three sports experiences.
