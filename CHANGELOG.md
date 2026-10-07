@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Engineering control plane (documentation candidate)
+
+- Added a sanitized summary of the private roadmap, evidence index and gate model.
+- Kept local, Demo and physical acceptance claims distinct; owner review remains open.
+- No runtime release, version bump or deployment.
+
 ## 2026-10-07 — Local membership/access validation closure (unreleased)
 
 - Verified synthetic migration replay, database recovery, restart behavior, role boundaries, concurrency and local scale in an isolated environment.
