@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Local membership/access development checkpoint
+
+- Added a private local foundation for versioned plans, membership snapshots, typed entitlements, explainable access and configured pricing.
+- Exercised synthetic visit charging, reversal and reconciliation through the accepted local financial boundary.
+- Kept the phase at FAIL pending commercial policies and full validation; no deployment or version change.
+
 ## 2026-10-07 — Track A product vision presentation candidate (unreleased)
 
 - Added discoverable future member areas and conceptual add-on explanations to the private Demo candidate.

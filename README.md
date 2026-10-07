@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The latest independent local core assessment is **FAIL** because complete financial behavior parity and a safe operating bridge are not ready. Local CRM, Reception, Member and shared operations journeys, synthetic migration replay, concurrency and recovery checks now pass within their stated limits. No financial authority change, deployment, human acceptance or production readiness is claimed. See the latest update notes.
+The accepted local financial foundation is ready for the next domain. A private membership/access development checkpoint now adds versioned plans, entitlements, explainable access and synthetic visit charging. Its **full exit remains FAIL** while commercial decisions and browser, recovery, migration and security gates remain open. No real balances, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 
 HW-1A now runs an owner-authorized passive observer locally for an offline operational evidence window. Ten observer core tests passed on both development and target systems; short target resource and post-install health checks passed, and the operator confirmed ordinary work continued without interruption. A confidential static desktop UI inventory supports familiar future reception workflows. Representative flow analysis, dynamic UX parity and physical compatibility remain pending; no equipment command or legacy application change occurred. See [update notes](UPDATE-NOTES.md).
 

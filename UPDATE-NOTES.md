@@ -1,3 +1,11 @@
+## 2026-10-07 — Local membership and access foundation checkpoint
+
+The private local candidate now separates versioned plans, member agreements, service entitlements, explainable access decisions, software visits, configured pricing and wallet-backed visit charges. Synthetic PostgreSQL checks exercised competing check-ins, checkouts, entitlement use, charge retries and reversals; targeted rules, build and reconciliation checks also passed.
+
+The milestone remains **FAIL** against its full acceptance gate. Business rules for overstay, cross-branch use, freeze effects and charge handling still need decisions, and complete browser, recovery, migration and security validation is pending. No real price, customer balance, payment, deployment or hardware action was used. The accepted runtime version is unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Financial core freeze and handoff
 
 The local financial foundation is now owner-accepted for the next domain and frozen except for bug, security or parity corrections. A concise handoff defines balance reads, authorized charges, reversals, receipts and recovery. Future loyalty value flows remain disabled; the next phase has not started.
