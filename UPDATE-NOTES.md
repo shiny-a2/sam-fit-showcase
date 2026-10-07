@@ -143,3 +143,10 @@ The next evidence review will distinguish personnel attendance semantics, comple
 Offline analysis now keeps observations after a restart even when trusted absolute time needs a fresh anchor. Relative timelines remain separated by boot, original records remain intact, and validated retrieval-time anchors can derive absolute analysis times. Seven analyzer tests passed.
 
 The previously installed observer already has automatic startup and its own failure recovery. Earlier startup configuration and bounded existing startup-log reconstruction are prepared, but the disconnected target has not received those changes or a reboot test. This is an analysis/tooling checkpoint, not a claim that every electrical or pre-application event is visible.
+## 2026-10-07 — Mobile sales context and activity visibility candidate
+
+Prepared a clearer mobile summary for the CRM sales-visit context and a bounded account-activity view for the validation environment. This helps testers distinguish a sales visit from attendance, while authorized reviewers can inspect sign-in, sign-out and recorded operational actions with broad device context.
+
+The work is a local candidate only. Reporter provenance and live behavior still require authenticated validation; the deployed Demo version is unchanged. No customer data, payment or hardware operation was involved.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
