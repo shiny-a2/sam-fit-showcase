@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Local membership/access validation closure (unreleased)
+
+- Verified synthetic migration replay, database recovery, restart behavior, role boundaries, concurrency and local scale in an isolated environment.
+- Hardened fail-closed access for imported records without configured policy, Charge retry recovery and audit reasons.
+- Kept the milestone at FAIL pending the complete Member/Reception browser journey and error-state acceptance; no deployment or version change.
+
 ## 2026-10-07 — Local membership/access development checkpoint
 
 - Added a private local foundation for versioned plans, membership snapshots, typed entitlements, explainable access and configured pricing.
@@ -12,11 +18,11 @@
 - Kept existing operational reads and actions authoritative; future functions remain clearly unavailable.
 - Confirmed source syntax and component layouts. The installed Demo version and release acceptance are unchanged.
 
-## 2026-10-07 — Role-based local access and workspace navigation candidate (unreleased)
+## 2026-10-07 — Workspace navigation on Sam Fit validation site
 
 - Prepared six clear role-specific synthetic logins for the independent local Sam Fit platform, making owner review of each workspace easier.
-- Added a "My Workspace" navigation candidate across temporary validation screens for people with more than one workspace.
-- Local checks passed. The validation site has not been updated, and no customer accounts or records were changed.
+- Released a "My Workspace" switch across the validation site's staff and member headers for people with more than one authorized workspace.
+- Checked live mobile and desktop navigation in light and dark themes. The release changed no customer accounts, business records or financial behavior.
 
 ## 2026-10-07 — Financial core freeze and next-domain handoff (unreleased)
 
