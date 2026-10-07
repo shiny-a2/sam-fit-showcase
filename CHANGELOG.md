@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-07 — Offline passive observer deployed
+
+An owner-authorized, clearly named background observer now collects minimized technical evidence locally during unstable Internet access. Bounded retention, protected identity references, encrypted later export and observer-only restart recovery support a 24–48 hour operational learning window. The legacy application, database and equipment behavior were preserved.
+
+Ten observer core checks passed on both development and target systems, three offline analysis checks passed, and actual target resource/collection checks passed. The operator confirmed normal work continued. These results establish deployment health; representative operational coverage and independent physical compatibility remain unproven.
+
+A confidential static desktop UI structure inventory supports retaining familiar reception vocabulary, navigation and task context. Actual rendered states, keyboard parity and operator task journeys remain to be validated. No screenshots, customer field values or proprietary binaries are published. No equipment control, automatic uninstall or subsequent lab phase starts.
+
 ## 2026-10-07 — Local hardware integration foundation
 
 - Added typed local contracts, fail-closed adapter skeletons and an authenticated development API.
