@@ -189,3 +189,12 @@ The isolated Sam Fit Demo has a private, unreleased presentation candidate. It m
 The candidate has passed source syntax and a small light/dark responsive component review. The deployed Demo has not changed. Final product-contract reconciliation, authenticated screenshots and release review remain pending; no new backend, payment, hardware or AI service is claimed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Member and workspace UI candidate (unreleased)
+
+A private, isolated Track B candidate now gives members clearer Home, Club, Activity, Benefits and Profile navigation. Reception hides an unsafe broad member search until an authorized branch-scoped search is available. CRM presents a branch-scoped, paged lead list with clear loading and empty states. Capability availability is stated in the interface so planned features do not appear ready for use.
+
+Why it matters: members and staff can review a more coherent experience while the product keeps incomplete operations visibly unavailable. Type, lint, build and focused checks passed. Read-only synthetic browser review covered Member, Reception, CRM and Manage at mobile and desktop widths in light and dark themes, plus member navigation and CRM pagination.
+
+The outcome is **conditional**. The browser checks used synthetic data; authenticated integrated journeys, role and branch denial checks, human accessibility review, native scoped search and authoritative CRM/management reporting remain open. No complete Phase 22/23 capability, release, deployment, financial action or hardware action is claimed. The deployed validation experience is unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

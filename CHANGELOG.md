@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Phase 22/23 UI candidate (unreleased)
+
+- Improved private member navigation and truthful availability states across Member, Reception and CRM views.
+- Passed focused checks and a 16-case, read-only synthetic mobile/desktop and light/dark browser review.
+- Kept the outcome conditional pending integrated authentication, branch security, human accessibility and missing scoped/reporting contracts. No release or deployment.
+
 ## 2026-10-07 — Clearer validation roles
 
 - Simplified Sam Fit's validation access to six distinct roles, so reviewers can test the owner, central manager, branch manager, reception, member and CRM experiences separately.
