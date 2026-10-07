@@ -1,3 +1,11 @@
+## 2026-10-07 — a2 sport authorship and local core work checkpoint
+
+Established consistent developer attribution across first-party source headers, package/page metadata, naming and the shared product footer. Sam Fit remains the customer-facing brand. This makes authorship durable while preserving third-party rights.
+
+Independent local core migration candidates are being implemented and tested against synthetic data and a preserved financial behavior reference. This is an in-progress source checkpoint, not complete product parity, deployment, financial cutover or pilot acceptance. No new milestone exit is claimed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local hardware integration foundation; live phase blocked
 
 Added an independent local hardware-integration development foundation with typed device contracts, authenticated local endpoints, a bounded command/event journal and disabled hardware adapters. Eight software tests and TypeScript checking passed, including duplicate prevention, restart behavior, safety gates and separation of protocol acknowledgment from physical success. This gives later controlled integration a reviewable software boundary.

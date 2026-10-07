@@ -1,5 +1,7 @@
 # Sam Fit engineering notes
 
+Developed by **[a2 sport](https://amiraliyaghouti.com)**. Sam Fit remains the product brand; a2 sport authorship is retained throughout first-party platform code and shared product surfaces. Third-party rights remain intact.
+
 Work toward a central platform for a multi-branch fitness business begins with understanding the existing reception software and equipment.
 
 ## Current work
