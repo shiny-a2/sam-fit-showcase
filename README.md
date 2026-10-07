@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-An isolated platform integration checkpoint now includes the reviewed local candidate and planning history. Synthetic build, authorization, database and recovery checks passed, but the schema alignment gate **failed**, so the baseline is not admitted and the next phase has not started. This involved no deployment, customer data, real transaction or equipment action. See the latest update notes.
+The isolated platform database foundation now passes its local schema alignment gate. Existing referential protections are represented consistently in the application model; fresh setup, scoped authorization, integrity and recovery checks passed. This admits only the synthetic local foundation. The broader platform, membership browser journey and production gates remain open. The next foundation step has not begun. No deployment, customer data, real transaction or equipment action was involved. See the latest update notes.
 
 The accepted local financial foundation supports a private membership/access candidate with versioned plans, entitlements, explainable access and synthetic visit charging. Isolated migration, recovery, restart, security and local scale checks now pass. Its **full exit remains FAIL** because the complete Member/Reception browser journey and error-state acceptance are still open; unresolved commercial policies stay unconfigured. No real balances, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 

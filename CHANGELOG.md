@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local database foundation admitted (unreleased)
+
+- Reconciled the application model with existing database referential protections and added a guard against unreviewed destructive schema changes.
+- Passed fresh synthetic database setup, scoped integrity and authorization checks, build and local recovery.
+- Admitted the isolated database foundation only; the broader product and production gates remain open. No deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-07 — Isolated platform integration assessment (unreleased)
 
 - Combined approved planning and local platform candidate histories in a separate integration branch.
