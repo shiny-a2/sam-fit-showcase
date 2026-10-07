@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-یک نامزد محلی برای بهبود تجربهٔ دموی Track A آمادهٔ بازبینی است: خانهٔ عضو با داده‌های موجود، ناوبری روشن‌تر مدیریت و نمایش اصلی فارسی/انگلیسی عضو. این نامزد هنوز نصب نشده و آزمون نقش‌های واقعی و بستهٔ تصویرهای جاری را کامل نکرده است؛ نسخهٔ دموی آنلاین همچنان 0.12.4 است. جزئیات عمومی در [یادداشت‌های به‌روزرسانی](UPDATE-NOTES.md) آمده است.
+نامزد نمایشی R1 برای دموی Track A با نسخهٔ 0.12.5 آماده شده است: متن‌های سیستمی پنل عضو در فارسی و انگلیسی کامل‌تر شده‌اند و داده‌های ثبت‌شدهٔ اعضا و کسب‌وکار همان‌گونه که هستند نمایش داده می‌شوند. نسخهٔ بازگشت 0.12.4 به‌طور مستقل بررسی شده است. نصب و آزمون نقش‌های واقعی هنوز در جریان است؛ دموی آنلاین تا اعلام نتیجه همچنان 0.12.4 محسوب می‌شود. جزئیات عمومی در [یادداشت‌های به‌روزرسانی](UPDATE-NOTES.md) آمده است.
 
 The latest independent local core migration assessment is **FAIL** because critical parity and exit-gate coverage are incomplete. Selected automated tests pass, but full migration, recovery, scale and operational acceptance remain pending. This is a local source checkpoint; no new deployment or production acceptance is claimed.
 
