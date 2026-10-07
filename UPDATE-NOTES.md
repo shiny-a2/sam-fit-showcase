@@ -122,3 +122,8 @@ An owner-authorized, clearly named background observer now collects minimized te
 Ten observer core checks passed on both development and target systems, three offline analysis checks passed, and actual target resource/collection checks passed. The operator confirmed normal work continued. These results establish deployment health; representative operational coverage and independent physical compatibility remain unproven.
 
 A confidential static desktop UI structure inventory supports retaining familiar reception vocabulary, navigation and task context. Actual rendered states, keyboard parity and operator task journeys remain to be validated. No screenshots, customer field values or proprietary binaries are published. No equipment control, automatic uninstall or subsequent lab phase starts.
+## ۱۴۰۵/۰۷/۱۵ — نامزد محلی بازآرایی تجربهٔ دموی سام‌فیت
+
+نمای خانهٔ عضو، مسیرهای اصلی و وضعیت قابلیت‌های آماده/آینده برای ارائهٔ روشن‌تر بازچیده شده‌اند. صفحه‌های اصلی عضو نمایش فارسی و انگلیسی دارند و بخش مدیریت، قابلیت‌های روزمره را جلوتر از نقشهٔ راه نشان می‌دهد.
+
+این تغییر هنوز **نامزد محلی و منتشرنشده** است. ارزیابی با دادهٔ ساختگی و بررسی‌های محلی انجام شده؛ آزمون حساب‌های مجاز روی نسخهٔ نصب‌شده، کامل‌سازی زبان و بستهٔ تصویرهای جاری باقی است. نسخهٔ دموی نصب‌شده همچنان 0.12.4 است. هیچ موتور مالی، پرداخت، سخت‌افزار یا قابلیت آینده فعال نشده است.

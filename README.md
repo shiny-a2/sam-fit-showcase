@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+یک نامزد محلی برای بهبود تجربهٔ دموی Track A آمادهٔ بازبینی است: خانهٔ عضو با داده‌های موجود، ناوبری روشن‌تر مدیریت و نمایش اصلی فارسی/انگلیسی عضو. این نامزد هنوز نصب نشده و آزمون نقش‌های واقعی و بستهٔ تصویرهای جاری را کامل نکرده است؛ نسخهٔ دموی آنلاین همچنان 0.12.4 است. جزئیات عمومی در [یادداشت‌های به‌روزرسانی](UPDATE-NOTES.md) آمده است.
+
 The latest independent local core migration assessment is **FAIL** because critical parity and exit-gate coverage are incomplete. Selected automated tests pass, but full migration, recovery, scale and operational acceptance remain pending. This is a local source checkpoint; no new deployment or production acceptance is claimed.
 
 HW-1A now runs an owner-authorized passive observer locally for an offline operational evidence window. Ten observer core tests passed on both development and target systems; short target resource and post-install health checks passed, and the operator confirmed ordinary work continued without interruption. A confidential static desktop UI inventory supports familiar future reception workflows. Representative flow analysis, dynamic UX parity and physical compatibility remain pending; no equipment command or legacy application change occurred. See [update notes](UPDATE-NOTES.md).
