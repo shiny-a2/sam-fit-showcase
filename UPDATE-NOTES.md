@@ -1,3 +1,11 @@
+## 2026-10-07 — Local hardware integration foundation; live phase blocked
+
+Added an independent local hardware-integration development foundation with typed device contracts, authenticated local endpoints, a bounded command/event journal and disabled hardware adapters. Eight software tests and TypeScript checking passed, including duplicate prevention, restart behavior, safety gates and separation of protocol acknowledgment from physical success. This gives later controlled integration a reviewable software boundary.
+
+The new live observation phase could not begin because the existing reception access was unavailable. No fresh device correlation, independent hardware acceptance or physical reuse claim is made. No equipment command, enrollment, operational change, deployment or permanent installation occurred. Legacy retirement remains unproven. Next: restore the existing operator access session, then complete passive observation before a specifically coordinated physical lab.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Live read-only hardware discovery resumed
 
 Existing authorized access succeeded and the current branch software, configuration, passive connections and hardware-related database metadata were inspected. The fresh findings now support a conditional architecture discovery checkpoint and a preliminary independent-adapter/lab design.

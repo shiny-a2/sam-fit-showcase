@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-07 — Local hardware integration foundation
+
+- Added typed local contracts, fail-closed adapter skeletons and an authenticated development API.
+- Passed eight local software checks; no hardware success inferred from simulator results.
+- Recorded blocked fresh observation and unproven hardware replacement; kept operations unchanged.
+- No deployment, equipment control or permanent installation.
+
 ## 2026-10-07 — Live hardware evidence checkpoint
 
 - Refreshed hardware architecture evidence through existing authorized read-only access.

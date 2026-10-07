@@ -4,6 +4,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+HW-1 now adds a local hardware-integration software foundation with authenticated development endpoints, duplicate-safe journaling and disabled adapters. Eight local software tests passed. Fresh live observation is blocked by unavailable existing reception access; physical compatibility and independent hardware replacement remain unproven. No hardware operation or deployment occurred. See [update notes](UPDATE-NOTES.md).
+
 LOCAL-0 establishes a working independent local platform foundation: Nest/Next, PostgreSQL/Redis and an internal worker, using generated development configuration and synthetic data. Branded Persian login and permission-derived workspace navigation now connect to the independent backend. Minimal reception, management, CRM, member and technical shells establish the product layout without claiming complete business engines.
 
 Local automated checks cover application startup, workspace navigation, responsive light/dark surfaces, data integrity and recovery. A clean-clone setup was also exercised. This is a development milestone, not a deployment or production acceptance. The deployed validation environment remains 0.12.4; full product migration/parity and later integrations remain separate reviewed phases.
