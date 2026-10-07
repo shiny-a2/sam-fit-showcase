@@ -1,3 +1,11 @@
+# 2026-10-08 — Local background-worker foundation update
+
+The existing Sam Fit background worker now verifies required local services before reporting readiness. Synthetic tests checked repeated work across two workers, a stopped process, graceful shutdown, temporary service outages and recovery. The checks showed one recorded test effect for repeated delivery and visible terminal failures.
+
+This is an isolated local foundation result. The worker does not yet run new customer messaging, payments, campaigns or equipment commands. The next web foundation step and full product, browser, operator and production acceptance remain open. No deployment, customer data, real transaction or hardware action occurred.
+
+---
+
 # 2026-10-08 — Local API foundation update
 
 The existing Sam Fit API now has clearer startup failure and safer error responses in an isolated local development branch. Tests covered permissions and request protection, a database outage and restart, and recovery of a synthetic session and data. This helps developers distinguish a temporary dependency failure from an application defect while keeping error details out of responses.

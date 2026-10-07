@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local background-worker foundation verified (unreleased)
+
+- Strengthened startup, bounded retry, duplicate handling and graceful shutdown in the existing local worker.
+- Passed two-worker, interruption/restart and database/cache outage recovery checks with synthetic work.
+- Closed only the isolated worker foundation gate. Product features, browser and production acceptance remain open; no deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local API foundation verified (unreleased)
 
 - Reused the existing API and added explicit startup checks and safer error responses.
