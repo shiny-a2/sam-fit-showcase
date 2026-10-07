@@ -181,3 +181,10 @@ The isolated Sam Fit Demo has a private, unreleased presentation candidate. It m
 The candidate has passed source syntax and a small light/dark responsive component review. The deployed Demo has not changed. Final product-contract reconciliation, authenticated screenshots and release review remain pending; no new backend, payment, hardware or AI service is claimed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-07 — Local membership/access validation closure
+
+The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
+
+The overall milestone remains **FAIL**. The current Member and Reception screens do not yet complete the new entitlement and Charge/unknown-outcome journey, and the requested full browser error-state acceptance is still open. Business policies for overstay, cross-branch commercial use, CIP benefits, freeze extension, refunds, promotional credit and wallet holds remain disabled or unconfigured. No customer data, real charge, deployment, version change or hardware action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
