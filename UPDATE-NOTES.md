@@ -193,6 +193,6 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 
 The private documentation candidate now organizes the full Sam Fit product vision into stable phases and capabilities, explicit phase checklists and role-specific workspace maps, with separate current-state evidence, dependencies, acceptance gates, owner decisions and future add-on boundaries. It records where local candidates, the validation Demo and passive hardware observation have different levels of proof. This helps future contributors find the next permitted scope without treating a planned feature as delivered.
 
-The control plane is awaiting owner review. It changes no product behavior, customer data, deployment, version or hardware state. Detailed private architecture and operational evidence remain in the private repository.
+The control plane is awaiting owner review. Historical Demo version observations differ, so the currently installed version is not asserted without a fresh check. This work changes no product behavior, customer data, deployment, version or hardware state. Detailed private architecture and operational evidence remain in the private repository.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
