@@ -1,3 +1,11 @@
+## 2026-10-07 — Local membership/access validation closure
+
+The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
+
+The overall milestone remains **FAIL**. The current Member and Reception screens do not yet complete the new entitlement and Charge/unknown-outcome journey, and the requested full browser error-state acceptance is still open. Business policies for overstay, cross-branch commercial use, CIP benefits, freeze extension, refunds, promotional credit and wallet holds remain disabled or unconfigured. No customer data, real charge, deployment, version change or hardware action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local membership and access foundation checkpoint
 
 The private local candidate now separates versioned plans, member agreements, service entitlements, explainable access decisions, software visits, configured pricing and wallet-backed visit charges. Synthetic PostgreSQL checks exercised competing check-ins, checkouts, entitlement use, charge retries and reversals; targeted rules, build and reconciliation checks also passed.
@@ -179,12 +187,5 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 The isolated Sam Fit Demo has a private, unreleased presentation candidate. It makes planned member wellness areas and four future add-ons easier to discover, while keeping existing membership, visit, wallet, reception, CRM and management records on their established paths. Planned areas explain their status and do not offer simulated live actions.
 
 The candidate has passed source syntax and a small light/dark responsive component review. The deployed Demo has not changed. Final product-contract reconciliation, authenticated screenshots and release review remain pending; no new backend, payment, hardware or AI service is claimed.
-
-Developer: [a2 sport](https://amiraliyaghouti.com).
-## 2026-10-07 — Local membership/access validation closure
-
-The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
-
-The overall milestone remains **FAIL**. The current Member and Reception screens do not yet complete the new entitlement and Charge/unknown-outcome journey, and the requested full browser error-state acceptance is still open. Business policies for overstay, cross-branch commercial use, CIP benefits, freeze extension, refunds, promotional credit and wallet holds remain disabled or unconfigured. No customer data, real charge, deployment, version change or hardware action occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
