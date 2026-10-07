@@ -1,3 +1,11 @@
+## 2026-10-07 — Local core acceptance assessment and role testing
+
+Recorded an honest failed exit assessment for the independent local core migration: selected implementation checks pass, but full critical parity, migration validation, recovery, concurrency and scale acceptance are incomplete. The last accepted foundation version is retained; no new release, deployment or next-domain phase is claimed.
+
+Local role-specific testing now has a practical owner-controlled fixture access workflow. Routing and disabled-account denial are verified, while account credentials remain outside source and public notes. Existing authorization and generated credential defaults are preserved.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — a2 sport authorship and local core work checkpoint
 
 Established consistent developer attribution across first-party source headers, package/page metadata, naming and the shared product footer. Sam Fit remains the customer-facing brand. This makes authorship durable while preserving third-party rights.

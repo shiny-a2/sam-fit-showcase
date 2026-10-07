@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+The latest independent local core migration assessment is **FAIL** because critical parity and exit-gate coverage are incomplete. Selected automated tests pass, but full migration, recovery, scale and operational acceptance remain pending. This is a local source checkpoint; no new deployment or production acceptance is claimed.
+
 HW-1 now adds a local hardware-integration software foundation with authenticated development endpoints, duplicate-safe journaling and disabled adapters. Eight local software tests passed. Fresh live observation is blocked by unavailable existing reception access; physical compatibility and independent hardware replacement remain unproven. No hardware operation or deployment occurred. See [update notes](UPDATE-NOTES.md).
 
 LOCAL-0 establishes a working independent local platform foundation: Nest/Next, PostgreSQL/Redis and an internal worker, using generated development configuration and synthetic data. Branded Persian login and permission-derived workspace navigation now connect to the independent backend. Minimal reception, management, CRM, member and technical shells establish the product layout without claiming complete business engines.
