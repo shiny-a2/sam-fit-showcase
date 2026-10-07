@@ -322,3 +322,9 @@ Verified durable source and release history, preserved the distinction between i
 Documentation-only checkpoint. No runtime release or deployment, legacy retirement, external messages, hardware commands or financial cutover. Local development is recommended as the next separate, owner-reviewed phase.
 
 The next evidence review will distinguish personnel attendance semantics, complete arrival/departure candidates, conflicts and assignment outcomes, with explicit unknowns for physical bindings and dynamic UX parity. Continued passive collection preserves normal operations; no artificial test activity is requested.
+
+## 2026-10-07 — Restart evidence analysis
+
+Offline analysis now keeps observations after a restart even when trusted absolute time needs a fresh anchor. Relative timelines remain separated by boot, original records remain intact, and validated retrieval-time anchors can derive absolute analysis times. Seven analyzer tests passed.
+
+The previously installed observer already has automatic startup and its own failure recovery. Earlier startup configuration and bounded existing startup-log reconstruction are prepared, but the disconnected target has not received those changes or a reboot test. This is an analysis/tooling checkpoint, not a claim that every electrical or pre-application event is visible.
