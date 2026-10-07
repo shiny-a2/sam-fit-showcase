@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local API foundation verified (unreleased)
+
+- Reused the existing API and added explicit startup checks and safer error responses.
+- Passed synthetic API, authorization, startup failure and actual database outage/restart checks.
+- Closed only the isolated API foundation gate; the next worker step, browser and production gates remain open. No deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local Redis foundation verified (unreleased)
 
 - Reused the existing local Redis foundation, with stricter configuration checks and honest worker readiness.

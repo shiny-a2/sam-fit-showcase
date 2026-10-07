@@ -1,3 +1,11 @@
+# 2026-10-08 — Local API foundation update
+
+The existing Sam Fit API now has clearer startup failure and safer error responses in an isolated local development branch. Tests covered permissions and request protection, a database outage and restart, and recovery of a synthetic session and data. This helps developers distinguish a temporary dependency failure from an application defect while keeping error details out of responses.
+
+The scope is local and synthetic. The broader product, complete browser journeys, worker foundation, human acceptance and production remain open. No deployment, customer record, real transaction, equipment command or later phase was performed.
+
+---
+
 ## 2026-10-08 — Local Redis foundation gate passed
 
 The private team verified the existing local Redis support rather than building a duplicate service. Configuration now rejects unsupported local endpoint options, a worker confirms Redis is reachable before reporting readiness, and outage diagnostics stay concise during repeated reconnect attempts. Synthetic role, queue, outage and restart checks passed; the database-backed session and records survived Redis loss.
