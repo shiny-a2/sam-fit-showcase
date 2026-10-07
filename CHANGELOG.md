@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-07 — Core parity and recovery checkpoint (unreleased)
+
+- Closed bounded local CRM, Reception, Member and shared operations journeys with role, concurrency and responsive browser checks.
+- Rehearsed synthetic migration replay and local recovery while preserving the financial reference behavior.
+- Kept the milestone failed pending full financial runtime parity and a safe bridge; no release, deployment, payment or hardware operation.
+
+## 2026-10-07 — Offline passive observer deployed
 ## 2026-10-07 — Offline passive observer deployed
 
 An owner-authorized, clearly named background observer now collects minimized technical evidence locally during unstable Internet access. Bounded retention, protected identity references, encrypted later export and observer-only restart recovery support a 24–48 hour operational learning window. The legacy application, database and equipment behavior were preserved.
@@ -7,7 +14,6 @@ An owner-authorized, clearly named background observer now collects minimized te
 Ten observer core checks passed on both development and target systems, three offline analysis checks passed, and actual target resource/collection checks passed. The operator confirmed normal work continued. These results establish deployment health; representative operational coverage and independent physical compatibility remain unproven.
 
 A confidential static desktop UI structure inventory supports retaining familiar reception vocabulary, navigation and task context. Actual rendered states, keyboard parity and operator task journeys remain to be validated. No screenshots, customer field values or proprietary binaries are published. No equipment control, automatic uninstall or subsequent lab phase starts.
-
 ## 2026-10-07 — Local hardware integration foundation
 
 - Added typed local contracts, fail-closed adapter skeletons and an authenticated development API.
@@ -34,24 +40,19 @@ A confidential static desktop UI structure inventory supports retaining familiar
 - Validated responsive light/dark presentation, application startup, integrity and recovery workflows.
 - Kept deployed validation release 0.12.4 unchanged; no production migration or external integration.
 
-
 ## 0.12.2 — Reception safety checkpoint
 
 - Retained successful-login auditing while keeping authentication lightweight.
 - Added readable member references and safe visit-correction preview/revision checks.
 - Verified isolated target-runtime and real-role checks; full Reception acceptance remains pending.
 
-
 ## Unreleased — Auth architecture acceptance checkpoint
 
 Reconfirmed the independent final-platform Auth ownership and documented the current candidate's implementation and acceptance gaps. Added isolated security regressions for the temporary authentication adapter, covering disabled access, safe failures and separation of staff authority from member benefits. Local checks passed; deployment, real-session acceptance and the final independent backend remain pending.
 
-
 ## Unreleased — Mobile installation guidance
 
 Added a shared, accessible mobile installation guide across the validation workspaces. Users receive browser-appropriate instructions and can reopen the guide after dismissal; the installed experience launches through existing access routing. Official brand icons are preserved. Notifications and offline behavior are explicitly identified as unavailable. Local presentation checks passed; deployment and actual device installation remain pending.
-
-
 
 ## Unreleased — Reception Search interaction
 
@@ -154,7 +155,6 @@ Improved replay protection, branch privacy and responsive retention workflows. V
 
 Retention and member-health rules, commercial opportunities, audience segments and safe campaign simulation are now under validation in the isolated product demo. Existing identity, follow-up and financial foundations are preserved. The release is not yet certified; external messaging and real financial attribution remain unavailable.
 
-
 ## 0.8.5 — 2026-10-06
 
 - Delivered actionable sports sales/reception queues and same-member renewal on the existing core.
@@ -163,14 +163,12 @@ Retention and member-health rules, commercial opportunities, audience segments a
 - Preserved original demo history and mature financial behavior; verified matched rollback.
 - Completed bounded demo acceptance and mobile/light/dark recovery checks; documented remaining device and integration limits.
 
-
 ## CRM-1 candidate — 2026-10-06
 
 - Prepared sales/reception operations by extending existing core workflows.
 - Added isolated additive migration and reconciliation tools with matched rollback requirements.
 - Passed pure source/target preflight checks; full deployment acceptance is pending.
 - Kept financial behavior and final-platform architecture unchanged.
-
 
 ## Current-state audit — 2026-10-06 (no runtime release)
 

@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The latest independent local core migration assessment is **FAIL** because critical parity and exit-gate coverage are incomplete. Selected automated tests pass, but full migration, recovery, scale and operational acceptance remain pending. This is a local source checkpoint; no new deployment or production acceptance is claimed.
+The latest independent local core assessment is **FAIL** because complete financial behavior parity and a safe operating bridge are not ready. Local CRM, Reception, Member and shared operations journeys, synthetic migration replay, concurrency and recovery checks now pass within their stated limits. No financial authority change, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 
 HW-1A now runs an owner-authorized passive observer locally for an offline operational evidence window. Ten observer core tests passed on both development and target systems; short target resource and post-install health checks passed, and the operator confirmed ordinary work continued without interruption. A confidential static desktop UI inventory supports familiar future reception workflows. Representative flow analysis, dynamic UX parity and physical compatibility remain pending; no equipment command or legacy application change occurred. See [update notes](UPDATE-NOTES.md).
 
@@ -52,18 +52,15 @@ The bounded demo gate passed 76 target integration assertions, 41 previous-relea
 
 Known limits include incomplete live data adapters, simulation-only delivery, activity-dependent background jobs and an advanced segment editor that still uses validated structured rules. Consolidation should review overlapping workflows, terminology, permissions, pagination and portability before further expansion. No next-stage hardware, telephony, AI or automation work begins automatically.
 
-
 ### 2026-10-06 — CRM sales operations 0.8.5
 
 Delivered role-aware action queues, configurable first-response rules, protected sales transitions, visit/trial contexts and renewal that preserves the member identity. Managers can review documented cohort/source metrics. Feedback stays in a shared review inbox, becomes product work only after acceptance and completes after reporter verification.
 
 The isolated demo migration preserved existing records and financial behavior. Validation covered 101 rule assertions, 41 target-runtime integration assertions, 40 browser journey assertions and 128 interactive/role checks, with mobile/tablet/desktop light/dark review. Import and unconnected service engines remain unavailable. Physical dialer and external integration validation remain separate. CRM-2 has not started.
 
-
 ### 2026-10-06 — CRM-1 implementation checkpoint
 
 Prepared role-aware work queues, configurable response deadlines, sales/renewal contexts and a shared product-feedback review loop on the existing identity, CRM and financial foundations. Source-level checks passed 101 assertions; target PHP preflight passed. A matched demo files/database rollback checkpoint is ready. Deployment and golden-journey acceptance are still pending; this checkpoint is not a completed release.
-
 
 ### 2026-10-06 — Current-state audit (documentation only)
 
@@ -80,7 +77,6 @@ Built on CRM-0 with management drill-down, branch context, global search and fee
 ### 2026-10-06 — CRM workflows 0.6.0
 
 Delivered scoped ownership, separated sales/member states, outcome-driven follow-ups and stable identity conversion. Verified target-runtime acceptance checks, mobile end-to-end workflows and recoverable form submissions.
-
 
 ### 2026-10-06 — Sports validation release 0.5.0
 
@@ -107,7 +103,6 @@ At that groundwork checkpoint, hardware integration, database access and a produ
 The manager validation release is ready for controlled testing. It brings daily attention, task ownership, issue handling, proposal review and team workload into a single branch context. Source workflows remain shared with the existing platform. Mobile and desktop interfaces were checked in both themes, and financial regression checks passed on the target runtime.
 
 Physical-device acceptance remains open. Future service and finance engines are not represented as active features. The next role workspace will follow product review rather than start automatically.
-
 
 ### 2026-10-06 — Phase 0 discovery checkpoint
 

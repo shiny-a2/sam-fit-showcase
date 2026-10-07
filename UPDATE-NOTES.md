@@ -1,3 +1,11 @@
+## 2026-10-07 — Core parity and recovery checkpoint
+
+Completed a local closure pass for core member, CRM, Reception and shared operations workflows. Synthetic migration replay, concurrent operations, service recovery and responsive role journeys were exercised; the unchanged financial reference suite also passed.
+
+The milestone remains **FAIL** because the independent financial runtime is still a candidate, full financial behavior parity and a safe bridge are incomplete. Member balances were not moved, no real customer data or payment provider was used, and no deployment or hardware operation occurred. The last accepted runtime version remains unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local core acceptance assessment and role testing
 
 Recorded an honest failed exit assessment for the independent local core migration: selected implementation checks pass, but full critical parity, migration validation, recovery, concurrency and scale acceptance are incomplete. The last accepted foundation version is retained; no new release, deployment or next-domain phase is claimed.
@@ -46,22 +54,17 @@ Deployed the shared installation guide and permission-aware login/workspace rout
 
 Target PHP 8.3 checks passed. Mature financial reference behavior passed 333 tests and 1,746 assertions. Database integration tests use rolled-back synthetic work; original customer systems and physical equipment are outside this deployment. The milestone remains in progress: full operational workflows and real receptionist/device acceptance are not yet complete. This update is not a claim of production readiness, hardware control, active Push notifications or REC-1 completion.
 
-
-
 ## Unreleased — Auth architecture acceptance checkpoint
 
 Reconfirmed the independent final-platform Auth ownership and documented the current candidate's implementation and acceptance gaps. Added isolated security regressions for the temporary authentication adapter, covering disabled access, safe failures and separation of staff authority from member benefits. Local checks passed; deployment, real-session acceptance and the final independent backend remain pending.
-
 
 ## Unreleased — Mobile installation guidance
 
 Added a shared, accessible mobile installation guide across the validation workspaces. Users receive browser-appropriate instructions and can reopen the guide after dismissal; the installed experience launches through existing access routing. Official brand icons are preserved. Notifications and offline behavior are explicitly identified as unavailable. Local presentation checks passed; deployment and actual device installation remain pending.
 
-
 ## Reception foundation audit
 
 Documented the existing identity, financial and operations boundaries before adding reception functionality. The new reception milestone will keep access decisions separate from sales status and physical hardware control. No legacy operational data is imported.
-
 
 ## Reception foundation 0.12.0
 
@@ -72,9 +75,11 @@ Light/dark mobile, tablet and desktop interactions were checked. The release is 
 ## Read-only hardware discovery checkpoint
 
 Mapped installed software control paths without operating or changing live branch equipment. The documentation separates transmitted commands, protocol replies, physical movement and actual passage. Device compatibility remains conditional pending verified model bindings, manufacturer documentation and isolated lab validation. A portable static-metadata audit utility and documented reception workflow learning plan support future branch-specific discovery. No live hardware capability or complete migration is claimed; the deployed reception release remains 0.12.0.
+
 ## Reception productization — work in progress
 
 The next Reception milestone focuses on finding a member, understanding their status and completing the next front-desk action clearly. The audit separates stable shared foundations from missing operational screens, approval handoffs, temporary guest flows and recovery behavior. Initial candidate changes narrow registration authority and improve phone lookup and role landing. Target-runtime contract checks passed; full product acceptance and deployment remain pending. Hardware control and real payment remain unavailable.
+
 ## Personal login and workspace candidate
 
 The login candidate presents a consistent Persian Sam Fit experience in light and dark themes. Each person lands in their assigned workspace; people with multiple roles can choose among permitted spaces. Member loyalty level remains separate from staff access. Responsive presentation checks passed across mobile, tablet and desktop widths, while successful role-session acceptance and release verification remain pending. The final dedicated backend remains a separate architecture track; this update does not claim it is deployed.
