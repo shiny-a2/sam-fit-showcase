@@ -4,11 +4,17 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+LOCAL-0 establishes a working independent local platform foundation: Nest/Next, PostgreSQL/Redis and an internal worker, using generated development configuration and synthetic data. Branded Persian login and permission-derived workspace navigation now connect to the independent backend. Minimal reception, management, CRM, member and technical shells establish the product layout without claiming complete business engines.
+
+Local automated checks cover application startup, workspace navigation, responsive light/dark surfaces, data integrity and recovery. A clean-clone setup was also exercised. This is a development milestone, not a deployment or production acceptance. The deployed validation environment remains 0.12.4; full product migration/parity and later integrations remain separate reviewed phases.
+
+## Earlier audit checkpoint (historical)
+
 A master project audit now establishes the local development handoff: source, release history, specifications and design evidence are available in durable repositories. Safe financial reference tests, existing foundation unit/type/lint checks and API compilation passed on the current development machine. Independent application and local service startup remain pending; reference validation is separate from final-platform acceptance.
 
 The current deployed validation release remains 0.12.4. This audit introduced no product feature, deployment, data migration, hardware/payment operation or financial authority change. The recommended next step is an isolated local development foundation after owner review.
 
-MANAGE-C management specification is complete; independent-backend implementation remains blocked by prerequisite admission. The plan reorganizes management around attention, contextual decisions and operational oversight, with distinct branch, central and technical experiences. It maps the existing navigation to smaller permission-based groups and consolidates future modules into a secondary catalogue. Sanitized conceptual previews cover desktop, tablet and phone in both themes; they are design evidence, not a deployed management application or human acceptance.
+MANAGE-C management specification is complete; full management implementation awaited independent core-product parity at that checkpoint. The plan reorganizes management around attention, contextual decisions and operational oversight, with distinct branch, central and technical experiences. It maps the existing navigation to smaller permission-based groups and consolidates future modules into a secondary catalogue. Sanitized conceptual previews cover desktop, tablet and phone in both themes; they are design evidence, not a deployed management application or human acceptance.
 
 This milestone changes documentation only. The validated runtime remains 0.12.4. No migration, financial cutover, hardware/payment command, legacy retirement or subsequent phase occurred.
 

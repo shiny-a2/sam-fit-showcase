@@ -1,3 +1,9 @@
+## 2026-10-07 — Read-only hardware architecture checkpoint
+
+Consolidated prior hardware discovery evidence into a preliminary independent-adapter design and an isolated lab plan. The live refresh could not complete because the existing remote access path was unavailable. Current device identification and compatibility remain unverified; no completed live discovery, deployment or hardware control is claimed.
+
+This documentation clarifies the remaining evidence and lab prerequisites. Existing systems were left unchanged; no lab test began.
+
 ## Reception exit-gate assessment — 0.12.2
 
 The isolated checkpoint is deployed and source-verified. Actual testing passed 100 role/workspace/mobile-guide checks, seven session/security checks, the current CRM/Operations/Reception database regressions and five two-worker concurrency scenarios. Protected business records remain unchanged and all current Demo member balances reconcile to the ledger. Legitimate security and read-audit events are retained.

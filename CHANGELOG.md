@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-10-07 — Hardware architecture evidence checkpoint
+
+- Consolidated existing discovery evidence and documented independent-adapter and future lab boundaries.
+- Recorded incomplete live verification due to unavailable existing access; physical compatibility remains unproven.
+- No operational system change, deployment or hardware command.
+
+## 0.1.0-local.0 — Independent local platform foundation
+
+- Established a reproducible local development foundation with an independent backend and synthetic data.
+- Added branded Persian login, workspace selection and minimal role-specific application shells.
+- Validated responsive light/dark presentation, application startup, integrity and recovery workflows.
+- Kept deployed validation release 0.12.4 unchanged; no production migration or external integration.
+
+
 ## 0.12.2 — Reception safety checkpoint
 
 - Retained successful-login auditing while keeping authentication lightweight.
