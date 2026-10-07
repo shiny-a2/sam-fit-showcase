@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Live hardware evidence checkpoint
+
+- Refreshed hardware architecture evidence through existing authorized read-only access.
+- Documented conditional independent-adapter design and specific model/interface/lab prerequisites.
+- Kept operating systems and equipment unchanged; no deployment, control or lab execution.
+
 ## 2026-10-07 — Hardware architecture evidence checkpoint
 
 - Consolidated existing discovery evidence and documented independent-adapter and future lab boundaries.

@@ -1,3 +1,9 @@
+## 2026-10-07 — Live read-only hardware discovery resumed
+
+Existing authorized access succeeded and the current branch software, configuration, passive connections and hardware-related database metadata were inspected. The fresh findings now support a conditional architecture discovery checkpoint and a preliminary independent-adapter/lab design.
+
+Physical device identification, manufacturer-supported interfaces and sensor behavior still require verification. No live control, installation, enrollment, operational change or lab test occurred. This supersedes the earlier access-limited checkpoint; it does not claim proven hardware reuse or complete replacement readiness.
+
 ## 2026-10-07 — Read-only hardware architecture checkpoint
 
 Consolidated prior hardware discovery evidence into a preliminary independent-adapter design and an isolated lab plan. The live refresh could not complete because the existing remote access path was unavailable. Current device identification and compatibility remain unverified; no completed live discovery, deployment or hardware control is claimed.
