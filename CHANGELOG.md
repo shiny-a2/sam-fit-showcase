@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-07 — Physical repository skeleton (documentation candidate)
+
+- Added private architectural path reservations, concise folder guides and a future-scope index.
+- Linked owner-approved requirement routing and a validator for documentation consistency.
+- Updated the local membership/access evidence without claiming product acceptance.
+- No runtime release, version bump, deployment or hardware action.
+
 ## 2026-10-07 — Engineering control plane (documentation candidate)
 
 - Added a sanitized summary of the private roadmap, evidence index and gate model.

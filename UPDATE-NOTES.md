@@ -196,3 +196,10 @@ The private documentation candidate now organizes the full Sam Fit product visio
 The control plane is awaiting owner review. Historical Demo version observations differ, so the currently installed version is not asserted without a fresh check. This work changes no product behavior, customer data, deployment, version or hardware state. Detailed private architecture and operational evidence remain in the private repository.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-07 — Repository architecture and project memory (documentation candidate)
+
+The private Sam Fit documentation candidate now gives future product areas, workspaces, integrations, hardware boundaries and test categories clear architectural homes. A generated path map and short folder guides make planned work easier to find while keeping it visibly separate from implemented code. Owner ideas can be captured in a scratchpad and routed to the right phase after approval.
+
+The latest local membership/access validation report is reflected accurately: backend checks advanced, while full browser integration and acceptance remain open. This update adds no product feature, route, customer data, deployment or hardware control. The installed Demo version still needs a fresh check because historical reports differ.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
