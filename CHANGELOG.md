@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Role-based local access and workspace navigation candidate (unreleased)
+
+- Prepared six clear role-specific synthetic logins for the independent local Sam Fit platform, making owner review of each workspace easier.
+- Added a "My Workspace" navigation candidate across temporary validation screens for people with more than one workspace.
+- Local checks passed. The validation site has not been updated, and no customer accounts or records were changed.
+
 ## 2026-10-07 — Financial core freeze and next-domain handoff (unreleased)
 
 - Recorded the owner-accepted local financial foundation as ready for next-domain design and frozen except for corrective fixes.
