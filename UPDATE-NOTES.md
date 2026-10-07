@@ -1,3 +1,11 @@
+## 2026-10-08 — Local Redis foundation gate passed
+
+The private team verified the existing local Redis support rather than building a duplicate service. Configuration now rejects unsupported local endpoint options, and a worker confirms Redis is reachable before reporting readiness. Synthetic role, queue, outage and restart checks passed; the database-backed session and records survived Redis loss.
+
+This closes only the isolated local Redis foundation gate. The wider platform, membership browser journey and production acceptance remain open; the next foundation step has not begun. No deployment, customer data, real financial transaction, equipment action or installed-version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — Local database foundation gate passed
 
 The private team reconciled the local application model with the database's existing referential protections. Fresh synthetic setup, integrity and access checks, service recovery and build passed. A review gate now rejects unapproved destructive schema changes. The earlier schema alignment failure is resolved for this isolated local foundation.

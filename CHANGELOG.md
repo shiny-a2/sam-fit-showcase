@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local Redis foundation verified (unreleased)
+
+- Reused the existing local Redis foundation, with stricter configuration checks and honest worker readiness.
+- Passed synthetic authorization, queued-work, actual Redis outage and restart checks; database-backed sessions survived.
+- Closed only the isolated Redis foundation gate. No deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local database foundation admitted (unreleased)
 
 - Reconciled the application model with existing database referential protections and added a guard against unreviewed destructive schema changes.

@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The isolated platform database foundation now passes its local schema alignment gate. Existing referential protections are represented consistently in the application model; fresh setup, scoped authorization, integrity and recovery checks passed. This admits only the synthetic local foundation. The broader platform, membership browser journey and production gates remain open. The next foundation step has not begun. No deployment, customer data, real transaction or equipment action was involved. See the latest update notes.
+The isolated local database and Redis foundations now pass their defined synthetic gates. Redis configuration and worker startup report dependency failures explicitly; actual outage and restart checks preserved the database-backed session and recovered service readiness. The broader platform, membership browser journey and production gates remain open. The next foundation step has not begun. No deployment, customer data, real transaction or equipment action was involved. See the latest update notes.
 
 The accepted local financial foundation supports a private membership/access candidate with versioned plans, entitlements, explainable access and synthetic visit charging. Isolated migration, recovery, restart, security and local scale checks now pass. Its **full exit remains FAIL** because the complete Member/Reception browser journey and error-state acceptance are still open; unresolved commercial policies stay unconfigured. No real balances, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 
