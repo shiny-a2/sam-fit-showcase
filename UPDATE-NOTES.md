@@ -203,3 +203,11 @@ The private Sam Fit documentation candidate now gives future product areas, work
 The latest local membership/access validation report is reflected accurately: backend checks advanced, while full browser integration and acceptance remain open. This update adds no product feature, route, customer data, deployment or hardware control. The installed Demo version still needs a fresh check because historical reports differ.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-07 — Track B integration planning checkpoint
+
+The private engineering control plane now records a reviewed branch inventory, a single local Track B candidate authority map, a safe integration order, known compatibility risks and an explicit first admission gate. This makes the next engineering step traceable while keeping local candidate reports separate from accepted product behavior.
+
+The documentation phase passed its own governance scope. The planned integration has not been merged or released. Membership/access and the newer product UI still have open acceptance work, including a complete authenticated browser journey and uncertain-result recovery. The isolated Demo's current version still needs fresh verification. This checkpoint changes no customer data, financial record, hardware behavior, deployment or product feature.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

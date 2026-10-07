@@ -386,5 +386,7 @@ Offline analysis now keeps observations after a restart even when trusted absolu
 The previously installed observer already has automatic startup and its own failure recovery. Earlier startup configuration and bounded existing startup-log reconstruction are prepared, but the disconnected target has not received those changes or a reboot test. This is an analysis/tooling checkpoint, not a claim that every electrical or pre-application event is visible.
 ## Unreleased — 2026-10-07
 
+- Recorded the documentation-phase exit, candidate integration order and next local foundation admission gate; no product deployment or runtime version change.
+
 - Prepared a clearer mobile CRM sales-visit summary and account-activity visibility for validation.
 - Kept the candidate local pending authenticated provenance and release checks; no deployment or runtime version change.
