@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Financial core freeze and next-domain handoff (unreleased)
+
+- Recorded the owner-accepted local financial foundation as ready for next-domain design and frozen except for corrective fixes.
+- Published the balance, authorized charge, reversal, receipt and recovery handoff; future loyalty value flows remain disabled.
+- No pricing feature, real charge, migration, deployment or version change.
+
 ## 2026-10-07 — Local financial foundation closure (unreleased)
 
 - Added a single authorized, auditable financial command boundary in the private local candidate, with retry-safe receipts and ledger-derived balance recovery.

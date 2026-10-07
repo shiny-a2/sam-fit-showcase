@@ -1,3 +1,11 @@
+## 2026-10-07 — Financial core freeze and handoff
+
+The local financial foundation is now owner-accepted for the next domain and frozen except for bug, security or parity corrections. A concise handoff defines balance reads, authorized charges, reversals, receipts and recovery. Future loyalty value flows remain disabled; the next phase has not started.
+
+No real balances, charges, deployment or version change were involved.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local financial foundation closure
 
 The private local candidate now has a single permission-checked financial command boundary, durable retry results, ledger-backed balance checking and controlled recovery. Synthetic role, concurrency, restart and reconciliation checks passed, alongside the unchanged 333-test financial reference.
