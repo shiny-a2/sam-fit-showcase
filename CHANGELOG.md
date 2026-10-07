@@ -3,6 +3,7 @@
 ## 2026-10-07 — Engineering control plane (documentation candidate)
 
 - Added a sanitized summary of the private roadmap, evidence index and gate model.
+- Extended the documentation candidate with explicit phase contracts and role-specific capability trees.
 - Kept local, Demo and physical acceptance claims distinct; owner review remains open.
 - No runtime release, version bump or deployment.
 
