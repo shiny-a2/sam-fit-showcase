@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local Web/PWA foundation verified (unreleased)
+
+- Reused the existing Web shell and checked its configuration, routes, session boundaries and browser installability.
+- Passed 15 existing and 7 focused Chrome checks, including mobile/desktop themes and temporary API outage recovery.
+- Kept the experience online-only and closed only its isolated synthetic foundation gate; no deployment, version change or product UI expansion.
+
 ## 2026-10-08 — Local background-worker foundation verified (unreleased)
 
 - Strengthened startup, bounded retry, duplicate handling and graceful shutdown in the existing local worker.

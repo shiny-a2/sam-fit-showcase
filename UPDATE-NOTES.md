@@ -1,3 +1,13 @@
+# 2026-10-08 — Local Web/PWA foundation update
+
+The existing Sam Fit Web shell now passes its isolated local foundation gate. Real browser checks covered sign-in, workspace routing, refresh and navigation, mobile and desktop themes, its installable manifest, session expiry and recovery after the API was temporarily stopped and restarted. The Web build also rejects a mismatched local API configuration instead of silently connecting elsewhere.
+
+This is an online-only foundation: it does not promise offline access to account, permission or financial information. Full product journeys, operator acceptance and production/device validation remain open. The next audit step has not begun. No customer data, real transaction, deployment, equipment action or version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local background-worker foundation update
 
 The existing Sam Fit background worker now verifies required local services before reporting readiness. Synthetic tests checked repeated work across two workers, a stopped process, graceful shutdown, temporary service outages and recovery. The checks showed one recorded test effect for repeated delivery and visible terminal failures.
