@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Local financial authority assessment (unreleased)
+
+- Mapped financial capabilities against the preserved reference and identified incomplete value-changing lifecycles.
+- Improved synthetic spend retry evidence and ledger-backed checkpoint checking in the private local candidate.
+- Retained a FAIL authority decision. No customer balances moved, charge enabled, deployment or version change occurred.
+
 ## 2026-10-07 — Core parity and recovery checkpoint (unreleased)
 
 - Closed bounded local CRM, Reception, Member and shared operations journeys with role, concurrency and responsive browser checks.
