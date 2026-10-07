@@ -122,3 +122,5 @@ An owner-authorized, clearly named background observer now collects minimized te
 Ten observer core checks passed on both development and target systems, three offline analysis checks passed, and actual target resource/collection checks passed. The operator confirmed normal work continued. These results establish deployment health; representative operational coverage and independent physical compatibility remain unproven.
 
 A confidential static desktop UI structure inventory supports retaining familiar reception vocabulary, navigation and task context. Actual rendered states, keyboard parity and operator task journeys remain to be validated. No screenshots, customer field values or proprietary binaries are published. No equipment control, automatic uninstall or subsequent lab phase starts.
+
+The next evidence review will distinguish personnel attendance semantics, complete arrival/departure candidates, conflicts and assignment outcomes, with explicit unknowns for physical bindings and dynamic UX parity. Continued passive collection preserves normal operations; no artificial test activity is requested.

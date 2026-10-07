@@ -322,3 +322,5 @@ The specification gate is complete; independent-backend implementation is blocke
 Verified durable source and release history, preserved the distinction between implemented validation workflows and future platform specifications, and documented current requirements, safe test evidence and pilot gaps. Financial reference behavior passes on the current machine; existing foundation units, type checks, lint and API compilation pass. Independent application, service-backed integration and real user/device acceptance remain pending.
 
 Documentation-only checkpoint. No runtime release or deployment, legacy retirement, external messages, hardware commands or financial cutover. Local development is recommended as the next separate, owner-reviewed phase.
+
+The next evidence review will distinguish personnel attendance semantics, complete arrival/departure candidates, conflicts and assignment outcomes, with explicit unknowns for physical bindings and dynamic UX parity. Continued passive collection preserves normal operations; no artificial test activity is requested.
