@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Track A product vision presentation candidate (unreleased)
+
+- Added discoverable future member areas and conceptual add-on explanations to the private Demo candidate.
+- Kept existing operational reads and actions authoritative; future functions remain clearly unavailable.
+- Confirmed source syntax and component layouts. The installed Demo version and release acceptance are unchanged.
+
 ## 2026-10-07 — Role-based local access and workspace navigation candidate (unreleased)
 
 - Prepared six clear role-specific synthetic logins for the independent local Sam Fit platform, making owner review of each workspace easier.

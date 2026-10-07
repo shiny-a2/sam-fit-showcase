@@ -166,3 +166,10 @@ Prepared a clearer mobile summary for the CRM sales-visit context and a bounded 
 The work is a local candidate only. Reporter provenance and live behavior still require authenticated validation; the deployed Demo version is unchanged. No customer data, payment or hardware operation was involved.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-07 — Track A product vision presentation candidate
+
+The isolated Sam Fit Demo has a private, unreleased presentation candidate. It makes planned member wellness areas and four future add-ons easier to discover, while keeping existing membership, visit, wallet, reception, CRM and management records on their established paths. Planned areas explain their status and do not offer simulated live actions.
+
+The candidate has passed source syntax and a small light/dark responsive component review. The deployed Demo has not changed. Final product-contract reconciliation, authenticated screenshots and release review remain pending; no new backend, payment, hardware or AI service is claimed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
