@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-07 — Clearer validation roles
+
+- Simplified Sam Fit's validation access to six distinct roles, so reviewers can test the owner, central manager, branch manager, reception, member and CRM experiences separately.
+- Preserved existing demonstration records while retiring older test logins. Browser checks confirmed the intended workspace routes and access boundaries.
+
 ## 2026-10-07 — Local membership/access validation closure (unreleased)
 
 - Verified synthetic migration replay, database recovery, restart behavior, role boundaries, concurrency and local scale in an isolated environment.
