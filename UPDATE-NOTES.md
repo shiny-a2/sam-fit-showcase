@@ -191,10 +191,10 @@ The candidate has passed source syntax and a small light/dark responsive compone
 Developer: [a2 sport](https://amiraliyaghouti.com).
 ## 2026-10-08 — Member and workspace UI candidate (unreleased)
 
-A private, isolated Track B candidate now gives members clearer Home, Club, Activity, Benefits and Profile navigation. Reception hides an unsafe broad member search until an authorized branch-scoped search is available. CRM presents a branch-scoped, paged lead list with clear loading and empty states. Capability availability is stated in the interface so planned features do not appear ready for use.
+A private, isolated Track B candidate now gives members clearer Home, Club, Activity, Benefits and Profile navigation. Reception hides an unsafe broad member search until an authorized branch-scoped search is available. CRM presents a branch-scoped, paged lead list with clear loading and empty states. Manage now shows an existing, permission-filtered branch snapshot with attention, workload, update time and partial-data status. Capability availability is stated in the interface so planned features do not appear ready for use.
 
 Why it matters: members and staff can review a more coherent experience while the product keeps incomplete operations visibly unavailable. Type, lint, build and focused checks passed. Read-only synthetic browser review covered Member, Reception, CRM and Manage at mobile and desktop widths in light and dark themes, plus member navigation and CRM pagination.
 
-The outcome is **conditional**. The browser checks used synthetic data; authenticated integrated journeys, role and branch denial checks, human accessibility review, native scoped search and authoritative CRM/management reporting remain open. No complete Phase 22/23 capability, release, deployment, financial action or hardware action is claimed. The deployed validation experience is unchanged.
+The outcome is **conditional**. The browser checks used synthetic data; authenticated integrated journeys, role and branch denial checks, human accessibility review, native scoped search, CRM follow-up queues and period/multi-branch management reporting remain open. No complete Phase 22/23 capability, release, deployment, financial action or hardware action is claimed. The deployed validation experience is unchanged.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).

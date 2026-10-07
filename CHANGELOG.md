@@ -2,7 +2,7 @@
 
 ## 2026-10-08 — Phase 22/23 UI candidate (unreleased)
 
-- Improved private member navigation and truthful availability states across Member, Reception and CRM views.
+- Improved private member navigation and truthful availability states across Member, Reception and CRM views; added a read-only Manage branch snapshot with partial-data and retry states.
 - Passed focused checks and a 16-case, read-only synthetic mobile/desktop and light/dark browser review.
 - Kept the outcome conditional pending integrated authentication, branch security, human accessibility and missing scoped/reporting contracts. No release or deployment.
 
