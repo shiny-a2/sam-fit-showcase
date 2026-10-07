@@ -1,6 +1,6 @@
 ## 2026-10-08 — Local Redis foundation gate passed
 
-The private team verified the existing local Redis support rather than building a duplicate service. Configuration now rejects unsupported local endpoint options, and a worker confirms Redis is reachable before reporting readiness. Synthetic role, queue, outage and restart checks passed; the database-backed session and records survived Redis loss.
+The private team verified the existing local Redis support rather than building a duplicate service. Configuration now rejects unsupported local endpoint options, a worker confirms Redis is reachable before reporting readiness, and outage diagnostics stay concise during repeated reconnect attempts. Synthetic role, queue, outage and restart checks passed; the database-backed session and records survived Redis loss.
 
 This closes only the isolated local Redis foundation gate. The wider platform, membership browser journey and production acceptance remain open; the next foundation step has not begun. No deployment, customer data, real financial transaction, equipment action or installed-version change occurred.
 
