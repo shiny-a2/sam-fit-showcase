@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Local financial foundation closure (unreleased)
+
+- Added a single authorized, auditable financial command boundary in the private local candidate, with retry-safe receipts and ledger-derived balance recovery.
+- Verified synthetic authorization, concurrent charging, reconciliation, restart recovery and the unchanged 333-test financial reference.
+- Reclassified future loyalty value flows as disabled until separately enabled and tested. The financial foundation passed conditionally for future access and membership design; no customer money moved, charging was enabled or deployment occurred.
+
 ## 2026-10-07 — Local financial authority assessment (unreleased)
 
 - Mapped financial capabilities against the preserved reference and identified incomplete value-changing lifecycles.
