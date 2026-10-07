@@ -1,3 +1,10 @@
+# 2026-10-07 — Track A Demo UX R1 presentation release (0.12.6)
+
+- Deployed the member copy refresh to the existing isolated Demo with Persian and English system text while preserving recorded business and user data.
+- Verified the 0.12.4 rollback checkpoint, all 101 installed plugin file hashes, seven authenticated account types, branch denials, current regressions, and 230 responsive visual cases.
+- Kept future payment, booking, AI, occupancy, Push and hardware features clearly unavailable; Track B and physical hardware acceptance remain separate.
+- Noted the obsolete legacy reception integration script; the current REC1C integration passed.
+
 # Changelog
 
 ## 2026-10-07 — Offline passive observer deployed

@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-نامزد نمایشی R1 برای دموی Track A با نسخهٔ 0.12.6 آماده شده است: متن‌های سیستمی پنل عضو در فارسی و انگلیسی کامل‌تر شده‌اند و داده‌های ثبت‌شدهٔ اعضا و کسب‌وکار همان‌گونه که هستند نمایش داده می‌شوند. نسخهٔ بازگشت 0.12.4 به‌طور مستقل بررسی شده است. نسخهٔ 0.12.5 برای بازرسی در دموی ایزوله نصب شد و دو ایراد نمایشی در نسخهٔ 0.12.6 اصلاح شد. آزمون‌های نهایی هنوز در جریان‌اند و پذیرش انتشار اعلام نشده است. جزئیات عمومی در [یادداشت‌های به‌روزرسانی](UPDATE-NOTES.md) آمده است.
+بازنگری نمایشی R1 با نسخهٔ 0.12.6 فقط روی دموی ایزولهٔ Track A نصب و پذیرفته شد. متن‌های سیستمی پنل عضو در فارسی و انگلیسی کامل‌تر شدند و داده‌های ثبت‌شدهٔ اعضا و کسب‌وکار همان‌گونه که هستند نمایش داده می‌شوند. نسخهٔ بازگشت 0.12.4، تطابق فایل‌های نصب‌شده، نقش‌ها، رگرسیون‌ها و نمایش واکنش‌گرا بررسی شد. این پذیرش فقط برای ارائهٔ Track A است؛ Track B، پرداخت، رزرو و سخت‌افزار فعال یا پذیرفته نشده‌اند. جزئیات عمومی در [یادداشت‌های به‌روزرسانی](UPDATE-NOTES.md) آمده است.
 
 The latest independent local core migration assessment is **FAIL** because critical parity and exit-gate coverage are incomplete. Selected automated tests pass, but full migration, recovery, scale and operational acceptance remain pending. This is a local source checkpoint; no new deployment or production acceptance is claimed.
 
