@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-07 — Isolated platform integration assessment (unreleased)
+
+- Combined approved planning and local platform candidate histories in a separate integration branch.
+- Passed bounded synthetic build, authorization, database and recovery checks.
+- Kept baseline admission at FAIL pending schema alignment; no deployment, version change, real transaction or equipment action.
+
 ## 2026-10-07 — Clearer validation roles
 
 - Simplified Sam Fit's validation access to six distinct roles, so reviewers can test the owner, central manager, branch manager, reception, member and CRM experiences separately.

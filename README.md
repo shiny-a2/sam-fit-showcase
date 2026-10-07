@@ -6,13 +6,15 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+An isolated platform integration checkpoint now includes the reviewed local candidate and planning history. Synthetic build, authorization, database and recovery checks passed, but the schema alignment gate **failed**, so the baseline is not admitted and the next phase has not started. This involved no deployment, customer data, real transaction or equipment action. See the latest update notes.
+
 The accepted local financial foundation supports a private membership/access candidate with versioned plans, entitlements, explainable access and synthetic visit charging. Isolated migration, recovery, restart, security and local scale checks now pass. Its **full exit remains FAIL** because the complete Member/Reception browser journey and error-state acceptance are still open; unresolved commercial policies stay unconfigured. No real balances, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 
 HW-1A now runs an owner-authorized passive observer locally for an offline operational evidence window. Ten observer core tests passed on both development and target systems; short target resource and post-install health checks passed, and the operator confirmed ordinary work continued without interruption. A confidential static desktop UI inventory supports familiar future reception workflows. Representative flow analysis, dynamic UX parity and physical compatibility remain pending; no equipment command or legacy application change occurred. See [update notes](UPDATE-NOTES.md).
 
 LOCAL-0 establishes a working independent local platform foundation: Nest/Next, PostgreSQL/Redis and an internal worker, using generated development configuration and synthetic data. Branded Persian login and permission-derived workspace navigation now connect to the independent backend. Minimal reception, management, CRM, member and technical shells establish the product layout without claiming complete business engines.
 
-Local automated checks cover application startup, workspace navigation, responsive light/dark surfaces, data integrity and recovery. A clean-clone setup was also exercised. This is a development milestone, not a deployment or production acceptance. The deployed validation environment remains 0.12.4; full product migration/parity and later integrations remain separate reviewed phases.
+Local automated checks cover application startup, workspace navigation, responsive light/dark surfaces, data integrity and recovery. A clean-clone setup was also exercised. This is a development milestone, not a deployment or production acceptance. The current installed validation version needs a fresh, separate verification; full product migration/parity and later integrations remain separate reviewed phases.
 
 ## Earlier audit checkpoint (historical)
 

@@ -1,3 +1,11 @@
+## 2026-10-07 — Isolated platform integration checkpoint
+
+The private team combined the approved planning history with the latest local platform candidate in a separate integration branch. Synthetic database setup, role and branch authorization, service restarts, backup/restore and build checks passed. The integrated baseline remains **FAIL** at its schema alignment gate; the database model must be reconciled before admission.
+
+This is a local engineering checkpoint. It does not complete the membership product milestone or authorize a deployment, real financial activity, equipment action or next phase. No customer data was used.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local membership/access validation closure
 
 The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
