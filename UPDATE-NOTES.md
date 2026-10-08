@@ -313,3 +313,8 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 A synthetic local review account can now open the five operational workspaces that the current preview API authorizes and switch between them from the workspace menu. Real browser checks covered navigation and mobile/desktop light/dark display. Specialist access and production administration are still pending; this is an unreleased review fixture.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — R8.2 product navigation and dashboards
+
+The Member app now starts with a clearer home and a glass-style hamburger menu for grouped sections, alongside its mobile quick navigation. Management uses labeled charts for existing branch CRM figures, and CRM presents daily work in more distinct lanes. These are visual and navigation changes verified in an isolated browser preview; unavailable data and specialist permissions remain unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

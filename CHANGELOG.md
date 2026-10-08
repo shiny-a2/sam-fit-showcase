@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — R8.2 workspace visual polish (unreleased)
+
+- Improved grouped workspace navigation, the Member home and mobile glass-style menu, and Management's chart presentation.
+- Made CRM work lanes easier to scan using the existing authorized data; charts and counts do not imply unavailable financial or complete worklist data.
+- Reviewed Member, Management and CRM in a real mobile/desktop browser matrix across light and dark themes. No deployment or release version changed.
+
 ## 2026-10-08 — Local admin workspace review (unreleased)
 
 - Enabled a synthetic local review account to move among the five currently available operational workspaces through backend-authorized navigation.
