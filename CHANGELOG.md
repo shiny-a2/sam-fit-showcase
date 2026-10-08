@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local audit foundation verified (unreleased)
+
+- Verified the existing append-only audit history, safe actor/branch context and transaction rollback on a required audit failure.
+- Made audit timestamps timezone-aware and restricted audit context to small, validated fields.
+- Passed synthetic authorization, replay, financial/access and service-recovery checks; retention and production audit access remain open. No deployment, version change or customer data.
+
 ## 2026-10-08 — Local Web/PWA foundation verified (unreleased)
 
 - Reused the existing Web shell and checked its configuration, routes, session boundaries and browser installability.

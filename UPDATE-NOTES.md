@@ -1,3 +1,13 @@
+# 2026-10-08 — Local audit foundation update
+
+The existing Sam Fit audit history now passes a scoped local foundation check. Synthetic tests verified that past records cannot be edited or deleted through normal database operations, that a required audit failure rolls back its associated action, and that repeated commands do not create duplicate success history. The team also checked minimal actor and branch context, separate request and command references, and an unambiguous UTC timestamp.
+
+This result applies only to a separate synthetic environment. An audit listing was not added, and retention and future production access still require policy decisions. The next backup/restore foundation step has not begun. No customer data, real transaction, deployment, equipment action or version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local Web/PWA foundation update
 
 The existing Sam Fit Web shell now passes its isolated local foundation gate. Real browser checks covered sign-in, workspace routing, refresh and navigation, mobile and desktop themes, its installable manifest, session expiry and recovery after the API was temporarily stopped and restarted. The Web build also rejects a mismatched local API configuration instead of silently connecting elsewhere.
