@@ -1,3 +1,10 @@
+## 2026-10-08 — Local member-login identity boundary verified (unreleased)
+
+- Hardened the existing private sign-in boundary so a staff-only account cannot inherit Member self access from a shared person record.
+- Verified permission-derived workspace choices, branch denials, session logout protection and recovery using synthetic accounts.
+- Passed 29 real API matrix rows, 17 integration categories, 15 browser checks across mobile/desktop themes and two local outage probes.
+- Routed a future Task completion and cross-domain handoff requirement without building it. Staff login and the wider identity phase remain open. No deployment, main merge, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local platform foundation macro exit reviewed (unreleased)
 
 - Accepted eight cumulative local foundation steps for their defined synthetic scope after an integration, data-integrity, security and failure review.

@@ -1,3 +1,13 @@
+# 2026-10-08 — Local member-login boundary update
+
+The private Sam Fit candidate now passes the Member login step for a defined local synthetic scope. It uses the existing sign-in and permission foundations. Reviewers checked that Member and Staff identities remain separate even when they belong to the same person, that only granted workspaces and branches appear, and that invalid sessions and unauthorized routes are denied. Login, logout and recovery were exercised in a real browser and against the local API.
+
+The next action is entry review for staff login. The full identity phase, complete product journeys, operator acceptance and production policy are still open. A future Task completion and cross-domain handoff requirement was recorded for later planning. No deployment, main merge, version change, customer record, real financial transaction or equipment action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local platform foundation exit review
 
 The private Sam Fit platform candidate has passed its overall foundation exit for a defined local synthetic scope. The review checked that all eight foundation steps belong to one cumulative source history and that the database, cache, API, background worker, Web app, audit and local backup work together. Two independent clean rebuilds and earlier outage and recovery checks support this decision.
