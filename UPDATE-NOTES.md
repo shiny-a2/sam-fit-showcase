@@ -300,3 +300,11 @@ Reception, CRM and Management now use a focused desktop sidebar with authorized 
 The Saturday software gate remains **FAIL**: CRM still needs actionable follow-up, renewal and retention queues, and newer Reception/CRM service integrations need populated browser checks. Receptionist and CRM operator acceptance remains separate. This is a local preview update; no customer data, payment, hardware action, deployment or version change occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — R8.1 operational integration checkpoint
+
+The local Sam Fit preview now offers server-backed CRM renewal, retention and win-back queues, actionable first-page work rows, Member and Lead context, and a Management view focused on overdue work. Reception search, software visits, locker changes and uncertain-command recovery were exercised against the accepted Reception feature API. A separate browser run verified current account lifecycle rules, including live workspace removal and disabled-session clearing. All test records were synthetic.
+
+The Saturday software result remains **FAIL** because the accepted Auth, CRM and Reception features have not yet been reconciled into one accepted runtime; complete operator FollowUp and open Opportunity worklists and the remaining error-state browser checks are also open. Human Reception and CRM acceptance stays pending. No real Pasdaran data, payment, hardware command, deployment or release version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

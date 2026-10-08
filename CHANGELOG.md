@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Saturday R8.1 integration checkpoint (unreleased)
+
+- Connected operational CRM queues, Member and Lead context, Reception workflow and Management attention to their accepted feature APIs in isolated synthetic browser environments.
+- Verified live authorization changes and account disable behavior against the latest accepted account lifecycle API, plus software Visit and lost-response recovery against the Reception API.
+- Retained a failed software gate until a single accepted combined runtime, complete operator worklists and the remaining error-state checks are available. Reception and CRM human reviews remain pending; no real customer data or deployment was used.
+
 ## 2026-10-08 — Saturday operational UX checkpoint (unreleased)
 
 - Introduced a workspace-aware desktop sidebar and mobile drawer for Reception, CRM and Management.
