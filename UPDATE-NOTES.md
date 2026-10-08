@@ -263,3 +263,11 @@ The R7 product preview was checked against the newest accepted local branch auth
 The earlier role-grant check remains historical evidence. Specialist production access and role administration are still pending; the separate disposable role-review preview is not part of the accepted authorization baseline. No deployment or public release version changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Member onboarding experience and contract handoff (unreleased)
+
+The private Sam Fit candidate now includes a seven-step Member Profile setup preview. Members can review the flow in Persian or English, move between steps, skip optional sections, and see when a response is required. The preview says clearly that answers are not saved yet. Its temporary answers clear when the preview closes.
+
+Why it matters: the product flow and future server contract can now be reviewed together without presenting incomplete profile collection as a finished service. Owner-approved requirements have been routed for Member profile, historical metrics, purpose-specific Member360, privacy and explainable CRM segments. Marketing consent remains separate from contact preferences; sensitive body data is excluded from CRM targeting. Real local browser checks used the accepted Phase-02.05 authentication baseline across four widths and both themes. Automatic first-login opening, save/resume, final server completion and segment delivery await approved backend and privacy contracts. No deployment, customer data or release version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Member onboarding candidate (unreleased)
+
+- Added a seven-step bilingual Member Profile preview with responsive navigation and honest unsaved-state messaging.
+- Routed owner-approved profile, metrics, consent, Member360 and CRM segmentation requirements to their future service phases.
+- Verified local browser presentation with accepted Phase-02.05 authorization at four widths in light and dark themes; persistence and first-login activation remain pending.
+- No deployment or public release version change.
+
 ## 2026-10-08 — Current branch authorization baseline (unreleased)
 
 - Updated R7 integration checks to the accepted Phase-02.05 branch authorization baseline while retaining the previous role-grant pass as historical evidence.
