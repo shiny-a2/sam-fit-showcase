@@ -1,3 +1,9 @@
+## 2026-10-08 — Member onboarding requirements routed (unreleased)
+
+Six owner-approved Member onboarding requirements were copied from the private design-freeze record into the main development requirement register. They now have named future owners for onboarding state, purpose-specific Member360, CRM-safe segments, body metrics, goals and consent. This makes the backend and privacy handoff traceable while preserving the frozen UI design boundary.
+
+This update changes planning records only. Persistence, projections, segmentation, consent policy, human/accessibility acceptance and the wider identity phase remain open. No product interface, backend feature, cursor, release or deployment changed.
+
 ## 2026-10-08 — Bounded account lifecycle verified locally (unreleased)
 
 The owner approved a narrow account lifecycle policy for the independent platform candidate. An explicitly authorized local administrator can disable or reactivate eligible User and Staff identities; signed-in people can change their own password, and Members can reset theirs through a verified SMS code in the synthetic test environment. Account changes end affected sessions and preserve separate Member and Staff accounts, even when they belong to one person. The login and account security screens now support the approved self-service flows.

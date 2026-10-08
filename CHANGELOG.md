@@ -1,3 +1,9 @@
+## 2026-10-08 — Member onboarding requirements synchronized (unreleased)
+
+- Routed six owner-approved requirements to their future capabilities and phases in the private control plane.
+- Recorded pending backend, privacy and human acceptance work without changing product status or the current development cursor.
+- No UI or backend implementation, deployment or version change.
+
 ## 2026-10-08 — Account lifecycle verified locally (unreleased)
 
 - Added a bounded, audited account status and self password update flow in the private synthetic candidate, with Member SMS code recovery.
