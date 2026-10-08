@@ -1,3 +1,13 @@
+# 2026-10-08 — Local staff-login boundary update
+
+The private Sam Fit candidate now passes Staff login for a defined local synthetic scope. Sign-in requires an active Staff identity, current role and branch grants, and only server-authorized workspaces appear. A staff account cannot gain Member access merely because the two accounts belong to the same person. Disabling Staff or removing a grant removes its workspace authority on the next protected request.
+
+The review passed 42 real API cases, 29 Member-login regression cases, 17 integrated categories, 16 authenticated browser checks across mobile and desktop themes, two actual service outages and an isolated database restore. The next action is session-revocation entry review only. The wider identity phase, staff administration, full product journeys, operator acceptance and production policy remain open. No deployment, main merge, version change, customer data, real financial transaction or equipment action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local member-login boundary update
 
 The private Sam Fit candidate now passes the Member login step for a defined local synthetic scope. It uses the existing sign-in and permission foundations. Reviewers checked that Member and Staff identities remain separate even when they belong to the same person, that only granted workspaces and branches appear, and that invalid sessions and unauthorized routes are denied. Login, logout and recovery were exercised in a real browser and against the local API.

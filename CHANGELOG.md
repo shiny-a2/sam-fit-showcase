@@ -1,3 +1,10 @@
+## 2026-10-08 — Local staff-login boundary verified (unreleased)
+
+- Required an active Staff identity, current grants and valid branch scope for staff sign-in and subsequent protected requests.
+- Preserved separate Member and Staff authority, including two accounts for one person and multi-role workspace choices.
+- Passed 42 real API authorization checks, 29 Member regressions, 17 integration categories, 16 browser checks, two service-outage probes and an isolated database restore.
+- Closed only the staff-login step in a private candidate. Session-revocation entry review is next; no deployment, main merge, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local member-login identity boundary verified (unreleased)
 
 - Hardened the existing private sign-in boundary so a staff-only account cannot inherit Member self access from a shared person record.
