@@ -1,3 +1,10 @@
+## 2026-10-08 — Local branch authorization verified (unreleased)
+
+- Restricted human workspace and record access to currently active, explicitly authorized branches. Removed assignments take effect on the next protected request.
+- Checked that a branch named in a request cannot substitute for the actual branch of a member or CRM record. Existing Member and Staff account separation and permitted Member feedback remain intact.
+- Passed 34 real API checks, earlier identity and role-grant regressions, 17 integration categories, four Chrome cases across mobile/desktop and light/dark, and four dependency recovery probes.
+- Commercial cross-branch rules and production policy remain open. No specialist access, deployment, main merge, version change, customer data, real transaction or equipment action occurred.
+
 ## 2026-10-08 — Bounded local role grants verified (unreleased)
 
 - Added a narrowly authorized way to add or remove existing Reception and CRM roles for active staff in selected active branches. Workspace choices update on the next request without a new login.

@@ -34,6 +34,12 @@
 
 # Changelog
 
+## 2026-10-08 — Local branch authorization verified (unreleased)
+
+- Hardened active branch and stored-record authorization in the isolated development candidate.
+- Verified assignment removal, inactive and foreign branch denial, identity regressions, Chrome behavior and database/cache recovery with synthetic data.
+- The wider identity phase and production acceptance remain open; no deployment or version change.
+
 ## 2026-10-08 — Local reproducibility foundation verified (unreleased)
 
 - Rebuilt the isolated platform twice from independent clean source checkouts with fresh dependencies, database and cache state.
