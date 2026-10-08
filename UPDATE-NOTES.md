@@ -1,3 +1,11 @@
+## 2026-10-08 — Read-only local data preparation checkpoint
+
+The private candidate now has a bounded one-way source mirror with signed local ingestion, durable checkpoints and queue, and shared reconciliation contexts. Source identity and financial references remain candidates, with explicit provenance and unresolved policy states. Replay and read-path recovery checks passed; the private viewer was checked interactively in both themes at mobile and desktop widths. Local login agents preserve continuous retry without changing the operational source.
+
+Saturday integration is still **FAIL**: canonical workspace data-provider integration, a fresh natural business transition and usable operational visual evidence remain incomplete. Source access became unavailable again, while the last valid local records were preserved. Regression fixtures were isolated from preparation views and retained; no destructive cleanup, financial mutation, physical command or biometric enrollment occurred. No customer data, images, counts, source endpoints or credentials are published.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — Passive live observation and recovery validated
 
 The private hardware candidate now validates fresh source-owned connection observations through a signed local ingest, durable storage and separate Reception/Technical views. Connector-only transport interruption, pending-event restart/replay, deduplication and heartbeat recovery passed without changing the operational source or actuating equipment. Compatibility fixes keep the bounded read path working on the existing Windows host.

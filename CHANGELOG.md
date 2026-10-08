@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local data preparation checkpoint
+
+- Add a bounded source mirror, persisted queue/cursors and consistent read-only candidate contexts.
+- Verify replay and prepared-context browser journeys; preserve fixtures and document unresolved identity/financial policy.
+- Keep canonical Saturday workspace readiness at FAIL and physical control/biometric testing disabled.
+
 ## 2026-10-08 — Passive live hardware observation candidate
 
 - Validated fresh source observations, signed local ingest, durable projections and connector-only recovery/replay.
