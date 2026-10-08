@@ -451,3 +451,8 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Added authenticated offline image/identity evidence mapping with private-output guards.
 - Distinguished permitted navigation from unobserved internal screens and documented the local-control dependency.
 - Preserved source-offline operation and the original backup; recovery testing remains planned, not executed.
+
+## 2026-10-08 — Live-source acceptance checkpoint (unreleased)
+
+- Confirm offline connector readiness and keep live validation pending because the source session was unavailable during preflight.
+- No live-source or production acceptance is claimed; no deployment or hardware control was performed.
