@@ -1,3 +1,9 @@
+## 2026-10-09 — Local restored-application recovery (unreleased)
+
+- Verify an isolated API, website and worker against a previously accepted encrypted pilot restore point.
+- Invalidate copied sessions before startup and validate fresh access, truthful monitoring, safe worker state, dependency recovery and read-only data integrity.
+- Keep production recovery, offsite retention, source-system restore and live connector acceptance open; no deployment or hardware action.
+
 ## 2026-10-08 — Restore entry review (unreleased)
 
 - Define the local application-recovery acceptance scope without repeating the verified database backup drill.

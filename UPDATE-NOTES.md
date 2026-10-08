@@ -1,3 +1,9 @@
+## 2026-10-09 — Isolated application recovery verified locally
+
+The private development candidate restored its previously verified encrypted pilot backup into a separate local environment, invalidated copied login sessions, and started an isolated API, website and worker with fresh credentials and cache state. Fresh role-scoped logins and read-only Reception, CRM, Management and Technical journeys worked; the Technical view identifies the restored test environment and reports the source connection as disconnected. Worker safety, dependency outages, restart and data-integrity checks passed for this restore point.
+
+This is a bounded local recovery result. Production disaster recovery, automated retention, offsite custody, native source-system restore and live connector recovery remain separate work. The active pilot and source system were not restored or changed; no deployment, payment, message or hardware command occurred. No customer records, backup files, keys or private endpoints are published.
+
 ## 2026-10-08 — Restore entry scope review
 
 The private development plan now separates the already verified encrypted database backup from a future test of whether an isolated restored application can serve safely. The entry review defines checks for old-session denial, isolated service configuration, fresh Redis and worker state, schema compatibility, and duplicate-effect prevention. It approves only the bounded local test scope; application recovery has not been implemented or accepted.
