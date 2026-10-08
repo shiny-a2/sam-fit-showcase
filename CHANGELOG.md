@@ -1,3 +1,9 @@
+## 2026-10-09 — Local internal replay verification (unreleased)
+
+- Verify one persistent result for repeated synthetic command IDs and safe conflict handling when a payload changes.
+- Verify internal outbox redelivery and worker crash recovery without a second local effect.
+- Keep real financial replay, external delivery, hardware commands and production recovery outside this local proof.
+
 ## 2026-10-09 — Local failure recovery verification (unreleased)
 
 - Verify isolated dependency outages, abrupt worker failure, partial status failure and browser reconnect with truthful error states.

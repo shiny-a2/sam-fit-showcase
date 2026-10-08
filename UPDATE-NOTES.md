@@ -1,3 +1,9 @@
+## 2026-10-09 — Independent local replay verification
+
+The private candidate now checks retry safety for its internal command receipts and background processing. Repeating a synthetic command returned its original result, changing its payload was rejected, and an interrupted worker completed a retried local job with one persistent effect. Internal outbox redelivery likewise retained one receipt.
+
+This scoped test used an isolated copy and no real business command. Real financial replay, external messages, hardware actions and production recovery remain separate acceptance work. No deployment or customer data was involved.
+
 ## 2026-10-09 — Independent local failure recovery verification
 
 The private candidate now has focused fault checks for its local API dependencies, worker and Technical browser status. A failed module displayed an error instead of an empty result, an offline browser cleared its current status, and the worker and dependencies recovered after interruption. An uncertain synthetic command outcome was checked against its existing receipt and persistent local effect, without repeating a business action.
