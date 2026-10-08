@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-09 — Local gym CRM vertical readiness checkpoint (unreleased)
+
+- Mapped CRM product capabilities and pending cross-domain contracts without promoting planned phases.
+- Added source-backed Today visit/result/callback lists and exact counts for renewal, retention and former-member queues in the private candidate.
+- Passed bounded synthetic checks and the CRM-to-Reception regression; full real, live, operator and telephony acceptance remains pending.
+- No deployment, runtime version change, customer-data use, payment, message or hardware operation.
+
 ## 2026-10-08 — CRM R3 engineering freeze (unreleased)
 
 - Documented the stable local CRM data and permission handoff for the Saturday screen redesign and prepared an empty real-operator review worksheet.

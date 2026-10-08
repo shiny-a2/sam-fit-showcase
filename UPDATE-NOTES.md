@@ -1,3 +1,11 @@
+## 2026-10-09 — Gym CRM vertical readiness and Today data contract
+
+The local CRM candidate now has a capability-by-capability readiness board spanning sales, member retention, visits, service opportunities, management, communications and privacy. Source-backed work lists gained planned visits, recorded visit results needing sales follow-up and due callbacks. Renewal, retention and former-member queues now report complete server counts alongside their pages. Isolated checks and the existing CRM-to-Reception journey passed.
+
+This is a development candidate, not full product acceptance. The existing R3 engineering result remains passed; official domain adoption, complete real-data coverage, live refresh, service and finance links, telephony and timed review by a real operator remain separate gates. No customer record, real purchase, message, payment, hardware action, deployment or runtime version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — CRM R3 engineering freeze and design handoff
 
 The locally tested CRM R3 engineering candidate is frozen while the Saturday screen redesign and a real CRM operator review are pending. A handoff now explains the existing data, action states, permissions and honest unavailable-data labels so design work can proceed without inventing sales, attendance or call-system facts. A blank operator worksheet is ready for observed task timing and feedback; no operator result has been entered.
