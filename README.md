@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+The owner-approved live operational UI requirement is now routed in the private control plane. It defines how future Reception, CRM, Management and other authorized workspaces must distinguish current source-backed counts from stale, unavailable or unknown data. This is a planning and acceptance contract; automatic live updates are still pending and the development gate remains unchanged. See [update notes](UPDATE-NOTES.md).
+
 The Saturday candidate now reads a separate local real-data pilot through the same Reception, CRM and Management application build. A small set of imported members resolved consistently across these workspaces, and the browser showed source observations as candidates rather than confirmed membership, visits or spendable wallet balances. A fresh one-way staging update was observed, but end-to-end connector recovery still needs another naturally arriving event during a controlled connector interruption. The next development gate remains closed; no customer-facing release occurred. See [update notes](UPDATE-NOTES.md).
 
 An isolated Saturday software candidate now brings the current identity foundation, CRM, Reception and the R8.1 interface into one local runtime. Synthetic browser and API journeys covered CRM follow-ups and opportunities, planned visits, Reception desk actions, management views, permission changes and recovery from service errors. This is an unreleased software review; the separate real-data pilot and human operator acceptance remain pending. See [update notes](UPDATE-NOTES.md).

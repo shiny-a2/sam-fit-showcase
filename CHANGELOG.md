@@ -1,3 +1,8 @@
+## 2026-10-08 — Live operational UI contract (unreleased)
+
+- Routed a cross-workspace source-backed operational UI requirement and documented freshness, failure, scope and acceptance rules.
+- Recorded remaining live-refresh and real-pilot connector evidence gaps. No runtime, version, gate or deployment change.
+
 ## 2026-10-08 — Real pilot application binding review (unreleased)
 
 - Verified local Reception, CRM and Management reads against one isolated real-data pilot, with clear candidate-source labels.

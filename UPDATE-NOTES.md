@@ -1,3 +1,9 @@
+## 2026-10-08 — Live operational UI requirement routed (unreleased)
+
+- Registered one owner-approved cross-workspace requirement and a projection catalog in the private control plane. It defines source-backed counts, per-domain freshness, safe unavailable/stale states, permission and branch scope, and reconciliation after reconnect.
+- Recorded acceptance checks for the current Saturday candidate and the separate real-data pilot. Existing source-backed reads do not yet establish automatic live refresh; connector recovery and future notification/task projections remain open.
+- This planning update adds no interface or backend feature, uses no demo values as real pilot data, and does not move the development gate, deploy or release the product.
+
 ## 2026-10-08 — Real pilot application binding reviewed (unreleased)
 
 - Connected the combined local application candidate to a separate real-data pilot without mixing in synthetic branch or member fixtures.
