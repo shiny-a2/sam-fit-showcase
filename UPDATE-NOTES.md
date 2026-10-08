@@ -1,3 +1,11 @@
+## 2026-10-08 — Local gym CRM R2 development checkpoint
+
+The private local candidate now gives gym sales staff a focused desktop workspace. Operators can open one action at a time for a follow-up, gym opportunity or planned visit, while separate queues highlight upcoming renewals, low recorded activity and former members who may need a win-back conversation. A limited Member view and branch manager summary connect the work to existing records without presenting estimated revenue or physical attendance as facts.
+
+Authenticated synthetic browser journeys still pass from CRM to Reception and back, and the new queue and permission checks passed locally. The full R2 milestone remains **FAIL**: complete queue filters, no-lead process routes, richer manager analysis, call-center workflow and timed human operator acceptance are open. The deployed Demo and accepted runtime version have not changed. No customer data, real sale, message or hardware action was used.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local membership/access validation closure
 
 The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.

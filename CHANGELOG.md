@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Local gym CRM R2 candidate (unreleased)
+
+- Added a quieter desktop sales workspace with focused actions for follow-ups, opportunities and planned visits.
+- Added explainable, branch-scoped renewal, retention and win-back work queues, limited Member context and a read-only manager summary.
+- Reconciled current Staff and branch authorization behavior; the accepted local CRM-to-Reception journey still passes in authenticated browser tests.
+- Kept R2 status at FAIL pending complete queue filters and process paths, management attribution, call-center workflow and human operator review. No version change, deployment, customer data, payment or hardware action.
+
 ## 2026-10-08 — Local CRM handoff candidate (unreleased)
 
 - Added a private development candidate for planned visits, Reception feedback and next CRM follow-up, with branch-scoped attention and search.
