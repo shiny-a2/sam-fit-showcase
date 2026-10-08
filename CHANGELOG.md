@@ -1,3 +1,9 @@
+## 2026-10-08 — Local identity macro review (unreleased)
+
+- Reconciled seven accepted local human-authentication steps and their shared account, session and branch boundaries.
+- Passed the defined local synthetic phase gate using existing API/browser and fresh migration evidence.
+- Kept production delivery, specialist/machine authority and the next development phase separate; no deployment or version change.
+
 ## 2026-10-08 — Member onboarding requirements synchronized (unreleased)
 
 - Routed six owner-approved requirements to their future capabilities and phases in the private control plane.

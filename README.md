@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+The independent platform’s seven-step human identity phase has passed its defined local synthetic review. The next step is a separate entry review for branch registry work; production and specialist/machine authentication remain open. See [update notes](UPDATE-NOTES.md).
+
 Six approved Member onboarding requirements are now routed to future backend and privacy owners in the private control plane. This planning update does not add a product feature or advance the current development gate. See [update notes](UPDATE-NOTES.md).
 
 The owner-approved account lifecycle step now passes a bounded local synthetic gate. The private candidate supports audited account status changes by an explicitly authorized local administrator, self password change and Member SMS code password recovery. A real API/browser matrix passed 112 cases, including account separation, safe retries, outage handling and responsive light/dark states. This is unreleased; the wider identity phase and production administration remain open. See [update notes](UPDATE-NOTES.md).
