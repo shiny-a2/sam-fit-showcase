@@ -1,10 +1,10 @@
+# Changelog
+
 ## 2026-10-08 — Offline connector engineering checkpoint (unreleased)
 
 - Added mode-aware archive replay, encrypted buffering, schema/version checks and a private image evidence path.
 - Verified isolated outage recovery, duplicate delivery handling and responsive Technical status states.
 - Kept the engineering milestone at FAIL pending biometric archive acceptance and remaining crash-boundary tests. No source connection, hardware command or deployment.
-
-# Changelog
 
 ## 2026-10-08 — Hardware/data connector R3 offline engineering checkpoint
 
