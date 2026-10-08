@@ -1,3 +1,9 @@
+## 2026-10-08 — Restore entry review (unreleased)
+
+- Define the local application-recovery acceptance scope without repeating the verified database backup drill.
+- Record session, environment, worker and schema safety conditions for a later isolated test.
+- Keep implementation, production recovery and source-system restore pending.
+
 ## 2026-10-08 — Local pilot backup verification (unreleased)
 
 - Add encrypted local backup with an authenticated, privacy-safe manifest for the isolated pilot database.

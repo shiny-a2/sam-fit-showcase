@@ -1,3 +1,9 @@
+## 2026-10-08 — Restore entry scope review
+
+The private development plan now separates the already verified encrypted database backup from a future test of whether an isolated restored application can serve safely. The entry review defines checks for old-session denial, isolated service configuration, fresh Redis and worker state, schema compatibility, and duplicate-effect prevention. It approves only the bounded local test scope; application recovery has not been implemented or accepted.
+
+The active pilot, source system and hardware were not changed. Production recovery, retention and native source-system restore remain separate decisions. No customer data, credentials or private recovery material is published.
+
 ## 2026-10-08 — Local pilot backup and recovery check
 
 The private development candidate now creates an encrypted backup of the isolated real pilot database and verifies it by restoring into a second, disposable database. Integrity, schema, migration state and representative application data were checked; corrupted files, wrong keys and unsafe restore targets were rejected. This provides a recoverable local checkpoint if the pilot database is damaged.
