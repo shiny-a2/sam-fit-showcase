@@ -5,7 +5,6 @@ The private candidate now has stronger evidence for synthetic migration replay, 
 The overall milestone remains **FAIL**. The current Member and Reception screens do not yet complete the new entitlement and Charge/unknown-outcome journey, and the requested full browser error-state acceptance is still open. Business policies for overstay, cross-branch commercial use, CIP benefits, freeze extension, refunds, promotional credit and wallet holds remain disabled or unconfigured. No customer data, real charge, deployment, version change or hardware action occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
-
 ## 2026-10-07 — Local membership and access foundation checkpoint
 
 The private local candidate now separates versioned plans, member agreements, service entitlements, explainable access decisions, software visits, configured pricing and wallet-backed visit charges. Synthetic PostgreSQL checks exercised competing check-ins, checkouts, entitlement use, charge retries and reversals; targeted rules, build and reconciliation checks also passed.
@@ -321,5 +320,10 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 ## 2026-10-08 — Focused CRM navigation and customer cards
 
 CRM's daily view is shorter, while Leads, renewal, retention and win-back have their own menu destinations. Selecting a customer opens a commercial record with the information and actions available to that role and branch. Real browser checks covered mobile and desktop in both themes. This remains an unreleased, isolated preview.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Member app visual depth
+
+The Member app now places its grouped menu, flag language control and day/night switch in the header. Core account sections, fitness pages and club service pages have clearer, more distinct visual treatments. Available values come from the authorized account view; pending services do not display invented results. This is an unreleased isolated preview checked at mobile and desktop widths in both themes.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).

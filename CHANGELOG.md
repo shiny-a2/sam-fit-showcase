@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Member app depth and header (unreleased)
+
+- Refined the Member app's home and subpages with clearer visual hierarchy, distinct topic styling and glass surfaces.
+- Brought the Member menu, language flag and day/night control together in the header across Member routes.
+- Checked 19 Member routes in real mobile and desktop browser sessions in both themes. Pending services remain pending.
+
 ## 2026-10-08 — Focused CRM workspace (unreleased)
 
 - Moved Lead records, membership follow-up queues and operator tasks into clear CRM menu destinations, leaving the landing page focused on today's work.
