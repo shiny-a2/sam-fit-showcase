@@ -217,3 +217,10 @@ A private local candidate now separates passive observations from future equipme
 This is local shadow development, with no production deployment or enabled equipment control. Direct recognition transport, device command framing, acknowledgments and physical sensor evidence remain unverified. Archived-source replay is identified separately from fresh live observation. No customer records, endpoints, payloads or confidential implementation details are published.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Saturday reception R2 local validation
+
+The private candidate now shows source equipment observations separately from software visits and locker decisions. Local signed simulator and browser checks covered repeated and late observations, operator-review messages, a closed source visit with an active locker, session changes and recoverable service errors. Canonical Wallet and planned CRM arrival remained on their existing boundaries. No physical command or real customer data was used.
+
+The pilot remains **FAIL** until a real receptionist completes and rates seven paired Nafis/Sam Fit tasks, including speed, input counts, clarity and keyboard use. The equipment check is simulator-only; real recognition and physical results have not been validated. There was no deployment or runtime version change.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

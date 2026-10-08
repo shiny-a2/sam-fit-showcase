@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Saturday reception R2 local validation (unreleased)
+
+- Verified the synthetic Reception journey, branch/session boundaries and browser recovery for access denial, conflict, validation, dependency unavailability and service interruption.
+- Added a clearly marked observation-only equipment view; simulator replay and late events do not create a visit or enable a physical command.
+- Kept pilot acceptance at FAIL until a real receptionist completes seven paired Nafis/Sam Fit tasks. No deployment or runtime version change.
+
 ## 2026-10-08 — Saturday reception R1 local validation (unreleased)
 
 - Verified the complete synthetic reception browser journey against the actual local API and database, including canonical Wallet read, planned CRM arrival and same-visit locker change.
