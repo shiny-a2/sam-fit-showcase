@@ -271,3 +271,11 @@ The private Sam Fit candidate now includes a seven-step Member Profile setup pre
 Why it matters: the product flow and future server contract can now be reviewed together without presenting incomplete profile collection as a finished service. Owner-approved requirements have been routed for Member profile, historical metrics, purpose-specific Member360, privacy and explainable CRM segments. Marketing consent remains separate from contact preferences; sensitive body data is excluded from CRM targeting. Real local browser checks used the accepted Phase-02.05 authentication baseline across four widths and both themes. Automatic first-login opening, save/resume, final server completion and segment delivery await approved backend and privacy contracts. No deployment, customer data or release version changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Member onboarding recovery contract correction (unreleased)
+
+The proposed Member setup contract now separates lost access from recoverable interruptions. A revision conflict keeps the member's unsaved answers for review against the server version. A service outage keeps a short-lived draft available only to the same account and session, so the request can be retried safely. Session revocation or loss of draft ownership makes sensitive local answers inaccessible. An uncertain completion must be checked against its original request before another action is taken.
+
+Why it matters: members should not lose valid answers after a temporary interruption, and another person using the same device must not inherit them. This is a contract and QA update; the current preview still does not save answers. No backend persistence, deployment, customer data or release version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

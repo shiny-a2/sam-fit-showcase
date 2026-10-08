@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Member onboarding recovery contract (unreleased)
+
+- Clarified proposed draft recovery: preserve bounded same-session edits on conflict or outage, and invalidate sensitive local data after lost access or account change.
+- Added original-request reconciliation for uncertain completion and corresponding pending QA checks.
+- Documentation only; no backend persistence, deployment or release version change.
+
 ## 2026-10-08 — Member onboarding candidate (unreleased)
 
 - Added a seven-step bilingual Member Profile preview with responsive navigation and honest unsaved-state messaging.
