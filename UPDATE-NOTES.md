@@ -327,3 +327,9 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 The Member app now places its grouped menu, flag language control and day/night switch in the header. Core account sections, fitness pages and club service pages have clearer, more distinct visual treatments. Available values come from the authorized account view; pending services do not display invented results. This is an unreleased isolated preview checked at mobile and desktop widths in both themes.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Clearer Member, Management and operator journeys
+
+Member home has a shorter account snapshot. Management puts current work and chart navigation closer to the decision, while CRM highlights one current server-backed item to open next. Reception search and empty states are clearer. Keyboard and mobile menu behavior also received attention. Browser review covered Member, Manager, CRM and Reception in both themes at mobile and desktop widths. This remains an unreleased isolated preview with synthetic data.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Clearer product hierarchy (unreleased)
+
+- Simplified the Member home, made Management metrics easier to scan, and brought an authorized CRM next item forward.
+- Refined Reception search, grouped operator navigation and keyboard access across the local preview.
+- Checked four workspaces at mobile and desktop widths in light and dark themes using synthetic data.
+
 ## 2026-10-08 — Member app depth and header (unreleased)
 
 - Refined the Member app's home and subpages with clearer visual hierarchy, distinct topic styling and glass surfaces.
