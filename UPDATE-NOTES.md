@@ -1,3 +1,9 @@
+## 2026-10-09 — Independent local restart verification
+
+The private development candidate now has a repeatable local restart check for its API, website, worker and cache. The check also interrupted database connectivity without restarting or restoring the database. A protected browser session reconnected, current access restrictions remained enforced, monitoring reflected outages and recovery, and internal processing produced one recorded result after a retry.
+
+This verification used an isolated test copy. It does not establish production high availability, recovery time guarantees, external message delivery or live source and hardware recovery. The active pilot was not restarted or changed, and no deployment occurred. No customer records, private endpoints or credentials are published.
+
 ## 2026-10-09 — Reception vertical coverage review
 
 The private Reception candidate now refreshes selected member status and expected visitor information while the desk is open. Synthetic browser checks covered an external software check-in and checkout appearing without manual refresh, a newly planned visitor, offline/reconnect behavior and exact short-reference search. The existing recovery and security checks remained green.

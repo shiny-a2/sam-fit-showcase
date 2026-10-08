@@ -1,3 +1,9 @@
+## 2026-10-09 — Local restart verification (unreleased)
+
+- Verify bounded API, website and worker restarts, plus cache and database connectivity recovery, in an isolated local test environment.
+- Confirm current access checks and one-time internal processing survive restart without creating duplicate business effects.
+- Keep production high availability, external delivery and live source recovery separate; no deployment or hardware action.
+
 ## 2026-10-09 — Local restored-application recovery (unreleased)
 
 - Verify an isolated API, website and worker against a previously accepted encrypted pilot restore point.
