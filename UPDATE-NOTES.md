@@ -1,3 +1,7 @@
+## 2026-10-08 — Account lifecycle entry review blocked (unreleased)
+
+The next identity step was reviewed against the private project's capability register. Account lifecycle remains blocked because the product owner has not yet defined which account changes are allowed, who may request them, and how they affect active sign-ins and recovery. The team recorded a clear decision request and kept the current Member and Staff login behavior intact. This checkpoint contains no new account controls, lifecycle API, browser acceptance or deployment. The prior optional Member SMS login result remains the last locally verified identity step.
+
 ## 2026-10-08 — Optional Member SMS login verified locally (unreleased)
 
 The owner approved optional SMS-based sign-in and recovery for Members while keeping passwords primary for both Members and Staff. A private local candidate now uses a synthetic message receiver and the existing account session. Twenty-four isolated API/browser scenarios passed, including expired and reused codes, repeated attempts, separate Member and Staff accounts, service interruptions, and mobile/desktop light/dark login states. No real SMS, production sender, Staff MFA or manual recovery was enabled. The wider identity phase remains open; there was no deployment, version change, customer data, real transaction or equipment action.

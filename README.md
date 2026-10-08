@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+The account lifecycle entry review is blocked pending product-owner decisions about allowed account changes, authorization and sign-in effects. This is a documentation checkpoint with no new account control or runtime acceptance; optional Member SMS login remains the last locally verified identity step. See [update notes](UPDATE-NOTES.md).
+
 The product owner has approved optional Member SMS login as a local synthetic alternative and recovery path. Password remains the primary sign-in method for Member and Staff. The private candidate passed 24 local API/browser scenarios, including account separation, single-use codes, service outages and responsive light/dark login states. No real SMS was sent; production delivery, Staff MFA, manual recovery and the wider identity phase remain open.
 
 Branch authorization now has a scoped local synthetic acceptance result alongside Member login, Staff login, session revocation and bounded role grants. Active branch choices are checked again on the server against current permissions and the actual branch of a requested record. Tests covered removed assignments, foreign records, inactive branches, session freshness and service recovery. This is an isolated development result; commercial cross-branch policy, complete product journeys and production acceptance remain later gates.

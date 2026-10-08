@@ -1,3 +1,8 @@
+## 2026-10-08 — Account lifecycle entry blocked (unreleased)
+
+- Documented the missing owner decisions on account state changes and authorization.
+- Kept existing identity behavior and the last verified local milestone unchanged; no runtime feature, release or deployment.
+
 ## 2026-10-08 — Optional Member SMS login verified locally (unreleased)
 
 - Added an optional Member alternative/recovery login in a private synthetic test environment; passwords remain primary for Member and Staff.
