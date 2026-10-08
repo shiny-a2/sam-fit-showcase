@@ -3,7 +3,8 @@
 ## 2026-10-08 — Local CRM handoff candidate (unreleased)
 
 - Added a private development candidate for planned visits, Reception feedback and next CRM follow-up, with branch-scoped attention and search.
-- Passed synthetic service checks and responsive visual review; kept pilot status FAIL pending the complete real API browser journey and safe result recovery.
+- Passed the defined local synthetic CRM → Reception → CRM follow-up journey through the feature API, including safe recovery when a committed Reception result received an uncertain browser response.
+- Checked branch and duplicate protections, responsive light/dark layouts, and mobile/desktop interaction states. The scoped local pilot status is PASS; broader operator and production acceptance remain separate.
 - No version change, deployment, customer data, payment or hardware action.
 
 ## 2026-10-07 — Clearer validation roles
