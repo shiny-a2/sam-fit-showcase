@@ -1,3 +1,11 @@
+## 2026-10-09 — Reception vertical coverage review
+
+The private Reception candidate now refreshes selected member status and expected visitor information while the desk is open. Synthetic browser checks covered an external software check-in and checkout appearing without manual refresh, a newly planned visitor, offline/reconnect behavior and exact short-reference search. The existing recovery and security checks remained green.
+
+A cross-domain capability review identified the remaining canonical service, real-data, notification and hardware dependencies. Their owners must provide accepted contracts before the desk can claim complete product coverage. Real receptionist acceptance is still pending, so the overall Reception pilot remains **FAIL**. No customer data, physical command, deployment or runtime version change was involved.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Isolated application recovery verified locally
 
 The private development candidate restored its previously verified encrypted pilot backup into a separate local environment, invalidated copied login sessions, and started an isolated API, website and worker with fresh credentials and cache state. Fresh role-scoped logins and read-only Reception, CRM, Management and Technical journeys worked; the Technical view identifies the restored test environment and reports the source connection as disconnected. Worker safety, dependency outages, restart and data-integrity checks passed for this restore point.

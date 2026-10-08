@@ -24,6 +24,12 @@
 
 # Changelog
 
+## 2026-10-09 — Reception vertical coverage review (unreleased)
+
+- Mapped Reception's shared product dependencies and separated locally verified workflows from services and live-data contracts still owned by other teams.
+- Added bounded, branch-scoped refresh for the open Reception desk and exact short-reference search; local browser tests covered live updates, offline recovery and keyboard use.
+- Kept real-data integration, operator acceptance and hardware control gates open. No deployment or runtime version change.
+
 ## 2026-10-08 — R3.3 offline connector closure
 
 - Complete offline archive crash-recovery validation and authenticated role-based status QA across Technical and Reception views.
