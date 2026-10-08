@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Reception desk and Member navigation (unreleased)
+
+- Reorganized the Reception preview around member lookup, expected visitors, a concise operational context, and a read-only locker status view. This makes the next desk action easier to find while keeping device control outside the UI.
+- Made all Member mobile submenu destinations visible in a color-coded glass drawer and named the first section Dashboard consistently.
+- Documented the backend search, operational projection, authorization, and hardware gates needed for a complete Reception product. Real browser checks covered mobile/desktop and light/dark themes with synthetic local data. Scoped member search is still unavailable in the current local service; no deployment or hardware action occurred.
+
 ## 2026-10-08 — Clearer product hierarchy (unreleased)
 
 - Simplified the Member home, made Management metrics easier to scan, and brought an authorized CRM next item forward.

@@ -333,3 +333,13 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 Member home has a shorter account snapshot. Management puts current work and chart navigation closer to the decision, while CRM highlights one current server-backed item to open next. Reception search and empty states are clearer. Keyboard and mobile menu behavior also received attention. Browser review covered Member, Manager, CRM and Reception in both themes at mobile and desktop widths. This remains an unreleased isolated preview with synthetic data.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Reception and Member experience checkpoint
+
+The private local preview now gives reception staff three clear starting paths: find a member, see expected visitors, or inspect recorded locker status. Once a member is selected, the access decision and permitted software visit action stay prominent while secondary details are grouped. The locker overview is read-only and does not represent a live device state.
+
+The Member mobile drawer now reveals every existing destination across five visually distinct categories, with Dashboard named consistently in both languages. These changes reduce scanning effort on small screens. Browser review covered both themes at phone and desktop widths without horizontal overflow.
+
+A new private implementation report records the current and required contracts for search, member context, visits, lockers, authorization, conflict recovery, and any future hardware integration. The current isolated service returns an unavailable response for scoped Reception search, so the complete desk journey remains pending backend integration and operator review. No production data, physical device, payment, deployment, or release version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
