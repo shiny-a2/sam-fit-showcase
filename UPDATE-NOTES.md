@@ -189,3 +189,9 @@ The isolated Sam Fit Demo has a private, unreleased presentation candidate. It m
 The candidate has passed source syntax and a small light/dark responsive component review. The deployed Demo has not changed. Final product-contract reconciliation, authenticated screenshots and release review remain pending; no new backend, payment, hardware or AI service is claimed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — First interim offline observation review
+
+An authenticated interim observation export was retrieved and analyzed while local collection continued. Natural automatic restart survival was verified. An observer-only startup setting now removes its delayed start without restarting the source application or PC; behavior under that setting remains to be checked at the next natural boot.
+
+The review distinguishes software attendance closure, personnel auto-exit semantics, allocation changes and connection attempts from physical passage, door state and device outage. Implementation notes now specify separate evidence types, boot-aware clocks and reconciliation of conflicting software states. Complete physical flows, wiring/sensor verification and the full observation window remain open. Customer records, operational timelines, network details and confidential evidence are not published.

@@ -379,3 +379,9 @@ The previously installed observer already has automatic startup and its own fail
 
 - Prepared a clearer mobile CRM sales-visit summary and account-activity visibility for validation.
 - Kept the candidate local pending authenticated provenance and release checks; no deployment or runtime version change.
+
+## 2026-10-08 — First interim offline observation review
+
+An authenticated interim observation export was retrieved and analyzed while local collection continued. Natural automatic restart survival was verified. An observer-only startup setting now removes its delayed start without restarting the source application or PC; behavior under that setting remains to be checked at the next natural boot.
+
+The review distinguishes software attendance closure, personnel auto-exit semantics, allocation changes and connection attempts from physical passage, door state and device outage. Implementation notes now specify separate evidence types, boot-aware clocks and reconciliation of conflicting software states. Complete physical flows, wiring/sensor verification and the full observation window remain open. Customer records, operational timelines, network details and confidential evidence are not published.
