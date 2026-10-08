@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Current branch authorization baseline (unreleased)
+
+- Updated R7 integration checks to the accepted Phase-02.05 branch authorization baseline while retaining the previous role-grant pass as historical evidence.
+- Refreshed the current page when its selected branch was removed and checked stored-resource branch boundaries in real local browser sessions.
+- Verified mobile/desktop light/dark states, session controls and no specialist authorization expansion. No deployment, customer data or production credential changed.
+
 ## 2026-10-08 — Local role review (unreleased)
 
 - Added read-only preview homes for Coach, Finance, HR, Warehouse, Cafe, Support, Solarium, Barber and Laundry in a disposable local review environment.

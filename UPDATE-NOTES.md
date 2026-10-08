@@ -255,3 +255,11 @@ A disposable local review setup now has read-only homes for specialist and servi
 Real browser checks covered the synthetic active accounts and both themes at mobile and desktop sizes for the touched screen types. This is a local preview update, with no deployment, customer data or production credential change.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — SAM FIT R7 branch authorization refresh
+
+The R7 product preview was checked against the newest accepted local branch authorization source. A selected branch now leaves the protected view when access to that branch is removed. Real browser checks covered the current role selector, branch additions and removals, protected Member and Lead records, session controls, and four responsive theme and width combinations.
+
+The earlier role-grant check remains historical evidence. Specialist production access and role administration are still pending; the separate disposable role-review preview is not part of the accepted authorization baseline. No deployment or public release version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
