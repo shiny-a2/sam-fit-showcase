@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Passive live hardware observation candidate
+
+- Validated fresh source observations, signed local ingest, durable projections and connector-only recovery/replay.
+- Fixed bounded Windows read-path compatibility; gate/security, bridge regression and real-data browser checks passed.
+- Kept physical commands disabled and production cutover, machine authentication and full reception journey acceptance separate.
+
 ## 2026-10-08 — Saturday reception R3 recovery validation (unreleased)
 
 - Confirmed in the actual local browser/API flow that a committed synthetic check-in is recovered from its original receipt after the browser response is lost, without a duplicate visit or audit record.

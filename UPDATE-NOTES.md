@@ -1,3 +1,11 @@
+## 2026-10-08 — Passive live observation and recovery validated
+
+The private hardware candidate now validates fresh source-owned connection observations through a signed local ingest, durable storage and separate Reception/Technical views. Connector-only transport interruption, pending-event restart/replay, deduplication and heartbeat recovery passed without changing the operational source or actuating equipment. Compatibility fixes keep the bounded read path working on the existing Windows host.
+
+This acceptance covers the passive local device-observation path. Complete member journeys, operator usability review, verified person mapping, production machine authentication and direct physical protocols remain separate work. A subsequent one-way local data mirror is being prepared; this is not production cutover or hardware-control readiness. No source endpoints, credentials, customer data or images are published.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-07 — Local membership/access validation closure
 
 The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
