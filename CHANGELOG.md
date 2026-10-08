@@ -1,3 +1,9 @@
+## 2026-10-08 — Local pilot backup verification (unreleased)
+
+- Add encrypted local backup with an authenticated, privacy-safe manifest for the isolated pilot database.
+- Pass a clean restore into a second database, complete integrity checks and failure-case checks.
+- Keep production disaster recovery, automated retention and native source-system recovery pending; no deployment or hardware action.
+
 ## 2026-10-08 — Real pilot materialization checkpoint (unreleased)
 
 - Materialized source-mapped real identity and locker catalogue data in an isolated local pilot and added guarded source-to-domain reconciliation.

@@ -1,3 +1,9 @@
+## 2026-10-08 — Local pilot backup and recovery check
+
+The private development candidate now creates an encrypted backup of the isolated real pilot database and verifies it by restoring into a second, disposable database. Integrity, schema, migration state and representative application data were checked; corrupted files, wrong keys and unsafe restore targets were rejected. This provides a recoverable local checkpoint if the pilot database is damaged.
+
+This is a local backup verification, not production disaster recovery. Retention, offsite custody, automated recovery and native source-system restore remain separate work. The active pilot database, operational source and hardware were not changed, and no deployment occurred. No customer data, private endpoints, keys or backup files are published.
+
 ## 2026-10-08 — Real pilot domain materialization checkpoint
 
 The isolated Pasdaran pilot now holds source-mapped real member and personnel identities and a real locker catalogue. Reception, CRM and Management read the same member and branch identities, and a branch-scoped Technical login can inspect operational health. Source locker assignments and membership, visit and wallet observations remain labelled as candidates or review evidence; no physical presence, spendable balance or paid entitlement is inferred. A separate synthetic Member tester exercises the member app without mixing test transactions into the real pilot.
