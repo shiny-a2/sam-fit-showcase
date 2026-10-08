@@ -1,3 +1,9 @@
+## 2026-10-08 — Local operational health verified (unreleased)
+
+- Added a compact Technical status view backed by actual API, database, Redis and worker checks. Public health probes remain minimal, while detailed diagnostics require current Technical access.
+- Verified service outage and recovery, permission changes, browser reconnect and responsive light/dark layouts in an isolated local environment. Unknown projection and pilot-source freshness are labelled honestly.
+- This is an independent local capability result. The primary branch-registry gate remains blocked on live connector recovery evidence. No production deployment, alerting, customer transaction or equipment command occurred.
+
 ## 2026-10-08 — Saturday readiness and mainline preflight (unreleased)
 
 - Added a capability readiness board grounded in separate software, real-data, live-data, hardware and human gates. Prepared reuse maps and operator review sheets for the priority workspaces.

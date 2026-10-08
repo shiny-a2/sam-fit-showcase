@@ -1,3 +1,9 @@
+## 2026-10-08 — Operational monitoring foundation (unreleased)
+
+- Added measured service readiness and authorized Technical diagnostics with a responsive status view.
+- Passed local outage, recovery, authorization and browser checks; real pilot connector recovery remains a separate open gate.
+- No version or deployment change.
+
 ## 2026-10-08 — Saturday readiness reconciliation (unreleased)
 
 - Documented a gate-based readiness board, priority-domain adoption plan and operator acceptance sheets.

@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+An independent local monitoring capability now distinguishes API availability, database and Redis readiness, worker heartbeat, and unknown operational data freshness. The Technical view was checked across service outages and responsive light/dark layouts. The primary branch-registry gate remains blocked on live connector recovery evidence; this update is unreleased. See [update notes](UPDATE-NOTES.md).
+
 The private project now has a Saturday readiness board and a reviewed adoption path for Member, CRM, membership, access, Reception and management work. The isolated real-data pilot has passed a bounded read-only cross-workspace identity review. Its connector recovery still needs live evidence, so the next development gate remains closed. Operator acceptance sheets are prepared; no human result or customer-facing release is claimed. See [update notes](UPDATE-NOTES.md).
 
 The owner-approved live operational UI requirement is now routed in the private control plane. It defines how future Reception, CRM, Management and other authorized workspaces must distinguish current source-backed counts from stale, unavailable or unknown data. This is a planning and acceptance contract; automatic live updates are still pending and the development gate remains unchanged. See [update notes](UPDATE-NOTES.md).
