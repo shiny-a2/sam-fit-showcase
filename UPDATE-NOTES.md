@@ -1,3 +1,13 @@
+# 2026-10-08 — Local platform foundation exit review
+
+The private Sam Fit platform candidate has passed its overall foundation exit for a defined local synthetic scope. The review checked that all eight foundation steps belong to one cumulative source history and that the database, cache, API, background worker, Web app, audit and local backup work together. Two independent clean rebuilds and earlier outage and recovery checks support this decision.
+
+The next step is review of entry criteria for the identity phase. Full product journeys, production migration and recovery policy, operator and equipment acceptance remain separate. A future release-management and workspace-specific update communication requirement was recorded for later planning. No deployment, main merge, version change, customer record, real transaction or equipment action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local reproducibility foundation update
 
 The private Sam Fit candidate was rebuilt twice from separate clean source checkouts. Each run installed locked dependencies, generated its own private synthetic configuration, started a fresh database and cache, applied the migration chain and built the API, background worker and Web app. Synthetic sign-in, member and wallet reads, audit, a background job and restart recovery passed in both runs. Missing or incorrect configuration and unavailable services failed clearly.

@@ -1,3 +1,10 @@
+## 2026-10-08 — Local platform foundation macro exit reviewed (unreleased)
+
+- Accepted eight cumulative local foundation steps for their defined synthetic scope after an integration, data-integrity, security and failure review.
+- Confirmed two independent clean rebuilds and recovery evidence across the API, background worker, Web app, database and cache.
+- Routed a future release-management and workspace update communication requirement without implementing it.
+- Opened identity-phase entry review only. No main merge, deployment, version change, customer data, real transaction or equipment action.
+
 # Changelog
 
 ## 2026-10-08 — Local reproducibility foundation verified (unreleased)
