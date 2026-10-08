@@ -1,3 +1,9 @@
+## 2026-10-08 — Real pilot materialization checkpoint (unreleased)
+
+- Materialized source-mapped real identity and locker catalogue data in an isolated local pilot and added guarded source-to-domain reconciliation.
+- Verified consistent member identity across Reception, CRM and Management and branch-scoped Technical access; kept unproven locker, membership, visit and wallet facts at source-candidate authority.
+- Isolated an ordinary synthetic Member tester for member-app checks; real pilot financial, biometric and physical authority remain unchanged. Live natural-event acceptance remains pending, so the result is PARTIAL.
+
 # Changelog
 
 ## 2026-10-08 — R3.3 offline connector closure

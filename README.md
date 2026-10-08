@@ -6,6 +6,8 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
+An isolated real Pasdaran pilot now serves source-mapped member identities and a real locker catalogue across Reception, CRM and Management, with branch-scoped Technical health access. Source-only business facts remain under review and a separate synthetic Member tester covers the member app. This is a **partial local checkpoint**; natural live-update acceptance, physical operations and financial authority are still open. See [update notes](UPDATE-NOTES.md).
+
 The accepted local financial foundation supports a private membership/access candidate with versioned plans, entitlements, explainable access and synthetic visit charging. Isolated migration, recovery, restart, security and local scale checks now pass. Its **full exit remains FAIL** because the complete Member/Reception browser journey and error-state acceptance are still open; unresolved commercial policies stay unconfigured. No real balances, deployment, human acceptance or production readiness is claimed. See the latest update notes.
 
 HW-1A now runs an owner-authorized passive observer locally for an offline operational evidence window. Ten observer core tests passed on both development and target systems; short target resource and post-install health checks passed, and the operator confirmed ordinary work continued without interruption. A confidential static desktop UI inventory supports familiar future reception workflows. Representative flow analysis, dynamic UX parity and physical compatibility remain pending; no equipment command or legacy application change occurred. See [update notes](UPDATE-NOTES.md).

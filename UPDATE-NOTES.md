@@ -1,3 +1,9 @@
+## 2026-10-08 — Real pilot domain materialization checkpoint
+
+The isolated Pasdaran pilot now holds source-mapped real member and personnel identities and a real locker catalogue. Reception, CRM and Management read the same member and branch identities, and a branch-scoped Technical login can inspect operational health. Source locker assignments and membership, visit and wallet observations remain labelled as candidates or review evidence; no physical presence, spendable balance or paid entitlement is inferred. A separate synthetic Member tester exercises the member app without mixing test transactions into the real pilot.
+
+Browser checks covered the three operational workspaces and Technical/Member views at mobile and desktop widths in light and dark themes. Pilot-side reconciliation runs against one-way observations, but a new natural source event has not yet been traced through the entire chain. The result is **PARTIAL**, with live-update and domain-authority acceptance still open. No legacy-system write, hardware command, biometric enrollment, real payment or deployment occurred. No credentials, personal records or private endpoint details are published.
+
 ## 2026-10-08 — Offline connector engineering checkpoint
 
 Added explicit archive-versus-live provenance, encrypted local buffering, schema compatibility checks and a private image-evidence storage path. An isolated historical replay recovered from a database outage and duplicate delivery; responsive Technical status states were checked in a real browser.
