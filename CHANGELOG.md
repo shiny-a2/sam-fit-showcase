@@ -1,3 +1,9 @@
+## 2026-10-08 — Saturday combined local candidate (unreleased)
+
+- Brought identity, CRM, Reception and the latest operator presentation together for one synthetic acceptance run.
+- Completed branch-scoped CRM work and opportunity row lists, plus cross-desk visit feedback and management review.
+- Verified browser error recovery and current access boundaries. Real-data and human acceptance remain pending; no deployment or version change.
+
 ## 2026-10-08 — Isolated real-data pilot preparation (unreleased)
 
 - Added a separate local pilot data boundary and explicit source identity mapping.

@@ -1,3 +1,10 @@
+## 2026-10-08 — Saturday software integration candidate (unreleased)
+
+- Combined the current identity foundation, CRM R3, Reception R3 and R8.1 presentation in one isolated local runtime.
+- Added complete, paginated CRM follow-up and open-opportunity lists for the selected authorized branch, with operator filtering. This lets staff reach individual work records rather than only summary counts.
+- Exercised synthetic CRM-to-Reception handoffs, desk check-in and locker workflow, management views, workspace switching, permission revocation and browser recovery from common errors and outages.
+- Passed local build, schema replay and bounded security checks. Real pilot data, human operator acceptance, production deployment and release remain separate. No customer records, purchase, payment or physical equipment command was involved.
+
 ## 2026-10-08 — Separate real-data pilot prepared (unreleased)
 
 - Prepared an isolated local database with the accepted schema, a verified branch identity, explicit source mappings and a limited read-only source snapshot. The older synthetic development database and its history were left intact.
