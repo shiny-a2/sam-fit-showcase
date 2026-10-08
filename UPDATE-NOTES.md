@@ -262,3 +262,9 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 Added scoped local identity projections and a bounded offline visual-evidence workflow. Encrypted source-backup transfer now checks stream integrity and in-memory roundtrip before offline review. Read-only reception UX analysis separates genuine redacted observations from unverified navigation and hardware effects, helping preserve operator familiarity without inventing acceptance evidence.
 
 Source operations remain unchanged. No biometric enrollment, recognition test, financial transaction or hardware command was performed. Full application acceptance, image reconciliation, physical attribution and operational cutover remain pending. Private records, keys, source details and screenshots are excluded from this showcase.
+
+## 2026-10-08 — Offline R2 evidence mapping
+
+Added an offline-only image/reference analysis tool that verifies authenticated evidence before mapping it to scoped local identity candidates. It separates identity matching from primary-image selection and device-acknowledgment assumptions. Integrity checks reject corrupted ciphertext and prevent private output inside Git.
+
+Read-only navigation permission metadata and an operator-local evidence guide now distinguish permitted menu access from actual screen traversal. The passive observer has no remote GUI-control capability, so additional internal screens remain unverified while the source is offline. Automatic source retries were disabled for this offline round. A separate isolated recovery-test plan records the remaining restore acceptance boundary; no recognition, enrollment, business operation or device command was performed. Private mappings, images, customer data and source identifiers remain excluded from the showcase.

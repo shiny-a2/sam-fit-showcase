@@ -428,3 +428,9 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Verified encrypted offline custody and bounded passive visual evidence capture.
 - Documented reception UX evidence and unknown-action safety boundaries.
 - Kept source mutation, hardware commands and production cutover outside this preparation release.
+
+### 2026-10-08 — Offline R2 preparation
+
+- Added authenticated offline image/identity evidence mapping with private-output guards.
+- Distinguished permitted navigation from unobserved internal screens and documented the local-control dependency.
+- Preserved source-offline operation and the original backup; recovery testing remains planned, not executed.
