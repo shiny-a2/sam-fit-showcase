@@ -397,3 +397,9 @@ The previously installed observer already has automatic startup and its own fail
 
 - Prepared a clearer mobile CRM sales-visit summary and account-activity visibility for validation.
 - Kept the candidate local pending authenticated provenance and release checks; no deployment or runtime version change.
+
+## 2026-10-08 — Full product experience map R4 (unreleased)
+
+- Mapped 367 planned product capabilities to navigation and screen homes, with 282 protected read-only design addresses and 103 reserved primary-role addresses.
+- Added future design views for member habits, reception search, CRM calls, management expenses, technical vision and release information. Unavailable operations remain disabled.
+- Passed synthetic read-only browser review for eight representative screen families across two widths and two themes. Backend, specialist authorization and human acceptance remain open; no deployed version changed.

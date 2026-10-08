@@ -214,3 +214,11 @@ The private Sam Fit candidate received a substantial visual redesign across the 
 Read-only synthetic review passed 20 mobile/desktop light/dark combinations, 30 responsive spot checks, focused interaction checks and sampled contrast checks. The result remains **conditional** while integrated authorization, scoped search and reporting contracts, and human accessibility acceptance are open. No Phase 22/23 capability is claimed as fully verified. No deployment, release, real financial operation or hardware action occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Full product experience map R4 (unreleased)
+
+The private Sam Fit UI candidate now gives every planned Phase 04–25 product capability a documented place in the experience. Members can browse a deeper, read-only design for daily habits and other planned activity areas. Reception, CRM, Management and Technical have protected design pages that explain missing services and keep unavailable actions disabled. The navigation also includes read-only design paths for call follow-up, expenses and future release information. Specialist roles without approved sign-in contracts remain documented design plans, not accessible product workspaces.
+
+Why it matters: teams can review where future functions belong without mistaking a visible page for a working service. A total of 367 capabilities are mapped; 282 screen addresses are available in already authorized workspaces, while 103 primary-role addresses remain reserved. Read-only synthetic browser review covered eight representative screen families in light and dark themes at phone and desktop widths. The candidate remains conditional: complete services, specialist authorization, human acceptance and deeper role-specific pages are still pending. No deployment, customer activity, financial command, call, camera feed or hardware action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
