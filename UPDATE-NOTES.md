@@ -1,3 +1,9 @@
+## 2026-10-09 — Reliability batch and future work routing
+
+Four private reliability checks are now documented as independent local results: isolated application restore, restart, failure recovery and internal replay. The next organization capabilities received a planning preflight only. A requested future points-to-wallet conversion was routed to Loyalty with Wallet as a financial dependency; no conversion rate, money movement or implementation was approved.
+
+The live source-connector acceptance gap still blocks the main development path. These local checks are not a production recovery guarantee, release or deployment. No customer data or private recovery material is published.
+
 ## 2026-10-09 — Independent local replay verification
 
 The private candidate now checks retry safety for its internal command receipts and background processing. Repeating a synthetic command returned its original result, changing its payload was rejected, and an interrupted worker completed a retried local job with one persistent effect. Internal outbox redelivery likewise retained one receipt.

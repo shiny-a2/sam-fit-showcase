@@ -1,3 +1,9 @@
+## 2026-10-09 — Reliability batch and planning preflight (unreleased)
+
+- Record four independently verified local reliability checks: restore, restart, failure recovery and internal replay.
+- Preflight upcoming organization work without starting it; route a future loyalty-to-wallet conversion requirement for policy review.
+- Keep the active source-connector blocker open and avoid deployment or release claims.
+
 ## 2026-10-09 — Local internal replay verification (unreleased)
 
 - Verify one persistent result for repeated synthetic command IDs and safe conflict handling when a payload changes.
