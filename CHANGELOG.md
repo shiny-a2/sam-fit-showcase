@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Unified glass shell and official shield (unreleased)
+
+- Unified the header and day/night switch across Member, Reception, CRM, Management and Technical previews, with one semantic glass treatment for shared surfaces.
+- Added the owner supplied shield beside the existing Sam Fit wordmark and used it for local install icons.
+- Kept a six-item Member mobile dock fixed at the bottom; its Menu control opens the same accessible section drawer as the header control.
+- Verified five authorized workspaces in mobile/desktop light/dark browser sessions, plus a narrow phone check. Specialist workspaces remain pending; no deployment or hardware action occurred.
+
 ## 2026-10-08 — Reception desk and Member navigation (unreleased)
 
 - Reorganized the Reception preview around member lookup, expected visitors, a concise operational context, and a read-only locker status view. This makes the next desk action easier to find while keeping device control outside the UI.

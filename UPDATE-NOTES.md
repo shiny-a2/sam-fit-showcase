@@ -343,3 +343,13 @@ The Member mobile drawer now reveals every existing destination across five visu
 A new private implementation report records the current and required contracts for search, member context, visits, lockers, authorization, conflict recovery, and any future hardware integration. The current isolated service returns an unavailable response for scoped Reception search, so the complete desk journey remains pending backend integration and operator review. No production data, physical device, payment, deployment, or release version changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Shared app identity and navigation
+
+The local Sam Fit preview now uses one consistent glass-style header and day/night switch across the currently authorized workspaces. Shared cards, filters and dialogs use the same semantic surface treatment while keeping status colors and branch authorization intact.
+
+The owner's shield logo now appears as a compact mark alongside the existing wordmark, and the local install icon uses that shield. On Member mobile screens, a fixed six-item dock includes a Menu control that opens the complete section drawer on both core and deeper routes.
+
+Real browser checks covered Member, Reception, CRM, Management and Technical in light and dark themes at phone and desktop widths, plus a 320 px Member layout. Pending specialist spaces, production data and physical controls were not activated. This remains an unreleased local preview.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
