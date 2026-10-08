@@ -1,3 +1,10 @@
+## 2026-10-08 — Bounded local role grants verified (unreleased)
+
+- Added a narrowly authorized way to add or remove existing Reception and CRM roles for active staff in selected active branches. Workspace choices update on the next request without a new login.
+- Checked self/peer escalation, separate Member and Staff accounts, branch scope, disabled identities, repeated/concurrent commands and audit rollback.
+- Passed 61 real API checks, earlier login/session regressions, 17 integration categories, 21 Chrome checks across mobile/desktop light/dark states and three fault probes.
+- Broader production role administration and cross-branch policy remain open. No specialist workspace was enabled; no deployment, main merge, version change, customer data, real transaction or equipment action occurred.
+
 # 2026-10-08 — Local session revocation update
 
 The private Sam Fit candidate now passes a defined local synthetic session-revocation step. A signed-in Member or Staff user can end the current session or all sessions of that account. Two independent browser sessions lose access after the all-session action, while another account remains unaffected. Repeated requests, CSRF failures and temporary database/cache outages were tested against the local services.

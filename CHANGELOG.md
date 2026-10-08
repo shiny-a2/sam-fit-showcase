@@ -1,3 +1,9 @@
+## 2026-10-08 — Bounded local role-grant verification (unreleased)
+
+- Verified a limited, audited staff role assignment and removal flow using synthetic accounts and explicit branch scope.
+- Confirmed immediate authorization refresh, denial of unauthorized changes, safe concurrent replay and failure rollback.
+- Kept broader role policy and production acceptance open; no deployment or version change.
+
 ## 2026-10-08 — Local session revocation verified (unreleased)
 
 - Added an authenticated way to end all sessions of the current account, while keeping single-session logout available.
