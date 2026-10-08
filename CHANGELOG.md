@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Phase 22/23 product experience R2 (unreleased)
+
+- Unified read and recovery states and refined Member, Reception, CRM, Manage and Technical presentation for responsive light/dark use.
+- Passed 20 primary and 30 responsive synthetic browser checks, eight focused UI tests and 40 sampled contrast checks.
+- Kept the outcome conditional pending integrated authorization, missing search/reporting contracts and human accessibility acceptance; no capability verification, release or deployment.
+
 ## 2026-10-08 — Phase 22/23 UI candidate (unreleased)
 
 - Improved private member navigation and truthful availability states across Member, Reception and CRM views; added read-only Manage and Technical snapshots with partial-data and retry states.

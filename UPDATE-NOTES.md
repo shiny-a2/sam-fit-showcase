@@ -198,3 +198,11 @@ Why it matters: members and staff can review a more coherent experience while th
 The outcome is **conditional**. The browser checks used synthetic data; authenticated integrated journeys, role and branch denial checks, human accessibility review, native scoped search, CRM follow-up queues and period/multi-branch management reporting remain open. No complete Phase 22/23 capability, release, deployment, financial action or hardware action is claimed. The deployed validation experience is unchanged.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Phase 22/23 product experience R2 (unreleased)
+
+The private candidate now presents clearer loading, empty, unavailable, denied and retryable states across the Member and operator experience. Member discovery, Reception's unavailable branch search, CRM failure recovery, Manage's partial reports and Technical's read-only status are easier to understand. Shared interaction and layout refinements improve the light/dark and mobile/desktop experience.
+
+Read-only synthetic browser review passed 20 primary combinations and 30 responsive spot checks. Eight focused UI tests and 40 sampled contrast checks passed. The result is **conditional**: integrated authentication, branch-scoped search and reporting contracts, and human accessibility acceptance remain open. No Phase 22/23 capability is claimed as verified. No deployment, release, customer record, financial transaction or hardware action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
