@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local role review (unreleased)
+
+- Added read-only preview homes for Coach, Finance, HR, Warehouse, Cafe, Support, Solarium, Barber and Laundry in a disposable local review environment.
+- Kept each preview behind an explicit workspace grant and preserved the existing production authorization boundary.
+- Checked active synthetic account sign-in and responsive views; no production credentials, deployment or release version changed.
+
 ## 2026-10-08 — Workspace access freshness R7 (unreleased)
 
 - Kept the workspace selector in sync with current authorized access, including when an existing session gains or loses a bounded local role grant.

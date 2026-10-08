@@ -247,3 +247,11 @@ The product preview now refreshes its workspace choices from current account aut
 The accepted role-grant service is local and narrowly scoped. This update adds no role-administration screen, specialist access or production grant policy, and it changes no existing usernames or passwords. No deployment, customer data or version change is included.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — SAM FIT local role review
+
+A disposable local review setup now has read-only homes for specialist and service roles, including coaching, cafe, solarium, barber and laundry. The pages let reviewers inspect the product experience while keeping orders, payments and role administration inactive. Each account sees only its explicit workspace through the existing authorization projection.
+
+Real browser checks covered the synthetic active accounts and both themes at mobile and desktop sizes for the touched screen types. This is a local preview update, with no deployment, customer data or production credential change.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
