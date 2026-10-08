@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Phase 22/23 visual experience R3 (unreleased)
+
+- Redesigned Member and authorized staff layouts with clearer navigation, task hierarchy and loading states.
+- Added restrained interaction motion, mobile workspace drawer and reduced-motion behavior; synthetic browser and keyboard checks passed.
+- Kept the result conditional pending integrated contracts and human acceptance; no capability verification, release or deployment.
+
 ## 2026-10-08 — Phase 22/23 product experience R2 (unreleased)
 
 - Unified read and recovery states and refined Member, Reception, CRM, Manage and Technical presentation for responsive light/dark use.

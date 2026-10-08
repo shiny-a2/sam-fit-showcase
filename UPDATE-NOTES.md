@@ -206,3 +206,11 @@ The private candidate now presents clearer loading, empty, unavailable, denied a
 Read-only synthetic browser review passed 20 primary combinations and 30 responsive spot checks. Eight focused UI tests and 40 sampled contrast checks passed. The result is **conditional**: integrated authentication, branch-scoped search and reporting contracts, and human accessibility acceptance remain open. No Phase 22/23 capability is claimed as verified. No deployment, release, customer record, financial transaction or hardware action occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Phase 22/23 visual experience R3 (unreleased)
+
+The private Sam Fit candidate received a substantial visual redesign across the Member experience and five authorized workspaces. A clearer workspace menu, stronger page hierarchy, more useful loading layouts and restrained motion make routine navigation and scanning easier. Reception now places search context beside new-record entry on desktop; CRM, Manage and Technical have more distinct working layouts. Motion respects reduced-motion preferences and keeps keyboard focus visible.
+
+Read-only synthetic review passed 20 mobile/desktop light/dark combinations, 30 responsive spot checks, focused interaction checks and sampled contrast checks. The result remains **conditional** while integrated authorization, scoped search and reporting contracts, and human accessibility acceptance are open. No Phase 22/23 capability is claimed as fully verified. No deployment, release, real financial operation or hardware action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
