@@ -1,3 +1,13 @@
+# 2026-10-08 — Local reproducibility foundation update
+
+The private Sam Fit candidate was rebuilt twice from separate clean source checkouts. Each run installed locked dependencies, generated its own private synthetic configuration, started a fresh database and cache, applied the migration chain and built the API, background worker and Web app. Synthetic sign-in, member and wallet reads, audit, a background job and restart recovery passed in both runs. Missing or incorrect configuration and unavailable services failed clearly.
+
+All eight local platform foundation steps now have scoped synthetic evidence. The overall platform foundation exit is open for review and has not been approved. This work used no customer records or real transactions, and made no deployment, equipment change or version change.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local backup and restore foundation update
 
 The private Sam Fit candidate now passes an isolated synthetic backup and restore check. A PostgreSQL snapshot with a recorded checksum was restored to a separate clean database. Its structure and all 52 table digests matched, and the local API, background worker and Web app recovered with an empty cache. The team also confirmed that damaged or missing backups and unsafe restore targets are rejected.

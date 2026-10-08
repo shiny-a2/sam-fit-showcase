@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local reproducibility foundation verified (unreleased)
+
+- Rebuilt the isolated platform twice from independent clean source checkouts with fresh dependencies, database and cache state.
+- Both runs passed migration/schema, repeatable synthetic seed, application startup, service restart and explicit configuration failure checks.
+- Closed the local reproducibility leaf only. The overall platform foundation exit still needs review; no deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local backup and restore foundation verified (unreleased)
 
 - Captured an isolated synthetic PostgreSQL snapshot with a recorded checksum and restored it into a separate clean database.
