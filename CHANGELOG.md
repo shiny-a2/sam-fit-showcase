@@ -421,3 +421,10 @@ The previously installed observer already has automatic startup and its own fail
 An authenticated interim observation export was retrieved and analyzed while local collection continued. Natural automatic restart survival was verified. An observer-only startup setting now removes its delayed start without restarting the source application or PC; behavior under that setting remains to be checked at the next natural boot.
 
 The review distinguishes software attendance closure, personnel auto-exit semantics, allocation changes and connection attempts from physical passage, door state and device outage. Implementation notes now specify separate evidence types, boot-aware clocks and reconciliation of conflicting software states. Complete physical flows, wiring/sensor verification and the full observation window remain open. Customer records, operational timelines, network details and confidential evidence are not published.
+
+### 2026-10-08 — Offline evidence preparation
+
+- Added installation-scoped local identity projections with stable IDs and sequence guards.
+- Verified encrypted offline custody and bounded passive visual evidence capture.
+- Documented reception UX evidence and unknown-action safety boundaries.
+- Kept source mutation, hardware commands and production cutover outside this preparation release.

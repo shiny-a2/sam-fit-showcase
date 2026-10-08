@@ -256,3 +256,9 @@ The private local candidate now requires explicit canonical branch confirmation,
 Live validation remains open because the existing source access path did not reach target authentication. Archived replay is not counted as a fresh operational window; no live reception acceptance, equipment compatibility or production machine-auth approval is claimed. No source configuration, customer records, device control or deployment changed. Confidential identifiers and access details remain private.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Offline evidence and reception UX preparation
+
+Added scoped local identity projections and a bounded offline visual-evidence workflow. Encrypted source-backup transfer now checks stream integrity and in-memory roundtrip before offline review. Read-only reception UX analysis separates genuine redacted observations from unverified navigation and hardware effects, helping preserve operator familiarity without inventing acceptance evidence.
+
+Source operations remain unchanged. No biometric enrollment, recognition test, financial transaction or hardware command was performed. Full application acceptance, image reconciliation, physical attribution and operational cutover remain pending. Private records, keys, source details and screenshots are excluded from this showcase.
