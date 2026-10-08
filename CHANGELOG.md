@@ -1,4 +1,10 @@
-## 2026-10-08 — Account lifecycle entry blocked (unreleased)
+## 2026-10-08 — Account lifecycle verified locally (unreleased)
+
+- Added a bounded, audited account status and self password update flow in the private synthetic candidate, with Member SMS code recovery.
+- Passed 112 real API/browser checks after a fresh database setup, including retries, separation, outages and light/dark responsive states.
+- Kept production administration, Staff recovery and the wider identity phase open; no deployment or version change.
+
+## 2026-10-08 — Account lifecycle entry blocked (historical)
 
 - Documented the missing owner decisions on account state changes and authorization.
 - Kept existing identity behavior and the last verified local milestone unchanged; no runtime feature, release or deployment.

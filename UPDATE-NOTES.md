@@ -1,3 +1,9 @@
+## 2026-10-08 — Bounded account lifecycle verified locally (unreleased)
+
+The owner approved a narrow account lifecycle policy for the independent platform candidate. An explicitly authorized local administrator can disable or reactivate eligible User and Staff identities; signed-in people can change their own password, and Members can reset theirs through a verified SMS code in the synthetic test environment. Account changes end affected sessions and preserve separate Member and Staff accounts, even when they belong to one person. The login and account security screens now support the approved self-service flows.
+
+A fresh isolated database and 112 real API/browser checks passed, including duplicate requests, concurrent changes, protected accounts, code reuse, service interruptions, audit rollback and mobile/desktop light/dark states. No real SMS, production account administration, Staff password recovery, customer data, release, deployment or equipment action occurred. The wider identity phase remains open.
+
 ## 2026-10-08 — Account lifecycle entry review blocked (unreleased)
 
 The next identity step was reviewed against the private project's capability register. Account lifecycle remains blocked because the product owner has not yet defined which account changes are allowed, who may request them, and how they affect active sign-ins and recovery. The team recorded a clear decision request and kept the current Member and Staff login behavior intact. This checkpoint contains no new account controls, lifecycle API, browser acceptance or deployment. The prior optional Member SMS login result remains the last locally verified identity step.
