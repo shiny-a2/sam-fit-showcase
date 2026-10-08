@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Reception locker catalog and CRM polish (unreleased)
+
+- Added a read-only authorized locker catalog with illustrated tiles, search, group/status filters and selected details. Unknown source availability remains explicit.
+- Refined Reception hierarchy and CRM summaries, focused work lists, customer facts and collapsible filters with the shared glass theme.
+- Reviewed separate real-data pilot and synthetic previews in mobile/desktop light/dark; no hardware control, credentials or business transactions changed.
+
 ## 2026-10-08 — Member header cleanup (unreleased)
 
 - Removed the duplicate Member header account shortcut while preserving Security and sessions in the Profile menu; reviewed mobile/desktop light/dark navigation.

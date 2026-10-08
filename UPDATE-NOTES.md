@@ -367,3 +367,11 @@ Club services have distinct calendar previews and clearer paths for classes, per
 Real browser review covered 12 Member routes in phone and desktop widths in both themes, plus interactive filters and draft reviews using the existing isolated API. A synthetic local review package illustrates amenities and candidate credit; it is not operational financial authority. Live availability, cafe ordering/payment, specialist activation, hardware control and habit persistence remain pending. No production data or deployment changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Reception and CRM operator polish
+
+The private Reception preview now presents the existing authorized locker catalog as an illustrated visual index, with number search, source groups, status counts and a selected detail card. Source availability and physical door state remain separate, and no hardware action is enabled.
+
+CRM now shows server summary cards above a selected work list, readable customer facts and expandable queue filters. Existing customer context and permission boundaries remain intact. Reception has a clearer desk hierarchy and a direct locker navigation entry.
+
+Browser review covered real protected API reads in separate real-data pilot and synthetic environments, at phone/desktop widths in both themes. Real customer records and screenshots remain outside the showcase and Git evidence. No backend authority, credential, source or hardware change occurred. Unreleased local preview.
