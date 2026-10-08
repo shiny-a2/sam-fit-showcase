@@ -239,3 +239,11 @@ The accepted local session service is now presented through account controls for
 This is a **conditional UI design pass**. Service booking, order and payment actions, specialist access, and external integrations are not enabled by these screens. Responsive browser checks covered five widths and both themes; human workflow acceptance remains open. No customer records, credentials, deployment or version change are included in this showcase update.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — SAM FIT R7 workspace access refresh
+
+The product preview now refreshes its workspace choices from current account authorization. A synthetic CRM account gained an explicitly scoped Reception workspace in the same login session, then lost that workspace after revocation while retaining CRM access. The browser cleared cached work state and left the revoked page. Mobile and desktop checks covered light and dark themes.
+
+The accepted role-grant service is local and narrowly scoped. This update adds no role-administration screen, specialist access or production grant policy, and it changes no existing usernames or passwords. No deployment, customer data or version change is included.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

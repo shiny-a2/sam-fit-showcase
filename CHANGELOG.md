@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Workspace access freshness R7 (unreleased)
+
+- Kept the workspace selector in sync with current authorized access, including when an existing session gains or loses a bounded local role grant.
+- Removed a revoked workspace from view and cleared cached actions while retaining unrelated authorized workspaces.
+- Checked the flow in real browsers at mobile and desktop widths in both themes. Role administration remains outside the product UI; specialist access and production policy remain pending.
+- No existing login or password, deployment or public release version changed.
+
 ## 2026-10-08 — Product navigation and session experience R6 (unreleased)
 
 - Reorganized thirteen role spaces into task-focused menu groups with explicit planned states for workspaces awaiting authorization.
