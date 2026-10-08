@@ -202,3 +202,10 @@ The private local reception branch now offers branch-scoped member search, a cle
 This is an in-progress local candidate, **not an accepted Saturday pilot**. The full authenticated reception journey, operator familiarity testing, Wallet authority integration and physical command evidence are still open. No customer data, payment, live branch command, deployment or version change was involved.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Saturday reception R1 local validation
+
+The private reception candidate now completes an authenticated synthetic browser journey against the actual local platform API and database. It shows the authorized financial Wallet summary, planned CRM visit context, structured arrival reporting and same-visit locker handover. Branch/member permission denials and replayed reception commands were checked at the API and database boundary. Responsive light/dark views were reviewed at phone, tablet and desktop widths.
+
+Pilot acceptance remains **open**. A real receptionist has not yet completed the paired task comparison with Nafis, and several failure/recovery and passive device-observation scenarios still need acceptance. The screen sends no physical gate or locker command. No customer record, real balance, payment, deployment or runtime version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Saturday reception R1 local validation (unreleased)
+
+- Verified the complete synthetic reception browser journey against the actual local API and database, including canonical Wallet read, planned CRM arrival and same-visit locker change.
+- Checked branch/member denials and command replay at the API/database boundary; physical commands remain disabled.
+- Kept pilot acceptance open pending real receptionist comparison and remaining failure/recovery evidence. No deployment or runtime version change.
+
 ## 2026-10-08 — Saturday reception pilot candidate (unreleased)
 
 - Improved local reception search and member context, with clearer software visit and locker handling.
