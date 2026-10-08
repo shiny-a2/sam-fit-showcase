@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-09 — Operational product consumer integration (unreleased)
+
+- Connected existing Reception, CRM Today, Management and Technical read surfaces to bounded API refresh, reconnect and manual retry behavior.
+- Distinguished response receipt from source freshness, missing/partial data from zero, and software visits from physical presence, recognition and gate state.
+- Added clear authorized branch selection, stale-action safeguards and protected-state clearing after denied reads. Preserved navigation, onboarding freeze and specialist authorization boundaries.
+- Real pilot and separate development browser checks cover light/dark mobile/desktop, keyboard focus, offline recovery and actual API rereads. Final canonical backend phases, service purchasing and production acceptance remain pending.
+
+
 ## 2026-10-08 — Reception locker catalog and CRM polish (unreleased)
 
 - Added a read-only authorized locker catalog with illustrated tiles, search, group/status filters and selected details. Unknown source availability remains explicit.

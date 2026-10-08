@@ -1,3 +1,10 @@
+## 2026-10-09 — Operational product consumer integration (unreleased)
+
+- Connected existing Reception, CRM Today, Management and Technical read surfaces to bounded API refresh, reconnect and manual retry behavior.
+- Distinguished response receipt from source freshness, missing/partial data from zero, and software visits from physical presence, recognition and gate state.
+- Added clear authorized branch selection, stale-action safeguards and protected-state clearing after denied reads. Preserved navigation, onboarding freeze and specialist authorization boundaries.
+- Real pilot and separate development browser checks cover light/dark mobile/desktop, keyboard focus, offline recovery and actual API rereads. Final canonical backend phases, service purchasing and production acceptance remain pending.
+
 ## 2026-10-08 — Member header cleanup
 
 Removed the redundant account shortcut from the Member header to reduce clutter. Security and sessions remain in the Profile menu. Mobile and desktop navigation passed in light and dark themes; authentication and session behavior remain unchanged. Unreleased local preview.
