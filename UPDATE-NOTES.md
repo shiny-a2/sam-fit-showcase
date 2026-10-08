@@ -195,3 +195,10 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 An authenticated interim observation export was retrieved and analyzed while local collection continued. Natural automatic restart survival was verified. An observer-only startup setting now removes its delayed start without restarting the source application or PC; behavior under that setting remains to be checked at the next natural boot.
 
 The review distinguishes software attendance closure, personnel auto-exit semantics, allocation changes and connection attempts from physical passage, door state and device outage. Implementation notes now specify separate evidence types, boot-aware clocks and reconciliation of conflicting software states. Complete physical flows, wiring/sensor verification and the full observation window remain open. Customer records, operational timelines, network details and confidential evidence are not published.
+## 2026-10-08 — Saturday reception pilot candidate
+
+The private local reception branch now offers branch-scoped member search, a clearer single-member context, software locker changes tied to the same visit, visible reconciliation warnings and a structured CRM arrival report. The screen keeps physical gate and locker actions disabled while hardware behavior remains unverified. A synthetic API journey and light/dark mobile/desktop inspections passed.
+
+This is an in-progress local candidate, **not an accepted Saturday pilot**. The full authenticated reception journey, operator familiarity testing, Wallet authority integration and physical command evidence are still open. No customer data, payment, live branch command, deployment or version change was involved.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

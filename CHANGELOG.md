@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Saturday reception pilot candidate (unreleased)
+
+- Improved local reception search and member context, with clearer software visit and locker handling.
+- Added scheduled CRM visitor visibility, a structured arrival report and review warnings for inconsistent locker state.
+- Kept physical controls disabled and pilot acceptance open pending full authenticated and operator tests.
+
 ## 2026-10-07 — Clearer validation roles
 
 - Simplified Sam Fit's validation access to six distinct roles, so reviewers can test the owner, central manager, branch manager, reception, member and CRM experiences separately.
