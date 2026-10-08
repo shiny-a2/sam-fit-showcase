@@ -1,3 +1,11 @@
+## 2026-10-09 — Gym CRM Today and refresh candidate
+
+The private CRM candidate now presents separate server-paged worklists for follow-ups, opportunities, planned visits, Reception results, callbacks and applicable member-retention cohorts. Staff can see why a record needs attention, its owner and due time, and whether the source data is fresh, unavailable or failed. Confirmed actions and recovered command receipts cause the affected CRM views to reread their source. Visible polling, tab return and reconnect provide bounded updates without a full page reload.
+
+Local browser checks covered responsive light/dark views, a real Member without a prior Lead, pagination, Branch switching, command recovery, protected-data clearing and common service failures. The real-pilot business checks were read-only. This closes the requested CRM-owned local software checklist; final design integration, canonical source adoption, full real-data and live acceptance, and timed review by a real operator remain open. The strict product readiness measure is still 0/27. No deployment, customer business write or runtime version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Gym CRM vertical readiness and Today data contract
 
 The local CRM candidate now has a capability-by-capability readiness board spanning sales, member retention, visits, service opportunities, management, communications and privacy. Source-backed work lists gained planned visits, recorded visit results needing sales follow-up and due callbacks. Renewal, retention and former-member queues now report complete server counts alongside their pages. Isolated checks and the existing CRM-to-Reception journey passed.

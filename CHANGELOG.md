@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-09 — Local CRM R4 Today and refresh closure (unreleased)
+
+- Added server-paged source worklists with explicit empty, unavailable, stale and error states to the private candidate.
+- Added bounded canonical rereads after confirmed commands, receipt recovery, tab return, reconnect and visible polling.
+- Passed local browser and read-only real-pilot checks; final design, canonical, live and operator gates remain pending at 0/27 strict product acceptance.
+- No deployment, customer business write or runtime version change.
+
 ## 2026-10-09 — Local gym CRM vertical readiness checkpoint (unreleased)
 
 - Mapped CRM product capabilities and pending cross-domain contracts without promoting planned phases.
