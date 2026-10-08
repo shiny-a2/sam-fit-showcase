@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local admin workspace review (unreleased)
+
+- Enabled a synthetic local review account to move among the five currently available operational workspaces through backend-authorized navigation.
+- Checked workspace selection and switching in a real browser, including light and dark presentation at mobile and desktop widths.
+- Specialist previews and production admin policy remain pending; no deployment or release version changed.
+
 ## 2026-10-08 — Saturday R8.1 integration checkpoint (unreleased)
 
 - Connected operational CRM queues, Member and Lead context, Reception workflow and Management attention to their accepted feature APIs in isolated synthetic browser environments.

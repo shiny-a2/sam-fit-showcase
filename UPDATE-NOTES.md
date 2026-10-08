@@ -308,3 +308,8 @@ The local Sam Fit preview now offers server-backed CRM renewal, retention and wi
 The Saturday software result remains **FAIL** because the accepted Auth, CRM and Reception features have not yet been reconciled into one accepted runtime; complete operator FollowUp and open Opportunity worklists and the remaining error-state browser checks are also open. Human Reception and CRM acceptance stays pending. No real Pasdaran data, payment, hardware command, deployment or release version change occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Local admin workspace review
+
+A synthetic local review account can now open the five operational workspaces that the current preview API authorizes and switch between them from the workspace menu. Real browser checks covered navigation and mobile/desktop light/dark display. Specialist access and production administration are still pending; this is an unreleased review fixture.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
