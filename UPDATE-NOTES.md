@@ -1,3 +1,7 @@
+## 2026-10-08 — Optional Member SMS login verified locally (unreleased)
+
+The owner approved optional SMS-based sign-in and recovery for Members while keeping passwords primary for both Members and Staff. A private local candidate now uses a synthetic message receiver and the existing account session. Twenty-four isolated API/browser scenarios passed, including expired and reused codes, repeated attempts, separate Member and Staff accounts, service interruptions, and mobile/desktop light/dark login states. No real SMS, production sender, Staff MFA or manual recovery was enabled. The wider identity phase remains open; there was no deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — OTP policy entry paused (unreleased)
 
 The next identity step was reviewed and remains blocked because its eligible users, sign-in purpose, approved delivery and recovery rules have not been decided. Existing password sign-in continues. Basic development health checks passed, but OTP-specific API, browser and recovery tests were not run. This documents the decision and protects the current login boundary; it does not enable OTP or change the product version.

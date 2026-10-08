@@ -1,3 +1,8 @@
+## 2026-10-08 — Optional Member SMS login verified locally (unreleased)
+
+- Added an optional Member alternative/recovery login in a private synthetic test environment; passwords remain primary for Member and Staff.
+- Passed 24 local API/browser scenarios, including single-use and outage checks. Real SMS delivery, Staff MFA and production acceptance remain open. No deployment or version change.
+
 ## 2026-10-08 — OTP entry review blocked (unreleased)
 
 - Recorded the missing owner policy for OTP and kept existing password sign-in in place.
