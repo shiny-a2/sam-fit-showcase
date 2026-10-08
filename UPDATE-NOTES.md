@@ -1,3 +1,13 @@
+# 2026-10-08 — Local backup and restore foundation update
+
+The private Sam Fit candidate now passes an isolated synthetic backup and restore check. A PostgreSQL snapshot with a recorded checksum was restored to a separate clean database. Its structure and all 52 table digests matched, and the local API, background worker and Web app recovered with an empty cache. The team also confirmed that damaged or missing backups and unsafe restore targets are rejected.
+
+This is local recovery evidence, not a production disaster-recovery certification. Encryption, custody, retention, point-in-time recovery and service recovery targets still need an approved production policy. The next local reproducibility step has not begun. No customer data, real transaction, deployment, equipment action or version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local audit foundation update
 
 The existing Sam Fit audit history now passes a scoped local foundation check. Synthetic tests verified that past records cannot be edited or deleted through normal database operations, that a required audit failure rolls back its associated action, and that repeated commands do not create duplicate success history. The team also checked minimal actor and branch context, separate request and command references, and an unambiguous UTC timestamp.

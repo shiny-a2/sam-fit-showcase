@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local backup and restore foundation verified (unreleased)
+
+- Captured an isolated synthetic PostgreSQL snapshot with a recorded checksum and restored it into a separate clean database.
+- Verified matching database structure and all 52 table digests, then restarted the local application with an empty cache.
+- Confirmed missing or damaged backups and unsafe targets fail explicitly. Production recovery policy, encryption, retention and recovery time targets remain open; no deployment, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local audit foundation verified (unreleased)
 
 - Verified the existing append-only audit history, safe actor/branch context and transaction rollback on a required audit failure.
