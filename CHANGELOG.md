@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Member onboarding design freeze (unreleased)
+
+- Published the authoritative seven-step implementation handoff and an all-pending backend readiness checklist.
+- Verified unique requirement routing and documented future browser, security, human and accessibility acceptance gates.
+- Clarified server-first draft storage and security review for any necessary local recovery.
+- Documentation only; no new UI fields/screens, backend persistence, deployment or release version change.
+
 ## 2026-10-08 — Member onboarding recovery contract (unreleased)
 
 - Clarified proposed draft recovery: preserve bounded same-session edits on conflict or outage, and invalidate sensitive local data after lost access or account change.

@@ -279,3 +279,11 @@ The proposed Member setup contract now separates lost access from recoverable in
 Why it matters: members should not lose valid answers after a temporary interruption, and another person using the same device must not inherit them. This is a contract and QA update; the current preview still does not save answers. No backend persistence, deployment, customer data or release version changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Member onboarding design freeze (unreleased)
+
+The seven-step Member setup design is now frozen for a canonical backend handoff. A single implementation guide records the approved flow, data and privacy boundaries, safe recovery rules, role-specific views, and the tests needed before launch. A separate readiness checklist keeps every backend and human-acceptance item open until supported by evidence.
+
+Why it matters: implementation teams have a stable specification without mistaking the current preview for a saved or completed onboarding service. The six approved requirements were checked for unique routing. Temporary browser storage is not prescribed as a default; any future local recovery of sensitive answers needs a security review. No new fields, screens, backend persistence, deployment or public release version were added.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
