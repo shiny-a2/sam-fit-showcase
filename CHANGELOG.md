@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-08 — R3.3 offline connector closure
+
+- Complete offline archive crash-recovery validation and authenticated role-based status QA across Technical and Reception views.
+- Keep live-source validation, biometric data acceptance and physical-device control explicitly pending. No source system was connected and no deployment was made.
+
 ## 2026-10-08 — Offline connector engineering checkpoint (unreleased)
 
 - Added incremental, metadata-only biometric source adapters with explicit privacy and authority boundaries; image bytes remain private and encrypted by the local evidence path.
