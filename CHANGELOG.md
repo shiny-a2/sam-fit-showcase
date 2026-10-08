@@ -1,3 +1,9 @@
+## 2026-10-08 — Branch policy approved; entry remains blocked (unreleased)
+
+- Recorded the owner-approved limited branch catalog and source-binding policy.
+- Identified an environment-specific real/synthetic branch identity conflict requiring a reviewed data boundary.
+- Kept implementation and migration gated; no product runtime, deployment or version change.
+
 ## 2026-10-08 — Branch registry entry review blocked (unreleased)
 
 - Documented the planned branch catalog boundary and existing synthetic fixture limitation.

@@ -1,3 +1,9 @@
+## 2026-10-08 — Branch policy approved; data boundary still open (unreleased)
+
+The owner approved limited branch catalog operations, a stable branch identity, explicit source mapping and Central-only administration for local verification. A read-only reconciliation then found that an older pilot preparation database uses the selected Pasdaran branch identifier for a synthetic test record with extensive history. A separate development candidate has no real catalog record yet.
+
+The team kept implementation gated until a non-destructive boundary separates real pilot data from synthetic fixtures and verifies the same branch identity across operator and passive hardware views. This update changes planning and evidence records only; no product feature, migration, deployment or release occurred.
+
 ## 2026-10-08 — Branch registry entry review blocked (unreleased)
 
 The private project reviewed its next planned branch registry step after the accepted local identity phase. Entry remains blocked until the owner defines who may change the branch catalog and its status, and the team reconciles the real Pasdaran branch identity with synthetic development fixtures. The review preserves separate operational branch units, existing access controls and downstream Reception, CRM, management and passive hardware views.
