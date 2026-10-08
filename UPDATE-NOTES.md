@@ -224,3 +224,11 @@ The private candidate now shows source equipment observations separately from so
 The pilot remains **FAIL** until a real receptionist completes and rates seven paired Nafis/Sam Fit tasks, including speed, input counts, clarity and keyboard use. The equipment check is simulator-only; real recognition and physical results have not been validated. There was no deployment or runtime version change.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Saturday reception R3 recovery validation
+
+The private local candidate passed one controlled recovery case: a synthetic check-in committed, its browser response was lost, and the screen confirmed the result through the original receipt. The test observed one software visit and one audit record, with no second command. Reception and security regression checks remained green.
+
+The pilot remains **FAIL** because a real receptionist has not yet completed the seven paired Nafis/Sam Fit tasks or judged the keyboard flow. Equipment status remains local simulator shadow only; no physical control, real customer operation, deployment or runtime version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Saturday reception R3 recovery validation (unreleased)
+
+- Confirmed in the actual local browser/API flow that a committed synthetic check-in is recovered from its original receipt after the browser response is lost, without a duplicate visit or audit record.
+- Rechecked Reception, security and authorization behavior; no feature or hardware control was added.
+- Kept pilot acceptance at FAIL until a real receptionist completes the seven paired tasks and keyboard review. No deployment or runtime version change.
+
 ## 2026-10-08 — Saturday reception R2 local validation (unreleased)
 
 - Verified the synthetic Reception journey, branch/session boundaries and browser recovery for access denial, conflict, validation, dependency unavailability and service interruption.
