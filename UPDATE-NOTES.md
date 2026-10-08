@@ -209,3 +209,11 @@ The private reception candidate now completes an authenticated synthetic browser
 Pilot acceptance remains **open**. A real receptionist has not yet completed the paired task comparison with Nafis, and several failure/recovery and passive device-observation scenarios still need acceptance. The screen sends no physical gate or locker command. No customer record, real balance, payment, deployment or runtime version changed.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Passive hardware shadow connector candidate
+
+A private local candidate now separates passive observations from future equipment commands. It adds a bounded durable offline queue, signed observation ingestion, replay-safe storage, read-only state reconciliation, a simulator and Persian reception/technical view contracts. Local tests cover interruption/recovery, source clock uncertainty, conflicting records and scoped views; responsive light/dark views were inspected with synthetic data.
+
+This is local shadow development, with no production deployment or enabled equipment control. Direct recognition transport, device command framing, acknowledgments and physical sensor evidence remain unverified. Archived-source replay is identified separately from fresh live observation. No customer records, endpoints, payloads or confidential implementation details are published.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
