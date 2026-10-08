@@ -1,3 +1,9 @@
+## 2026-10-08 — Branch registry entry review blocked (unreleased)
+
+- Documented the planned branch catalog boundary and existing synthetic fixture limitation.
+- Held implementation pending owner change authority and a reviewed real branch identity mapping.
+- Preserved existing account and branch access rules; no runtime, migration, deployment or version change.
+
 ## 2026-10-08 — Local identity macro review (unreleased)
 
 - Reconciled seven accepted local human-authentication steps and their shared account, session and branch boundaries.

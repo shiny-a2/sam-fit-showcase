@@ -1,3 +1,9 @@
+## 2026-10-08 — Branch registry entry review blocked (unreleased)
+
+The private project reviewed its next planned branch registry step after the accepted local identity phase. Entry remains blocked until the owner defines who may change the branch catalog and its status, and the team reconciles the real Pasdaran branch identity with synthetic development fixtures. The review preserves separate operational branch units, existing access controls and downstream Reception, CRM, management and passive hardware views.
+
+This is a planning and evidence update only. No branch registry feature, data migration, UI change, main merge, deployment or release occurred.
+
 ## 2026-10-08 — Local identity phase review passed (unreleased)
 
 The private independent-platform review reconciled all seven planned human identity and account-security steps. Member and Staff login, session revocation, bounded role grants, branch authorization, optional Member SMS code policy and limited account lifecycle each have accepted local synthetic evidence. The final review checked their shared authorization rules, source ancestry and a fresh 17-migration database replay recorded by the latest step. No additional identity step is listed in the current plan.
