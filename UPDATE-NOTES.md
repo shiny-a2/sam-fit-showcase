@@ -232,7 +232,7 @@ Why it matters: teams can inspect how work moves between roles while future oper
 Developer: [a2 sport](https://amiraliyaghouti.com).
 ## 2026-10-08 — SAM FIT R6 navigation and account security review
 
-The private R6 candidate reconciles the strongest Member, Reception, CRM and Management interaction patterns from the earlier product track with the independent application. Each of thirteen role spaces now has a clearer task menu. Member wellness and five service journeys have deeper, source-aware screens; specialist work is represented as design previews until role and business contracts are approved.
+The private R6 candidate reconciles the strongest Member, Reception, CRM and Management interaction patterns from the earlier product track with the independent application. Each of thirteen role spaces now has a clearer task menu, with a compact mobile entry that leaves the main task closer to the top. Member wellness and five service journeys have deeper, source-aware screens; specialist work is represented as design previews until role and business contracts are approved.
 
 The accepted local session service is now presented through account controls for signing out here or ending every session of the same account. Synthetic Member and Staff tests used independent browsers and confirmed that the second browser is redirected on its next protected request. Current-session sign-out preserves the other browser's session. A separate Staff account remained active after the Member account's sessions were revoked.
 
