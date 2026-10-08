@@ -1,3 +1,13 @@
+# 2026-10-08 — Local session revocation update
+
+The private Sam Fit candidate now passes a defined local synthetic session-revocation step. A signed-in Member or Staff user can end the current session or all sessions of that account. Two independent browser sessions lose access after the all-session action, while another account remains unaffected. Repeated requests, CSRF failures and temporary database/cache outages were tested against the local services.
+
+The review passed 32 real API cases, 29 Member and 42 Staff login regressions, 17 integrated categories, 17 browser checks and three outage cases. Future exercise, workout, food, meal-plan, service and full-product UI needs were routed to their later phases without implementing them. Role-grant entry review is next; the wider identity phase, specialist workspaces, operator acceptance and production policy remain open. No deployment, main merge, version change, customer data, real financial transaction or equipment action occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
+---
+
 # 2026-10-08 — Local staff-login boundary update
 
 The private Sam Fit candidate now passes Staff login for a defined local synthetic scope. Sign-in requires an active Staff identity, current role and branch grants, and only server-authorized workspaces appear. A staff account cannot gain Member access merely because the two accounts belong to the same person. Disabling Staff or removing a grant removes its workspace authority on the next protected request.

@@ -1,3 +1,10 @@
+## 2026-10-08 — Local session revocation verified (unreleased)
+
+- Added an authenticated way to end all sessions of the current account, while keeping single-session logout available.
+- Checked that separate accounts remain independent and that simultaneous/repeated requests produce one effective success.
+- Passed 32 real API checks, 29 Member and 42 Staff login regressions, 17 integrated categories, 17 browser checks and three service-outage cases.
+- Routed future Coach/Nutrition, service and full UI requirements to later product phases. No deployment, main merge, version change, customer data, real transaction or equipment action.
+
 ## 2026-10-08 — Local staff-login boundary verified (unreleased)
 
 - Required an active Staff identity, current grants and valid branch scope for staff sign-in and subsequent protected requests.
