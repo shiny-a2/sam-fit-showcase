@@ -1,3 +1,9 @@
+## 2026-10-08 — Real pilot application binding review (unreleased)
+
+- Verified local Reception, CRM and Management reads against one isolated real-data pilot, with clear candidate-source labels.
+- Observed a fresh one-way staging update and safe replay; connector recovery evidence remains incomplete, so the next gate stays blocked.
+- No deployment, release, customer transaction, source-system change or hardware action.
+
 ## 2026-10-08 — Saturday combined local candidate (unreleased)
 
 - Brought identity, CRM, Reception and the latest operator presentation together for one synthetic acceptance run.

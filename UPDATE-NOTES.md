@@ -1,3 +1,10 @@
+## 2026-10-08 — Real pilot application binding reviewed (unreleased)
+
+- Connected the combined local application candidate to a separate real-data pilot without mixing in synthetic branch or member fixtures.
+- Confirmed the same imported member records resolve in Reception, CRM and Management, including desktop and mobile light/dark browser views. Source visits, locker and wallet observations remain clearly labelled as unconfirmed evidence.
+- Delivered new naturally observed source records into the pilot staging area with duplicate-safe replay. A later event arriving during a connector interruption and direct delivery into the pilot still need verification, so the branch-registry entry gate remains closed.
+- No customer-facing release, real check-in, payment, message, equipment command or source-system change occurred.
+
 ## 2026-10-08 — Saturday software integration candidate (unreleased)
 
 - Combined the current identity foundation, CRM R3, Reception R3 and R8.1 presentation in one isolated local runtime.
