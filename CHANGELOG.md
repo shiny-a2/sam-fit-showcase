@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Member reference catalogue and service drafts (unreleased)
+
+- Added a searchable exercise reference library with 100 curated records and two image frames for the first five movements.
+- Added a proposed five-category cafe menu with 26 items, optimized category imagery, quantity-sensitive preparation examples, notes and pickup-time review.
+- Refined club service calendars, sportswear and locker screens, and habit discovery while preserving pending backend and authorization boundaries.
+- Verified 12 Member routes across phone/desktop light/dark browser sessions against the isolated local API. Synthetic sample credit and amenities are explicitly distinct from operational wallet, inventory, booking and hardware authority.
+
 ## 2026-10-08 — Unified glass shell and official shield (unreleased)
 
 - Unified the header and day/night switch across Member, Reception, CRM, Management and Technical previews, with one semantic glass treatment for shared surfaces.

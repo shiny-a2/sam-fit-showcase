@@ -353,3 +353,13 @@ The owner's shield logo now appears as a compact mark alongside the existing wor
 Real browser checks covered Member, Reception, CRM, Management and Technical in light and dark themes at phone and desktop widths, plus a 320 px Member layout. Pending specialist spaces, production data and physical controls were not activated. This remains an unreleased local preview.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Member catalogue and service experience
+
+The private local Member preview now includes a searchable 100-movement reference library, with visual start/end guidance for the first five. A proposed cafe menu groups 26 items into coffee, drinks, breakfast, meals and snacks, using compact generated category imagery. Quantity, preparation examples, bounded notes and a Tehran pickup time can be reviewed together in an unsent draft.
+
+Club services have distinct calendar previews and clearer paths for classes, personal training, parking, barber, massage and laundry. Sportswear and locker screens separate sample entitlement from actual assignment or delivery. Habit discovery uses distinct visual cards and an editable goal/reminder draft without inventing recorded progress.
+
+Real browser review covered 12 Member routes in phone and desktop widths in both themes, plus interactive filters and draft reviews using the existing isolated API. A synthetic local review package illustrates amenities and candidate credit; it is not operational financial authority. Live availability, cafe ordering/payment, specialist activation, hardware control and habit persistence remain pending. No production data or deployment changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
