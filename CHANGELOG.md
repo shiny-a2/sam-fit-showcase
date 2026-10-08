@@ -1,3 +1,9 @@
+## 2026-10-09 — Phase 03–09 planning checkpoint (unreleased)
+
+- Map 73 planned organization-to-reception capabilities to their entry gates, candidate reuse and focused test preparation.
+- Record the pending schema-adoption review without applying a migration or advancing the main development path.
+- Keep the source-connector acceptance blocker open; no capability execution, deployment or release occurred.
+
 ## 2026-10-09 — Reception local handoff refinement (unreleased)
 
 - Align guest entry, exit and conversion actions with the recorded software visit and remaining guest pass.

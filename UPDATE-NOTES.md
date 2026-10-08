@@ -1,3 +1,9 @@
+## 2026-10-09 — Organization-to-reception planning checkpoint
+
+The private development plan now tracks entry readiness for 73 capabilities across organization, member, CRM, finance, membership, access and reception work. It also maps reusable local candidates and the checks needed before their database changes can be adopted.
+
+The main path remains blocked on source-connector recovery evidence. This checkpoint is planning only: it did not verify downstream capabilities, change live data, deploy software or release a product. No customer records or private implementation details are published.
+
 ## 2026-10-09 — Reception local handoff refinement
 
 The private Reception candidate now presents guest actions according to the recorded software visit and pass usage. It also lets staff report an expected visitor's outcome and schedule a follow-up when needed. Local browser/API checks covered the guest journey, CRM follow-up, task completion and issue closure across mobile and desktop light/dark views.
