@@ -4,6 +4,8 @@ The local CRM candidate now has a capability-by-capability readiness board spann
 
 This is a development candidate, not full product acceptance. The existing R3 engineering result remains passed; official domain adoption, complete real-data coverage, live refresh, service and finance links, telephony and timed review by a real operator remain separate gates. No customer record, real purchase, message, payment, hardware action, deployment or runtime version change occurred.
 
+A follow-up read-only pilot check corrected the distinction between an empty work queue and unavailable membership evidence. CRM and manager screens now say when valid membership data is unavailable instead of presenting that case as zero. Responsive light/dark browser checks passed without changing a real business record.
+
 Developer: [a2 sport](https://amiraliyaghouti.com).
 
 ## 2026-10-08 — CRM R3 engineering freeze and design handoff

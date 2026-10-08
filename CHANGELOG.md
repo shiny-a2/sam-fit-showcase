@@ -6,6 +6,7 @@
 - Added source-backed Today visit/result/callback lists and exact counts for renewal, retention and former-member queues in the private candidate.
 - Passed bounded synthetic checks and the CRM-to-Reception regression; full real, live, operator and telephony acceptance remains pending.
 - No deployment, runtime version change, customer-data use, payment, message or hardware operation.
+- Corrected unavailable real-pilot membership cohorts in CRM/manager presentation; read-only pilot and responsive browser checks passed.
 
 ## 2026-10-08 — CRM R3 engineering freeze (unreleased)
 
