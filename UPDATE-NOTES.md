@@ -1,3 +1,11 @@
+## 2026-10-08 — Hardware/data connector R3 offline engineering checkpoint
+
+An isolated read-only edge candidate now has documented source boundaries, a bounded durable queue, signed local staging, restart-safe observation packages, and purpose-limited projections. TypeScript checks and 92 focused synthetic tests passed. No source connection was attempted during this offline implementation window.
+
+The R3 engineering result remains **FAIL**: archive replay into an isolated pilot, source version/schema validation, encrypted queue storage, the image-evidence path, full outage/crash acceptance and browser visual review are still open. This is not live validation or a production release. No customer data, images, endpoint details or credentials are published.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — Read-only local data preparation checkpoint
 
 The private candidate now has a bounded one-way source mirror with signed local ingestion, durable checkpoints and queue, and shared reconciliation contexts. Source identity and financial references remain candidates, with explicit provenance and unresolved policy states. Replay and read-path recovery checks passed; the private viewer was checked interactively in both themes at mobile and desktop widths. Local login agents preserve continuous retry without changing the operational source.

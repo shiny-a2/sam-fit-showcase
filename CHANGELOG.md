@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Hardware/data connector R3 offline engineering checkpoint
+
+- Document the read-only edge candidate, bounded local queue, signed staging boundary and observation-only projections.
+- Pass TypeScript checks and 92 focused synthetic tests.
+- Keep R3 at **FAIL** while isolated archive replay, version/schema validation, encrypted queue storage, image-evidence handling, outage/crash acceptance and browser visual review remain open. No live validation or production release is claimed.
+
 ## 2026-10-08 — Local data preparation checkpoint
 
 - Add a bounded source mirror, persisted queue/cursors and consistent read-only candidate contexts.
