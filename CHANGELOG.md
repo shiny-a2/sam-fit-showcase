@@ -1,3 +1,9 @@
+## 2026-10-08 — Isolated real-data pilot preparation (unreleased)
+
+- Added a separate local pilot data boundary and explicit source identity mapping.
+- Verified prepared data consistency and retained the entry gate pending application and live-update checks.
+- No product runtime, deployment, version change, external write or equipment command.
+
 ## 2026-10-08 — Branch policy approved; entry remains blocked (unreleased)
 
 - Recorded the owner-approved limited branch catalog and source-binding policy.

@@ -1,3 +1,9 @@
+## 2026-10-08 — Separate real-data pilot prepared (unreleased)
+
+- Prepared an isolated local database with the accepted schema, a verified branch identity, explicit source mappings and a limited read-only source snapshot. The older synthetic development database and its history were left intact.
+- Checked consistent member and branch IDs in prepared data projections. Actual application journeys and fresh source updates still require verification, so branch registry implementation remains gated.
+- No customer-facing change, production release, external-system write or equipment command occurred.
+
 ## 2026-10-08 — Branch policy approved; data boundary still open (unreleased)
 
 The owner approved limited branch catalog operations, a stable branch identity, explicit source mapping and Central-only administration for local verification. A read-only reconciliation then found that an older pilot preparation database uses the selected Pasdaran branch identifier for a synthetic test record with extensive history. A separate development candidate has no real catalog record yet.

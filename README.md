@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The independent platform’s seven-step human identity phase has passed its defined local synthetic review. The owner has approved a bounded branch catalog policy. Entry remains blocked while the team reconciles the selected real branch identity with an older synthetic development record and its history. Production and specialist/machine authentication remain open. See [update notes](UPDATE-NOTES.md).
+The independent platform’s seven-step human identity phase has passed its defined local synthetic review. A separate local pilot database now holds a verified real branch identity and a limited source snapshot without changing the older synthetic development database. Branch registry entry remains gated until application consumers and fresh source updates are verified against that pilot. Production and specialist/machine authentication remain open. See [update notes](UPDATE-NOTES.md).
 
 Six approved Member onboarding requirements are now routed to future backend and privacy owners in the private control plane. This planning update does not add a product feature or advance the current development gate. See [update notes](UPDATE-NOTES.md).
 
