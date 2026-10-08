@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Saturday operational UX checkpoint (unreleased)
+
+- Introduced a workspace-aware desktop sidebar and mobile drawer for Reception, CRM and Management.
+- Prioritized member search, lead work and branch attention in their respective local preview screens.
+- Completed light/dark desktop/mobile browser review while retaining an honest failed Saturday gate for missing actionable CRM queues and pending service and human checks.
+- No deployment or release version changed.
+
 ## 2026-10-08 — Onboarding handoff status correction (unreleased)
 
 - Corrected the Main Development cursor reference in the frozen onboarding handoff.

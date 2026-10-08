@@ -293,3 +293,10 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 The frozen onboarding handoff now points to the current Main Development entry review instead of an older platform phase. Its proposed requirement routes match the current capability map, while the requirement entries themselves remain on the separate UI candidate until integration. This is a documentation consistency correction only; the design, product behavior and implementation scope are unchanged.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Saturday operational UX checkpoint
+
+Reception, CRM and Management now use a focused desktop sidebar with authorized workspace and branch switching, plus a compact mobile menu. Reception gives member search and the selected member's next safe action more prominence. CRM places today's work above the lead list, and Management opens on branch attention instead of configuration. Real local browser review covered desktop and mobile layouts in light and dark themes.
+
+The Saturday software gate remains **FAIL**: CRM still needs actionable follow-up, renewal and retention queues, and newer Reception/CRM service integrations need populated browser checks. Receptionist and CRM operator acceptance remains separate. This is a local preview update; no customer data, payment, hardware action, deployment or version change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
