@@ -1,3 +1,9 @@
+## 2026-10-09 — Independent local failure recovery verification
+
+The private candidate now has focused fault checks for its local API dependencies, worker and Technical browser status. A failed module displayed an error instead of an empty result, an offline browser cleared its current status, and the worker and dependencies recovered after interruption. An uncertain synthetic command outcome was checked against its existing receipt and persistent local effect, without repeating a business action.
+
+This is an isolated test result. Live source and hardware recovery, real financial commands, external delivery and production high availability remain separate work. No deployment or customer data was involved.
+
 ## 2026-10-09 — Independent local restart verification
 
 The private development candidate now has a repeatable local restart check for its API, website, worker and cache. The check also interrupted database connectivity without restarting or restoring the database. A protected browser session reconnected, current access restrictions remained enforced, monitoring reflected outages and recovery, and internal processing produced one recorded result after a retry.

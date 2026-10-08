@@ -1,3 +1,9 @@
+## 2026-10-09 — Local failure recovery verification (unreleased)
+
+- Verify isolated dependency outages, abrupt worker failure, partial status failure and browser reconnect with truthful error states.
+- Resolve an uncertain synthetic command outcome through its scoped receipt and persistent local effect.
+- Keep live source, hardware, real financial recovery and production high availability outside this local result.
+
 ## 2026-10-09 — Local restart verification (unreleased)
 
 - Verify bounded API, website and worker restarts, plus cache and database connectivity recovery, in an isolated local test environment.
