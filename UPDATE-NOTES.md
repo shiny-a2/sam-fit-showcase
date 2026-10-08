@@ -222,3 +222,11 @@ The private Sam Fit UI candidate now gives every planned Phase 04–25 product c
 Why it matters: teams can review where future functions belong without mistaking a visible page for a working service. A total of 367 capabilities are mapped; 282 screen addresses are available in already authorized workspaces, while 103 primary-role addresses remain reserved. Read-only synthetic browser review covered eight representative screen families in light and dark themes at phone and desktop widths. The candidate remains conditional: complete services, specialist authorization, human acceptance and deeper role-specific pages are still pending. No deployment, customer activity, financial command, call, camera feed or hardware action occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Deeper Sam Fit workspace designs R5 (unreleased)
+
+The private UI candidate now presents focused screens for Member, Reception, CRM, Management and Technical reviewers, with more complete design previews for Coach, Finance, HR, Warehouse, Cafe, Support and regional and central management. High-value journeys include wellness, booking, task evidence, expense review, calls, automation, camera administration, hardware status and release information. Menus now lead with tasks instead of the full capability inventory.
+
+Why it matters: teams can inspect how work moves between roles while future operations remain visibly unavailable until their services and permissions are approved. The candidate retains homes for all 367 planned capabilities. Browser review checked 64 protected page variants and 32 specialist previews; five local synthetic roles opened their 23 authorized screens. The specialist previews are design assets, not live role access. No deployment, customer data, money movement, call, camera feed or device command was involved. Integrations and human acceptance remain open.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

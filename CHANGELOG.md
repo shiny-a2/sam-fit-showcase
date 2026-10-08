@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Specialist workspace experience R5 (unreleased)
+
+- Added focused Member, Reception, CRM, Management and Technical UI screens plus specialist role design previews.
+- Deepened task evidence and finance handoff, wellness, calls, automation, camera and hardware administration, and release information without enabling unsupported actions.
+- Checked 64 protected visual variants, 32 specialist previews and 23 screens under five local synthetic roles. Service integration and human acceptance remain open; no deployment or runtime version change.
+
 ## 2026-10-08 — Phase 22/23 visual experience R3 (unreleased)
 
 - Redesigned Member and authorized staff layouts with clearer navigation, task hierarchy and loading states.
