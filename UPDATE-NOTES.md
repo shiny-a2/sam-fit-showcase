@@ -287,3 +287,9 @@ The seven-step Member setup design is now frozen for a canonical backend handoff
 Why it matters: implementation teams have a stable specification without mistaking the current preview for a saved or completed onboarding service. The six approved requirements were checked for unique routing. Temporary browser storage is not prescribed as a default; any future local recovery of sensitive answers needs a security review. No new fields, screens, backend persistence, deployment or public release version were added.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Member onboarding handoff status correction (unreleased)
+
+The frozen onboarding handoff now points to the current Main Development entry review instead of an older platform phase. Its proposed requirement routes match the current capability map, while the requirement entries themselves remain on the separate UI candidate until integration. This is a documentation consistency correction only; the design, product behavior and implementation scope are unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Onboarding handoff status correction (unreleased)
+
+- Corrected the Main Development cursor reference in the frozen onboarding handoff.
+- Distinguished candidate requirement registration from the still-pending Main Development registry integration.
+- Documentation only; no cursor, design, UI, backend or release status changed.
+
 ## 2026-10-08 — Member onboarding design freeze (unreleased)
 
 - Published the authoritative seven-step implementation handoff and an all-pending backend readiness checklist.
