@@ -1,3 +1,9 @@
+## 2026-10-08 — Offline connector engineering checkpoint
+
+Added explicit archive-versus-live provenance, encrypted local buffering, schema compatibility checks and a private image-evidence storage path. An isolated historical replay recovered from a database outage and duplicate delivery; responsive Technical status states were checked in a real browser.
+
+The engineering milestone remains **FAIL** because the available offline evidence could not complete biometric archive acceptance and two crash-injection boundaries remain open. Live-source acceptance is separate and unclaimed. No customer records, images, credentials, internal host details, deployment or hardware commands are included.
+
 ## 2026-10-08 — Hardware/data connector R3 offline engineering checkpoint
 
 An isolated read-only edge candidate now has documented source boundaries, a bounded durable queue, signed local staging, restart-safe observation packages, and purpose-limited projections. TypeScript checks and 92 focused synthetic tests passed. No source connection was attempted during this offline implementation window.
