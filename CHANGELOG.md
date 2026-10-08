@@ -1,3 +1,9 @@
+## 2026-10-08 — Real Member purchase delivery planning (unreleased)
+
+- Recorded the owner request for real service purchasing, reservations, wallet settlement and provider fulfillment through the existing phase plan.
+- Added a delivery checklist covering authoritative funds, versioned prices, booking capacity, timed cafe orders, receipts, recovery, permission revocation and provider readback. Existing service requirements retain their routing.
+- Planning is complete for this update; purchasing and provider execution remain pending. The current development entry gate is still blocked by missing live recovery evidence. No funds were credited or spent, orders created, specialist roles activated, or production release deployed.
+
 ## 2026-10-08 — Saturday readiness reconciliation (unreleased)
 
 - Documented a gate-based readiness board, priority-domain adoption plan and operator acceptance sheets.
