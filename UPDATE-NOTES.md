@@ -232,3 +232,11 @@ The private local candidate passed one controlled recovery case: a synthetic che
 The pilot remains **FAIL** because a real receptionist has not yet completed the seven paired Nafis/Sam Fit tasks or judged the keyboard flow. Equipment status remains local simulator shadow only; no physical control, real customer operation, deployment or runtime version change occurred.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## 2026-10-08 — Fresh hardware observation validation checkpoint
+
+The private local candidate now requires explicit canonical branch confirmation, verified scoped identity references and a fresh authenticated source receipt before starting passive observation. A guarded adjacent-host launcher and thirteen new acceptance/security tests cover missing evidence, source-history separation, simulator isolation and signed-ingress rejection cases.
+
+Live validation remains open because the existing source access path did not reach target authentication. Archived replay is not counted as a fresh operational window; no live reception acceptance, equipment compatibility or production machine-auth approval is claimed. No source configuration, customer records, device control or deployment changed. Confidential identifiers and access details remain private.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
