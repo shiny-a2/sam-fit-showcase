@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-08 — CRM R3 engineering freeze (unreleased)
+
+- Documented the stable local CRM data and permission handoff for the Saturday screen redesign and prepared an empty real-operator review worksheet.
+- Kept engineering acceptance PASS and human acceptance PENDING; no new CRM feature, deployment or version change.
+
 ## 2026-10-08 — Local gym CRM R3 engineering checkpoint (unreleased)
 
 - Added member-centered CRM actions without requiring an older lead, filtered renewal and retention work queues, manual call outcomes and follow-up scheduling.

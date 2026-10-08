@@ -1,3 +1,11 @@
+## 2026-10-08 — CRM R3 engineering freeze and design handoff
+
+The locally tested CRM R3 engineering candidate is frozen while the Saturday screen redesign and a real CRM operator review are pending. A handoff now explains the existing data, action states, permissions and honest unavailable-data labels so design work can proceed without inventing sales, attendance or call-system facts. A blank operator worksheet is ready for observed task timing and feedback; no operator result has been entered.
+
+Local engineering acceptance remains **PASS** and human product acceptance remains **PENDING**. This documentation update adds no CRM feature and changes no deployed product or runtime version.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — Local gym CRM R3 engineering checkpoint
 
 The private local candidate now supports sales and retention work for existing members even when no earlier lead was recorded. Staff can use focused renewal, retention and former-member queues with useful filters, record manual call outcomes and schedule follow-ups. Member context and manager views connect this work to recorded memberships, visits and CRM actions. The manager view separates planned visits from recorded arrival results and shows follow-up timeliness and opportunity outcomes.
