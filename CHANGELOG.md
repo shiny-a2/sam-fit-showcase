@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-08 — Local gym CRM R3 engineering checkpoint (unreleased)
+
+- Added member-centered CRM actions without requiring an older lead, filtered renewal and retention work queues, manual call outcomes and follow-up scheduling.
+- Added explainable retention signals and a manager view of funnel stages, follow-up timeliness and opportunity outcomes; financial and physical authority remain separate.
+- Passed synthetic service and authenticated responsive browser checks. Engineering scope passed locally; real operator timing and comprehension review remains pending.
+- No deployment, runtime version change, customer-data use, real sale, payment, telephony connection or hardware action.
+
 ## 2026-10-08 — Local gym CRM R2 candidate (unreleased)
 
 - Added a quieter desktop sales workspace with focused actions for follow-ups, opportunities and planned visits.

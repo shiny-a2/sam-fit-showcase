@@ -1,3 +1,11 @@
+## 2026-10-08 — Local gym CRM R3 engineering checkpoint
+
+The private local candidate now supports sales and retention work for existing members even when no earlier lead was recorded. Staff can use focused renewal, retention and former-member queues with useful filters, record manual call outcomes and schedule follow-ups. Member context and manager views connect this work to recorded memberships, visits and CRM actions. The manager view separates planned visits from recorded arrival results and shows follow-up timeliness and opportunity outcomes.
+
+Synthetic service and authenticated browser checks passed, including the established CRM-to-Reception journey, Member actions, queue filters, call history, Task and private-note presentation, permission visibility, and responsive light/dark layouts. **Engineering scope passed locally; timed acceptance by a real CRM operator remains pending.** Confirmed revenue, hardware-verified attendance and telephone-system integration are not claimed. The deployed product and accepted runtime version have not changed; no customer data, real sale, message, payment or hardware action was used.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-08 — Local gym CRM R2 development checkpoint
 
 The private local candidate now gives gym sales staff a focused desktop workspace. Operators can open one action at a time for a follow-up, gym opportunity or planned visit, while separate queues highlight upcoming renewals, low recorded activity and former members who may need a win-back conversation. A limited Member view and branch manager summary connect the work to existing records without presenting estimated revenue or physical attendance as facts. Managers can narrow the summary by when a lead was created, its owner, source and current stage. A preparation panel shows telephone follow-ups already recorded for a lead and clearly states that telephony is not connected.
