@@ -230,3 +230,12 @@ The private UI candidate now presents focused screens for Member, Reception, CRM
 Why it matters: teams can inspect how work moves between roles while future operations remain visibly unavailable until their services and permissions are approved. The candidate retains homes for all 367 planned capabilities. Browser review checked 64 protected page variants and 32 specialist previews; five local synthetic roles opened their 23 authorized screens. The specialist previews are design assets, not live role access. No deployment, customer data, money movement, call, camera feed or device command was involved. Integrations and human acceptance remain open.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — SAM FIT R6 navigation and account security review
+
+The private R6 candidate reconciles the strongest Member, Reception, CRM and Management interaction patterns from the earlier product track with the independent application. Each of thirteen role spaces now has a clearer task menu. Member wellness and five service journeys have deeper, source-aware screens; specialist work is represented as design previews until role and business contracts are approved.
+
+The accepted local session service is now presented through account controls for signing out here or ending every session of the same account. Synthetic Member and Staff tests used independent browsers and confirmed that the second browser is redirected on its next protected request. Current-session sign-out preserves the other browser's session. A separate Staff account remained active after the Member account's sessions were revoked.
+
+This is a **conditional UI design pass**. Service booking, order and payment actions, specialist access, and external integrations are not enabled by these screens. Responsive browser checks covered five widths and both themes; human workflow acceptance remains open. No customer records, credentials, deployment or version change are included in this showcase update.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

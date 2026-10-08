@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-08 — Product navigation and session experience R6 (unreleased)
+
+- Reorganized thirteen role spaces into task-focused menu groups with explicit planned states for workspaces awaiting authorization.
+- Deepened member wellness, desk and customer relationship context, service journeys, and specialist design previews while preserving honest data and permission boundaries.
+- Added account session controls for current-browser sign-out and confirmed all-session sign-out using the accepted local authentication handoff.
+- Checked responsive light and dark views, and verified two-browser session revocation with synthetic Member and Staff accounts. Specialist runtime access and business service commands remain pending.
+- No deployment or public release version change occurred.
+
 ## 2026-10-08 — Specialist workspace experience R5 (unreleased)
 
 - Added focused Member, Reception, CRM, Management and Technical UI screens plus specialist role design previews.
