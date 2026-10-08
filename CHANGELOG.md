@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Local CRM handoff candidate (unreleased)
+
+- Added a private development candidate for planned visits, Reception feedback and next CRM follow-up, with branch-scoped attention and search.
+- Passed synthetic service checks and responsive visual review; kept pilot status FAIL pending the complete real API browser journey and safe result recovery.
+- No version change, deployment, customer data, payment or hardware action.
+
 ## 2026-10-07 — Clearer validation roles
 
 - Simplified Sam Fit's validation access to six distinct roles, so reviewers can test the owner, central manager, branch manager, reception, member and CRM experiences separately.

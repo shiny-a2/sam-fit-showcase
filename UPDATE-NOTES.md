@@ -195,3 +195,10 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 An authenticated interim observation export was retrieved and analyzed while local collection continued. Natural automatic restart survival was verified. An observer-only startup setting now removes its delayed start without restarting the source application or PC; behavior under that setting remains to be checked at the next natural boot.
 
 The review distinguishes software attendance closure, personnel auto-exit semantics, allocation changes and connection attempts from physical passage, door state and device outage. Implementation notes now specify separate evidence types, boot-aware clocks and reconciliation of conflicting software states. Complete physical flows, wiring/sensor verification and the full observation window remain open. Customer records, operational timelines, network details and confidential evidence are not published.
+## 2026-10-08 — Local CRM and Reception handoff candidate
+
+An isolated Sam Fit development branch now links lead follow-ups to a planned branch visit and a structured Reception response. CRM can see whether the person arrived and whether another follow-up is needed. The work adds branch-scoped attention and lead search views. This matters because a sales handoff can carry useful context into Reception and return an actionable result to CRM.
+
+Synthetic service checks passed for the handoff, duplicate submissions and branch access. Responsive CRM and Reception screens were reviewed in light and dark themes at mobile and desktop widths with mock feature responses. The pilot decision remains **FAIL**: the full authenticated browser journey against this candidate API and operator-safe recovery of an uncertain Reception result are still open. No deployment, real customer data, payment or hardware action occurred; the accepted runtime version is unchanged.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
