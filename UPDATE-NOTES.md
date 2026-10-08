@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception real-pilot read review
+
+The private Reception candidate now uses the isolated Pasdaran pilot's real member identities and locker catalogue for a read-only desk review. The desk refreshes selected context and expected visitors while open, keeps unknown source health visible, and distinguishes source observations from accepted membership, visits and wallet facts. An isolated synthetic browser run checked guest and visitor follow-up actions; real-pilot browser review checked mobile and desktop light/dark views without changing business records.
+
+This remains a partial local checkpoint. Real membership and financial authority, live source freshness, a receptionist's seven paired tasks and keyboard judgment, service handoffs, migration upgrade acceptance and physical device evidence remain open. No physical command or deployment occurred.
+
 ## 2026-10-09 — Organization-to-reception planning checkpoint
 
 The private development plan now tracks entry readiness for 73 capabilities across organization, member, CRM, finance, membership, access and reception work. It also maps reusable local candidates and the checks needed before their database changes can be adopted.
