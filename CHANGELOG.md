@@ -7,6 +7,7 @@
 - Passed bounded synthetic checks and the CRM-to-Reception regression; full real, live, operator and telephony acceptance remains pending.
 - No deployment, runtime version change, customer-data use, payment, message or hardware operation.
 - Corrected unavailable real-pilot membership cohorts in CRM/manager presentation; read-only pilot and responsive browser checks passed.
+- Added source-backed planned-visit, Reception-result and callback tabs to the existing CRM Today screen with bounded reread and direct Member context; live product acceptance remains pending.
 
 ## 2026-10-08 — CRM R3 engineering freeze (unreleased)
 

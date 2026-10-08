@@ -6,6 +6,8 @@ This is a development candidate, not full product acceptance. The existing R3 en
 
 A follow-up read-only pilot check corrected the distinction between an empty work queue and unavailable membership evidence. CRM and manager screens now say when valid membership data is unavailable instead of presenting that case as zero. Responsive light/dark browser checks passed without changing a real business record.
 
+The existing Today workspace now includes planned visits, Reception results needing conversion review, and manual callbacks alongside FollowUps and opportunities. It rereads source-backed work after confirmed actions, reconnect, page return, and while visible. Real-pilot browser checks covered the added queues and direct Member context at mobile and desktop widths in both themes. Full live, canonical, real-cohort, and operator acceptance remain open.
+
 Developer: [a2 sport](https://amiraliyaghouti.com).
 
 ## 2026-10-08 — CRM R3 engineering freeze and design handoff
