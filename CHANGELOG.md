@@ -2,9 +2,9 @@
 
 ## 2026-10-08 — Offline connector engineering checkpoint (unreleased)
 
-- Added mode-aware archive replay, encrypted buffering, schema/version checks and a private image evidence path.
-- Verified isolated outage recovery, duplicate delivery handling and responsive Technical status states.
-- Kept the engineering milestone at FAIL pending biometric archive acceptance and remaining crash-boundary tests. No source connection, hardware command or deployment.
+- Added incremental, metadata-only biometric source adapters with explicit privacy and authority boundaries; image bytes remain private and encrypted by the local evidence path.
+- Rechecked queue key derivation, tamper handling and schema drift guards; retained prior isolated outage recovery and duplicate-delivery evidence.
+- Kept Core at FAIL pending direct archive crash tests and authenticated Technical/Reception QA. Real binary acceptance remains pending. No source connection, hardware command or deployment.
 
 ## 2026-10-08 — Hardware/data connector R3 offline engineering checkpoint
 
