@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception local handoff refinement
+
+The private Reception candidate now presents guest actions according to the recorded software visit and pass usage. It also lets staff report an expected visitor's outcome and schedule a follow-up when needed. Local browser/API checks covered the guest journey, CRM follow-up, task completion and issue closure across mobile and desktop light/dark views.
+
+This is synthetic local evidence. Real branch data integration, a receptionist's paired task review and device acceptance remain open. No physical control, customer transaction or deployment occurred.
+
 ## 2026-10-09 — Reliability batch and future work routing
 
 Four private reliability checks are now documented as independent local results: isolated application restore, restart, failure recovery and internal replay. The next organization capabilities received a planning preflight only. A requested future points-to-wallet conversion was routed to Loyalty with Wallet as a financial dependency; no conversion rate, money movement or implementation was approved.

@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception local handoff refinement (unreleased)
+
+- Align guest entry, exit and conversion actions with the recorded software visit and remaining guest pass.
+- Offer visit outcome reporting and a scheduled follow-up in the Reception desk; confirm task and issue handoffs in a local browser/API run.
+- Keep real pilot data, receptionist acceptance and hardware control as separate release gates; no deployment.
+
 ## 2026-10-09 — Reliability batch and planning preflight (unreleased)
 
 - Record four independently verified local reliability checks: restore, restart, failure recovery and internal replay.
