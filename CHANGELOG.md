@@ -1,3 +1,8 @@
+## 2026-10-08 — Saturday readiness reconciliation (unreleased)
+
+- Documented a gate-based readiness board, priority-domain adoption plan and operator acceptance sheets.
+- Updated private evidence for bounded real-data consumers and the remaining connector recovery gap; kept the development cursor unchanged. No runtime or version change.
+
 ## 2026-10-08 — Live operational UI contract (unreleased)
 
 - Routed a cross-workspace source-backed operational UI requirement and documented freshness, failure, scope and acceptance rules.

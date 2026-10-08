@@ -1,3 +1,9 @@
+## 2026-10-08 — Saturday readiness and mainline preflight (unreleased)
+
+- Added a capability readiness board grounded in separate software, real-data, live-data, hardware and human gates. Prepared reuse maps and operator review sheets for the priority workspaces.
+- Reconciled the private entry review: the bounded read-only Reception, CRM and Management pilot identity check is complete; a live connector recovery scenario remains open. The next development gate and last verified capability did not change.
+- Reviewed an independent monitoring leaf for later entry without promoting it or implementing a new product feature. No interface, backend runtime, deployment, release or production claim changed in this batch.
+
 ## 2026-10-08 — Live operational UI requirement routed (unreleased)
 
 - Registered one owner-approved cross-workspace requirement and a projection catalog in the private control plane. It defines source-backed counts, per-domain freshness, safe unavailable/stale states, permission and branch scope, and reconciliation after reconnect.
