@@ -318,3 +318,8 @@ Developer: [a2 sport](https://amiraliyaghouti.com).
 The Member app now starts with a clearer home and a glass-style hamburger menu for grouped sections, alongside its mobile quick navigation. Management uses labeled charts for existing branch CRM figures, and CRM presents daily work in more distinct lanes. These are visual and navigation changes verified in an isolated browser preview; unavailable data and specialist permissions remain unchanged.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+## 2026-10-08 — Focused CRM navigation and customer cards
+
+CRM's daily view is shorter, while Leads, renewal, retention and win-back have their own menu destinations. Selecting a customer opens a commercial record with the information and actions available to that role and branch. Real browser checks covered mobile and desktop in both themes. This remains an unreleased, isolated preview.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).

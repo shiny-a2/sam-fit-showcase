@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-08 — Focused CRM workspace (unreleased)
+
+- Moved Lead records, membership follow-up queues and operator tasks into clear CRM menu destinations, leaving the landing page focused on today's work.
+- Made customer names open authorized, branch-scoped commercial cards with available context and actions.
+- Checked the routes and cards in real mobile/desktop light/dark browser sessions. No new data source, deployment or release version changed.
+
 ## 2026-10-08 — R8.2 workspace visual polish (unreleased)
 
 - Improved grouped workspace navigation, the Member home and mobile glass-style menu, and Management's chart presentation.
