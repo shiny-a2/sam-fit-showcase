@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-08 — Member header cleanup (unreleased)
+
+- Removed the duplicate Member header account shortcut while preserving Security and sessions in the Profile menu; reviewed mobile/desktop light/dark navigation.
+
 ## 2026-10-08 — Member reference catalogue and service drafts (unreleased)
 
 - Added a searchable exercise reference library with 100 curated records and two image frames for the first five movements.

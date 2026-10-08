@@ -1,3 +1,7 @@
+## 2026-10-08 — Member header cleanup
+
+Removed the redundant account shortcut from the Member header to reduce clutter. Security and sessions remain in the Profile menu. Mobile and desktop navigation passed in light and dark themes; authentication and session behavior remain unchanged. Unreleased local preview.
+
 ## 2026-10-07 — Local membership/access validation closure
 
 The private candidate now has stronger evidence for synthetic migration replay, complete local backup and restore, dependency restarts, role and branch security, concurrent access and charging, uncertain financial outcomes, and a bounded multi-branch scale fixture. A separate test environment kept the existing validation service untouched. The local backend contract and exception views were checked through authenticated browser sessions.
