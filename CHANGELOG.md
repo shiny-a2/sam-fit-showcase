@@ -1,3 +1,8 @@
+## 2026-10-08 — OTP entry review blocked (unreleased)
+
+- Recorded the missing owner policy for OTP and kept existing password sign-in in place.
+- Published the review outcome and pending acceptance work; no OTP feature, deployment or version change.
+
 ## 2026-10-08 — Bounded local role-grant verification (unreleased)
 
 - Verified a limited, audited staff role assignment and removal flow using synthetic accounts and explicit branch scope.

@@ -1,3 +1,7 @@
+## 2026-10-08 — OTP policy entry paused (unreleased)
+
+The next identity step was reviewed and remains blocked because its eligible users, sign-in purpose, approved delivery and recovery rules have not been decided. Existing password sign-in continues. Basic development health checks passed, but OTP-specific API, browser and recovery tests were not run. This documents the decision and protects the current login boundary; it does not enable OTP or change the product version.
+
 ## 2026-10-08 — Local branch authorization verified (unreleased)
 
 - Restricted human workspace and record access to currently active, explicitly authorized branches. Removed assignments take effect on the next protected request.
