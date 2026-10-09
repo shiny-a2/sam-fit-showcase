@@ -1,3 +1,9 @@
+## 2026-10-09 — Local privacy and authorization review (unreleased)
+
+- Verified bounded local consent history, Branch isolation, active-session Staff authorization and audit checks using synthetic data.
+- Checked the Member consent interaction in light and dark themes at mobile and desktop widths.
+- Found a remaining CRM purpose-view compatibility issue; broader privacy acceptance and production policy decisions remain open.
+
 ## 2026-10-09 — Parallel domain safety checkpoint (unreleased)
 
 - Limit Member360 responses to the requested purpose for users with multiple workspace permissions.

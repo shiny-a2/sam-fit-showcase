@@ -1,3 +1,9 @@
+## 2026-10-09 — Local privacy and authorization review
+
+The private candidate now has focused local evidence that Member consent choices remain separate from message preferences, can be withdrawn, and keep an immutable history. Representative Branch and Staff access checks, plus audit checks, passed with synthetic data. The Member consent screen was exercised in mobile and desktop light/dark views.
+
+The full privacy phase is still open. One CRM purpose-specific view needs a compatibility fix, and health data, retention, export, deletion and incident rules need owner decisions. No production privacy approval, customer data change or deployment is claimed.
+
 ## 2026-10-09 — Parallel domain safety checkpoint
 
 A private local change now limits Member360 sections to the purpose requested, including when one staff user has several workspace permissions. Current Member consent decisions also remain accurate when older than the shortened history shown on screen. Focused checks passed. The development team recorded dependency and policy readiness across privacy, communications, finance, loyalty and external integrations.
