@@ -12,7 +12,7 @@ Main Development can consume a specific, reproducible private Auth snapshot with
 
 ## Verified checkpoint
 
-- Private source: `edf57d2728b35a1029f4394fcbc8b6d5a89cdf08`.
+- Private source: `e996ebc0c548ed460d2388f26feb2e9b2dfbcaa3`.
 - Canonical API source: `242a395c4cfdd439fae33d9c8740f201d57cf2ee`.
 - Postcommit production Web build, route matrix, auth matrix and same-Person isolation: PASS.
 - Canonical database compatibility: exactly 17 migrations; migration 018 is not required.
@@ -22,3 +22,11 @@ Main Development can consume a specific, reproducible private Auth snapshot with
 Checks use isolated synthetic QA identities. Login presentation is checked in light and dark themes at mobile, tablet and desktop widths, including keyboard interaction and reduced motion. This evidence does not certify VPS deployment, disaster recovery or unrelated CRM workflows.
 
 Main consumes the private source revision. This public note contains no customer records, credentials, screenshots of private data or infrastructure access details.
+
+## Final canonical route closure
+
+Reception, CRM, Management and Technical now use their canonical product routes. Historical routes redirect explicitly, preserve branch/query context and share the existing protected implementation. Workspace presentation paths are normalized without changing server grants, permissions or branch authority.
+
+The final independent private commit was pushed before the complete production build and real-browser matrix were repeated on that exact SHA. Authorized Staff can open all four canonical routes; wrong-context and unauthorized Staff are denied. Disabled Staff and revoked sessions are denied across all four direct routes. Existing Member destinations and same-Person separate-User isolation remain intact.
+
+This is a source checkpoint for downstream integration. It has not replaced the VPS deployment. Main Development must run its own integrated disaster-recovery gate after consuming the exact private revision.

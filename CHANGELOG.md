@@ -1,3 +1,7 @@
+## 2026-10-09 — Canonical Auth/Route final closure
+
+Canonical Staff destinations and explicit historical redirects now have production browser regression coverage. The clean private checkpoint passed its complete post-push matrix on the exact committed revision with canonical 17-migration compatibility. Auth P0/P1 are zero. This source update excludes deployment and business workflow changes. See [checkpoint evidence](AUTH-ROUTE-CHECKPOINT-UPDATE.md).
+
 ## 2026-10-09 — Web 0.1.0-local.7
 
 Auth exit checkpoint complete; verified public-origin correction for hosted Member/Staff transport. Responsive interaction, canonical lifecycle negatives and actual HTTPS checks passed.
