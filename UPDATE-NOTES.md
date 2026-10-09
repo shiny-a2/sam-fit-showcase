@@ -402,3 +402,7 @@ Source operations remain unchanged. No biometric enrollment, recognition test, f
 Added an offline-only image/reference analysis tool that verifies authenticated evidence before mapping it to scoped local identity candidates. It separates identity matching from primary-image selection and device-acknowledgment assumptions. Integrity checks reject corrupted ciphertext and prevent private output inside Git.
 
 Read-only navigation permission metadata and an operator-local evidence guide now distinguish permitted menu access from actual screen traversal. The passive observer has no remote GUI-control capability, so additional internal screens remain unverified while the source is offline. Automatic source retries were disabled for this offline round. A separate isolated recovery-test plan records the remaining restore acceptance boundary; no recognition, enrollment, business operation or device command was performed. Private mappings, images, customer data and source identifiers remain excluded from the showcase.
+
+## 2026-10-09 — Live acceptance precondition audit
+
+Rechecked the authorized source path and kept offline compatibility acceptance separate from live transport acceptance. The current pilot delivery path is not ready for a natural-event reliability drill, so live acceptance remains pending. No business or hardware operation was performed. This prevents historical observations from being presented as fresh end-to-end evidence.
