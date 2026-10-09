@@ -1,3 +1,11 @@
+## 2026-10-09 — Separate WordPress CRM pilot assessed
+
+The private Sam Fit work now has a source and deployment assessment for a separate WordPress CRM pilot. It identifies reusable CRM workflows, branch and access-control checks, and the infrastructure and recovery gates needed before a controlled pilot. This helps the team reuse existing product behavior while keeping the current Sam Fit application and demo stable.
+
+The new CRM site has not been deployed. Server access, the new DNS record and an approved source-to-branch data binding are still pending. No customer records, credentials or source-system changes were part of this update.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Synthetic database recovery evidence added
 
 A separate synthetic local recovery drill now restores the accepted database baseline from an authenticated encrypted backup. The source fixture was backed up before the simulated outage, then recovered into a fresh isolated target. Post-recovery checks found nonempty CRM list and daily views, a restored Lead detail, separate Member and Staff API authority for one Person, a denied old session, and unchanged business records after Worker startup.

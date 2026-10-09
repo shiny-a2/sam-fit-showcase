@@ -1,3 +1,8 @@
+## 2026-10-09 — Separate WordPress CRM pilot assessment
+
+- Documented reuse and controlled-pilot gates for a standalone Sam Fit WordPress CRM.
+- Kept deployment and real-data status explicitly pending; current Sam Fit services and customer data were unchanged.
+
 ## 2026-10-09 — Windows runtime lab candidate (preview 0.1.0-preview.2)
 
 - Added explicit Windows platform and encrypted-custody adapter candidates over the shared connector core, with simulator-only service and update tooling.
