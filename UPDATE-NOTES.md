@@ -1,3 +1,11 @@
+## 2026-10-10 — Organization foundation gate review
+
+The private platform reviewed all six planned Organization and Branch capabilities against its current database, permissions and approved product rules. The protected Branch directory remains a partial local feature. Regional structure, staff placement, closures, settings and cross-branch use need precise owner contracts before new write functions can be accepted.
+
+The Phase 03 local exit did not pass, so Member Core work has not started. The pending CRM/Reception database change remains under review. This checkpoint records the next decisions and preserves the existing pilot and production services without changes.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — CRM backup recovery checkpoint
 
 The restricted WordPress CRM pilot now creates a protected daily backup of its database and site configuration. A separate disposable restore read the backup and recovered the same 20 members and 20 source mappings. A verified second copy is stored on the owner laptop outside source control.
