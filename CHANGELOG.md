@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-09 — Real locker catalogue binding (Web 0.1.0-local.2, unreleased)
+
+- Clearly separated real-catalogue review from the candidate environment, retaining existing authenticated permissions and account credentials.
+- Preserved real Locker identities and numbering, verified complete read-only display and added safeguards against candidate-source substitution.
+- Desktop/mobile light/dark review covers the source-backed grid, search, keyboard and disabled action boundaries. Logical assignments and physical control remain pending; no source freshness or realtime acceptance is claimed.
+- Local real-data preview availability is supervised independently of the chat process. No business records, source systems or hardware were changed.
+
 ## 2026-10-09 — Reception locker workflow study (Web 0.1.0-local.1, unreleased)
 
 - Preserved the useful numbered-grid and adjacent-context pattern from owner-supplied operator evidence, using Sam Fit's existing visual system.
