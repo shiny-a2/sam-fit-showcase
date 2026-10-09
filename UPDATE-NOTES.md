@@ -1,3 +1,7 @@
+## 2026-10-09 — Separate login staging preparation (Web 0.1.0-staging.4)
+
+Member and Staff auth UX prepared and built under staging policy. No remote deployment or new public route acceptance. See [preparation notes](AUTH-LOGIN-STAGING-PREPARATION-UPDATE.md).
+
 ## 2026-10-09 — Verified Linux staging release (0.1.0-staging.2)
 
 - Completed a clean Linux production build against the accepted migration lineage and pruned development dependencies before runtime checks.
