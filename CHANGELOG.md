@@ -1,3 +1,10 @@
+## 2026-10-09 — Additive source compatibility accepted (unreleased)
+
+- Preserve the historical contract and version the explicitly reviewed source-scoped additive variant.
+- Verify live source pages, stable IDs, unchanged normalization and the post-acceptance preflight; 38 focused tests pass.
+- Keep strict unknown-schema rejection and bounded data reads; correct metadata-only numeric serialization without new domain authority.
+- Keep natural-event, application-refresh and live interruption recovery acceptance open. No source mutation, hardware control or production deployment.
+
 ## 2026-10-09 — Live-source diagnostic checkpoint (unreleased)
 
 - Verify the existing pinned reception path through its authorized relay.

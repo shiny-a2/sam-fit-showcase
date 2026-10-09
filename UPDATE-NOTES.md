@@ -1,3 +1,11 @@
+## 2026-10-09 — Explicit additive source-contract review
+
+The private connector candidate now preserves its previous schema contract and records a separately versioned, explicitly reviewed additive variant. Read-only live checks exercised every supported table, stable identifiers, unchanged normalization and bounded metadata/data reads. Unknown additions, missing fields and type changes still fail strict validation. A metadata-only numeric serialization correction aligns actual source output with the existing adapter contract.
+
+The source preflight passes with the reviewed exact fingerprint. No new business meaning, financial effect, recognition, source write or physical command is authorized by this compatibility result. Fresh natural-event delivery, live application reread and the interruption/recovery drill remain pending; no deployment is claimed. Private schemas, records, endpoints and credentials are excluded.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Pinned live-source diagnosis
 
 The existing authorized source path was restored and its pinned reception identity verified from the adjacent development host. Live read-only inspection exposed two reader defects: an undersized metadata bound and inconsistent fingerprint ordering. The private candidate corrects both while preserving bounded business reads and strict schema rejection.
