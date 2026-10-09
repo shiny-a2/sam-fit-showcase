@@ -1,3 +1,9 @@
+## 2026-10-10 — CRM backup recovery checkpoint
+
+The restricted WordPress CRM pilot now creates a protected daily backup of its database and site configuration. A separate disposable restore read the backup and recovered the same 20 members and 20 source mappings. A verified second copy is stored on the owner laptop outside source control.
+
+This confirms backup readability for the current pilot. Independent offsite automation and a complete recovery time drill remain open before public acceptance. No backup contents or customer records are published.
+
 ## 2026-10-10 — Portfolio VPS copy checked before cutover
 
 An isolated copy of the existing portfolio passed browser checks at phone and desktop widths: home and Persian routes loaded, images rendered, navigation opened and closed by keyboard, and no horizontal overflow or page errors appeared. The current site uses one dark theme under either OS color setting. The public domain still points to the existing host while its mail route is settled.

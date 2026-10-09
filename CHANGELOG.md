@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM backup recovery checkpoint
+
+- Added protected daily CRM backup and verified a disposable restore of member/source counts.
+- Kept offsite automation and full disaster recovery acceptance open.
+
 ## 2026-10-10 — Portfolio migration preflight
 
 - Verified the isolated VPS portfolio copy on phone/desktop, localized routes and interactive mobile navigation.
