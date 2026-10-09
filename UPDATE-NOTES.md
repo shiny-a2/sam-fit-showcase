@@ -1,3 +1,9 @@
+## 2026-10-09 — Durable local preview lifecycle (unreleased)
+
+- Made the compiled local preview independent of the chat process lifetime using per-user macOS service supervision and private runtime installation.
+- Verified the existing login and automatic Web/API restart without changing credentials, business records or product behavior.
+- This improves local review availability; it is not a production release, new canonical adoption or cross-device LIVE acceptance.
+
 ## 2026-10-09 — Canonical adoption watch freeze (unreleased)
 
 - Froze established navigation, Reception, CRM, Management and onboarding flows pending accepted owner contracts or concrete integration defects.
