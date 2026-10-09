@@ -1,3 +1,9 @@
+## 2026-10-10 — Portfolio VPS copy checked before cutover
+
+An isolated copy of the existing portfolio passed browser checks at phone and desktop widths: home and Persian routes loaded, images rendered, navigation opened and closed by keyboard, and no horizontal overflow or page errors appeared. The current site uses one dark theme under either OS color setting. The public domain still points to the existing host while its mail route is settled.
+
+This is a preflight checkpoint; it does not claim a public portfolio cutover. No customer data or private recovery files are published.
+
 ## 2026-10-10 — Migration review and platform licensing design
 
 The private platform completed a controlled review of a pending CRM and Reception database change. Fresh and upgraded synthetic databases, a synthetic backup and restore, and selected API access checks worked. A database to application schema mismatch remains, so the change was not accepted into the main migration history and Branch administration work remains pending. The existing pilot data was only inspected without changes.

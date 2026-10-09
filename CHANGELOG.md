@@ -1,3 +1,8 @@
+## 2026-10-10 — Portfolio migration preflight
+
+- Verified the isolated VPS portfolio copy on phone/desktop, localized routes and interactive mobile navigation.
+- Kept the public parent-domain cutover pending its mail route decision.
+
 ## 2026-10-10 — Migration review and A2 licensing design
 
 - Reviewed the pending combined CRM/Reception migration on disposable synthetic databases and preserved the existing pilot data.
