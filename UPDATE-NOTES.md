@@ -1,3 +1,11 @@
+## 2026-10-09 — Synthetic database recovery evidence added
+
+A separate synthetic local recovery drill now restores the accepted database baseline from an authenticated encrypted backup. The source fixture was backed up before the simulated outage, then recovered into a fresh isolated target. Post-recovery checks found nonempty CRM list and daily views, a restored Lead detail, separate Member and Staff API authority for one Person, a denied old session, and unchanged business records after Worker startup.
+
+The real pilot recovery evidence remains separate and unchanged. Final disaster recovery acceptance is still open while the independent login and route workstream completes its production-build checkpoint. No customer identity, production routing, later schema or physical system was changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Isolated disaster recovery drill remains open
 
 The private Track B candidate reconstructed a local replacement from an authenticated encrypted backup, fresh database and cache services, and a pinned application build. Staff login, protected workspace reads, browser navigation, Worker recovery, Redis failure reporting and data-integrity checks passed in the isolated drill. A session check was tightened so accounts with no current workspace authority are rejected.

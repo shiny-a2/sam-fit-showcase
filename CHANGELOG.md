@@ -1,3 +1,9 @@
+## 2026-10-09 — Synthetic baseline DR evidence (unreleased)
+
+- Added a separate encrypted backup and isolated restore drill for the accepted local database baseline.
+- Verified restored CRM reads, separated Member and Staff API authority, old-session denial and stable business records.
+- Kept final DR acceptance open for the independently owned login and route checkpoint; no real-pilot identity change or deployment.
+
 ## 2026-10-09 — Isolated disaster recovery drill remains open (unreleased)
 
 - Reconstructed a disposable local application replacement from an authenticated encrypted backup and verified Staff API, Web, Worker and data integrity.
