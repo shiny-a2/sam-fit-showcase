@@ -1,3 +1,9 @@
+## 2026-10-10 — Old-host scheduler retirement and CRM recovery drill
+
+- Retired two obsolete old-host scheduled jobs after checking their purpose and run evidence; preserved recovery notes.
+- Corrected a missing private-code component in the CRM backup and passed an isolated full-site restore with cleanup.
+- Expanded synthetic opportunity, task and branch-authorization checks. Email forwarding and final old-host exit remain pending.
+
 ## 2026-10-10 — Isolated migration recovery evidence
 
 - Verified a protected local backup copy through candidate database upgrades and a separate recovery test.

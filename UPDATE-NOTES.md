@@ -1,3 +1,7 @@
+## 2026-10-10 — Hosting exit preparation and CRM continuity
+
+The remaining old-host scheduled jobs were reviewed and retired with recovery records. A full CRM recovery drill found a backup completeness issue; the corrected backup now boots an isolated copy successfully, and an encrypted copy was verified off-host. Focused synthetic sales workflow checks passed. Independent email forwarding and full CRM acceptance remain open, so the old hosting subscription is still required.
+
 ## 2026-10-10 — Isolated database migration recovery review
 
 The private platform verified a protected copy of an existing local pilot backup in a separate test database. The reviewed database changes preserved all application table contents, passed schema comparison, and survived a second backup and restore. The original pilot and its backup were unchanged.
