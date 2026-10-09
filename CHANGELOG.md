@@ -1,3 +1,9 @@
+## 2026-10-10 — ARM64 media integrity review
+
+- Inspected supplied installation media read-only and independently computed its integrity hash.
+- Kept native Windows acceptance pending because the hash did not match the official reference for its reported language. Requested the exact release reference without assuming tampering or accepting a different language's hash.
+- Preserved the preview artifact and open readiness gates. No virtual guest boot, live source contact, deployment or hardware control occurred.
+
 ## 2026-10-10 — Local branch registry verification
 
 - Added bounded branch administration for the isolated synthetic application, including change history, scoped authorization, replay safety and recovery checks.
