@@ -1,3 +1,9 @@
+## 2026-10-09 — Track B hosting readiness review (unreleased)
+
+- Measured a clean local Web/API/Worker build and separated deployable output from development dependencies and caches.
+- Rechecked the current hosting account and confirmed that isolated PostgreSQL service, compatible application runtime, durable worker supervision and rollback evidence are not ready for staging admission.
+- Preserved the existing Track A route and data; no staging deployment, database migration, cutover or release occurred.
+
 ## 2026-10-09 — Additive source compatibility accepted (unreleased)
 
 - Preserve the historical contract and version the explicitly reviewed source-scoped additive variant.
