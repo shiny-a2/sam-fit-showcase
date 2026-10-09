@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-09 — Verified Linux staging release (0.1.0-staging.2)
+
+- Completed a clean Linux production build against the accepted migration lineage and pruned development dependencies before runtime checks.
+- Verified supervised Web/API/Worker operation, isolated database/cache networking, secure sessions and restricted administrative actions.
+- Passed real browser login/workspace checks across mobile/desktop and light/dark themes, including menu/theme interactions, scope denial and logout protection.
+- Verified trusted HTTPS, certificate renewal simulation and full reboot recovery; added private backups, log rotation and measured Linux deployment footprint.
+- Moved only the owner-authorized staging subdomain. Existing hosting application/database and unrelated DNS records were preserved; some resolver caches may retain the prior target temporarily.
+- Synthetic staging smoke acceptance does not complete downstream product APIs, real services, financial operations or physical hardware acceptance. Missing canonical contracts remain visibly unavailable/partial.
+
 ## 2026-10-09 — Isolated staging deployment foundation (0.1.0-staging.1)
 
 - Added explicit staging admission and consumed accepted authentication ancestry alongside existing product workspaces.
