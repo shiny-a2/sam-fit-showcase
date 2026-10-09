@@ -1,3 +1,11 @@
+## 2026-10-10 — Branch schedule read and membership scope safety
+
+The private platform added a protected read-only view of the existing weekly Branch schedule source. It clearly marks closures and the Organization-owned schedule as unconfigured, so an operator cannot mistake source hours for an opening decision. Access checks also deny expired or inactive membership snapshots when a Member requests another Branch's context. Focused authorization tests and an API build passed.
+
+A pending CRM/Reception database correction passed further synthetic installation, upgrade, backup/restore and foreign-key checks. It remains under review because domain-owner acceptance, migration approval and wider regression testing are outstanding. No Branch administration writes, customer data change, hardware action or deployment occurred; Phase 03 remains incomplete.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — Branch policy baselines and database compatibility review
 
 The owner set local design baselines for regional structure, staff placement, operating schedules and Branch settings. Cross-Branch Member use now defaults to denial unless a valid explicit membership entitlement supports it. These are design rules; no new customer access, financial effect or physical gate behavior was activated.

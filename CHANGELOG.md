@@ -716,3 +716,9 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 
 - Confirm offline connector readiness and keep live validation pending because the source session was unavailable during preflight.
 - No live-source or production acceptance is claimed; no deployment or hardware control was performed.
+## 2026-10-10 — Branch schedule source and access scope hardening
+
+- Added a protected read-only weekly schedule source view and focused Branch authorization checks in private development.
+- Denied stale cross-Branch membership snapshots and checked inactive, expired and out-of-scope cases.
+- Re-tested a candidate database correction on disposable synthetic databases; canonical acceptance and Phase 03 exit remain pending.
+- No production deployment, customer-data change, financial posting or physical access action.
