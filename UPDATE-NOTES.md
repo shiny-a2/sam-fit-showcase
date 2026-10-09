@@ -1,3 +1,7 @@
+## 2026-10-09 — CRM UX refinement
+
+Today and Lead detail now use a denser operational presentation with honest availability, shared themes and keyboard review. Seven owning-contract gaps remain explicit; no backend port or new business semantics. See [CRM refinement](CRM-UX-REFINEMENT-UPDATE.md). This source update is not a staging deployment or product completion claim.
+
 ## 2026-10-09 — Verified auth handoff (Web 0.1.0-local.7)
 
 Completed the clean auth checkpoint and corrected a real TLS-proxy context mismatch found during hosted acceptance. Dedicated real-backend checks confirm account separation and current server authority. Existing credentials and business/source systems remain unchanged.

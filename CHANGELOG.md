@@ -1,3 +1,10 @@
+## 2026-10-09 — CRM experience refinement (Web source 0.1.0-local.8)
+
+- Improve operational Today/list density and focused Lead detail using a documented visual-reference audit.
+- Preserve backend authority, separate identities and command recovery; distinguish unavailable contracts from empty or zero.
+- Verify bounded desktop/tablet/mobile light/dark and keyboard behavior on the existing canonical baseline; record remaining commercial contract blockers.
+- Source/design update only; canonical adoption watch continues. See CRM-UX-REFINEMENT-UPDATE.md.
+
 ## 2026-10-09 — Web 0.1.0-local.7
 
 Auth exit checkpoint complete; verified public-origin correction for hosted Member/Staff transport. Responsive interaction, canonical lifecycle negatives and actual HTTPS checks passed.
