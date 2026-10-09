@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM route preflight
+
+- Checked 20 restricted operator routes across four responsive widths; no route or overflow errors appeared in the tested combinations.
+- Kept write-path, role and full visual acceptance open.
+
 ## 2026-10-10 — Organization foundation gate review
 
 - Reviewed all six planned Organization/Branch capabilities and documented their reusable foundations and open owner decisions.

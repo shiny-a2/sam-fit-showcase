@@ -1,3 +1,7 @@
+## 2026-10-10 — CRM navigation route sweep
+
+The restricted CRM pilot loaded all 20 operator navigation routes in a browser across phone, tablet and desktop widths, with no browser exceptions or horizontal overflow in the tested theme combinations. The earlier login, member list and filter checks remain the detailed visual evidence. Saving edits, role-specific behavior and connector freshness still need separate acceptance.
+
 ## 2026-10-10 — Organization foundation gate review
 
 The private platform reviewed all six planned Organization and Branch capabilities against its current database, permissions and approved product rules. The protected Branch directory remains a partial local feature. Regional structure, staff placement, closures, settings and cross-branch use need precise owner contracts before new write functions can be accepted.
