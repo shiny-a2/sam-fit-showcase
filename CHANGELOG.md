@@ -1,3 +1,9 @@
+## 2026-10-10 — Migration review and A2 licensing design
+
+- Reviewed the pending combined CRM/Reception migration on disposable synthetic databases and preserved the existing pilot data.
+- Kept the migration pending after a schema compatibility finding; no Branch write capability, deployment or mainline status promotion followed.
+- Registered a separate multi-product licensing architecture and roadmap as specification only, without runtime enforcement.
+
 ## 2026-10-10 — Scheduled pilot catalog delivery
 
 - Added a guarded, repeatable local member-catalog refresh to the restricted CRM pilot; first scheduled run left all 20 identities unchanged.

@@ -1,3 +1,11 @@
+## 2026-10-10 — Migration review and platform licensing design
+
+The private platform completed a controlled review of a pending CRM and Reception database change. Fresh and upgraded synthetic databases, a synthetic backup and restore, and selected API access checks worked. A database to application schema mismatch remains, so the change was not accepted into the main migration history and Branch administration work remains pending. The existing pilot data was only inspected without changes.
+
+The team also registered the design for a separate A2 licensing service that could serve distinct WordPress and Node products. This is an architecture and delivery plan, with no licensing service, enforcement, pricing or deployment yet. The main Sam Fit development cursor did not advance.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — Scheduled Pasdaran catalog projection
 
 The restricted CRM pilot now checks the approved local Pasdaran member catalog every 15 minutes while the development laptop and local pilot database are running. Its first scheduled pass found the same 20 members and made no duplicate records. Delivery remains signed and limited to identity and contact fields.
