@@ -1,3 +1,9 @@
+## 2026-10-10 — CRM sales flow and member availability checks
+
+The restricted WordPress CRM pilot now labels its inactive member wallet as a future feature. A separate synthetic member account confirmed the home and wallet screens show the unavailable state clearly on mobile and desktop in both themes.
+
+Focused synthetic checks exercised a sales lead, a repeat-safe follow-up, duplicate contact rejection, branch-limited search and write access, and reviewer read-only behavior. A small single-user server query sample was recorded as a baseline. Opportunity, pipeline, full role journeys, security and live connector acceptance remain open; the public CRM is still restricted.
+
 ## 2026-10-10 — CRM financial availability shown accurately
 
 The restricted WordPress CRM pilot now marks financial information unavailable where the independent financial source is not connected. Member and management screens no longer present an empty wallet as a confirmed zero balance. A mobile action that could sit beneath fixed navigation was also made reachable while scrolling.

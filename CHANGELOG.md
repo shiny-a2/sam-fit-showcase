@@ -1,3 +1,9 @@
+## 2026-10-10 — CRM sales and member-status QA
+
+- Marked the disconnected member wallet as coming soon in the restricted pilot.
+- Passed focused synthetic sales, branch-isolation and member-theme checks.
+- Kept public release and end-to-end connector acceptance pending.
+
 ## 2026-10-10 — Accurate financial availability in restricted CRM pilot
 
 - Replaced misleading zero wallet values with an unavailable state while the source is disconnected.
