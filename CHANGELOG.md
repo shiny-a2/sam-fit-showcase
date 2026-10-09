@@ -1,3 +1,9 @@
+## 2026-10-10 — Local staff branch placement verification
+
+- Added organizational primary and additional branch placements for staff in the isolated development environment.
+- Verified scoped administration, retained history, concurrent changes, database upgrade and complete isolated restore.
+- Kept application permissions, member records and commercial effects under their existing separate rules. No pilot or production rollout occurred.
+
 ## 2026-10-10 — Local regional hierarchy verification
 
 - Added an organization-scoped, flat regional grouping for branches in the isolated development environment.

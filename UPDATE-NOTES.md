@@ -1,3 +1,7 @@
+## 2026-10-10 — Staff organization placement foundation
+
+The private platform now records a staff member's main branch and additional organizational branches in a local test environment. Authorized administrators can update placements with retained history, while branch managers can view only their approved scope. Local upgrade, recovery and existing customer-service workflows passed checks. Placement does not change application permissions, member access or payments; pilot and production use remain separate.
+
 ## 2026-10-10 — Branch region foundation
 
 The private platform now supports a flat regional grouping of branches in its local test environment. Authorized administrators can assign, transfer and remove a branch while retaining the change history. The database upgrade, recovery path and related customer service workflows passed local checks. This prepares a reusable organization feature without changing member access, purchases or live pilot data.
