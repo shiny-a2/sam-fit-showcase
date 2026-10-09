@@ -2,7 +2,7 @@
 
 The private Reception candidate now searches the isolated Pasdaran pilot's imported members by familiar identifiers, refreshes the open desk within a bounded interval, and presents locker catalogue states and unavailable business facts more clearly. Real data review remained read-only. Synthetic browser checks covered guest and CRM actions, access boundaries, connection recovery and selected failure messages across mobile and desktop themes.
 
-The readiness inventory now separates Reception-owned software from domain integrations and human/hardware gates. Strict local software evidence is 13 of 19 owned items (68%); full product acceptance is still blocked. Six desk handoff or acceptance items, canonical membership and financial facts, live source authority, receptionist testing and real hardware evidence remain open. No deployment or physical command occurred.
+The readiness inventory now separates Reception-owned software from domain integrations and human/hardware gates. Strict local software evidence is 16 of 19 owned items (84%); full product acceptance is still blocked. Three owner-gated desk handoffs, canonical membership and financial facts, live source authority, receptionist testing and real hardware evidence remain open. No deployment or physical command occurred.
 
 ## 2026-10-09 — Reception real-pilot read review
 
