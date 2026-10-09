@@ -1,3 +1,9 @@
+## 2026-10-10 — Synthetic application migration regression
+
+- Ran the isolated application stack on the complete pending database lineage and checked authentication, CRM, reception, member views, audit, concurrency and responsive browser paths.
+- Verified worker restart and dependency recovery against durable command records; documented the limited durability of the local in-memory queue.
+- Prepared separate technical review reports for the three affected domains. Human approval and database change authorization remain pending; no pilot data or production service was changed.
+
 ## 2026-10-10 — Old-host scheduler retirement and CRM recovery drill
 
 - Retired two obsolete old-host scheduled jobs after checking their purpose and run evidence; preserved recovery notes.
