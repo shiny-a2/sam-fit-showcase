@@ -1,3 +1,9 @@
+## 2026-10-09 — Local CRM performance compatibility verified (unreleased)
+
+- Restored CRM list, daily follow-up and Lead detail reads on the accepted local database baseline while identifying unavailable later-schema facts.
+- Verified separate candidate compatibility, synthetic pagination, access controls, representative query counts, command receipt/reread, short load and Redis recovery.
+- Closed the bounded local performance review; retained production, real-pilot, schema-adoption and primary-gate limits. No deployment or customer data change.
+
 ## 2026-10-09 — Local performance review remains open (unreleased)
 
 - Measured bounded Web, API, database and Worker behavior with synthetic data and recorded reproducible local results.

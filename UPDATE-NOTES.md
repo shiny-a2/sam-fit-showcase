@@ -1,3 +1,11 @@
+## 2026-10-09 — Local CRM performance review passed
+
+The private Track B candidate now serves CRM list and daily follow-up reads on the accepted local database baseline. Later commercial details remain clearly unavailable until their separate schema decision. A separate candidate database retained its existing CRM behavior. Synthetic checks covered page totals, a Member opportunity without a Lead, access controls, command receipts and rereads, SQL query counts, short load and recovery measurements.
+
+The bounded local performance review passed with no unresolved in-scope critical issue. This is not a production capacity or long-term stability result. The real Pasdaran pilot was not load-tested, the later schema was not adopted, and the primary development gate remains blocked on source-connector recovery evidence. No deployment or customer data change occurred.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Local performance review
 
 The private Track B performance candidate now has repeatable local measurements for selected Reception, Member, Management and Technical reads, a production-build browser shell, and a synthetic Worker queue. A minimal Reception query correction restored its locker list on the accepted database baseline. Focused Branch, account, session and purpose checks passed after that change.
