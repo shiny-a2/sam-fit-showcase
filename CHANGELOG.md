@@ -1,3 +1,14 @@
+## 2026-10-10 — Local branch registry verification
+
+- Added bounded branch administration for the isolated synthetic application, including change history, scoped authorization, replay safety and recovery checks.
+- Verified fresh installation, upgrade, restore and related CRM/reception access paths. Real pilot use, broader organization policies and production deployment remain separate approvals.
+
+## 2026-10-10 — Reviewed database lineage accepted locally
+
+- Completed owner review of the pending CRM/reception database lineage and its narrowly scoped compatibility correction.
+- Passed local schema safety and fresh installation while preserving earlier protected recovery evidence. The real pilot and production databases were not migrated.
+- Recorded a separate operational risk for work stored only in the local Redis queue; critical business effects require durable records.
+
 ## 2026-10-10 — Synthetic application migration regression
 
 - Ran the isolated application stack on the complete pending database lineage and checked authentication, CRM, reception, member views, audit, concurrency and responsive browser paths.
