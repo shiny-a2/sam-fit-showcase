@@ -1,3 +1,10 @@
+## 2026-10-09 — Owner-scoped continuous observation supervision (unreleased)
+
+- Added a day-bounded Mac witness with encrypted checkpoint recovery, bounded operational reads and private health summaries.
+- Reused the accepted signed observation delivery path and required independent post-interruption freshness evidence, original identities and application rereads before live recovery acceptance.
+- Verified actual witness process recovery and 67 focused tests; kept natural-event acceptance open while no operational changes are observed.
+- Preserved source configuration and business authority; a specifically authorized physical test remains blocked until its exact protocol and target mapping are accepted.
+
 ## 2026-10-09 — Local CRM performance compatibility verified (unreleased)
 
 - Restored CRM list, daily follow-up and Lead detail reads on the accepted local database baseline while identifying unavailable later-schema facts.
