@@ -410,3 +410,7 @@ Rechecked the authorized source path and kept offline compatibility acceptance s
 ## 2026-10-09 — Reception UX evidence review
 
 Reviewed existing visual evidence and documented workflow coverage gaps before drawing interface conclusions. Suggested design improvements remain separate from observed application behavior. No private images or customer information are published.
+
+## 2026-10-09 — Local source observation refresh
+
+Refreshed the local development observation store through the existing signed, read-only source integration and verified the result with an independent read. Local refresh is kept separate from live pilot reliability acceptance. Financial authority and device control remain disabled; private operational data is not published.
