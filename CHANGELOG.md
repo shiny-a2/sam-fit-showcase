@@ -773,3 +773,4 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Tightened CRM reception access and opportunity edit validation in the private candidate.
 - Added a truthful customer identity-source receipt and scoped query checks.
 - Passed focused synthetic role, workflow and responsive profile tests. No public CRM release or customer-data change occurred.
+- Reconciled synthetic conversion and loss results with the underlying CRM rows and events.
