@@ -826,3 +826,7 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Narrowed Reception's commercial edit rights while preserving its separate registration workflow.
 - Improved opportunity result entry and history display in the existing CRM interface.
 - Passed seven isolated synthetic checks and focused responsive interaction checks; deployment and full acceptance remain pending.
+## 2026-10-10 — Restricted CRM pilot hotfix
+
+- Deployed a focused CRM role-policy and follow-up reassignment fix to the restricted WordPress pilot after synthetic concurrency and HTTP security checks.
+- Verified the installed role policy, backup, rollback package and continued public access restriction; broader CRM release acceptance remains open.
