@@ -123,3 +123,9 @@ Added fail-fast configuration checks, separate health and freshness reporting, r
 Completed the observation connector's durable failure classification, quarantine handling and audited single-event operator replay. Receipt-first recovery preserves the original event identity and avoids resending already accepted events; dry-run and integrity checks prevent unsafe replay. This closes the previously documented dead-letter tooling gap.
 
 Validation passed 146 local tests and 36 synthetic scenarios against isolated PostgreSQL, including write failures, process crashes, lost acknowledgements and replay idempotency. The patch is prepared offline and has not been deployed to live services. Live natural-event acceptance remains open, physical hardware control remains disabled, and the next rollout requires the owner's authorized window and recovery safeguards. Customer data, credentials and sensitive infrastructure details are excluded.
+
+### 2026-10-09 — Windows Edge staging preview
+
+Prepared a reproducible Windows operations bundle with explicit branch/device enrollment, verified release staging, preserved-state rollback, sanitized diagnostics and protected-secret provisioning scripts. Forty synthetic package tests passed on Mac, alongside 146 existing connector tests and PowerShell syntax validation.
+
+The package remains partial: Windows runtime adapters, services, reboot/network recovery, private management routing and platform secret-storage acceptance are pending. The preview refuses runtime activation and introduces no public reception ports. It was not deployed to live systems; live recovery acceptance remains open and physical control remains disabled. No private branch data, credentials or infrastructure details are published.
