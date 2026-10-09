@@ -1,3 +1,9 @@
+## 2026-10-10 — Hosting migration and synthetic CRM QA checkpoint
+
+- Reconciled hosting and mail migration dependencies while keeping the old service active.
+- Verified encrypted mail and CRM recovery bundles outside source control.
+- Passed a focused synthetic five-role, two-branch CRM access check; broader product acceptance remains open.
+
 ## 2026-10-10 — Branch policy and migration preflight
 
 - Registered local design baselines for Organization/Branch scope and explicit cross-Branch Member entitlement.

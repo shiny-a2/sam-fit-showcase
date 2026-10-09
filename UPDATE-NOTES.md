@@ -1,3 +1,9 @@
+## 2026-10-10 — Migration inventory and CRM recovery checks
+
+The private hosting migration reconciled the website, DNS, scheduled jobs and mail forwarding with protected recovery copies. An encrypted mail recovery package passed a decrypt check. The public portfolio remains in VPS preflight; the owner paused the free mail-forwarding migration, so the old hosting still carries live mail and has not been retired.
+
+An isolated synthetic WordPress CRM environment now has five test roles. A focused two-branch check confirmed that branch-scoped users cannot read another branch's customer and that the reviewer cannot write. The off-host CRM backup now also has an encrypted recovery bundle whose contents were checked after decryption. These results are narrow checkpoints; full functional, visual, security and disaster recovery acceptance remain open.
+
 ## 2026-10-10 — Branch schedule read and membership scope safety
 
 The private platform added a protected read-only view of the existing weekly Branch schedule source. It clearly marks closures and the Organization-owned schedule as unconfigured, so an operator cannot mistake source hours for an opening decision. Access checks also deny expired or inactive membership snapshots when a Member requests another Branch's context. Focused authorization tests and an API build passed.
