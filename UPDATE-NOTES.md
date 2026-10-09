@@ -1,3 +1,11 @@
+## 2026-10-10 — WordPress CRM pilot candidate prepared
+
+The private project now contains a separate WordPress CRM candidate based on the preserved live operator code. It adds a visual bridge toward the current Sam Fit design and a signed, branch-scoped path for receiving canonical member identities. Disposable local tests covered installation, migrations, repeat delivery, source revisions, access rejection and members who share a phone number. This gives the team a concrete package to review without changing the existing customer site.
+
+The new CRM remains in preflight. Real member delivery, interactive visual acceptance and public launch are still pending. No customer records, credentials or private source details are published here.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Live CRM source preserved for migration
 
 The live custom CRM source was captured before migration and compared with the earlier development copy. The review found several live changes that were not present in that copy, so the private project now keeps a recoverable source reference and a feature inventory based on the actual deployment. This reduces the chance of losing a working operator flow during the redesign.

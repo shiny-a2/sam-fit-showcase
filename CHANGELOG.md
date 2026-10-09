@@ -1,3 +1,8 @@
+## 2026-10-10 — WordPress CRM pilot candidate
+
+- Prepared a separate CRM package from the preserved live code with a Sam Fit visual bridge and a scoped member identity integration.
+- Passed disposable local functional and security-path checks; real member sync, visual acceptance and public launch remain pending.
+
 ## 2026-10-09 — Official ARM64 lab-media admission checkpoint
 
 - Verified host acceleration and firmware availability and attempted the normal official vendor download flow.
