@@ -113,3 +113,7 @@ Verified branch access and completed read-only discovery of the existing applica
 ### 2026-10-09 — Offline witness resilience
 
 Hardened evidence custody and disconnect reporting, and preserved original encrypted events through lost acknowledgement retries. Missing or stale independent evidence prevents acceptance; already captured local deliveries can drain while the source is unavailable. Eighty offline regression tests passed. Live natural-event recovery acceptance remains open, and physical hardware control remains disabled. No customer information, credentials or raw source exports are published.
+
+### 2026-10-09 — Offline connector operations release
+
+Added fail-fast configuration checks, separate health and freshness reporting, redacted lifecycle traces, and cooperative shutdown handling for the existing observation connector. A synthetic replay lab verified twenty scenarios against an isolated PostgreSQL store; 102 local tests passed. Prepared file-only passive protocol analysis and next-session operating worksheets. The source and real pilot were not changed, and live services were not upgraded. Live recovery acceptance remains open, physical control remains disabled, and operator dead-letter replay tooling is explicitly incomplete. Private data and infrastructure details remain outside this showcase.
