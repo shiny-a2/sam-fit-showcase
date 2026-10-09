@@ -768,3 +768,8 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Added a candidate safeguard for permanent Branch and CRM Lead identities and verified it on disposable install, upgrade and restore paths.
 - Passed selected synthetic CRM, Reception, authorization and browser journeys; tightened expired cross-Branch membership denial.
 - Kept final migration approval, complete regression and Phase 03 exit pending; no pilot or production deployment.
+## 2026-10-10 — WordPress CRM 0.14 development checkpoint
+
+- Tightened CRM reception access and opportunity edit validation in the private candidate.
+- Added a truthful customer identity-source receipt and scoped query checks.
+- Passed focused synthetic role, workflow and responsive profile tests. No public CRM release or customer-data change occurred.

@@ -609,3 +609,8 @@ Refreshed the local development observation store through the existing signed, r
 ## 2026-10-09 — Signed pilot observation delivery restoration
 
 Restored the existing observation receiver with an explicitly guarded pilot destination and corrected new-versus-duplicate acknowledgement counters. Added a controlled compatibility step for older observation stores; historical records remain unknown where provenance was not recorded. Captured observations retain their identities and source-candidate boundaries. Transport replay and independent application reads are verified separately from natural live-event recovery. No customer data, credentials, or hardware control is published.
+## 2026-10-10 — WordPress CRM 0.14 development checkpoint
+
+The next CRM candidate narrows reception to read-only sales access while preserving its separate registration permission. It rejects invalid opportunity edits, limits customer queries by role and branch, and shows when a customer identity was last received from the approved source. The profile also states clearly that live source delivery is still unverified.
+
+Focused synthetic workflow and role checks passed. The changed profile was checked at phone, tablet, laptop and desktop widths in both themes. This is development work, not a deployed CRM release; full sales workflows, security, accessibility and performance acceptance remain open. Public CRM access stays restricted.
