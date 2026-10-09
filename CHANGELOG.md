@@ -1,3 +1,10 @@
+## 2026-10-09 — Windows runtime lab candidate (preview 0.1.0-preview.2)
+
+- Added explicit Windows platform and encrypted-custody adapter candidates over the shared connector core, with simulator-only service and update tooling.
+- Verified 146 core tests, 54 package tests and 36 isolated PostgreSQL scenarios on Mac. Eight Windows-native tests remain unexecuted; no Windows acceptance is inferred.
+- Verified the detached lab-only release signature and tamper rejection. Production signing, Windows service/secret/network recovery and active update acceptance remain pending.
+- Kept the package preview-only and pilot readiness false because no isolated Windows runtime was available. No live source contact, pilot deployment or hardware control occurred. Private data, credentials and infrastructure details remain excluded.
+
 ## 2026-10-09 — Synthetic baseline DR evidence (unreleased)
 
 - Added a separate encrypted backup and isolated restore drill for the accepted local database baseline.

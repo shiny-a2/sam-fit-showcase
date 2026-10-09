@@ -129,3 +129,9 @@ Validation passed 146 local tests and 36 synthetic scenarios against isolated Po
 Prepared a reproducible Windows operations bundle with explicit branch/device enrollment, verified release staging, preserved-state rollback, sanitized diagnostics and protected-secret provisioning scripts. Forty synthetic package tests passed on Mac, alongside 146 existing connector tests and PowerShell syntax validation.
 
 The package remains partial: Windows runtime adapters, services, reboot/network recovery, private management routing and platform secret-storage acceptance are pending. The preview refuses runtime activation and introduces no public reception ports. It was not deployed to live systems; live recovery acceptance remains open and physical control remains disabled. No private branch data, credentials or infrastructure details are published.
+
+### 2026-10-09 — Windows runtime candidate, native acceptance pending
+
+The next preview adds shared-core Windows adapter candidates and isolated simulator service tooling. Mac verification passed 146 core tests, 54 package tests and 36 isolated PostgreSQL scenarios; eight Windows-native tests have not run. A detached lab-only signature and tamper rejection were verified separately from production signing.
+
+Actual Windows service, secret custody, reboot, private-network and active update acceptance remain open. The package is not pilot-ready and was not installed on live reception. Live recovery acceptance remains open and hardware control stays disabled.
