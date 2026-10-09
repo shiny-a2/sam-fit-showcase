@@ -1,3 +1,11 @@
+## 2026-10-09 — Verified staging product polish 0.1.0-staging.10
+
+Product icons, glass navigation and the dashboard question entry are deployed and passed 32 HTTPS browser cases. A historical-route public-origin defect was corrected and verified. Canonical onboarding persistence remains pending. See [staging release notes](STAGING-PRODUCT-POLISH-UPDATE.md).
+
+## 2026-10-09 — Member and Staff product polish
+
+Shared semantic icons, clearer glass navigation and a Member dashboard question entry passed real production-mode browser review. First-login persistence remains blocked on the canonical backend contract. See [product polish notes](PRODUCT-POLISH-UPDATE.md).
+
 ## 2026-10-09 — CRM UX refinement
 
 Today and Lead detail now use a denser operational presentation with honest availability, shared themes and keyboard review. Seven owning-contract gaps remain explicit; no backend port or new business semantics. See [CRM refinement](CRM-UX-REFINEMENT-UPDATE.md). This source update is not a staging deployment or product completion claim.

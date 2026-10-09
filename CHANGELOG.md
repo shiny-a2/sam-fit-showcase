@@ -1,3 +1,11 @@
+## 2026-10-09 — Verified staging product polish 0.1.0-staging.10
+
+Product icons, glass navigation and the dashboard question entry are deployed and passed 32 HTTPS browser cases. A historical-route public-origin defect was corrected and verified. Canonical onboarding persistence remains pending. See [staging release notes](STAGING-PRODUCT-POLISH-UPDATE.md).
+
+## 2026-10-09 — Member and Staff product polish
+
+Shared semantic icons, clearer glass navigation and a Member dashboard question entry passed real production-mode browser review. First-login persistence remains blocked on the canonical backend contract. See [product polish notes](PRODUCT-POLISH-UPDATE.md).
+
 ## 2026-10-09 — CRM experience refinement (Web source 0.1.0-local.8)
 
 - Improve operational Today/list density and focused Lead detail using a documented visual-reference audit.
