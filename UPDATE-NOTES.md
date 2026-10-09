@@ -1,3 +1,11 @@
+## 2026-10-09 — Live CRM source preserved for migration
+
+The live custom CRM source was captured before migration and compared with the earlier development copy. The review found several live changes that were not present in that copy, so the private project now keeps a recoverable source reference and a feature inventory based on the actual deployment. This reduces the chance of losing a working operator flow during the redesign.
+
+Customer data remains in restricted recovery storage and has not been loaded into the new CRM. Functional and visual acceptance are still open.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Standalone CRM infrastructure prepared
 
 The private Sam Fit project now has an isolated WordPress infrastructure base for the planned CRM pilot. The team documented the existing CRM workflows, extracted the current product's visual language, and prepared separate application, database and server settings. This creates a reviewable path for carrying mature CRM behavior into a consistent Sam Fit interface.

@@ -4,6 +4,11 @@
 - Kept Windows-native acceptance blocked pending an official local ISO and its matching published integrity hash. No alternative media source or access-control bypass was used.
 - Preserved the preview artifact and all open platform acceptance gates; no live source contact, deployment or hardware control occurred.
 
+## 2026-10-09 — Live CRM source preservation
+
+- Preserved the live custom CRM source in private version history and reconciled it with the earlier development baseline.
+- Updated the migration inventory; customer records remain outside the repository and the new CRM.
+
 ## 2026-10-09 — Standalone CRM infrastructure checkpoint
 
 - Prepared an isolated WordPress base and documented the CRM functional and design migration gates.
