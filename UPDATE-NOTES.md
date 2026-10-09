@@ -1,3 +1,7 @@
+## 2026-10-10 — Branch region foundation
+
+The private platform now supports a flat regional grouping of branches in its local test environment. Authorized administrators can assign, transfer and remove a branch while retaining the change history. The database upgrade, recovery path and related customer service workflows passed local checks. This prepares a reusable organization feature without changing member access, purchases or live pilot data.
+
 ## 2026-10-10 — Hosting exit preparation and CRM continuity
 
 The remaining old-host scheduled jobs were reviewed and retired with recovery records. A full CRM recovery drill found a backup completeness issue; the corrected backup now boots an isolated copy successfully, and an encrypted copy was verified off-host. Focused synthetic sales workflow checks passed. Independent email forwarding and full CRM acceptance remain open, so the old hosting subscription is still required.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Local regional hierarchy verification
+
+- Added an organization-scoped, flat regional grouping for branches in the isolated development environment.
+- Verified safe transfers, retained membership history, scoped administration, replay protection, database upgrade and restore.
+- Preserved existing branch authorization and member entitlements. Real pilot and production rollout remain separate gates.
+
 ## 2026-10-10 — ARM64 media integrity review
 
 - Inspected supplied installation media read-only and independently computed its integrity hash.
