@@ -1,3 +1,9 @@
+## 2026-10-09 — Local purpose-view compatibility fix
+
+The CRM-specific member view now works against the accepted local database baseline. It shows available CRM information and clearly marks later commercial details as unavailable. Synthetic checks covered each requested view, role and Branch denials, and a separate candidate upgrade. A simulated dependency failure did not reveal information from a broader view.
+
+This closes the local purpose-view compatibility issue. CRM segmentation, onboarding, owner privacy decisions and full phase acceptance remain pending. No customer data, production system or deployment was changed.
+
 ## 2026-10-09 — Local privacy and authorization review
 
 The private candidate now has focused local evidence that Member consent choices remain separate from message preferences, can be withdrawn, and keep an immutable history. Representative Branch and Staff access checks, plus audit checks, passed with synthetic data. The Member consent screen was exercised in mobile and desktop light/dark views.

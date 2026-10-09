@@ -1,3 +1,9 @@
+## 2026-10-09 — Local purpose-view compatibility fix (unreleased)
+
+- Restored the CRM-specific member view on the accepted local database baseline with an explicit unavailable state for later commercial details.
+- Rechecked all four purpose views and access denials on the local baseline and a separate candidate upgrade.
+- Kept broader CRM segmentation, production privacy policy and the full privacy-phase exit pending.
+
 ## 2026-10-09 — Local privacy and authorization review (unreleased)
 
 - Verified bounded local consent history, Branch isolation, active-session Staff authorization and audit checks using synthetic data.
