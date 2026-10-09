@@ -1,3 +1,7 @@
+## 2026-10-09 — Verified auth handoff (Web 0.1.0-local.7)
+
+Completed the clean auth checkpoint and corrected a real TLS-proxy context mismatch found during hosted acceptance. Dedicated real-backend checks confirm account separation and current server authority. Existing credentials and business/source systems remain unchanged.
+
 ## 2026-10-09 — Clean auth exit checkpoint (Web 0.1.0-local.6)
 
 Completed the canonical negative matrix and context-switch cleanup. Private auth source is committed and ready for a separately verified staging rollout; local acceptance does not imply HTTPS deployment acceptance.

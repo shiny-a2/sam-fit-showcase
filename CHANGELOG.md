@@ -1,3 +1,7 @@
+## 2026-10-09 — Web 0.1.0-local.7
+
+Auth exit checkpoint complete; verified public-origin correction for hosted Member/Staff transport. Responsive interaction, canonical lifecycle negatives and actual HTTPS checks passed.
+
 ## 2026-10-09 — Separate Member and Staff login (Web 0.1.0-local.5)
 
 Shared glass login visuals, isolated account contexts and server-authorized workspace/branch routing. Real backend and responsive theme checks passed; existing credentials unchanged. Local release; staging not deployed. See [login experience notes](AUTH-LOGIN-EXPERIENCE-UPDATE.md).

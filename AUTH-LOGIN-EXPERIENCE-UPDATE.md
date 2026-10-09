@@ -17,3 +17,7 @@ Private source release: `ef59e5f`.
 ## Auth exit checkpoint — 2026-10-09 — Web 0.1.0-local.6
 
 Completed actual canonical tests for stale authorization revision, expiry, missing role/permission, direct protected aliases and back after logout. Branch/workspace navigation explicitly clears prior temporary action references and hides the old view before rereading server context. Four interactive light/dark mobile/desktop context-switch cases passed. The same-person two-account boundary and canonical session authority remain intact. No mock backend or source/hardware change. Auth scope P0/P1: zero observed; staging acceptance remains separate. Private checkpoint: `f19e603`.
+
+## Final auth handoff — Web 0.1.0-local.7
+
+Real hosted negative testing caught an internal/public origin mismatch behind TLS termination. The correction uses the configured public page origin while preserving one canonical Session authority. Same-person distinct account context checks, secure cookies, protected routes, Origin/CSRF negatives and logout/revocation pass behind trusted TLS; owner visual acceptance remains pending. Local credentials are unchanged. Source correction: `b724d71`; final auth checkpoint evidence: `2e361ac`.
