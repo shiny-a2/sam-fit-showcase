@@ -1,3 +1,8 @@
+## 2026-10-10 — Branch settings policy review
+
+- Reviewed a typed, versioned branch settings contract for future local development.
+- Kept settings inactive while the exact approved keys and their consumers are being defined. Existing access and business rules remain authoritative.
+
 ## 2026-10-10 — Local branch hours and closure verification
 
 - Added reusable weekly hours, temporary exceptions, dated closures and emergency closures for branches in the isolated development environment.

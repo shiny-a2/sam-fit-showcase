@@ -1,3 +1,7 @@
+## 2026-10-10 — Branch settings review
+
+The private platform reviewed a reusable typed settings design. Specific settings need named consumers and approved validation before activation, so no new setting or live behavior was enabled. Existing permissions and business records remain under their established rules.
+
 ## 2026-10-10 — Branch hours and closure foundation
 
 The private platform now supports multiple daily shifts, overnight hours and temporary or emergency closures in an isolated test environment. Authorized administrators can change schedules with a retained history, while branch managers can read only their approved branch. Local upgrade, recovery and related organization workflows passed checks. Schedule facts do not automatically change bookings, payments, memberships or physical access. Pilot and production use remain separate.
