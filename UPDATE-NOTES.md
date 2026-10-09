@@ -1,3 +1,11 @@
+## 2026-10-09 — CRM canonical adoption watch
+
+After the local R4 software closure, CRM development is in an integration watch. New CRM business features are frozen. The team will connect accepted membership, visit, finance, loyalty, communication, telephone and privacy contracts as their owning workstreams complete them, with focused regression and updated readiness evidence for each adoption.
+
+The latest checked integration ledger has no newly accepted downstream CRM contract. Local engineering remains passed with no CRM-owned software P0/P1 in the R4 scope; full product acceptance remains 0/27 pending canonical data, final screen integration, live behavior and review by a real operator. This update changes documentation only. No deployment, customer record or runtime version changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Gym CRM Today and refresh candidate
 
 The private CRM candidate now presents separate server-paged worklists for follow-ups, opportunities, planned visits, Reception results, callbacks and applicable member-retention cohorts. Staff can see why a record needs attention, its owner and due time, and whether the source data is fresh, unavailable or failed. Confirmed actions and recovered command receipts cause the affected CRM views to reread their source. Visible polling, tab return and reconnect provide bounded updates without a full page reload.

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-09 — CRM canonical adoption watch (unreleased)
+
+- Documented the post-R4 feature freeze and integration triggers for accepted source contracts.
+- Preserved local software PASS and the separate 0/27 strict product acceptance measure.
+- No product behavior, deployment, customer data or runtime version change.
+
 ## 2026-10-09 — Local CRM R4 Today and refresh closure (unreleased)
 
 - Added server-paged source worklists with explicit empty, unavailable, stale and error states to the private candidate.
