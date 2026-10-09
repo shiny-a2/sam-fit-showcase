@@ -1,3 +1,9 @@
+## 2026-10-09 — Continued live observation window (unreleased)
+
+- Repeated the independent bounded read-only witness alongside the existing signed delivery path; no new natural operational event occurred.
+- Confirmed unchanged pilot observation counts, empty pending/dead-letter queues and successful independent Technical API rereads.
+- Kept live interruption recovery and Main handoff open, stopped temporary readers and preserved a safe unblocked delivery path. No source mutation or device command occurred.
+
 ## 2026-10-09 — Signed pilot delivery and live witness checkpoint (unreleased)
 
 - Verified delivery of a captured observation batch through the existing signed ingress, durable storage, stable identity and duplicate suppression.
