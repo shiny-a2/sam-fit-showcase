@@ -1,3 +1,10 @@
+## 2026-10-09 — Reception locker workflow study (Web 0.1.0-local.1, unreleased)
+
+- Preserved the useful numbered-grid and adjacent-context pattern from owner-supplied operator evidence, using Sam Fit's existing visual system.
+- Added persistent authorized Member context, noncolor status markers, dense catalogue inspection and keyboard navigation.
+- Verified read-only real-catalogue behavior in light/dark mobile/desktop browser checks, including connectivity recovery and protected action boundaries.
+- Logical assignment, atomic change, release and physical control remain disabled pending their owning contracts. No business records, source systems or hardware were changed; no measured competitor speed claim is made.
+
 ## 2026-10-09 — Durable local preview lifecycle (unreleased)
 
 - Made the compiled local preview independent of the chat process lifetime using per-user macOS service supervision and private runtime installation.
