@@ -2,6 +2,7 @@
 
 - Deployed a focused CRM role-policy and follow-up reassignment fix to the restricted WordPress pilot after synthetic concurrency and HTTP security checks.
 - Verified the installed role policy, backup, rollback package and continued public access restriction; broader CRM release acceptance remains open.
+- Aligned the 0.14 candidate with the pilot role policy; checked four more form boundaries and identified repeated branch-directory reads for later measured optimization.
 
 ## 2026-10-10 — Branch settings policy review
 

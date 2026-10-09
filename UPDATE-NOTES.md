@@ -2,6 +2,8 @@
 
 The private WordPress CRM pilot received a focused security and data-consistency hotfix. Reception's commercial editing permissions were removed while its separate member-registration permission remained available. Follow-up bulk reassignment now keeps its validation, updates and history in one transaction. The isolated checks covered five roles, two test branches, concurrent managers, rollback after an injected history failure and authenticated form denials. A reviewed backup and rollback package preceded installation; the restricted pilot's version and role policy were checked afterward. Public CRM access remains closed, and the wider CRM 0.14 workflow, reporting, accessibility and performance acceptance is still open.
 
+The 0.14 candidate was aligned with the pilot role policy. Four additional form routes passed focused anonymous and invalid-request checks in the isolated environment, and repeated branch-directory reads were traced to calls that need a safe request-level cache design. Authorized workflow and performance acceptance remain open.
+
 ## 2026-10-10 — Branch settings review
 
 The private platform reviewed a reusable typed settings design. Specific settings need named consumers and approved validation before activation, so no new setting or live behavior was enabled. Existing permissions and business records remain under their established rules.
