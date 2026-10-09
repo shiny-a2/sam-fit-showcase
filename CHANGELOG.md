@@ -587,3 +587,10 @@ The previously installed observer already has automatic startup and its own fail
 - Mapped 367 planned product capabilities to navigation and screen homes, with 282 protected read-only design addresses and 103 reserved primary-role addresses.
 - Added future design views for member habits, reception search, CRM calls, management expenses, technical vision and release information. Unavailable operations remain disabled.
 - Passed synthetic read-only browser review for eight representative screen families across two widths and two themes. Backend, specialist authorization and human acceptance remain open; no deployed version changed.
+
+## Independent Auth/Route checkpoint
+
+- Added a pinned postcommit gate for canonical Auth/Route adoption.
+- Verified separated Member/Staff sessions and direct route authorization against the current Main contract.
+- Confirmed production Web build and canonical 17-migration compatibility without requiring migration 018.
+- Published sanitized verification notes in AUTH-ROUTE-CHECKPOINT-UPDATE.md.
