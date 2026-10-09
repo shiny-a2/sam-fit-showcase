@@ -1,3 +1,11 @@
+## 2026-10-09 — Isolated disaster recovery drill remains open
+
+The private Track B candidate reconstructed a local replacement from an authenticated encrypted backup, fresh database and cache services, and a pinned application build. Staff login, protected workspace reads, browser navigation, Worker recovery, Redis failure reporting and data-integrity checks passed in the isolated drill. A session check was tightened so accounts with no current workspace authority are rejected.
+
+Disaster recovery acceptance remains open. The selected backup could not demonstrate Member app login or a recovered Lead detail, and several requested route aliases are not configured in the current Web contract. A separate accepted database-baseline CRM result was retained as separate evidence. No production recovery-time promise, deployment, customer-data change, traffic cutover or later schema adoption occurred. The primary development gate remains blocked.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Local CRM performance review passed
 
 The private Track B candidate now serves CRM list and daily follow-up reads on the accepted local database baseline. Later commercial details remain clearly unavailable until their separate schema decision. A separate candidate database retained its existing CRM behavior. Synthetic checks covered page totals, a Member opportunity without a Lead, access controls, command receipts and rereads, SQL query counts, short load and recovery measurements.

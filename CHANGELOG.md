@@ -1,3 +1,9 @@
+## 2026-10-09 — Isolated disaster recovery drill remains open (unreleased)
+
+- Reconstructed a disposable local application replacement from an authenticated encrypted backup and verified Staff API, Web, Worker and data integrity.
+- Rejected sessions whose current account grants provide no workspace access; reran disabled-account and stale-session checks.
+- Kept DR acceptance open for Member login, requested route aliases and a matching accepted backup for the baseline CRM drill. No production cutover or deployment.
+
 ## 2026-10-09 — Persistent observation waiting for source availability (unreleased)
 
 - Kept local read-only supervision and bounded reconnect attempts active after the authorized source session became unavailable.
