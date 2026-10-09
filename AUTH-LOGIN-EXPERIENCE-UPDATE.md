@@ -13,3 +13,7 @@ Copyright (c) a2 sport — https://amiraliyaghouti.com
 - Local preview is updated; staging preparation is recorded separately. Owner visual acceptance is pending. No new public deployment is claimed.
 
 Private source release: `ef59e5f`.
+
+## Auth exit checkpoint — 2026-10-09 — Web 0.1.0-local.6
+
+Completed actual canonical tests for stale authorization revision, expiry, missing role/permission, direct protected aliases and back after logout. Branch/workspace navigation explicitly clears prior temporary action references and hides the old view before rereading server context. Four interactive light/dark mobile/desktop context-switch cases passed. The same-person two-account boundary and canonical session authority remain intact. No mock backend or source/hardware change. Auth scope P0/P1: zero observed; staging acceptance remains separate. Private checkpoint: `f19e603`.

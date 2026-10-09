@@ -1,3 +1,7 @@
+## 2026-10-09 — Clean auth exit checkpoint (Web 0.1.0-local.6)
+
+Completed the canonical negative matrix and context-switch cleanup. Private auth source is committed and ready for a separately verified staging rollout; local acceptance does not imply HTTPS deployment acceptance.
+
 ## 2026-10-09 — Separate Member and Staff login (Web 0.1.0-local.5)
 
 Shared glass login visuals, isolated account contexts and server-authorized workspace/branch routing. Real backend and responsive theme checks passed; existing credentials unchanged. Local release; staging not deployed. See [login experience notes](AUTH-LOGIN-EXPERIENCE-UPDATE.md).
