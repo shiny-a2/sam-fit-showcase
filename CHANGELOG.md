@@ -1,3 +1,8 @@
+## 2026-10-09 — Persistent observation waiting for source availability (unreleased)
+
+- Kept local read-only supervision and bounded reconnect attempts active after the authorized source session became unavailable.
+- Confirmed that local signed ingress and retained queue remain healthy; live recovery and physical control acceptance stay open.
+
 ## 2026-10-09 — Owner-scoped continuous observation supervision (unreleased)
 
 - Added a day-bounded Mac witness with encrypted checkpoint recovery, bounded operational reads and private health summaries.
