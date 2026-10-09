@@ -1,3 +1,9 @@
+## 2026-10-10 — Restricted CRM candidate security verification
+
+The private WordPress CRM candidate passed isolated checks for two previously identified risks: Reception could no longer submit commercial changes through the tested commands, and competing managers could not leave a follow-up reassignment or its history half saved. A separate synthetic check covered five staff roles, branch-limited searches and pages, disabled sessions, and a signed integration route's rejection of unsigned requests. Existing opportunity results for lost and expired cases also passed focused checks.
+
+These are candidate checks only. The restricted pilot was not updated or opened to the public. Remaining form, export, accessibility, reporting and live-source acceptance keeps the CRM release gate closed.
+
 ## 2026-10-10 — Staff organization placement foundation
 
 The private platform now records a staff member's main branch and additional organizational branches in a local test environment. Authorized administrators can update placements with retained history, while branch managers can view only their approved scope. Local upgrade, recovery and existing customer-service workflows passed checks. Placement does not change application permissions, member access or payments; pilot and production use remain separate.

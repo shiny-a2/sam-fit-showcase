@@ -1,3 +1,9 @@
+## 2026-10-10 — Restricted CRM candidate security verification
+
+- Verified the two named access and follow-up consistency fixes in an isolated synthetic CRM candidate.
+- Checked five staff roles across two test branches, scoped search/pages, disabled sessions and unsigned integration requests.
+- Confirmed existing lost and expired opportunity results in synthetic records; deployment and full CRM acceptance remain pending.
+
 ## 2026-10-10 — Local staff branch placement verification
 
 - Added organizational primary and additional branch placements for staff in the isolated development environment.
