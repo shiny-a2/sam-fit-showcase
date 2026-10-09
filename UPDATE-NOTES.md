@@ -1,3 +1,7 @@
+## 2026-10-10 — Portfolio web migration
+
+The public portfolio now resolves to the VPS with valid HTTPS for its main and www addresses. Representative pages, redirects, missing-page behavior and phone/desktop navigation passed checks. The owner chose to keep email on the existing host, so the host remains in service and has not been retired. The separate CRM pilot stays access restricted while its broader acceptance continues.
+
 ## 2026-10-10 — Branch identity and migration review checkpoint
 
 The private platform added a candidate database safeguard that rejects changes to permanent Branch and CRM Lead identities while allowing normal record edits. Disposable database installs, upgrades and restores preserved the reviewed records and passed the focused identity checks. Synthetic CRM, Reception, session, permission and browser journeys also passed selected regressions; an expired membership can no longer open another Branch's Reception context.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Portfolio VPS web cutover
+
+- Moved the public portfolio's parent and www web routes to the VPS with valid HTTPS and preserved legacy redirects.
+- Checked localized pages, responsive layouts, mobile navigation and certificate renewal.
+- Kept the existing email service on the old host by owner choice; shared hosting is still required and is not ready for cancellation. The CRM pilot remains private.
+
 ## 2026-10-10 — CRM sales and member-status QA
 
 - Marked the disconnected member wallet as coming soon in the restricted pilot.
