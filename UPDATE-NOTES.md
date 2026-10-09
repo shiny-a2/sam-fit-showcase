@@ -1,3 +1,11 @@
+## 2026-10-09 — Reception session preservation and runtime diagnosis (Web 0.1.0-local.3, unreleased)
+
+- Reproduced the owner's Reception entry and identified independent candidate and real-data runtimes, with different permitted data and account authority.
+- Removed forced cross-environment navigation after an owner-reported login interruption and isolated browser sessions while preserving the owning API's authentication and Origin checks.
+- Verified existing sessions remain independent across real login/logout; actual catalogue and Member search pass desktop/mobile light/dark review.
+- Existing candidate accounts do not gain real-data authority. No UI redesign, credential change, domain mutation, data copy, migration promotion or hardware action occurred.
+
+
 ## 2026-10-09 — Real locker catalogue binding (Web 0.1.0-local.2, unreleased)
 
 - Clearly separated real-catalogue review from the candidate environment, retaining existing authenticated permissions and account credentials.
