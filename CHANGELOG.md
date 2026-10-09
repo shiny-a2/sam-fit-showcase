@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-09 — Isolated staging deployment foundation (0.1.0-staging.1)
+
+- Added explicit staging admission and consumed accepted authentication ancestry alongside existing product workspaces.
+- Preserved local safety checks and added secure public-session configuration, restricted proxy trust and a synthetic reviewer provisioner.
+- Added supervised service, reverse proxy, private backup and log rotation templates; Linux infrastructure has been provisioned and local production builds pass.
+- Public DNS/TLS and deployed browser acceptance remain pending verification. No production customer data, physical connector, payment integration or existing hosting was changed.
+
 ## 2026-10-09 — Reception session preservation and runtime diagnosis (Web 0.1.0-local.3, unreleased)
 
 - Reproduced the owner's Reception entry and identified independent candidate and real-data runtimes, with different permitted data and account authority.
