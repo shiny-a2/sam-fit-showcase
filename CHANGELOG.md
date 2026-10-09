@@ -1,3 +1,10 @@
+## 2026-10-09 — Signed pilot delivery and live witness checkpoint (unreleased)
+
+- Verified delivery of a captured observation batch through the existing signed ingress, durable storage, stable identity and duplicate suppression.
+- Independently reread the current Technical application projection; aggregate freshness remains unknown until its configuration and natural-event evidence are accepted.
+- Completed an independent read-only live witness window without a new natural operational event. Live interruption recovery and shadow acceptance remain open.
+- Kept hardware control disabled and source configuration unchanged; no business-authority promotion or production deployment occurred.
+
 ## 2026-10-09 — Track B hosting readiness review (unreleased)
 
 - Measured a clean local Web/API/Worker build and separated deployable output from development dependencies and caches.
