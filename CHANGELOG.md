@@ -1,6 +1,7 @@
 ## 2026-10-09 — Parallel domain safety checkpoint (unreleased)
 
 - Limit Member360 responses to the requested purpose for users with multiple workspace permissions.
+- Read each current Member consent decision independently of the shortened history display.
 - Review security, communication, finance, loyalty and integration readiness against their current entry gates.
 - Keep downstream domain work and external delivery blocked until their dependencies and owner decisions are accepted.
 

@@ -1,6 +1,6 @@
 ## 2026-10-09 — Parallel domain safety checkpoint
 
-A private local change now limits Member360 sections to the purpose requested, including when one staff user has several workspace permissions. Focused checks passed. The development team also recorded dependency and policy readiness across privacy, communications, finance, loyalty and external integrations.
+A private local change now limits Member360 sections to the purpose requested, including when one staff user has several workspace permissions. Current Member consent decisions also remain accurate when older than the shortened history shown on screen. Focused checks passed. The development team recorded dependency and policy readiness across privacy, communications, finance, loyalty and external integrations.
 
 The broader capabilities remain pending their gates. No real message, payment, customer balance, device action, deployment or production release occurred. The main development path remains blocked on source-connector recovery evidence.
 
