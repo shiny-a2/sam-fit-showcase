@@ -1,3 +1,9 @@
+## 2026-10-09 — Standalone CRM infrastructure checkpoint
+
+- Prepared an isolated WordPress base and documented the CRM functional and design migration gates.
+- Confirmed existing Sam Fit services remain active; CRM public launch and customer import remain pending.
+- Published no credentials, customer records or private infrastructure details.
+
 ## 2026-10-09 — Separate WordPress CRM pilot assessment
 
 - Documented reuse and controlled-pilot gates for a standalone Sam Fit WordPress CRM.

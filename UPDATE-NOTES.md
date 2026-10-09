@@ -1,3 +1,11 @@
+## 2026-10-09 — Standalone CRM infrastructure prepared
+
+The private Sam Fit project now has an isolated WordPress infrastructure base for the planned CRM pilot. The team documented the existing CRM workflows, extracted the current product's visual language, and prepared separate application, database and server settings. This creates a reviewable path for carrying mature CRM behavior into a consistent Sam Fit interface.
+
+The new CRM is not live. Its site is restricted to local server checks while source backup, data separation, interface work, security review and acceptance testing continue. The current Sam Fit web services remained active after this checkpoint. No customer data or credentials are published here.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Separate WordPress CRM pilot assessed
 
 The private Sam Fit work now has a source and deployment assessment for a separate WordPress CRM pilot. It identifies reusable CRM workflows, branch and access-control checks, and the infrastructure and recovery gates needed before a controlled pilot. This helps the team reuse existing product behavior while keeping the current Sam Fit application and demo stable.
