@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM second-device backup
+
+- Scheduled and verified a protected CRM backup copy to the owner laptop when available.
+- Kept customer data out of source control and the always-online recovery gate open.
+
 ## 2026-10-10 — CRM route preflight
 
 - Checked 20 restricted operator routes across four responsive widths; no route or overflow errors appeared in the tested combinations.

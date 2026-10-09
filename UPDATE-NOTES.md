@@ -1,3 +1,9 @@
+## 2026-10-10 — CRM backup copy automated on owner laptop
+
+The restricted CRM pilot's protected daily VPS backup is now copied to the owner laptop when it is available. The first scheduled pull verified the backup manifest successfully. This creates a second-device recovery copy without putting customer data in Git.
+
+A continuously online offsite destination and a full recovery time exercise remain future acceptance work.
+
 ## 2026-10-10 — CRM navigation route sweep
 
 The restricted CRM pilot loaded all 20 operator navigation routes in a browser across phone, tablet and desktop widths, with no browser exceptions or horizontal overflow in the tested theme combinations. The earlier login, member list and filter checks remain the detailed visual evidence. Saving edits, role-specific behavior and connector freshness still need separate acceptance.
