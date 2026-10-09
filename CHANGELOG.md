@@ -1,3 +1,9 @@
+## 2026-10-10 — Branch policy and migration preflight
+
+- Registered local design baselines for Organization/Branch scope and explicit cross-Branch Member entitlement.
+- Tested a corrective database migration on disposable synthetic fresh, upgrade and restore paths with selected CRM/Reception/Auth checks.
+- Kept migration and Phase 03 acceptance pending; no pilot data, production service or physical access change.
+
 ## 2026-10-10 — CRM second-device backup
 
 - Scheduled and verified a protected CRM backup copy to the owner laptop when available.

@@ -1,3 +1,11 @@
+## 2026-10-10 — Branch policy baselines and database compatibility review
+
+The owner set local design baselines for regional structure, staff placement, operating schedules and Branch settings. Cross-Branch Member use now defaults to denial unless a valid explicit membership entitlement supports it. These are design rules; no new customer access, financial effect or physical gate behavior was activated.
+
+The private platform also tested a separate corrective database migration on disposable synthetic installations. Fresh installation, upgrade, backup restore and selected CRM, Reception and authorization paths passed. The correction remains a candidate while domain-owner review, broader security tests and migration approval continue. Existing pilot and production databases were not changed, and the Phase 03 completion gate remains open.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — CRM backup copy automated on owner laptop
 
 The restricted CRM pilot's protected daily VPS backup is now copied to the owner laptop when it is available. The first scheduled pull verified the backup manifest successfully. This creates a second-device recovery copy without putting customer data in Git.
