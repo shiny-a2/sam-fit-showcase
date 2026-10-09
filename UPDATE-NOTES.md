@@ -1,3 +1,11 @@
+## 2026-10-10 — CRM interface preflight and sport alias
+
+The restricted WordPress CRM pilot now has browser evidence for its login, operator dashboard, 20-member list and filters at phone and desktop widths in both themes. The tested screens had no horizontal overflow, and keyboard focus was visible in the filter dialog. This is a bounded review; remaining workflows and automatic source updates still need acceptance before public opening.
+
+The stale `www.sport` route now securely redirects to the existing canonical sport site. The parent portfolio and mail cutover are still pending. No private records or infrastructure details appear in this update.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — Restricted CRM pilot received Pasdaran members
 
 The separate WordPress CRM pilot now runs behind restricted HTTPS access. A reviewed identity-only transfer placed 20 canonical Pasdaran members into its single branch. A second delivery changed none of them, and source-to-CRM identity counts reconciled. This gives the team a real-data starting point for operator review while keeping the current sport service available.

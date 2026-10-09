@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM visual preflight and sport alias
+
+- Reviewed restricted CRM login, dashboard, Member list and filter states on phone/desktop in both themes; broader acceptance remains open.
+- Routed the stale sport alias to the existing canonical site over HTTPS while preserving current sport service health.
+
 ## 2026-10-10 — Restricted CRM pilot import
 
 - Set up restricted HTTPS preflight for the separate CRM and verified the current sport services stayed active.
