@@ -797,3 +797,9 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Added a truthful customer identity-source receipt and scoped query checks.
 - Passed focused synthetic role, workflow and responsive profile tests. No public CRM release or customer-data change occurred.
 - Reconciled synthetic conversion and loss results with the underlying CRM rows and events.
+## 2026-10-10 — CRM candidate workflow and access safeguards
+
+- Kept follow-up reassignment and its audit history consistent in the private candidate.
+- Narrowed Reception's commercial edit rights while preserving its separate registration workflow.
+- Improved opportunity result entry and history display in the existing CRM interface.
+- Passed seven isolated synthetic checks and focused responsive interaction checks; deployment and full acceptance remain pending.

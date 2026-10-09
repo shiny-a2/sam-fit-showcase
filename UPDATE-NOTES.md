@@ -618,3 +618,8 @@ Restored the existing observation receiver with an explicitly guarded pilot dest
 The next CRM candidate narrows reception to read-only sales access while preserving its separate registration permission. It rejects invalid opportunity edits, limits customer queries by role and branch, and shows when a customer identity was last received from the approved source. The profile also states clearly that live source delivery is still unverified.
 
 Focused synthetic workflow and role checks passed. A two-lead test also reconciled one conversion and one loss with their source records and outcome events. The changed profile was checked at phone, tablet, laptop and desktop widths in both themes. This is development work, not a deployed CRM release; full sales workflows, security, accessibility and performance acceptance remain open. Public CRM access stays restricted.
+## 2026-10-10 — CRM candidate workflow and access safeguards
+
+The private WordPress CRM candidate now keeps multi-task follow-up reassignment and its audit history together, removes unintended commercial edit rights from Reception, and makes intermediate opportunity updates easier to complete while showing the recorded final result. These changes improve consistency and role clarity in the existing workflow.
+
+Seven isolated synthetic regression checks and focused phone, tablet and desktop interaction checks passed. The candidate has not been deployed or accepted; the current restricted pilot and its public access rule are unchanged. Full security, reporting, accessibility and operator acceptance remain open.
