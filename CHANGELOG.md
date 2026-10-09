@@ -1,3 +1,8 @@
+## 2026-10-10 — Scheduled pilot catalog delivery
+
+- Added a guarded, repeatable local member-catalog refresh to the restricted CRM pilot; first scheduled run left all 20 identities unchanged.
+- Retained natural source freshness and public release as separate open gates.
+
 ## 2026-10-10 — CRM visual preflight and sport alias
 
 - Reviewed restricted CRM login, dashboard, Member list and filter states on phone/desktop in both themes; broader acceptance remains open.

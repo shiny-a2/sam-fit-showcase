@@ -1,3 +1,11 @@
+## 2026-10-10 — Scheduled Pasdaran catalog projection
+
+The restricted CRM pilot now checks the approved local Pasdaran member catalog every 15 minutes while the development laptop and local pilot database are running. Its first scheduled pass found the same 20 members and made no duplicate records. Delivery remains signed and limited to identity and contact fields.
+
+This schedule does not establish that a new change from the reception source has traveled through the full connector chain. That recovery and freshness test, plus public CRM acceptance, remain open. Customer identities and private connection details stay out of this showcase.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — CRM interface preflight and sport alias
 
 The restricted WordPress CRM pilot now has browser evidence for its login, operator dashboard, 20-member list and filters at phone and desktop widths in both themes. The tested screens had no horizontal overflow, and keyboard focus was visible in the filter dialog. This is a bounded review; remaining workflows and automatic source updates still need acceptance before public opening.
