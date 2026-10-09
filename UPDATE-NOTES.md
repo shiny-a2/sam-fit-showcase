@@ -1,3 +1,11 @@
+## 2026-10-10 — Branch identity and migration review checkpoint
+
+The private platform added a candidate database safeguard that rejects changes to permanent Branch and CRM Lead identities while allowing normal record edits. Disposable database installs, upgrades and restores preserved the reviewed records and passed the focused identity checks. Synthetic CRM, Reception, session, permission and browser journeys also passed selected regressions; an expired membership can no longer open another Branch's Reception context.
+
+The pending migration remains a candidate. The owner will review separate CRM, Reception and platform reports after wider regression and migration approval are complete. Phase 03 has not exited, and no pilot or production database, customer record, financial balance, equipment or public service was changed.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — CRM sales flow and member availability checks
 
 The restricted WordPress CRM pilot now labels its inactive member wallet as a future feature. A separate synthetic member account confirmed the home and wallet screens show the unavailable state clearly on mobile and desktop in both themes.

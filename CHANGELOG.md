@@ -740,3 +740,8 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Denied stale cross-Branch membership snapshots and checked inactive, expired and out-of-scope cases.
 - Re-tested a candidate database correction on disposable synthetic databases; canonical acceptance and Phase 03 exit remain pending.
 - No production deployment, customer-data change, financial posting or physical access action.
+## 2026-10-10 — Branch identity candidate and synthetic review
+
+- Added a candidate safeguard for permanent Branch and CRM Lead identities and verified it on disposable install, upgrade and restore paths.
+- Passed selected synthetic CRM, Reception, authorization and browser journeys; tightened expired cross-Branch membership denial.
+- Kept final migration approval, complete regression and Phase 03 exit pending; no pilot or production deployment.
