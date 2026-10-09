@@ -1,3 +1,9 @@
+## 2026-10-09 — Official ARM64 lab-media admission checkpoint
+
+- Verified host acceleration and firmware availability and attempted the normal official vendor download flow.
+- Kept Windows-native acceptance blocked pending an official local ISO and its matching published integrity hash. No alternative media source or access-control bypass was used.
+- Preserved the preview artifact and all open platform acceptance gates; no live source contact, deployment or hardware control occurred.
+
 ## 2026-10-09 — Standalone CRM infrastructure checkpoint
 
 - Prepared an isolated WordPress base and documented the CRM functional and design migration gates.
