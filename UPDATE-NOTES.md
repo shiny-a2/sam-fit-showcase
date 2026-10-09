@@ -4,6 +4,8 @@ The private WordPress CRM pilot received a focused security and data-consistency
 
 The 0.14 candidate was aligned with the pilot role policy. Four additional form routes passed focused anonymous and invalid-request checks in the isolated environment, and repeated branch-directory reads were traced to calls that need a safe request-level cache design. Authorized workflow and performance acceptance remain open.
 
+A read-only pilot check also confirmed that an invalid reassignment is rejected with a database rollback and no change to follow-up or history counts. The successful concurrent reassignment path remains verified in isolated tests.
+
 ## 2026-10-10 — Branch settings review
 
 The private platform reviewed a reusable typed settings design. Specific settings need named consumers and approved validation before activation, so no new setting or live behavior was enabled. Existing permissions and business records remain under their established rules.
