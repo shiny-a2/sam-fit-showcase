@@ -1,3 +1,7 @@
+## 2026-10-10 — Branch hours and closure foundation
+
+The private platform now supports multiple daily shifts, overnight hours and temporary or emergency closures in an isolated test environment. Authorized administrators can change schedules with a retained history, while branch managers can read only their approved branch. Local upgrade, recovery and related organization workflows passed checks. Schedule facts do not automatically change bookings, payments, memberships or physical access. Pilot and production use remain separate.
+
 ## 2026-10-10 — Restricted CRM candidate security verification
 
 The private WordPress CRM candidate passed isolated checks for two previously identified risks: Reception could no longer submit commercial changes through the tested commands, and competing managers could not leave a follow-up reassignment or its history half saved. A separate synthetic check covered five staff roles, branch-limited searches and pages, disabled sessions, and a signed integration route's rejection of unsigned requests. Existing opportunity results for lost and expired cases also passed focused checks.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Local branch hours and closure verification
+
+- Added reusable weekly hours, temporary exceptions, dated closures and emergency closures for branches in the isolated development environment.
+- Verified administrator controls, branch-scoped reads, change history, concurrent edits, database upgrade and restore.
+- Kept booking, membership, payments and physical access under separate approval paths; no pilot or production rollout occurred.
+
 ## 2026-10-10 — Restricted CRM candidate security verification
 
 - Verified the two named access and follow-up consistency fixes in an isolated synthetic CRM candidate.
