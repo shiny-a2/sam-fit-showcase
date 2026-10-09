@@ -603,3 +603,10 @@ The previously installed observer already has automatic startup and its own fail
 - Mapped 367 planned product capabilities to navigation and screen homes, with 282 protected read-only design addresses and 103 reserved primary-role addresses.
 - Added future design views for member habits, reception search, CRM calls, management expenses, technical vision and release information. Unavailable operations remain disabled.
 - Passed synthetic read-only browser review for eight representative screen families across two widths and two themes. Backend, specialist authorization and human acceptance remain open; no deployed version changed.
+
+## Operational staging 0.1.0-staging.8
+
+- Added separate trusted HTTPS staging with current canonical Auth and CRM read contracts.
+- Verified production build, canonical migration baseline 17, supervised recovery and real-browser access controls.
+- Verified encrypted backup/restore and real application rollback.
+- Documented remaining REAL_PILOT admission and pre-existing hostname discrepancy; no public cutover or hardware activation.
