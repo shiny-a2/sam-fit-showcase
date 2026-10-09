@@ -1,3 +1,7 @@
+## 2026-10-09 — Owner workbench 0.1.0-staging.11
+
+Explicit backend grants provide access to the currently executable experiences, with a separate Member login entry and truthful pending specialist destinations. See [owner workbench notes](OWNER-WORKBENCH-UPDATE.md).
+
 ## 2026-10-09 — Verified staging product polish 0.1.0-staging.10
 
 Product icons, glass navigation and the dashboard question entry are deployed and passed 32 HTTPS browser cases. A historical-route public-origin defect was corrected and verified. Canonical onboarding persistence remains pending. See [staging release notes](STAGING-PRODUCT-POLISH-UPDATE.md).
