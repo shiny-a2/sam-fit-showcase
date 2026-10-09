@@ -1,3 +1,8 @@
+## 2026-10-10 — Independent platform development resumes
+The private A2 platform now separates local product development from live-source and physical-device acceptance. This allows the organization and branch domain to progress while live integration evidence remains under its own review. The first protected Branch catalog API reads PostgreSQL with current session and branch permissions; synthetic local database and HTTP checks passed.
+
+This is a partial development checkpoint. Branch administration, source binding and migration acceptance remain unfinished, and no real-pilot freshness, hardware, production or financial acceptance is claimed. The architecture review also defines reusable Core and optional industry modules for future products, without implementing those industries or changing the deployed site.
+
 ## 2026-10-10 — WordPress CRM pilot candidate prepared
 
 The private project now contains a separate WordPress CRM candidate based on the preserved live operator code. It adds a visual bridge toward the current Sam Fit design and a signed, branch-scoped path for receiving canonical member identities. Disposable local tests covered installation, migrations, repeat delivery, source revisions, access rejection and members who share a phone number. This gives the team a concrete package to review without changing the existing customer site.
