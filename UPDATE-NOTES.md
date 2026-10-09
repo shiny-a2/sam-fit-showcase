@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception R4 scoped software review
+
+The private Reception candidate now searches the isolated Pasdaran pilot's imported members by familiar identifiers, refreshes the open desk within a bounded interval, and presents locker catalogue states and unavailable business facts more clearly. Real data review remained read-only. Synthetic browser checks covered guest and CRM actions, access boundaries, connection recovery and selected failure messages across mobile and desktop themes.
+
+The readiness inventory now separates Reception-owned software from domain integrations and human/hardware gates. Strict local software evidence is 13 of 19 owned items (68%); full product acceptance is still blocked. Six desk handoff or acceptance items, canonical membership and financial facts, live source authority, receptionist testing and real hardware evidence remain open. No deployment or physical command occurred.
+
 ## 2026-10-09 — Reception real-pilot read review
 
 The private Reception candidate now uses the isolated Pasdaran pilot's real member identities and locker catalogue for a read-only desk review. The desk refreshes selected context and expected visitors while open, keeps unknown source health visible, and distinguishes source observations from accepted membership, visits and wallet facts. An isolated synthetic browser run checked guest and visitor follow-up actions; real-pilot browser review checked mobile and desktop light/dark views without changing business records.

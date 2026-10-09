@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception R4 scoped software review (unreleased)
+
+- Improved private branch-scoped member search, bounded desk refresh, locker-state filtering and clear unavailable states.
+- Verified real pilot read-only and isolated synthetic browser/API paths; separated Reception software progress from external product gates.
+- Kept six Reception-owned ledger items and canonical, human and hardware acceptance open; no deployment or release.
+
 ## 2026-10-09 — Reception real-pilot read review (unreleased)
 
 - Reviewed real Pasdaran member and locker projections in the private Reception candidate without changing business records.
