@@ -1,3 +1,11 @@
+## 2026-10-09 — Pinned live-source diagnosis
+
+The existing authorized source path was restored and its pinned reception identity verified from the adjacent development host. Live read-only inspection exposed two reader defects: an undersized metadata bound and inconsistent fingerprint ordering. The private candidate corrects both while preserving bounded business reads and strict schema rejection.
+
+Live shadow acceptance remains blocked by an unaccepted source-schema variant. The interruption/recovery drill, natural-event dedupe and application refresh were not run. No source records or configuration, hardware control, recognition or canonical financial/business decisions were changed. This is an engineering diagnostic checkpoint, not a production release. Private source metadata, endpoints and credentials are excluded.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-09 — Local purpose-view compatibility fix
 
 The CRM-specific member view now works against the accepted local database baseline. It shows available CRM information and clearly marks later commercial details as unavailable. Synthetic checks covered each requested view, role and Branch denials, and a separate candidate upgrade. A simulated dependency failure did not reveal information from a broader view.

@@ -1,3 +1,10 @@
+## 2026-10-09 — Live-source diagnostic checkpoint (unreleased)
+
+- Verify the existing pinned reception path through its authorized relay.
+- Correct bounded metadata inspection and deterministic fingerprint ordering in the private reader.
+- Preserve strict source-contract rejection; keep live shadow acceptance and the recovery drill open pending schema compatibility review.
+- No source mutation, hardware command, recognition, business authority promotion or production deployment.
+
 ## 2026-10-09 — Local purpose-view compatibility fix (unreleased)
 
 - Restored the CRM-specific member view on the accepted local database baseline with an explicit unavailable state for later commercial details.
