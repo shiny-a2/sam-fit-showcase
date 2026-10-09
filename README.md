@@ -109,3 +109,7 @@ Physical-device acceptance remains open. Future service and finance engines are 
 ### 2026-10-06 — Phase 0 discovery checkpoint
 
 Verified branch access and completed read-only discovery of the existing application, live database structure, identity/event boundaries and configured hardware relationships. Documented recovery-validation limits and a future shadow-read architecture without deploying a connector or sending device commands. Source operational services remained running. Integration readiness is conditional; event correction/time semantics, supported read access, restoration and physical-device acceptance remain separate gates. Detailed infrastructure evidence, customer information, credentials and recovery archives stay outside this public repository.
+
+### 2026-10-09 — Offline witness resilience
+
+Hardened evidence custody and disconnect reporting, and preserved original encrypted events through lost acknowledgement retries. Missing or stale independent evidence prevents acceptance; already captured local deliveries can drain while the source is unavailable. Eighty offline regression tests passed. Live natural-event recovery acceptance remains open, and physical hardware control remains disabled. No customer information, credentials or raw source exports are published.
