@@ -645,3 +645,9 @@ Focused synthetic workflow and role checks passed. A two-lead test also reconcil
 The private WordPress CRM candidate now keeps multi-task follow-up reassignment and its audit history together, removes unintended commercial edit rights from Reception, and makes intermediate opportunity updates easier to complete while showing the recorded final result. These changes improve consistency and role clarity in the existing workflow.
 
 Seven isolated synthetic regression checks and focused phone, tablet and desktop interaction checks passed. The candidate has not been deployed or accepted; the current restricted pilot and its public access rule are unchanged. Full security, reporting, accessibility and operator acceptance remain open.
+
+## 2026-10-10 — Windows ARM64 development lab checkpoint
+
+Booted and rebooted an isolated Windows ARM64 development VM and corrected two acceptance-fixture setup defects without loosening runtime security checks. Eight native API tests passed, and four synthetic encryption fixtures in each direction matched between Mac and Windows. Additional local tests verified key rotation, retained secret decryption after reboot, and synthetic queue preservation when the source is unavailable or its schema changes.
+
+These are provisional development results. Media integrity, Secure Boot, service lifecycle, private delivery, remote access, update/rollback and remaining operational acceptance are still open. The package remains a preview with pilot readiness false; no operational source or hardware was contacted. Private lab evidence, keys and account material are excluded from this showcase.

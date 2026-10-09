@@ -831,3 +831,9 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 - Narrowed Reception's commercial edit rights while preserving its separate registration workflow.
 - Improved opportunity result entry and history display in the existing CRM interface.
 - Passed seven isolated synthetic checks and focused responsive interaction checks; deployment and full acceptance remain pending.
+
+## 2026-10-10 — Windows ARM64 development lab checkpoint
+
+Booted and rebooted an isolated Windows ARM64 development VM and corrected two acceptance-fixture setup defects without loosening runtime security checks. Eight native API tests passed, and four synthetic encryption fixtures in each direction matched between Mac and Windows. Additional local tests verified key rotation, retained secret decryption after reboot, and synthetic queue preservation when the source is unavailable or its schema changes.
+
+These are provisional development results. Media integrity, Secure Boot, service lifecycle, private delivery, remote access, update/rollback and remaining operational acceptance are still open. The package remains a preview with pilot readiness false; no operational source or hardware was contacted. Private lab evidence, keys and account material are excluded from this showcase.
