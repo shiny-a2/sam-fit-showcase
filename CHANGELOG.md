@@ -1,3 +1,7 @@
+## 2026-10-09 — Verified auth staging release (Web 0.1.0-staging.6)
+
+Separate Member/Staff login deployed from clean pinned source. Real TLS/proxy/session negatives and actual reboot recovery pass. Synthetic data only; accepted backend and seventeen migrations preserved. Local DNS-cache limitation remains explicit. See [auth staging delivery](AUTH-LOGIN-STAGING-PREPARATION-UPDATE.md).
+
 ## 2026-10-09 — Separate login staging preparation (Web 0.1.0-staging.4)
 
 Member and Staff auth UX prepared and built under staging policy. No remote deployment or new public route acceptance. See [preparation notes](AUTH-LOGIN-STAGING-PREPARATION-UPDATE.md).
