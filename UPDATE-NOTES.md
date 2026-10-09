@@ -420,3 +420,7 @@ Reviewed existing visual evidence and documented workflow coverage gaps before d
 ## 2026-10-09 — Local source observation refresh
 
 Refreshed the local development observation store through the existing signed, read-only source integration and verified the result with an independent read. Local refresh is kept separate from live pilot reliability acceptance. Financial authority and device control remain disabled; private operational data is not published.
+
+## 2026-10-09 — Signed pilot observation delivery restoration
+
+Restored the existing observation receiver with an explicitly guarded pilot destination and corrected new-versus-duplicate acknowledgement counters. Added a controlled compatibility step for older observation stores; historical records remain unknown where provenance was not recorded. Captured observations retain their identities and source-candidate boundaries. Transport replay and independent application reads are verified separately from natural live-event recovery. No customer data, credentials, or hardware control is published.
