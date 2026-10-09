@@ -1,3 +1,8 @@
+## 2026-10-10 — Isolated migration recovery evidence
+
+- Verified a protected local backup copy through candidate database upgrades and a separate recovery test.
+- Preserved the original pilot and backup; final approval and complete runtime regression remain open.
+
 ## 2026-10-10 — Portfolio VPS web cutover
 
 - Moved the public portfolio's parent and www web routes to the VPS with valid HTTPS and preserved legacy redirects.

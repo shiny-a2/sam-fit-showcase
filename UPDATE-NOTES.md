@@ -1,3 +1,9 @@
+## 2026-10-10 — Isolated database migration recovery review
+
+The private platform verified a protected copy of an existing local pilot backup in a separate test database. The reviewed database changes preserved all application table contents, passed schema comparison, and survived a second backup and restore. The original pilot and its backup were unchanged.
+
+The changes remain candidates. Complete application and browser regression, domain approval and migration authorization are still required before adoption. No customer-facing service, financial record or hardware system was changed.
+
 ## 2026-10-10 — Portfolio web migration
 
 The public portfolio now resolves to the VPS with valid HTTPS for its main and www addresses. Representative pages, redirects, missing-page behavior and phone/desktop navigation passed checks. The owner chose to keep email on the existing host, so the host remains in service and has not been retired. The separate CRM pilot stays access restricted while its broader acceptance continues.
