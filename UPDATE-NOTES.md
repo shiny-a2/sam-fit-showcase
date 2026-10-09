@@ -1,3 +1,9 @@
+## 2026-10-09 — Local performance review
+
+The private Track B performance candidate now has repeatable local measurements for selected Reception, Member, Management and Technical reads, a production-build browser shell, and a synthetic Worker queue. A minimal Reception query correction restored its locker list on the accepted database baseline. Focused Branch, account, session and purpose checks passed after that change.
+
+Performance exit remains blocked: important CRM list and Today reads fail on the accepted baseline, and query counts, extended recovery and complete interaction timing are still open. The 208-locker fixture was synthetic. No real-source load, production capacity statement, deployment, schema promotion or mainline cursor move occurred.
+
 ## 2026-10-09 — Track B hosting readiness review
 
 A clean local Track B build and focused checks passed. A current read-only hosting review confirmed that the existing application remains live, while the account lacks an isolated PostgreSQL database and verified staging runtime, worker lifecycle and rollback backup. The local dependency size does not establish a Linux deployment footprint or sufficient host capacity.

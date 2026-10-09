@@ -1,3 +1,10 @@
+## 2026-10-09 — Local performance review remains open (unreleased)
+
+- Measured bounded Web, API, database and Worker behavior with synthetic data and recorded reproducible local results.
+- Repaired a Reception read that failed against the accepted database baseline; its 208-locker synthetic fixture now loads.
+- Kept performance acceptance open because key CRM reads still fail on that baseline and broader profiling is incomplete.
+- Preserved rate limits, access boundaries, real pilot data and the primary Main Development gate; no deployment or capacity claim.
+
 ## 2026-10-09 — Continued live observation window (unreleased)
 
 - Repeated the independent bounded read-only witness alongside the existing signed delivery path; no new natural operational event occurred.
