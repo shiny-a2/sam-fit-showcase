@@ -1,3 +1,9 @@
+## 2026-10-09 — Parallel domain safety checkpoint
+
+A private local change now limits Member360 sections to the purpose requested, including when one staff user has several workspace permissions. Focused checks passed. The development team also recorded dependency and policy readiness across privacy, communications, finance, loyalty and external integrations.
+
+The broader capabilities remain pending their gates. No real message, payment, customer balance, device action, deployment or production release occurred. The main development path remains blocked on source-connector recovery evidence.
+
 ## 2026-10-09 — Reception canonical adoption watch
 
 The private Reception candidate remains in a watch state after its R4 review. A fresh check of the current source plans found no newly accepted contract for renewal, manager approval or sales opportunity handoff. The public readiness view stays at 16 of 19 locally verified Reception software items (84%); full product acceptance remains blocked.

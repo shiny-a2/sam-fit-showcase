@@ -1,3 +1,9 @@
+## 2026-10-09 — Parallel domain safety checkpoint (unreleased)
+
+- Limit Member360 responses to the requested purpose for users with multiple workspace permissions.
+- Review security, communication, finance, loyalty and integration readiness against their current entry gates.
+- Keep downstream domain work and external delivery blocked until their dependencies and owner decisions are accepted.
+
 ## 2026-10-09 — Reception canonical adoption watch (unreleased)
 
 - Checked current source gates for three open Reception handoffs; no accepted contract was available for adoption.
