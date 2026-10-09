@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception canonical adoption watch (unreleased)
+
+- Checked current source gates for three open Reception handoffs; no accepted contract was available for adoption.
+- Clarified Renewal, Approval and Opportunity ownership while keeping the 16/19 local software and product-gate measures unchanged.
+- Kept real-pilot review read-only and human/hardware gates open; no feature release or deployment.
+
 ## 2026-10-09 — Reception R4 scoped software review (unreleased)
 
 - Improved private branch-scoped member search, bounded desk refresh, locker-state filtering and clear unavailable states.

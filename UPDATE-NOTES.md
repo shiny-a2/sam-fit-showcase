@@ -1,3 +1,9 @@
+## 2026-10-09 — Reception canonical adoption watch
+
+The private Reception candidate remains in a watch state after its R4 review. A fresh check of the current source plans found no newly accepted contract for renewal, manager approval or sales opportunity handoff. The public readiness view stays at 16 of 19 locally verified Reception software items (84%); full product acceptance remains blocked.
+
+Ownership is now clearer: Membership and Finance must authorize renewal and any payment result, the approval owner must publish its decision contract, and CRM owns opportunity intent. Real Pasdaran review stays read-only, with no new business feature, physical device command or deployment. Operator, live-source and hardware acceptance remain open.
+
 ## 2026-10-09 — Reception R4 scoped software review
 
 The private Reception candidate now searches the isolated Pasdaran pilot's imported members by familiar identifiers, refreshes the open desk within a bounded interval, and presents locker catalogue states and unavailable business facts more clearly. Real data review remained read-only. Synthetic browser checks covered guest and CRM actions, access boundaries, connection recovery and selected failure messages across mobile and desktop themes.
