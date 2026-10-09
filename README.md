@@ -117,3 +117,9 @@ Hardened evidence custody and disconnect reporting, and preserved original encry
 ### 2026-10-09 — Offline connector operations release
 
 Added fail-fast configuration checks, separate health and freshness reporting, redacted lifecycle traces, and cooperative shutdown handling for the existing observation connector. A synthetic replay lab verified twenty scenarios against an isolated PostgreSQL store; 102 local tests passed. Prepared file-only passive protocol analysis and next-session operating worksheets. The source and real pilot were not changed, and live services were not upgraded. Live recovery acceptance remains open, physical control remains disabled, and operator dead-letter replay tooling is explicitly incomplete. Private data and infrastructure details remain outside this showcase.
+
+### 2026-10-09 — Offline dead-letter and operator replay completion
+
+Completed the observation connector's durable failure classification, quarantine handling and audited single-event operator replay. Receipt-first recovery preserves the original event identity and avoids resending already accepted events; dry-run and integrity checks prevent unsafe replay. This closes the previously documented dead-letter tooling gap.
+
+Validation passed 146 local tests and 36 synthetic scenarios against isolated PostgreSQL, including write failures, process crashes, lost acknowledgements and replay idempotency. The patch is prepared offline and has not been deployed to live services. Live natural-event acceptance remains open, physical hardware control remains disabled, and the next rollout requires the owner's authorized window and recovery safeguards. Customer data, credentials and sensitive infrastructure details are excluded.
