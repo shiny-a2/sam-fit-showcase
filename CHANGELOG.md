@@ -1,3 +1,9 @@
+## 2026-10-10 — Accurate financial availability in restricted CRM pilot
+
+- Replaced misleading zero wallet values with an unavailable state while the source is disconnected.
+- Corrected a mobile fixed-navigation overlap and checked the changed views in both themes.
+- Installed the restricted pilot update; broader product and connector acceptance remain open.
+
 ## 2026-10-10 — Hosting migration and synthetic CRM QA checkpoint
 
 - Reconciled hosting and mail migration dependencies while keeping the old service active.

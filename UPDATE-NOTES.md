@@ -1,3 +1,9 @@
+## 2026-10-10 — CRM financial availability shown accurately
+
+The restricted WordPress CRM pilot now marks financial information unavailable where the independent financial source is not connected. Member and management screens no longer present an empty wallet as a confirmed zero balance. A mobile action that could sit beneath fixed navigation was also made reachable while scrolling.
+
+Synthetic role and presentation checks covered the changed views at phone, tablet, laptop and desktop widths in both themes. The updated pilot was installed behind its existing access restriction; the public site remains closed while full functional, security and connector acceptance continue.
+
 ## 2026-10-10 — Migration inventory and CRM recovery checks
 
 The private hosting migration reconciled the website, DNS, scheduled jobs and mail forwarding with protected recovery copies. An encrypted mail recovery package passed a decrypt check. The public portfolio remains in VPS preflight; the owner paused the free mail-forwarding migration, so the old hosting still carries live mail and has not been retired.
