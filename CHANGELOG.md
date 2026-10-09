@@ -1,3 +1,9 @@
+## 2026-10-10 — Restricted CRM pilot import
+
+- Set up restricted HTTPS preflight for the separate CRM and verified the current sport services stayed active.
+- Projected 20 approved Pasdaran member identities into one branch with safe repeat delivery.
+- Kept public access and automatic source refresh pending while interface and account acceptance continue.
+
 ## 2026-10-10 — WordPress CRM pilot candidate
 
 - Prepared a separate CRM package from the preserved live code with a Sam Fit visual bridge and a scoped member identity integration.

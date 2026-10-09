@@ -1,3 +1,11 @@
+## 2026-10-10 — Restricted CRM pilot received Pasdaran members
+
+The separate WordPress CRM pilot now runs behind restricted HTTPS access. A reviewed identity-only transfer placed 20 canonical Pasdaran members into its single branch. A second delivery changed none of them, and source-to-CRM identity counts reconciled. This gives the team a real-data starting point for operator review while keeping the current sport service available.
+
+The CRM is not publicly open. Automatic source updates, interactive light/dark and mobile/desktop review, and owner account handoff remain in progress. No customer names, contact details, credentials or infrastructure addresses are published here.
+
+Developer: [a2 sport](https://amiraliyaghouti.com).
+
 ## 2026-10-10 — Independent platform development resumes
 The private A2 platform now separates local product development from live-source and physical-device acceptance. This allows the organization and branch domain to progress while live integration evidence remains under its own review. The first protected Branch catalog API reads PostgreSQL with current session and branch permissions; synthetic local database and HTTP checks passed.
 
