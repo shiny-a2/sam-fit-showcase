@@ -1,3 +1,9 @@
+## 2026-10-09 — Canonical adoption watch freeze (unreleased)
+
+- Froze established navigation, Reception, CRM, Management and onboarding flows pending accepted owner contracts or concrete integration defects.
+- Classified remaining tracked generic design routes and kept engineering, canonical adoption, real-data, live and human readiness separate.
+- Reviewed new candidate evidence without promoting it to accepted business behavior. No UI expansion, business command or production release occurred.
+
 ## 2026-10-09 — Operational product consumer integration (unreleased)
 
 - Connected existing Reception, CRM Today, Management and Technical read surfaces to bounded API refresh, reconnect and manual retry behavior.
