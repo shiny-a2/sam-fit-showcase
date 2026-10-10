@@ -760,3 +760,5 @@ Exact editable fields, manager application authority and onboarding completion c
 The private WordPress CRM candidate now labels customer identity origins and distinguishes an accepted import receipt from the freshness of the upstream system. An existing phone number tied to another member or guest is routed to identity review; concurrent imports no longer create two customer profiles for one phone in isolated tests.
 
 Synthetic HTTP tests covered import replay, revisions, collision refusal and concurrent requests. The responsive review covered 88 role, viewport and theme states plus nine branch-access checks. The complete login-to-follow-up-to-sales journey, live upstream freshness, full accessibility and production capacity are still open. The deployed restricted pilot was not changed.
+
+A later isolated HTTP check also opened the same synthetic Sales customer profile, created and completed a follow-up, verified its profile display and reconciled its owner, branch and activity record. The full multi-role journey is still open.
