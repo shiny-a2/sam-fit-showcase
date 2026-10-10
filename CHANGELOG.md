@@ -1,3 +1,9 @@
+## 2026-10-10 — Local typed branch settings verification
+
+- Added a versioned, audited settings foundation with Branch, Organization and system fallback in an isolated test environment.
+- Activated only the CRM list page-size setting after verifying its real consumer; eight other proposed keys remain inactive pending consumer review.
+- Verified scoped administration, replay and concurrency safety, database upgrade and restore, and existing organization and customer-service workflows. No pilot or production rollout occurred.
+
 ## 2026-10-10 — Restricted CRM pilot hotfix
 
 - Deployed a focused CRM role-policy and follow-up reassignment fix to the restricted WordPress pilot after synthetic concurrency and HTTP security checks.

@@ -1,3 +1,7 @@
+## 2026-10-10 — Typed branch settings foundation
+
+The private platform now supports one approved setting in local tests: the number of rows in a CRM work list. Authorized administrators can set a Branch value or Organization default, reset either level and retain its change history. Existing CRM paging uses the effective value; other proposed settings remain inactive because their consumers have not passed review. Local database upgrade, recovery and related workflows passed. The feature does not change permissions, payments, membership or physical access, and has not been deployed to the pilot or production.
+
 ## 2026-10-10 — Restricted CRM pilot security hotfix
 
 The private WordPress CRM pilot received a focused security and data-consistency hotfix. Reception's commercial editing permissions were removed while its separate member-registration permission remained available. Follow-up bulk reassignment now keeps its validation, updates and history in one transaction. The isolated checks covered five roles, two test branches, concurrent managers, rollback after an injected history failure and authenticated form denials. A reviewed backup and rollback package preceded installation; the restricted pilot's version and role policy were checked afterward. Public CRM access remains closed, and the wider CRM 0.14 workflow, reporting, accessibility and performance acceptance is still open.
