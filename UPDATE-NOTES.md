@@ -1,3 +1,7 @@
+## 2026-10-10 — Member foundation local review
+
+The private platform completed a bounded local review of its existing member foundation. One member identity can be reused across branches of the same business without creating a second member. A synthetic test exposed a cross-organization profile and registration gap, which was corrected and retested. Login authority remains tied to each User, and a matching phone prompts identity review rather than an automatic merge. Local checks covered consent defaults, purpose-limited reads, concurrent registration, audit and database restore. Generic customer records, the full Customer360 view and real-pilot acceptance remain separate future work. No production or pilot data changed.
+
 ## 2026-10-10 — WordPress CRM 0.14 candidate acceptance progress
 
 The private CRM 0.14 candidate now has a guarded synthetic test fixture and broader local security checks for forms, branch boundaries, sessions and an integration route. The owner approved a Sales policy limited to opportunities on files assigned to that Sales user; local create, replay and denial checks passed. A repeated branch lookup was reduced in a matched local profile render, and a long-name layout defect was corrected. Responsive light/dark checks covered the Sales opportunity view and focused staff profiles.

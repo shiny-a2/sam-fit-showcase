@@ -1,3 +1,9 @@
+## 2026-10-10 — Local member identity boundary
+
+- Reused the existing member identity across branches within the approved local business.
+- Closed an isolated-test organization boundary gap in member profile and registration paths; unrelated organizations can no longer extend local member visibility or creation.
+- Verified separate login authorities, duplicate review, command replay, audit, recovery and related CRM/Reception reads. No new database migration or pilot rollout occurred.
+
 ## 2026-10-10 — CRM 0.14 private candidate checkpoint
 
 - Expanded isolated form, role, branch and session security tests using synthetic data.
