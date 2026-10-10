@@ -1,3 +1,9 @@
+## 2026-10-10 — Safer member and staff action recovery
+
+The private A2 platform now lets a member or authorized staff member return to an interrupted profile, reception or setup action after refreshing the page or signing back in. The app checks the original action's result under the person's current access before showing confirmation. If no result is available, it keeps the outcome uncertain and avoids an automatic second submission.
+
+Local tests covered interrupted responses, account changes, expired recovery references, revoked access and mobile through desktop layouts in both themes. Five optional setup answers remain private drafts. The full setup journey, human accessibility review and online staging release are still pending; no customer or pilot data, payment or physical device was changed.
+
 ## 2026-10-10 — WordPress CRM owner review and security checkpoint
 
 A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.

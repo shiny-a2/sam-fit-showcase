@@ -1,3 +1,9 @@
+## 2026-10-10 — Local member and staff action recovery
+
+- Kept interrupted action references available across page refresh and same-account sign-in, with a fresh access check before showing a confirmed result.
+- Showed a truthful unknown state when an action was not recorded, without submitting it again automatically.
+- Passed isolated browser/API, responsive theme and privacy checks. Online staging and full member setup remain separate acceptance steps.
+
 ## 2026-10-10 — CRM owner review and S3E local acceptance
 
 - Added a separate local Central Manager review entry point and synthetic customer journey.
