@@ -8,7 +8,7 @@ Isolated tests covered current-access checks after staff permissions or customer
 
 The private A2 hardware candidate now connects an authorized local command request to a signed, loopback-only Edge receiver and records durable delivery before a separate simulated execution result. A synthetic source observer also keeps separate delivery records for the two planned customer-management destinations, so one destination's receipt cannot clear the other's pending work.
 
-Local cross-language, recovery, security and queue tests passed, including recovery after a lost delivery response and a restart. The new Windows package is an unaccepted development preview. Native Windows acceptance, destination compatibility, the complete operator journey and real-device protocols remain open. No customer data, live source, production destination or physical device was used.
+Local cross-language, recovery, security and queue tests passed, including recovery after a lost delivery response and a restart. The simulator was also checked at phone, tablet and desktop widths in light and dark themes. The new Windows package is an unaccepted development preview. Native Windows acceptance, destination compatibility, the complete operator journey and real-device protocols remain open. No customer data, live source, production destination or physical device was used.
 
 ## 2026-10-10 — WordPress CRM recovery checkpoint
 

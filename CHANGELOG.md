@@ -8,7 +8,7 @@
 
 - Connected a signed local hardware-command handoff to durable receipt tracking and a separate simulated result.
 - Added independent, recoverable delivery state for two planned customer-management destinations.
-- Passed local synthetic checks; native Windows, destination and real-device acceptance remain open. No production deployment or customer data changed.
+- Passed local synthetic and responsive simulator checks; native Windows, destination and real-device acceptance remain open. No production deployment or customer data changed.
 
 ## 2026-10-10 — WordPress CRM response recovery checkpoint
 
