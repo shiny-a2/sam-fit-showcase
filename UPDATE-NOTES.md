@@ -1,3 +1,9 @@
+## 2026-10-10 — Isolated hardware integration checkpoint
+
+The private A2 hardware candidate now connects an authorized local command request to a signed, loopback-only Edge receiver and records durable delivery before a separate simulated execution result. A synthetic source observer also keeps separate delivery records for the two planned customer-management destinations, so one destination's receipt cannot clear the other's pending work.
+
+Local cross-language, recovery, security and queue tests passed, including recovery after a lost delivery response and a restart. The new Windows package is an unaccepted development preview. Native Windows acceptance, destination compatibility, the complete operator journey and real-device protocols remain open. No customer data, live source, production destination or physical device was used.
+
 ## 2026-10-10 — WordPress CRM recovery checkpoint
 
 The private WordPress CRM 0.14 candidate now checks the recorded result of a follow-up or sales opportunity when a browser loses the original response. The check uses the staff member's current access and the original request details. A confirmed result refreshes the customer view; an unknown result keeps the request ID, blocks a duplicate submission and offers a safe recheck.
@@ -858,3 +864,8 @@ A follow-up isolated database run measured SQL statements for five authenticated
 The private WordPress CRM and A2 platform now have separate CI paths that produce versioned, integrity-checked candidate bundles from their own source commits. The platform path also makes bounded public availability observations. This makes prospective releases traceable while preserving the existing restricted CRM pilot and earlier platform staging database.
 
 The current CRM and platform candidates have **not** been deployed. The hosting interruption remains unexplained, the isolated online targets and owner review access need approval, and the required deployed browser, backup and rollback checks are still open. No customer, pilot, financial, equipment or production state changed.
+## 2026-10-10 — WordPress CRM owner review and security checkpoint
+
+A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.
+
+Isolated tests covered current-access checks after staff permissions or customer ownership change, disabled sign-in, interrupted-request recovery, concurrent outcomes and transaction rollback. Nine pages were checked at phone, tablet and desktop widths in light and dark themes. A versioned candidate package is ready for a separate staging review, but online staging and production have not changed. Full accessibility, remaining workflow acceptance and VPS stability are still open.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Isolated hardware integration candidate
+
+- Connected a signed local hardware-command handoff to durable receipt tracking and a separate simulated result.
+- Added independent, recoverable delivery state for two planned customer-management destinations.
+- Passed local synthetic checks; native Windows, destination and real-device acceptance remain open. No production deployment or customer data changed.
+
 ## 2026-10-10 — WordPress CRM response recovery checkpoint
 
 - Added a private candidate result check for follow-ups and sales opportunities after interrupted browser requests.
@@ -1023,3 +1029,8 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Rechecked current write authority before disclosing an existing follow-up result; synthetic denial and zero-effect checks passed.
 - Prepared a local read-only owner preview and verified login, selected CRM pages, logout and responsive light/dark layout.
 - Kept the CRM 0.14 candidate private while wider acceptance remains open.
+## 2026-10-10 — CRM owner review and S3E local acceptance
+
+- Added a separate local Central Manager review entry point and synthetic customer journey.
+- Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
+- Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
