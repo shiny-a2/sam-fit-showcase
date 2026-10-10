@@ -1,3 +1,9 @@
+## 2026-10-10 — Durable hardware-command candidate
+
+- Added an isolated synthetic PostgreSQL command, audit and delivery-intent contract with replay, concurrency, rollback and recovery tests.
+- Clarified locker inventory and command outcomes in the existing responsive equipment console.
+- Kept Windows edge, live source, production data and physical control unchanged; integrated acceptance remains partial.
+
 ## 2026-10-10 — Equipment-management simulator
 
 - Added a reusable private simulator and authenticated local console for locker, gate and face-terminal workflows.

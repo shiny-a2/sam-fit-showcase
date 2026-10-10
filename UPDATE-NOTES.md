@@ -1,3 +1,9 @@
+## 2026-10-10 — Durable hardware-command development checkpoint
+
+The private equipment-management candidate now records synthetic commands, audit history and delivery intent atomically in an isolated PostgreSQL test environment. Tests covered duplicate requests, competing locker assignments, forced rollback, worker recovery, uncertain outcomes, late acknowledgements and backup/restore. The existing local console now makes locker search and command status clearer across mobile and desktop light/dark views.
+
+This is partial development acceptance only. Signed command delivery to the Windows edge, production authorization, independent CRM/source delivery and real device protocols remain open. No production migration, customer data, reception equipment or physical device was changed or deployed.
+
 ## 2026-10-10 — Independent equipment-management simulator
 
 The private A2 platform now has a reusable equipment-management simulator and authenticated local web console. It models lockers, gates and face terminals with separate business decisions, command acknowledgements and observed outcomes, so operators can review workflows without claiming that a real device moved. The console covers inventory, member context, command history, events and connection status in Persian.
