@@ -1,3 +1,9 @@
+## 2026-10-11 — Connected local operator journeys
+
+The private A2 platform now connects reception check-in and software locker handling, a manager's review and task workflow, and CRM lead conversion and follow-up through their existing authorized services. A manager can open a source record for review and reach the task screen through the sidebar without losing the current page state.
+
+Disposable local tests covered permissions, competing actions, lost-response recovery, two concurrent event consumers and a full database backup/restore comparison. Browser review exercised mobile through desktop layouts in light and dark themes. Seven defined journeys meet their bounded local synthetic gates; the simulator, live-source, human accessibility and online release gates remain separate. No customer data, payment, production service or physical equipment was changed.
+
 ## 2026-10-11 — A2 platform product-focus checkpoint
 
 The private A2 platform is now the primary path for the next member and staff product review. Its local journeys were inventoried against actual APIs, browser states and permissions, with a reproducible synthetic test run for member setup, identity review, CRM and reception actions. Seven of eight defined first-release journeys now meet their local synthetic gate. Reception passed permission, concurrent locker assignment, receipt and rollback checks. A manager created, started and completed a task in the browser after a projection outage/retry check. One CRM lead went through FollowUp and conversion in the same browser fixture with receipt, audit and durable event reconciliation, without paid membership or wallet activity. The hardware simulator console awaits separate integration.

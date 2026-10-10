@@ -1,3 +1,10 @@
+## 2026-10-11 — Connected local operator journeys
+
+- Completed joined synthetic Reception, Management and CRM paths using existing identity, session, command and task contracts.
+- Added current-session source review, responsive task navigation and durable event coverage for the affected actions.
+- Verified concurrent action handling, interrupted-response recovery, two-client event consumption and isolated database restore.
+- Kept simulator, live-source, accessibility and online deployment acceptance open; no customer or production change.
+
 ## 2026-10-11 — A2 platform focus and local journey review
 
 - Consolidated the private first-release journey and acceptance inventory around the independent A2 platform; froze new WordPress CRM feature work.
