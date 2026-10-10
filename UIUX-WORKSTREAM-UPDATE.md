@@ -15,7 +15,7 @@ The current accepted Member context projection is consumed with an explicit CRM 
 - Seven existing CRM entry addresses and eight operational surfaces were exercised with isolated synthetic identities.
 - Operational checks include conversion permission denial, revision conflict recovery, actual conversion, Member/Staff route isolation, foreign Branch denial and stale session authority denial.
 - The accepted conversion adversarial regression checks replay, concurrency, explicit identity resolution and absence of unrelated commercial effects.
-- Visual comparison includes 48 root captures; CRM height changes reflect added filter controls, with unchanged root dimensions in the other workspaces. The confirmation control and enabled light-theme action contrast were corrected after rendered review.
+- Visual comparison includes 48 root captures; CRM height changes reflect added filter controls, with rendered review preserving other workspace layouts. Canonical timestamp text can wrap differently on mobile; specific variations require an explicit review bound to the exact captured images. The confirmation control and enabled light-theme action contrast were corrected after rendered review.
 
 Accessibility remains a bounded partial review: real keyboard/focus and selected text contrast checks passed; full assistive-technology and platform-wide WCAG acceptance remain separate. Generic Customer context, a safe identity candidate resolver, complete aggregate pipeline authority and real-source freshness require their owning contracts.
 
@@ -24,6 +24,7 @@ No automatic Main merge, deployment, production migration, financial transaction
 Matched private checkpoints:
 
 - UI-01 adaptation: `d1f4382c73962b541a7048618a3af827a7d07130`
-- UI-02 integration checkpoint: `853d67bc72ef2d708e0c369ec4fb61af1812752b`
+- UI-02 interaction checkpoint: `853d67bc72ef2d708e0c369ec4fb61af1812752b`
+- Final visual evidence checkpoint: `9e712a936300b742fbbd623db852bcbd6636b296`
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
