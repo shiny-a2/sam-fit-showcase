@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated hardware delivery and recovery
+
+- Verified a synthetic command's durable acknowledgment and separately signed simulated result through an isolated local database and receiver.
+- Exercised two independent destination receipts, interruption recovery and no-blind-retry behavior using local test receivers.
+- Kept native Windows, actual destination and operator-console acceptance open; no production deployment, customer data or physical control changed.
+
 ## 2026-10-10 — Isolated staging release preparation
 
 - Prepared separate, source-bound review packages for the WordPress CRM and A2 platform, with synthetic-only environment checks.

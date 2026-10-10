@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated hardware delivery and recovery checkpoint
+
+The private hardware candidate now keeps delivery acknowledgment separate from a signed simulated execution result. An isolated database and local receiver test traced an authorized synthetic command through durable delivery, simulator execution and result reconciliation. A lost response does not trigger a blind repeat of the command.
+
+Two independent customer-management delivery records were also exercised against separate local test receivers, including one destination being unavailable and recovery after a lost receipt. Native Windows acceptance, actual destination integration and the operator console journey remain open. No live customer data, production service or physical equipment was used.
+
 ## 2026-10-10 — Separate online review environments in preparation
 
 The private project prepared distinct staging release profiles for its WordPress CRM and independent A2 platform. Build checks now bind each package to a specific synthetic review environment and keep automatic deployment disabled until the first controlled release passes. The CRM review profile also prevents wallet adjustments. This improves release traceability and protects existing validation installations.
