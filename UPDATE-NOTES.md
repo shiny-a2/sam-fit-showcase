@@ -774,3 +774,8 @@ The private WordPress CRM candidate now labels customer identity origins and dis
 Synthetic HTTP tests covered import replay, revisions, collision refusal and concurrent requests. The responsive review covered 88 role, viewport and theme states plus nine branch-access checks. The complete login-to-follow-up-to-sales journey, live upstream freshness, full accessibility and production capacity are still open. The deployed restricted pilot was not changed.
 
 A later isolated HTTP check also opened the same synthetic Sales customer profile, created and completed a follow-up, verified its profile display and reconciled its owner, branch and activity record. The full multi-role journey is still open.
+## 2026-10-10 — Connected CRM operator journey in private candidate
+
+The private WordPress CRM candidate now supports a tested staff journey from customer search and profile through a follow-up, next task and a sales opportunity outcome. The customer timeline and manager report now show the corresponding commercial outcome in the appropriate staff and branch scope. The interface also keeps the customer profile open when staff dismiss a follow-up dialog.
+
+Isolated synthetic HTTP and real-browser checks covered successful and unsuccessful opportunities, replay and concurrent requests, permissions, audit rollback and eight mobile/tablet/desktop light/dark states. This is a candidate development checkpoint; complete multi-role acceptance, accessibility, live-source verification and release admission remain open. The restricted pilot was not updated and no real customer or financial record was changed.
