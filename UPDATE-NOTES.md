@@ -785,3 +785,8 @@ A later isolated HTTP check also opened the same synthetic Sales customer profil
 The private WordPress CRM candidate now supports a tested staff journey from customer search and profile through a follow-up, next task and a sales opportunity outcome. The customer timeline and manager report now show the corresponding commercial outcome in the appropriate staff and branch scope. The interface also keeps the customer profile open when staff dismiss a follow-up dialog.
 
 Isolated synthetic HTTP and real-browser checks covered successful and unsuccessful opportunities, replay and concurrent requests, permissions, audit rollback and eight mobile/tablet/desktop light/dark states. This is a candidate development checkpoint; complete multi-role acceptance, accessibility, live-source verification and release admission remain open. The restricted pilot was not updated and no real customer or financial record was changed.
+## 2026-10-10 — Purpose-scoped member information in local development
+
+The private A2 platform now narrows member information to the purpose selected by the current user: personal, reception, customer relationship or management. Current account and branch permissions still decide access. An explicit current entitlement is required for cross-branch member visibility, and unrelated branch memberships stay out of the response.
+
+Synthetic API checks covered all four purposes, session and permission revocation, consent changes, private-field redaction, database recovery and backup/restore. The Phase 04 capability passed its local API scope, while the broader phase exit remains open for separate privacy and human interface acceptance. No customer data, pilot environment, production service or physical device was changed.

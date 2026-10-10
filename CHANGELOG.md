@@ -978,3 +978,8 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Connected existing customer profile, follow-up, next-task and opportunity flows in the private candidate.
 - Improved replay and concurrent-request handling, staff file scope, timeline visibility and branch-level outcome reporting.
 - Passed isolated synthetic HTTP and responsive real-browser checks; full product acceptance and deployment remain pending.
+## 2026-10-10 — Local member visibility contract
+
+- Limited member information by current user purpose and explicit cross-branch eligibility.
+- Verified synthetic authorization, consent, private-field redaction, recovery and domain regressions.
+- Kept browser/human acceptance and the broader Phase 04 exit open; no deployment or customer data change occurred.
