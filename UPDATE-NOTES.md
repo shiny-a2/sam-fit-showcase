@@ -680,3 +680,9 @@ Seven isolated synthetic regression checks and focused phone, tablet and desktop
 Booted and rebooted an isolated Windows ARM64 development VM and corrected two acceptance-fixture setup defects without loosening runtime security checks. Eight native API tests passed, and four synthetic encryption fixtures in each direction matched between Mac and Windows. Additional local tests verified key rotation, retained secret decryption after reboot, and synthetic queue preservation when the source is unavailable or its schema changes.
 
 These are provisional development results. Media integrity, Secure Boot, service lifecycle, private delivery, remote access, update/rollback and remaining operational acceptance are still open. The package remains a preview with pilot readiness false; no operational source or hardware was contacted. Private lab evidence, keys and account material are excluded from this showcase.
+
+## 2026-10-10 — Local lead conversion review
+
+The private platform now converts a sales lead into a local member relationship using the existing person and member records. Staff need a dedicated conversion permission, and an existing person or member can be selected only with matching identity evidence. Conflicts pause for review instead of silently combining records. The conversion keeps lead history and supports safe retries without creating a second member or a second effect.
+
+Isolated tests covered competing CRM and Reception commands, session and branch denials, audit rollback, a database upgrade and restore. Conversion does not activate a paid plan, change a wallet, grant access or operate equipment. The Member360 projection is the next independent review; the real pilot and production were not changed.

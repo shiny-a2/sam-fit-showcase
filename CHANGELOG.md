@@ -870,3 +870,9 @@ The review distinguishes software attendance closure, personnel auto-exit semant
 Booted and rebooted an isolated Windows ARM64 development VM and corrected two acceptance-fixture setup defects without loosening runtime security checks. Eight native API tests passed, and four synthetic encryption fixtures in each direction matched between Mac and Windows. Additional local tests verified key rotation, retained secret decryption after reboot, and synthetic queue preservation when the source is unavailable or its schema changes.
 
 These are provisional development results. Media integrity, Secure Boot, service lifecycle, private delivery, remote access, update/rollback and remaining operational acceptance are still open. The package remains a preview with pilot readiness false; no operational source or hardware was contacted. Private lab evidence, keys and account material are excluded from this showcase.
+
+## 2026-10-10 — Local lead conversion boundary
+
+- Reused the existing person/member foundation for guarded sales lead conversion with a dedicated staff permission.
+- Verified identity conflict review, concurrent CRM/Reception writes, replay, audit rollback and database recovery using synthetic data.
+- Left paid membership, finance, physical access, the real pilot and production unchanged; Member360 remains the next review.
