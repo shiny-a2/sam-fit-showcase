@@ -790,3 +790,8 @@ Isolated synthetic HTTP and real-browser checks covered successful and unsuccess
 The private A2 platform now narrows member information to the purpose selected by the current user: personal, reception, customer relationship or management. Current account and branch permissions still decide access. An explicit current entitlement is required for cross-branch member visibility, and unrelated branch memberships stay out of the response.
 
 Synthetic API checks covered all four purposes, session and permission revocation, consent changes, private-field redaction, database recovery and backup/restore. The Phase 04 capability passed its local API scope, while the broader phase exit remains open for separate privacy and human interface acceptance. No customer data, pilot environment, production service or physical device was changed.
+## 2026-10-10 — CRM follow-up conflict and session recovery checkpoint
+
+The private WordPress CRM candidate now lets authorized staff edit an open follow-up with a check against the latest saved state. It also gives a clear Persian message when a session expires, keeps the form draft, and supports a deliberate retry with the same request ID after an uncertain response. The existing customer profile, sales opportunity, receipt and audit paths were reused.
+
+Synthetic HTTP and browser checks covered five staff roles, two branches, concurrent follow-up and sales-outcome requests, reauthentication and a committed request whose response was lost. The broader responsive review covered four widths in light and dark themes. Full multi-role acceptance and release checks remain open; the restricted pilot was not updated and no real customer, payment or hardware record was changed.

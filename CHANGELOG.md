@@ -983,3 +983,8 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Limited member information by current user purpose and explicit cross-branch eligibility.
 - Verified synthetic authorization, consent, private-field redaction, recovery and domain regressions.
 - Kept browser/human acceptance and the broader Phase 04 exit open; no deployment or customer data change occurred.
+## 2026-10-10 — CRM follow-up recovery candidate
+
+- Added version-aware editing for open follow-ups within the existing private CRM workflow.
+- Clarified expired-session feedback and tested draft recovery and safe same-request retries.
+- Verified scoped synthetic role, branch, concurrency and responsive browser behavior; full acceptance and deployment remain pending.
