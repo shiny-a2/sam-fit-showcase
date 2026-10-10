@@ -2,6 +2,7 @@
 
 - Consolidated the private first-release journey and acceptance inventory around the independent A2 platform; froze new WordPress CRM feature work.
 - Extended isolated synthetic browser and API review to cover reception and CRM handoffs, with source-bound checks and small-sample timing evidence.
+- Completed the local reception visit and locker journey with permission, concurrency, receipt and rollback checks; verified management task-count freshness and a joined CRM conversion API path.
 - Recorded unresolved simulator, accessibility, live-source and online staging gates; no deployment or customer-data change.
 
 ## 2026-10-11 — Windows hardware lab acceptance preflight
