@@ -822,3 +822,9 @@ The real-browser recovery check now also covers a sales opportunity progressing 
 The private platform refreshed its development-only offline lab package and checked its source manifest, migration set and checksum. Current API and web builds, type checks, schema safeguards and basic unit checks passed. A source-only automated quality workflow now passes on the private host as well; it contains no deployment step. A separate read-only inventory distinguished local previews from an intermittently reachable staging service; neither represents a deployment of the current Main checkpoint.
 
 Phase 04 remains open. Approved local sensitive-read auditing is in place, while archive custody, full onboarding interaction, human review and hardware integration still need their own acceptance. No customer or pilot record, physical device or production deployment changed.
+
+## 2026-10-10 — CRM permission-change safety checkpoint
+
+The private WordPress CRM candidate now rechecks a staff member's current permissions and session while recording a follow-up or sales opportunity. Isolated concurrent tests covered a branch permission being removed, an account being disabled, a capability being withdrawn and a session being revoked while a command was in flight. An initial test exposed a stale permission in memory; after correction, the command was refused without changing the customer task or its history. The broader security and responsive browser checks passed in the isolated QA environment.
+
+Complete recovery guidance, the full role and browser matrix, and VPS stability remain open. The restricted pilot was not updated; no real customer, payment, hardware or separate Track B service was changed.
