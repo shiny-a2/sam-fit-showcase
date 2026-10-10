@@ -1,3 +1,9 @@
+## 2026-10-10 — Local identity collision safeguards
+
+The private platform now sends Reception registration and guest-conversion requests to review when a phone is already tied to another account or an unrelated member. A valid explicit guest-to-member match still works. Isolated synthetic tests passed for member registration, CRM conversion and Member360, along with a database restore check.
+
+The next identity-review workflow needs an owner-approved permission and decision policy. No automatic identity merge, new database migration, customer data change or deployment occurred.
+
 ## 2026-10-10 — Windows lab private management and revocation acceptance
 
 The existing Windows edge development package completed authenticated private administration, signed synthetic delivery, duplicate handling and acknowledgement recovery in the isolated ARM64 lab. No-login reboot preserved encrypted queues. After access was revoked, new administration and receiver requests were denied while local services continued and new queued data remained encrypted and durable. The temporary management route was removed.

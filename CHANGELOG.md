@@ -1,3 +1,9 @@
+## 2026-10-10 — Local identity collision safeguards
+
+- Routed verified-contact collisions and unrelated guest-to-member links to manual review in the private local platform.
+- Passed focused synthetic Member, CRM, Member360 and database-restore checks.
+- Kept review decisions pending owner policy; no automatic merge, migration or deployment.
+
 ## 2026-10-10 — Windows lab management and terminal revocation
 
 - Verified private native administration, signed synthetic delivery, lost-acknowledgement recovery and no-login reboot with retained encrypted custody.
