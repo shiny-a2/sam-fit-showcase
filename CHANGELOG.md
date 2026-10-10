@@ -1,3 +1,10 @@
+## 2026-10-10 — Local member profile correction and onboarding
+
+- Added a bounded A2-owned display-name correction workflow with distinct member, reception and manager actions.
+- Saved onboarding progress on the server and checked completion against the current member identity and verified contact.
+- Passed isolated authorization, concurrency, audit, interruption and populated backup/restore checks.
+- Prepared a frontend contract; browser, human, real-source and production acceptance remain separate. No deployment or customer data change occurred.
+
 ## 2026-10-10 — Durable hardware-command candidate
 
 - Added an isolated synthetic PostgreSQL command, audit and delivery-intent contract with replay, concurrency, rollback and recovery tests.

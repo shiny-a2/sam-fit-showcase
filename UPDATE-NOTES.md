@@ -1,3 +1,9 @@
+## 2026-10-10 — Local member profile correction and onboarding
+
+The private A2 platform now supports an approved, narrow member name correction flow and server-saved onboarding progress. Members can update an A2-owned display name; reception can request a correction, and authorized managers review and apply it as separate actions. Completion checks the current member account and its existing verified contact, while preferences and marketing consent keep their separate rules.
+
+Synthetic local checks covered permissions, replay, competing edits, audit rollback, database interruption and restore of populated correction and progress records. The UI handoff is ready for the separate frontend workstream. Browser and human acceptance, real-source integration and production deployment remain open; no customer or pilot data changed.
+
 ## 2026-10-10 — Durable hardware-command development checkpoint
 
 The private equipment-management candidate now records synthetic commands, audit history and delivery intent atomically in an isolated PostgreSQL test environment. Tests covered duplicate requests, competing locker assignments, forced rollback, worker recovery, uncertain outcomes, late acknowledgements and backup/restore. The existing local console now makes locker search and command status clearer across mobile and desktop light/dark views.
