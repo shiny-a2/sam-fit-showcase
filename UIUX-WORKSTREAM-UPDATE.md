@@ -19,7 +19,7 @@ The current accepted Member context projection is consumed with an explicit CRM 
 
 Accessibility remains a bounded partial review: real keyboard/focus and selected text contrast checks passed; full assistive-technology and platform-wide WCAG acceptance remain separate. Generic Customer context, a safe identity candidate resolver, complete aggregate pipeline authority and real-source freshness require their owning contracts.
 
-No automatic Main merge, deployment, production migration, financial transaction or physical device operation is included. The next frontend milestone is UI-03: Reception operational experience.
+No automatic Main merge, deployment, production migration, financial transaction or physical device operation is included. The next frontend milestone is UI-04: Management experience (Member App follows as UI-05).
 
 Matched private checkpoints:
 
@@ -28,3 +28,17 @@ Matched private checkpoints:
 - Final visual evidence checkpoint: `9e712a936300b742fbbd623db852bcbd6636b296`
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+## UI-03 — Reception operational experience
+
+Reception now completes the existing software workflow through accepted Main APIs: member search/identification, membership access decision, expected visits, check-in, locker assignment/change/release, check-out, recent history and Reception follow-up context. Selection is limited to authorized canonical data. All returned available lockers can be selected; a late detail reply cannot restore an older selection.
+
+An explicit action form supplies required reasons and preserves input when the server reports a conflict. Canonical state is re-read before reviewed resubmission. Duplicate submissions are blocked immediately; lost responses reconcile the original command receipt. Permission or session denial removes protected action state. Software visits, CRM arrival results, source freshness, physical gate state and locker hardware remain distinct. No physical attendance or device confirmation is invented.
+
+Verification retains 48 shell cases and CRM regressions, plus four existing Reception entry URLs, eleven software operational flows and eight interactive width/theme cases. Production Web build, types, current 27-migration compatibility, real command/receipt checks, foreign Branch denial and stale authorization denial are covered using disposable synthetic data. Enabled action hover text contrast meets 4.5:1 in the reviewed matrix; the explanation field uses the shared theme and inherited typography. Full assistive-technology certification remains partial.
+
+A selective frontend patch applies to accepted Main and produces the same frontend source as the independently verified UI branch. This is an integration candidate; no automatic merge, deployment, backend permission/schema change, purchase, source write or physical command occurred. Real source freshness and hardware evidence still require their owning accepted contracts.
+
+Matched private UI-03 implementation: `f3198c1dd0aad542d953829fb55b009be7638068`. Final responsive evidence-card polish checkpoint: `863dfda0a6e4e42056d3bcaa88ca7cfb8aed1ff8`.
+
+Final roadmap-aligned private checkpoint: `67bdcfa27e3180c8d416616caa467ca98b3593e8`. UI-04 is Management; UI-05 is Member App.

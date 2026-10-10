@@ -452,3 +452,7 @@ Browser review covered real protected API reads in separate real-data pilot and 
 ## 2026-10-10 — Canonical frontend adoption
 
 UI-01 was narrowly adapted to current Main and UI-02 operational CRM now uses accepted APIs, explicit identity review and recoverable command results. Isolated production-build browser and conversion contract checks passed; the full public scope and remaining owning-contract dependencies are documented in UIUX-WORKSTREAM-UPDATE.md. Private source is committed on an independent feature branch; no automatic merge or deployment.
+
+## 2026-10-10 — UI-03 Reception operational checkpoint
+
+Completed existing Reception software interactions on accepted APIs, with canonical readback, conflict-preserved input, original receipt recovery and explicit source/hardware boundaries. Isolated browser checks cover eleven operational flows and light/dark responsive action states while retaining prior shell and CRM regressions. Prepared a selective Main frontend patch; no deployment or automatic merge. See UIUX-WORKSTREAM-UPDATE.md for scope and remaining owning-contract dependencies.
