@@ -852,3 +852,9 @@ The private A2 platform now connects member name edits, reception correction req
 An isolated local build passed authenticated browser journeys across four screen widths and light/dark themes, with separate API regression checks. The broader seven-step setup, audit archive governance, human accessibility and intranet host acceptance remain open. No customer data, production deployment, financial record or physical device was changed.
 
 A follow-up isolated database run measured SQL statements for five authenticated member and operator reads, including their session, permission and read-audit work. Three sequential samples per route were consistent; the local evidence does not establish production capacity or change the open Phase 04 exit decision.
+
+## 2026-10-10 — Online staging release preparation
+
+The private WordPress CRM and A2 platform now have separate CI paths that produce versioned, integrity-checked candidate bundles from their own source commits. The platform path also makes bounded public availability observations. This makes prospective releases traceable while preserving the existing restricted CRM pilot and earlier platform staging database.
+
+The current CRM and platform candidates have **not** been deployed. The hosting interruption remains unexplained, the isolated online targets and owner review access need approval, and the required deployed browser, backup and rollback checks are still open. No customer, pilot, financial, equipment or production state changed.
