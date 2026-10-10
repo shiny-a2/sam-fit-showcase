@@ -736,3 +736,9 @@ These are provisional development results. Media integrity, Secure Boot, service
 The private platform now converts a sales lead into a local member relationship using the existing person and member records. Staff need a dedicated conversion permission, and an existing person or member can be selected only with matching identity evidence. Conflicts pause for review instead of silently combining records. The conversion keeps lead history and supports safe retries without creating a second member or a second effect.
 
 Isolated tests covered competing CRM and Reception commands, session and branch denials, audit rollback, a database upgrade and restore. Conversion does not activate a paid plan, change a wallet, grant access or operate equipment. The Member360 projection is the next independent review; the real pilot and production were not changed.
+
+## 2026-10-10 — Local identity review workflow
+
+Added a staff-only review workflow for possible member identity conflicts in the private platform. Dedicated request and decision permissions, branch checks, revision checks and an immutable decision history support careful review without automatically combining people or changing member access. Conflict findings are limited to the current organization and expose only masked contact details to ordinary reviewers.
+
+Synthetic tests passed for role and organization isolation, concurrent decisions, safe command replay, audit rollback and a database upgrade and restore. CRM and reception retain their existing conflict behavior. The next profile-correction capability has entered policy review; it has no write implementation yet. This is a local development checkpoint with no real-pilot or production deployment, financial effect or hardware action.

@@ -930,3 +930,9 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Reused the existing person/member foundation for guarded sales lead conversion with a dedicated staff permission.
 - Verified identity conflict review, concurrent CRM/Reception writes, replay, audit rollback and database recovery using synthetic data.
 - Left paid membership, finance, physical access, the real pilot and production unchanged; Member360 remains the next review.
+
+## 2026-10-10 — Local identity review workflow
+
+- Added scoped staff review of potential identity conflicts with separate request and decision permissions and an immutable history.
+- Passed synthetic authorization, isolation, concurrency, audit rollback, upgrade and restore checks.
+- Kept automatic identity merging, profile-correction writes, real-pilot and production deployment outside this checkpoint.
