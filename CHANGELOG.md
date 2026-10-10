@@ -1018,3 +1018,8 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Refreshed and checksum-checked a synthetic offline lab package against the current private development checkpoint.
 - Verified local build, type, schema and basic unit gates and passed a hosted check-only quality workflow; clarified that online staging and loopback previews do not attest a current Main deployment.
 - Preserved open privacy, onboarding, human-review and hardware gates without a pilot or production change.
+# 2026-10-10 — CRM owner preview and follow-up result authorization
+
+- Rechecked current write authority before disclosing an existing follow-up result; synthetic denial and zero-effect checks passed.
+- Prepared a local read-only owner preview and verified login, selected CRM pages, logout and responsive light/dark layout.
+- Kept the CRM 0.14 candidate private while wider acceptance remains open.
