@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The private A2 platform has resumed independent organization/branch development. A protected, branch-scoped catalog read API passed synthetic local checks; branch administration is still in progress. Live-source freshness and physical-device acceptance remain separate. See [update notes](UPDATE-NOTES.md).
+The private A2 platform has locally connected member setup drafts, profile correction, identity review and purpose-limited member views to its existing APIs. Authenticated browser and API checks passed in an isolated synthetic environment. Phase-04 exit, live-source freshness, human accessibility, intranet hosting and physical-device acceptance remain separate. See [update notes](UPDATE-NOTES.md).
 
 An isolated real Pasdaran pilot now serves source-mapped member identities and a real locker catalogue across Reception, CRM and Management, with branch-scoped Technical health access. Source-only business facts remain under review and a separate synthetic Member tester covers the member app. This is a **partial local checkpoint**; natural live-update acceptance, physical operations and financial authority are still open. See [update notes](UPDATE-NOTES.md).
 
