@@ -1,3 +1,9 @@
+## 2026-10-10 — Native Windows edge lifecycle checkpoint
+
+- Verified isolated native services, no-login startup, encrypted queue recovery and signed synthetic delivery/replay boundaries.
+- Fixed stop intent and orphan-process recovery; added protected repair, independent health checks and bounded diagnostics.
+- Kept production readiness and private management acceptance open; no pilot rollout or device operation occurred.
+
 ## 2026-10-10 — CRM 0.14 candidate acceptance progress
 - Rejected unexpected opportunity input and verified scoped Sales create, replay, denial and forced rollback over isolated HTTP.
 - Verified synthetic Reception registration and encrypted draft recovery with cleanup; expanded staff media permission checks.

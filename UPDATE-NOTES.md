@@ -1,3 +1,9 @@
+## 2026-10-10 — Native Windows edge recovery development
+
+The private Windows edge candidate now has verified service startup without user login, preserved encrypted queue state after reboot, signed synthetic delivery and durable duplicate handling in an isolated Windows lab. Controlled process and service-host faults recovered safely; lost acknowledgements, operator replay, quarantine refusal and a persistent restart limit were exercised. Ordinary-user custody denial and bounded sanitized diagnostics also passed native checks.
+
+This is development evidence, not production acceptance. Signed update and complete installer checks are next; approved private administration, trusted media and Secure Boot validation remain open. No reception, production receiver or physical device was contacted, and no new public endpoint was exposed.
+
 ## 2026-10-10 — CRM candidate security and workflow checks
 The private WordPress CRM candidate now rejects unexpected opportunity form fields. Isolated HTTP tests covered a Sales user's own assigned opportunity, access denial for other files, request replay and rollback on a forced failure. Reception registration and an encrypted form-draft round trip were also checked with synthetic records and removed after testing. Broader form and media permission checks passed in the same isolated environment.
 
