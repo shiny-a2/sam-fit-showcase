@@ -1,3 +1,7 @@
+# 2026-10-10 — UI-04/05 selective frontend integration candidate
+
+Member draft recovery and authorized case review flows were tested against accepted local contracts. Reception correction submission and full onboarding remain partial. See [product experience update](UI0405-PRODUCT-EXPERIENCE-UPDATE.md). No deployment.
+
 # 2026-10-10 — UI-04/05 canonical product candidate (unreleased)
 
 - Added Management canonical read surfaces, Member onboarding status, scoped glass chrome and client navigation.

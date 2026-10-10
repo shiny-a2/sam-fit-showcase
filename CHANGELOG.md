@@ -1,3 +1,8 @@
+## 2026-10-10 — UI-04/05 candidate
+
+- Added bounded Member onboarding draft and authorized profile/identity review interactions.
+- Verified local responsive/browser journeys; documented remaining Reception and full-onboarding dependencies.
+
 ## 2026-10-10 — UI-01 Main adoption and UI-02 CRM (unreleased)
 
 - Adapted the shared navigation focus repair to current Main without replacing its workspace/authentication behavior.
