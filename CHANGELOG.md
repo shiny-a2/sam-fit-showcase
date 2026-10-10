@@ -948,3 +948,9 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Recorded the approved correction boundaries and audited field/source authority, existing preference and consent flows, and onboarding persistence gaps.
 - Prepared a draft UI state contract and analytical review without activating new writes or a migration.
 - Kept exact field and completion decisions, real-source changes and deployment pending.
+
+## 2026-10-10 — Customer360 source and identity checkpoint
+
+- Added a clear source-status presentation to the private WordPress CRM customer profile.
+- Added review-required handling for conflicting customer phone identities and tested concurrent synthetic imports.
+- Expanded responsive role and branch review; full workflow and deployment acceptance remain open.

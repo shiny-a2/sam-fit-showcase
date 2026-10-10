@@ -754,3 +754,9 @@ Synthetic tests passed for role and organization isolation, concurrent decisions
 Recorded the owner's bounded profile-correction principles and mapped existing identity, preferences, consent and onboarding behavior to their respective source authorities. The review identified that the current login OTP does not verify a replacement phone and that the onboarding screen is still a non-persistent preview. A draft UI handoff now distinguishes saved progress, correction review and source-conflict states.
 
 Exact editable fields, manager application authority and onboarding completion criteria remain under owner decision. No new profile write, database migration, real-source change or deployment was made in this checkpoint.
+
+## 2026-10-10 — Customer360 identity and source clarity
+
+The private WordPress CRM candidate now labels customer identity origins and distinguishes an accepted import receipt from the freshness of the upstream system. An existing phone number tied to another member or guest is routed to identity review; concurrent imports no longer create two customer profiles for one phone in isolated tests.
+
+Synthetic HTTP tests covered import replay, revisions, collision refusal and concurrent requests. The responsive review covered 88 role, viewport and theme states plus nine branch-access checks. The complete login-to-follow-up-to-sales journey, live upstream freshness, full accessibility and production capacity are still open. The deployed restricted pilot was not changed.
