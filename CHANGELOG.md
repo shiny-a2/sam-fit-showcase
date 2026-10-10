@@ -1,3 +1,9 @@
+## 2026-10-10 — Isolated staging release preparation
+
+- Prepared separate, source-bound review packages for the WordPress CRM and A2 platform, with synthetic-only environment checks.
+- Added guarded private build workflows and documented the first-release and rollback gates.
+- Paused activation after an infrastructure outage; the new review URLs and owner accounts are not yet live. Existing deployments remain the current published versions.
+
 ## 2026-10-10 — Local CRM and reception identity review requests
 
 - Connected conflicting lead and guest review requests to the existing authorized workflow without automatic identity merges.
