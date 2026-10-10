@@ -1,3 +1,9 @@
+## 2026-10-11 — Windows hardware lab acceptance preflight
+
+- Verified the isolated candidate package, protected identity reference and local recovery contracts; recorded the remaining native Windows gates in a reviewable acceptance ledger.
+- Kept the lab installation and identity enrollment pending a specifically authorized VM session, a verifiable issuer attestation, a current host-key check and a recoverable backup.
+- Left customer systems, production services and physical equipment untouched.
+
 ## 2026-10-11 — Synthetic hardware lab handoff
 
 - Issued a new protected, time-limited lab identity while retaining the previous identity's revocation.

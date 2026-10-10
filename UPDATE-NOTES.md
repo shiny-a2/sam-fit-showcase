@@ -1,3 +1,7 @@
+## 2026-10-11 — Windows hardware lab preflight
+
+The private Windows Edge team checked the next isolated lab package and protected identity reference, reran local command and recovery tests, and published a clear gate ledger for native acceptance. The package has not been installed or enrolled in the Windows VM. The next session needs explicit authorization, a verifiable issuer attestation, a fresh host-key check and a protected recovery point before native changes. No live customer data, production receiver or physical equipment was used.
+
 ## 2026-10-11 — Isolated hardware lab identity and integration handoffs
 
 The private A2 platform issued a new, time-limited identity for a synthetic Windows hardware lab after preserving the prior identity's revocation. Separate signing material stays in owner-protected local custody. The team also defined clearer handoffs for command acknowledgment versus simulated execution, independent customer-management event receipts, and a future staff console. Isolated policy, database recovery and restart checks passed; this makes the next native review safer and more reproducible.
