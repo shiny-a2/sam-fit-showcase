@@ -1,6 +1,6 @@
 ## 2026-10-10 — Separate online review environments in preparation
 
-The private project prepared distinct staging release profiles for its WordPress CRM and independent A2 platform. Build checks now bind each package to a specific synthetic review environment and keep automatic deployment disabled until the first controlled release passes. This improves release traceability and protects existing validation installations.
+The private project prepared distinct staging release profiles for its WordPress CRM and independent A2 platform. Build checks now bind each package to a specific synthetic review environment and keep automatic deployment disabled until the first controlled release passes. The CRM review profile also prevents wallet adjustments. This improves release traceability and protects existing validation installations.
 
 An infrastructure availability interruption stopped provisioning before either new application went online. Owner login, browser review, restore and deployed-version checks remain pending. No customer data, production release, payment or physical device was changed.
 
