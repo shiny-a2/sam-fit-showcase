@@ -4,6 +4,7 @@
 - Applied the owner-approved own-file Sales opportunity scope and checked responsive light/dark views.
 - Reduced repeated branch lookup work in a local profile render and fixed long-name wrapping.
 - Kept the deployed restricted pilot unchanged; full CRM acceptance and public access remain gated.
+- Verified an isolated signed source-update lifecycle over HTTP with synthetic cleanup; live source delivery is still open.
 
 ## 2026-10-10 — Local cross-branch eligibility foundation
 

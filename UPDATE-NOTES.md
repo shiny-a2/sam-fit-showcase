@@ -4,6 +4,8 @@ The private CRM 0.14 candidate now has a guarded synthetic test fixture and broa
 
 This is development and test progress, not a release acceptance. Complete HTTP command, reporting, accessibility and server capacity checks remain open. The restricted deployed pilot was not updated, and public CRM access remains closed.
 
+A later isolated HTTP check also confirmed signed source updates preserve one identity through create, replay and revision changes, while stale and mismatched updates are rejected. Its synthetic records were removed after the check; live source delivery remains unverified.
+
 ## 2026-10-10 — Cross-branch member eligibility, local verification
 
 The private platform now evaluates cross-branch member eligibility from explicit, current grants in an isolated test environment. The default is denial. Authorized administrators can issue bounded scopes and short, recorded exceptions; branch managers and members receive only their permitted views. Local tests covered expiry, revocation, concurrent changes, upgrade, restore and related organization and customer-service workflows. This service does not make payments or operate gates and lockers. The organization foundation passed its local review, and the member foundation is next for contract review. Pilot and production acceptance remain separate.
