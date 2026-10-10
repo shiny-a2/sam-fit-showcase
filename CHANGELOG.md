@@ -1,3 +1,9 @@
+## 2026-10-10 — Local CRM and reception identity review requests
+
+- Connected conflicting lead and guest review requests to the existing authorized workflow without automatic identity merges.
+- Checked one-case recovery after an interrupted response in isolated browser and API tests across responsive light and dark states.
+- Kept human accessibility and online staging acceptance open; no real data or deployment changed.
+
 ## 2026-10-10 — Local member and staff action recovery
 
 - Kept interrupted action references available across page refresh and same-account sign-in, with a fresh access check before showing a confirmed result.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Local identity review requests in CRM and reception
+
+Authorized staff can now request an identity review from a conflicting CRM lead or reception guest in the private A2 platform. The request goes through the existing review workflow; it does not merge people automatically. If the browser loses a response, staff can refresh and check the original request under their current access without sending a second one.
+
+Synthetic browser and API checks covered both entry points, one recorded review case, interrupted-response recovery, responsive light and dark layouts, and access boundaries. Human accessibility review and online staging acceptance remain open. No real customer record, payment or physical device changed.
+
 ## 2026-10-10 — Safer member and staff action recovery
 
 The private A2 platform now lets a member or authorized staff member return to an interrupted profile, reception or setup action after refreshing the page or signing back in. The app checks the original action's result under the person's current access before showing confirmation. If no result is available, it keeps the outcome uncertain and avoids an automatic second submission.
