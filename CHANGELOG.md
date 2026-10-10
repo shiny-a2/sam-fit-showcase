@@ -1,6 +1,6 @@
 ## 2026-10-11 — Phase 04 privacy review
 
-- Added a bounded local review of encrypted audit recovery and failure behavior.
+- Added a bounded local review of encrypted audit recovery, failure behavior and safe test cleanup.
 - Reran the accepted member and operator journeys and documented the release decisions still needed.
 - Kept the Phase 04 release gate open; no deployment or customer data change occurred.
 
