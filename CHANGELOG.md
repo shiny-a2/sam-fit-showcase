@@ -1,3 +1,9 @@
+## 2026-10-10 — Local synthetic equipment-command integration
+
+- Connected synthetic command requests to the existing platform session, staff and organization checks.
+- Verified isolated PostgreSQL command/audit/outbox atomicity, replay, scope denial and recovery through the local API.
+- Kept Windows delivery, console end-to-end acceptance, production data and physical control gated.
+
 ## 2026-10-10 — Local member profile correction and onboarding
 
 - Added a bounded A2-owned display-name correction workflow with distinct member, reception and manager actions.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Synthetic equipment commands integrated with the local platform
+
+The private A2 platform now checks synthetic equipment requests through its existing staff session, branch permissions and organization records. Accepted requests keep the command, audit record and delivery intent together in PostgreSQL. Isolated API tests covered CSRF and scope denial, safe replay, competing locker assignments, revoked access before delivery and backup/restore. The existing simulator remained the only execution target.
+
+This is a partial development checkpoint. The web console has not yet completed an authenticated journey through the new platform API, and signed Windows edge delivery, independent source consumers and real device protocols remain open. No production migration, customer record, reception equipment or physical device was changed or deployed.
+
 ## 2026-10-10 — Local member profile correction and onboarding
 
 The private A2 platform now supports an approved, narrow member name correction flow and server-saved onboarding progress. Members can update an A2-owned display name; reception can request a correction, and authorized managers review and apply it as separate actions. Completion checks the current member account and its existing verified contact, while preferences and marketing consent keep their separate rules.
