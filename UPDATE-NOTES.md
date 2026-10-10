@@ -1,3 +1,9 @@
+## 2026-10-10 — Safer local recovery and member setup drafts
+
+The private A2 platform now checks current access before showing the outcome of a previously submitted command. Members can also save five optional setup preferences as a time-limited draft and resume them from another session. These drafts do not create a purchase, marketing consent, booking or physical access right.
+
+Local synthetic checks covered access removal, replay, simultaneous saves, expired drafts and backup/restore. The full seven-step setup experience, optional body measurements, human accessibility review and production deployment remain open. No customer or pilot data changed.
+
 ## 2026-10-10 — Connected local member and operator journeys
 
 The private A2 platform now connects selected member, CRM, reception and management screens to the accepted local APIs. Member onboarding shows server-owned progress, CRM opens a purpose-limited member view, and managers can inspect scoped correction and identity queues. Responsive light and dark browser journeys covered five authenticated workspaces, including command replay, permission removal and branch isolation. A sidebar logo contrast issue found during review was corrected.

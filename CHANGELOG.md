@@ -1,3 +1,9 @@
+## 2026-10-10 — Local command recovery and member setup draft
+
+- Restricted recovery of submitted command outcomes to current authorized users and limited returned details.
+- Added an optional, expiring member setup draft for five preferences without inferring consent or commercial status.
+- Passed isolated access, concurrency, recovery and database restore checks. Full setup UI and production acceptance remain open; no customer data or deployment changed.
+
 ## 2026-10-10 — Local sensitive-read audit checkpoint
 
 - Added a bounded, persistent audit trail for authorized member views and staff review reads in the isolated development runtime.
