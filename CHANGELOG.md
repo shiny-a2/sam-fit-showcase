@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM 0.14 candidate acceptance progress
+- Rejected unexpected opportunity input and verified scoped Sales create, replay, denial and forced rollback over isolated HTTP.
+- Verified synthetic Reception registration and encrypted draft recovery with cleanup; expanded staff media permission checks.
+- Left the restricted deployed pilot unchanged while full release acceptance continues.
+
 ## 2026-10-10 — Local member identity boundary
 
 - Reused the existing member identity across branches within the approved local business.

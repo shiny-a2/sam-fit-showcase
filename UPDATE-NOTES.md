@@ -1,3 +1,8 @@
+## 2026-10-10 — CRM candidate security and workflow checks
+The private WordPress CRM candidate now rejects unexpected opportunity form fields. Isolated HTTP tests covered a Sales user's own assigned opportunity, access denial for other files, request replay and rollback on a forced failure. Reception registration and an encrypted form-draft round trip were also checked with synthetic records and removed after testing. Broader form and media permission checks passed in the same isolated environment.
+
+The deployed restricted pilot was not updated. Full security, workflow, accessibility, reporting and server-capacity acceptance remain open, and public CRM access remains closed.
+
 ## 2026-10-10 — Member foundation local review
 
 The private platform completed a bounded local review of its existing member foundation. One member identity can be reused across branches of the same business without creating a second member. A synthetic test exposed a cross-organization profile and registration gap, which was corrected and retested. Login authority remains tied to each User, and a matching phone prompts identity review rather than an automatic merge. Local checks covered consent defaults, purpose-limited reads, concurrent registration, audit and database restore. Generic customer records, the full Customer360 view and real-pilot acceptance remain separate future work. No production or pilot data changed.
