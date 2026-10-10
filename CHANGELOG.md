@@ -1,3 +1,9 @@
+## 2026-10-10 — WordPress CRM response recovery checkpoint
+
+- Added a private candidate result check for follow-ups and sales opportunities after interrupted browser requests.
+- Kept uncertain requests from being submitted twice and made the recovery message visible above the mobile save bar.
+- Passed isolated role, access, same-user sign-in recovery, server-error recovery and responsive browser checks. Broader acceptance and deployment remain open.
+
 ## 2026-10-10 — Local command recovery and member setup draft
 
 - Restricted recovery of submitted command outcomes to current authorized users and limited returned details.

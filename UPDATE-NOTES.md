@@ -1,3 +1,9 @@
+## 2026-10-10 — WordPress CRM recovery checkpoint
+
+The private WordPress CRM 0.14 candidate now checks the recorded result of a follow-up or sales opportunity when a browser loses the original response. The check uses the staff member's current access and the original request details. A confirmed result refreshes the customer view; an unknown result keeps the request ID, blocks a duplicate submission and offers a safe recheck.
+
+Isolated tests covered access removal, changed requests, lost responses, same-user sign-in recovery, and the unknown-result dialog at phone, tablet and desktop widths in light and dark themes. A server error after saving was also reconciled without a second action. A visibility issue in that dialog was corrected during review. This remains a private candidate: full sign-in recovery across changing roles, wider role acceptance and VPS availability are open, and no public CRM access or production deployment changed.
+
 ## 2026-10-10 — Safer local recovery and member setup drafts
 
 The private A2 platform now checks current access before showing the outcome of a previously submitted command. Members can also save five optional setup preferences as a time-limited draft and resume them from another session. These drafts do not create a purchase, marketing consent, booking or physical access right.
