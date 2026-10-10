@@ -2,6 +2,7 @@
 
 - Added a bounded, persistent audit trail for authorized member views and staff review reads in the isolated development runtime.
 - Verified scoped denials, minimal recorded metadata, fail-closed behavior during an audit write failure, and synthetic backup/restore.
+- Checked a proposed archive guard on an isolated restored copy; it rejected early deletion and changes to audit history. The proposal has not been adopted.
 - Approved retention periods still need a reviewed archive mechanism, key custody and recovery checks. The broader Phase 04 exit and production deployment remain open; no customer or pilot data changed.
 
 ## 2026-10-10 — Local Phase 04 UI and offline lab checkpoint
