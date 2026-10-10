@@ -1,3 +1,9 @@
+## 2026-10-10 — Local Phase 04 UI and offline lab checkpoint
+
+- Connected selected member, CRM, reception and management journeys to accepted local APIs with authenticated browser coverage.
+- Added a versioned synthetic offline lab archive and verified local assets, migrations and browser operation after extraction.
+- Documented deployment uncertainty and the remaining privacy, human review and hardware gates; no production deployment occurred.
+
 ## 2026-10-10 — Local synthetic equipment-command integration
 
 - Connected synthetic command requests to the existing platform session, staff and organization checks.

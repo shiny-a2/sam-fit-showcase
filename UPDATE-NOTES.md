@@ -1,3 +1,9 @@
+## 2026-10-10 — Connected local member and operator journeys
+
+The private A2 platform now connects selected member, CRM, reception and management screens to the accepted local APIs. Member onboarding shows server-owned progress, CRM opens a purpose-limited member view, and managers can inspect scoped correction and identity queues. Responsive light and dark browser journeys covered five authenticated workspaces, including command replay, permission removal and branch isolation. A sidebar logo contrast issue found during review was corrected.
+
+An isolated offline lab bundle was also built and tested with locally served assets and a local API. This is a development checkpoint: full onboarding answers, human accessibility acceptance, sensitive-read audit policy, live intranet hosting, hardware delivery and production deployment remain open. No customer or pilot data, physical device or financial record was changed.
+
 ## 2026-10-10 — Synthetic equipment commands integrated with the local platform
 
 The private A2 platform now checks synthetic equipment requests through its existing staff session, branch permissions and organization records. Accepted requests keep the command, audit record and delivery intent together in PostgreSQL. Isolated API tests covered CSRF and scope denial, safe replay, competing locker assignments, revoked access before delivery and backup/restore. The existing simulator remained the only execution target.
