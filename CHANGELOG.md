@@ -38,6 +38,13 @@ Shared glass login visuals, isolated account contexts and server-authorized work
 
 # Changelog
 
+## 2026-10-10 — Track B UI-04/05 candidate (unreleased)
+
+- Add server-sourced Management and Member onboarding status surfaces.
+- Unify scoped glass navigation and remove unnecessary internal document reloads.
+- Document remaining API, intranet, accessibility and performance acceptance gates.
+
+
 ## 2026-10-09 — Reception session preservation and runtime diagnosis (Web 0.1.0-local.3, unreleased)
 
 - Reproduced the owner's Reception entry and identified independent candidate and real-data runtimes, with different permitted data and account authority.

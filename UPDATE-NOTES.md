@@ -1,3 +1,9 @@
+# 2026-10-10 — UI-04/05 canonical product candidate (unreleased)
+
+- Added Management canonical read surfaces, Member onboarding status, scoped glass chrome and client navigation.
+- Verified production build and 48-case isolated browser matrix against accepted Main 29 migrations.
+- Preserved explicit partial status for command review, durable seven-step answers, intranet, accessibility and performance acceptance. See [UI-04/05 notes](UIUX-PREMIUM-UPDATE.md).
+
 ## 2026-10-10 — Independent Track B UI-00 / UI-01
 
 Source-first frontend audit and shared modal navigation accessibility, preserving the accepted visual system and backend authority. See [workstream notes](UIUX-WORKSTREAM-UPDATE.md). No deployment or automatic integration is included.
