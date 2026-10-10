@@ -1,3 +1,7 @@
+## 2026-10-11 — Staging recovery and release verification
+
+Rechecked the separate CRM and A2 platform review packages against their private CI source records and documented the recovery steps for an interrupted infrastructure setup. A repeat check of the owner management connection remains unreliable, so neither new review application has been activated. The online owner login, browser matrix and restore drill still await a stable maintenance path. Automatic deployment remains disabled. Existing customer, production and device environments were not used for this review.
+
 ## 2026-10-11 — Isolated hardware delivery and recovery checkpoint
 
 The private hardware candidate now keeps delivery acknowledgment separate from a signed simulated execution result. An isolated database and local receiver test traced an authorized synthetic command through durable delivery, simulator execution and result reconciliation. A lost response does not trigger a blind repeat of the command.

@@ -1,3 +1,9 @@
+## 2026-10-11 — Staging recovery review
+
+- Rechecked source-bound private release candidates and recorded a safe reconciliation plan for the interrupted staging setup.
+- Kept both review applications offline until management access, isolation and restore checks pass.
+- Left automatic deployment disabled; no customer data, production service or physical device changed.
+
 ## 2026-10-11 — Isolated hardware delivery and recovery
 
 - Verified a synthetic command's durable acknowledgment and separately signed simulated result through an isolated local database and receiver.
