@@ -1,3 +1,9 @@
+## 2026-10-10 — Clearer Customer360 financial availability
+
+- Hid unavailable wallet actions and clarified recorded internal credit in the private CRM candidate.
+- Checked both source-availability states on synthetic data and expanded light/dark browser coverage to 40 states.
+- Kept the restricted pilot unchanged while complete profile and financial-source acceptance remain open.
+
 ## 2026-10-10 — Role-aware CRM dashboard and work lists
 
 - Connected existing customer relationship indicators to the private WordPress CRM dashboard with staff-scope checks.

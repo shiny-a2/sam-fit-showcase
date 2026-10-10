@@ -1,3 +1,9 @@
+## 2026-10-10 — Clearer Customer360 financial availability
+
+The private WordPress CRM candidate now hides the wallet shortcut when its data source is unavailable. When internal credit is available, the member profile shows the recorded amount with a direct link to that member's branch history, while keeping it distinct from revenue and paid membership.
+
+An isolated synthetic check confirmed both availability states without changing business or audit records. The responsive browser review now covers 40 dashboard, work-list and profile states in two themes. The deployed restricted pilot was not updated, and complete Customer360 and financial-source acceptance remain open.
+
 ## 2026-10-10 — Role-aware CRM dashboard and work lists
 
 The private WordPress CRM candidate now brings existing customer relationship indicators into the main dashboard. Opportunity counts follow each staff member's approved scope, and read-only staff no longer see shortcuts for commercial edits they cannot perform. This helps operators find their next action while keeping the established permission rules visible in the interface.
