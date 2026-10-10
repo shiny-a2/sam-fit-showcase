@@ -815,3 +815,8 @@ In a real browser test, staff also saw an error after a follow-up completion res
 The responsive browser journey remains partially accepted, and the VPS intermittently stops answering HTTPS and SSH despite a prior successful read-only health check. Its cause and sustained availability are unverified. No candidate deployment, public CRM opening, real customer change or financial action occurred.
 
 The private candidate now checks the latest customer assignment within the same transaction as a follow-up change. In an isolated two-request test, a manager's reassignment and a Sales completion were ordered safely: completion occurred before reassignment or was refused without an effect. Follow-up, role-security and responsive browser regressions passed. A later read-only VPS check found services active and protected backup copies readable on both the VPS and owner laptop; it did not explain the intermittent timeouts. Release acceptance remains open.
+## 2026-10-10 — Phase 04 execution and deployment inventory
+
+The private platform refreshed its development-only offline lab package and checked its source manifest, migration set and checksum. Current API and web builds, type checks, schema safeguards and basic unit checks passed. A separate read-only inventory distinguished local previews from an intermittently reachable staging service; neither represents a deployment of the current Main checkpoint.
+
+Phase 04 remains open. Approved local sensitive-read auditing is in place, while archive custody, full onboarding interaction, human review and hardware integration still need their own acceptance. No customer or pilot record, physical device or production deployment changed.
