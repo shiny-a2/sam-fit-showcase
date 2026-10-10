@@ -1,3 +1,10 @@
+## 2026-10-10 — CRM 0.14 private candidate checkpoint
+
+- Expanded isolated form, role, branch and session security tests using synthetic data.
+- Applied the owner-approved own-file Sales opportunity scope and checked responsive light/dark views.
+- Reduced repeated branch lookup work in a local profile render and fixed long-name wrapping.
+- Kept the deployed restricted pilot unchanged; full CRM acceptance and public access remain gated.
+
 ## 2026-10-10 — Local cross-branch eligibility foundation
 
 - Added an explicit, default-deny member eligibility service for use across branches in isolated local testing.

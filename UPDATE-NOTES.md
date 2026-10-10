@@ -1,3 +1,9 @@
+## 2026-10-10 — WordPress CRM 0.14 candidate acceptance progress
+
+The private CRM 0.14 candidate now has a guarded synthetic test fixture and broader local security checks for forms, branch boundaries, sessions and an integration route. The owner approved a Sales policy limited to opportunities on files assigned to that Sales user; local create, replay and denial checks passed. A repeated branch lookup was reduced in a matched local profile render, and a long-name layout defect was corrected. Responsive light/dark checks covered the Sales opportunity view and focused staff profiles.
+
+This is development and test progress, not a release acceptance. Complete HTTP command, reporting, accessibility and server capacity checks remain open. The restricted deployed pilot was not updated, and public CRM access remains closed.
+
 ## 2026-10-10 — Cross-branch member eligibility, local verification
 
 The private platform now evaluates cross-branch member eligibility from explicit, current grants in an isolated test environment. The default is denial. Authorized administrators can issue bounded scopes and short, recorded exceptions; branch managers and members receive only their permitted views. Local tests covered expiry, revocation, concurrent changes, upgrade, restore and related organization and customer-service workflows. This service does not make payments or operate gates and lockers. The organization foundation passed its local review, and the member foundation is next for contract review. Pilot and production acceptance remain separate.
