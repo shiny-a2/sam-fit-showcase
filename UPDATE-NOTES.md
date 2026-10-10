@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated hardware lab identity and integration handoffs
+
+The private A2 platform issued a new, time-limited identity for a synthetic Windows hardware lab after preserving the prior identity's revocation. Separate signing material stays in owner-protected local custody. The team also defined clearer handoffs for command acknowledgment versus simulated execution, independent customer-management event receipts, and a future staff console. Isolated policy, database recovery and restart checks passed; this makes the next native review safer and more reproducible.
+
+The new identity has not been enrolled in Windows, the two product receivers and Main console have not been accepted end to end, and the next database migration number remains under review. No staging or production deployment, live customer data, payment, biometric collection or physical equipment action occurred.
+
 ## 2026-10-11 — Staging recovery and release verification
 
 Rechecked the separate CRM and A2 platform review packages against their private CI source records and documented the recovery steps for an interrupted infrastructure setup. A repeat check of the owner management connection remains unreliable, so neither new review application has been activated. The online owner login, browser matrix and restore drill still await a stable maintenance path. Automatic deployment remains disabled. Existing customer, production and device environments were not used for this review.

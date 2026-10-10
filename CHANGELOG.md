@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic hardware lab handoff
+
+- Issued a new protected, time-limited lab identity while retaining the previous identity's revocation.
+- Defined independent event-receipt and simulated-result handoffs and verified isolated policy and recovery tests.
+- Kept native Windows acceptance, actual receiver integration, database promotion and physical control pending.
+
 ## 2026-10-11 — Staging recovery review
 
 - Rechecked source-bound private release candidates and recorded a safe reconciliation plan for the interrupted staging setup.
