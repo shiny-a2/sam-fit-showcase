@@ -1,3 +1,7 @@
+## 2026-10-10 — Independent Track B UI-00 / UI-01
+
+Source-first frontend audit and shared modal navigation accessibility, preserving the accepted visual system and backend authority. See [workstream notes](UIUX-WORKSTREAM-UPDATE.md). No deployment or automatic integration is included.
+
 ## 2026-10-09 — Owner workbench 0.1.0-staging.11
 
 Explicit backend grants provide access to the currently executable experiences, with a separate Member login entry and truthful pending specialist destinations. See [owner workbench notes](OWNER-WORKBENCH-UPDATE.md).
