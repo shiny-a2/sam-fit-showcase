@@ -1,3 +1,9 @@
+## 2026-10-10 — Local Member360 projection
+
+- Limited profile fields by purpose, permission and current branch scope.
+- Added clear source and unknown-data states, including current marketing-consent status.
+- Passed isolated security, related workflow and restore checks without a new migration or deployment.
+
 ## 2026-10-10 — Windows edge preview.4 isolated native acceptance
 
 - Completed the reproducible preview.4 development package and native signed-update, protected rollback and installer checks.

@@ -1,3 +1,7 @@
+## 2026-10-10 — Local Member360 projection verification
+
+The private platform's member profile projection now limits fields by the reader's purpose and current branch access. It shows the source and known freshness of each section, makes missing or revoked marketing consent explicit, and avoids presenting unavailable financial or physical status as confirmed facts. Isolated tests covered member, reception, CRM and management reads, related identity and workflow regressions, and database restore. No customer-facing screen, pilot or production deployment changed; real-source freshness and browser acceptance remain separate.
+
 ## 2026-10-10 — Windows edge preview.4 native development release
 
 Preview.4 completed signed package installation, independent service health checks, logout and reboot without user login in an isolated Windows ARM64 lab. Encrypted queue state survived reboot and controlled process/network faults. Signed synthetic delivery, acknowledgement recovery, duplicate handling, guarded replay, installation repair, preserved-state rollback and uninstall/reinstall passed native checks. Two release builds produced identical artifacts. Temporary witnesses were removed and lab custody retained.
