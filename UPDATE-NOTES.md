@@ -1,3 +1,9 @@
+## 2026-10-10 — WordPress CRM owner review and security checkpoint
+
+A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.
+
+Isolated tests covered current-access checks after staff permissions or customer ownership change, disabled sign-in, interrupted-request recovery, concurrent outcomes and transaction rollback. Nine pages were checked at phone, tablet and desktop widths in light and dark themes. A versioned candidate package is ready for a separate staging review, but online staging and production have not changed. Full accessibility, remaining workflow acceptance and VPS stability are still open.
+
 ## 2026-10-10 — Isolated hardware integration checkpoint
 
 The private A2 hardware candidate now connects an authorized local command request to a signed, loopback-only Edge receiver and records durable delivery before a separate simulated execution result. A synthetic source observer also keeps separate delivery records for the two planned customer-management destinations, so one destination's receipt cannot clear the other's pending work.
