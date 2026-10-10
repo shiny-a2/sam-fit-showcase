@@ -742,3 +742,9 @@ Isolated tests covered competing CRM and Reception commands, session and branch 
 Added a staff-only review workflow for possible member identity conflicts in the private platform. Dedicated request and decision permissions, branch checks, revision checks and an immutable decision history support careful review without automatically combining people or changing member access. Conflict findings are limited to the current organization and expose only masked contact details to ordinary reviewers.
 
 Synthetic tests passed for role and organization isolation, concurrent decisions, safe command replay, audit rollback and a database upgrade and restore. CRM and reception retain their existing conflict behavior. The next profile-correction capability has entered policy review; it has no write implementation yet. This is a local development checkpoint with no real-pilot or production deployment, financial effect or hardware action.
+
+## 2026-10-10 — Profile correction policy review
+
+Recorded the owner's bounded profile-correction principles and mapped existing identity, preferences, consent and onboarding behavior to their respective source authorities. The review identified that the current login OTP does not verify a replacement phone and that the onboarding screen is still a non-persistent preview. A draft UI handoff now distinguishes saved progress, correction review and source-conflict states.
+
+Exact editable fields, manager application authority and onboarding completion criteria remain under owner decision. No new profile write, database migration, real-source change or deployment was made in this checkpoint.

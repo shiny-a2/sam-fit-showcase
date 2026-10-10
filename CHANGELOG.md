@@ -936,3 +936,9 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Added scoped staff review of potential identity conflicts with separate request and decision permissions and an immutable history.
 - Passed synthetic authorization, isolation, concurrency, audit rollback, upgrade and restore checks.
 - Kept automatic identity merging, profile-correction writes, real-pilot and production deployment outside this checkpoint.
+
+## 2026-10-10 — Profile correction policy review
+
+- Recorded the approved correction boundaries and audited field/source authority, existing preference and consent flows, and onboarding persistence gaps.
+- Prepared a draft UI state contract and analytical review without activating new writes or a migration.
+- Kept exact field and completion decisions, real-source changes and deployment pending.
