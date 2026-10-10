@@ -1,3 +1,9 @@
+## 2026-10-10 — Equipment-management simulator
+
+- Added a reusable private simulator and authenticated local console for locker, gate and face-terminal workflows.
+- Verified synthetic authorization, durable event recovery, command/result separation and responsive light/dark browser states.
+- Kept production integration and real hardware control gated; no deployment or customer data change.
+
 ## 2026-10-10 — Clearer Customer360 financial availability
 
 - Hid unavailable wallet actions and clarified recorded internal credit in the private CRM candidate.

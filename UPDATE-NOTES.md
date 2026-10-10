@@ -1,3 +1,9 @@
+## 2026-10-10 — Independent equipment-management simulator
+
+The private A2 platform now has a reusable equipment-management simulator and authenticated local web console. It models lockers, gates and face terminals with separate business decisions, command acknowledgements and observed outcomes, so operators can review workflows without claiming that a real device moved. The console covers inventory, member context, command history, events and connection status in Persian.
+
+Synthetic journey, access-control, replay, offline recovery and browser checks passed, including mobile and desktop views in light and dark themes. The existing Windows edge package was not rebuilt. Live device protocols, real-source delivery, production identity and physical safety acceptance remain open; no reception equipment or customer data was used, and nothing was deployed.
+
 ## 2026-10-10 — Clearer Customer360 financial availability
 
 The private WordPress CRM candidate now hides the wallet shortcut when its data source is unavailable. When internal credit is available, the member profile shows the recorded amount with a direct link to that member's branch history, while keeping it distinct from revenue and paid membership.
