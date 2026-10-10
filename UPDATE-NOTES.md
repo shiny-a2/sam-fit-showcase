@@ -2,7 +2,7 @@
 
 - Added Management canonical read surfaces, Member onboarding status, scoped glass chrome and client navigation.
 - Verified production build and 48-case isolated browser matrix against accepted Main 29 migrations.
-- Preserved explicit partial status for command review, durable seven-step answers, intranet, accessibility and performance acceptance. See [UI-04/05 notes](UIUX-PREMIUM-UPDATE.md).
+- Preserved explicit partial status for command review, durable seven-step answers, intranet, accessibility and performance acceptance. A follow-up network check found zero external requests on observed routes and documented the command receipt gap. See [UI-04/05 notes](UIUX-PREMIUM-UPDATE.md).
 
 ## 2026-10-10 — Independent Track B UI-00 / UI-01
 
