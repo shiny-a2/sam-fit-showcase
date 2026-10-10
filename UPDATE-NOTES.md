@@ -805,3 +805,11 @@ Synthetic HTTP and browser checks covered five staff roles, two branches, concur
 A further isolated checkpoint verified that branch and central managers can progress authorized opportunities to their respective final outcomes. It also raced follow-up completion against manager reassignment: one command succeeded, the other was refused, and the final task, receipt and activity record agreed. A manager's already-open form was refused after its branch permission was withdrawn, with no task or activity change. Other permission-change, recovery and release gates are still open.
 
 A later read-only service check found the restricted CRM endpoint denying public access as intended and the six separate staging services active. This followed a temporary period of remote timeouts; its cause and sustained availability remain under investigation. The CRM candidate was not deployed.
+
+## 2026-10-10 — CRM recovery and conflict QA continuation
+
+The private WordPress CRM candidate passed further isolated tests for follow-up rollback after an audit failure, competing completion and edit commands, and refusal of stale forms after staff assignment or session changes. Simulated lost HTTP responses for follow-up completion and sales opportunity updates or final outcomes were reconciled with their saved receipts and activity records; retries did not add a second effect.
+
+In a real browser test, staff also saw an error after a follow-up completion response was withheld, then found the saved outcome in the same customer's history after reloading. A clearer in-product outcome guide and the corresponding opportunity browser cases remain open.
+
+The responsive browser journey remains partially accepted, and the VPS intermittently stops answering HTTPS and SSH despite a prior successful read-only health check. Its cause and sustained availability are unverified. No candidate deployment, public CRM opening, real customer change or financial action occurred.
