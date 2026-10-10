@@ -1,3 +1,7 @@
+## 2026-10-11 — Phase 04 privacy and release review
+
+The private A2 platform completed an independent review of member onboarding privacy, sensitive-read accountability and the Phase 04 release gate. A disposable local test checked encrypted audit recovery, failed-key handling and concurrent processing; the established member, CRM, reception and management journeys were rerun. The review documented the remaining owner, privacy and human accessibility decisions. Phase 04 remains open, and no archive retention service or new review site was activated. No customer records, payments, production service or physical equipment were changed.
+
 ## 2026-10-11 — Connected local operator journeys
 
 The private A2 platform now connects reception check-in and software locker handling, a manager's review and task workflow, and CRM lead conversion and follow-up through their existing authorized services. A manager can open a source record for review and reach the task screen through the sidebar without losing the current page state.
@@ -925,6 +929,3 @@ The current CRM and platform candidates have **not** been deployed. The hosting 
 A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.
 
 Isolated tests covered current-access checks after staff permissions or customer ownership change, disabled sign-in, interrupted-request recovery, concurrent outcomes and transaction rollback. Nine pages were checked at phone, tablet and desktop widths in light and dark themes. A versioned candidate package is ready for a separate staging review, but online staging and production have not changed. Full accessibility, remaining workflow acceptance and VPS stability are still open.
-## 2026-10-11 — Phase 04 privacy and release review
-
-The private A2 platform completed an independent review of member onboarding privacy, sensitive-read accountability and the Phase 04 release gate. A disposable local test checked encrypted audit recovery, failed-key handling and concurrent processing; the established member, CRM, reception and management journeys were rerun. The review documented the remaining owner, privacy and human accessibility decisions. Phase 04 remains open, and no archive retention service or new review site was activated. No customer records, payments, production service or physical equipment were changed.

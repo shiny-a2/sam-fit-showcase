@@ -1,3 +1,9 @@
+## 2026-10-11 — Phase 04 privacy review
+
+- Added a bounded local review of encrypted audit recovery and failure behavior.
+- Reran the accepted member and operator journeys and documented the release decisions still needed.
+- Kept the Phase 04 release gate open; no deployment or customer data change occurred.
+
 ## 2026-10-11 — Connected local operator journeys
 
 - Completed joined synthetic Reception, Management and CRM paths using existing identity, session, command and task contracts.
@@ -1097,8 +1103,3 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Added a separate local Central Manager review entry point and synthetic customer journey.
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
-## 2026-10-11 — Phase 04 privacy review
-
-- Added a bounded local review of encrypted audit recovery and failure behavior.
-- Reran the accepted member and operator journeys and documented the release decisions still needed.
-- Kept the Phase 04 release gate open; no deployment or customer data change occurred.
