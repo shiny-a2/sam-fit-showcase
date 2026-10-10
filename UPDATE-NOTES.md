@@ -448,3 +448,7 @@ The private Reception preview now presents the existing authorized locker catalo
 CRM now shows server summary cards above a selected work list, readable customer facts and expandable queue filters. Existing customer context and permission boundaries remain intact. Reception has a clearer desk hierarchy and a direct locker navigation entry.
 
 Browser review covered real protected API reads in separate real-data pilot and synthetic environments, at phone/desktop widths in both themes. Real customer records and screenshots remain outside the showcase and Git evidence. No backend authority, credential, source or hardware change occurred. Unreleased local preview.
+
+## 2026-10-10 — Canonical frontend adoption
+
+UI-01 was narrowly adapted to current Main and UI-02 operational CRM now uses accepted APIs, explicit identity review and recoverable command results. Isolated production-build browser and conversion contract checks passed; the full public scope and remaining owning-contract dependencies are documented in UIUX-WORKSTREAM-UPDATE.md. Private source is committed on an independent feature branch; no automatic merge or deployment.

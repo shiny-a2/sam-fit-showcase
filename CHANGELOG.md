@@ -1,3 +1,10 @@
+## 2026-10-10 — UI-01 Main adoption and UI-02 CRM (unreleased)
+
+- Adapted the shared navigation focus repair to current Main without replacing its workspace/authentication behavior.
+- Delivered canonical CRM conversion, revision review, operational action readback and purpose-scoped Member context.
+- Verified the production frontend in an isolated accepted 27-migration runtime and a 48-case browser shell matrix.
+- Preserved explicit limits for full accessibility, generic Customer identity resolution, financial authority and real-source freshness; no deployment.
+
 ## 2026-10-10 — Independent Track B UI-00 / UI-01
 
 Source-first frontend audit and shared modal navigation accessibility, preserving the accepted visual system and backend authority. See [workstream notes](UIUX-WORKSTREAM-UPDATE.md). No deployment or automatic integration is included.
