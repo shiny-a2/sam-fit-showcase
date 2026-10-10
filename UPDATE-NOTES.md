@@ -1,3 +1,9 @@
+## 2026-10-11 — A2 platform product-focus checkpoint
+
+The private A2 platform is now the primary path for the next member and staff product review. Its local journeys were inventoried against actual APIs, browser states and permissions, with a reproducible synthetic test run for member setup, identity review, CRM and reception actions. Four of eight defined first-release journeys meet their current local gate; three need more connected workflow checks and the hardware simulator console awaits its separate integration.
+
+The WordPress CRM is feature frozen while its existing candidate and pilot remain preserved. The new A2 review site is not deployed, and local browser results do not establish owner login, intranet or live-source acceptance. No customer records, payments, production services or physical equipment were changed.
+
 ## 2026-10-11 — Windows hardware lab preflight
 
 The private Windows Edge team checked the next isolated lab package and protected identity reference, reran local command and recovery tests, and published a clear gate ledger for native acceptance. The package has not been installed or enrolled in the Windows VM. The next session needs explicit authorization, a verifiable issuer attestation, a fresh host-key check and a protected recovery point before native changes. No live customer data, production receiver or physical equipment was used.

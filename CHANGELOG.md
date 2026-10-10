@@ -1,3 +1,9 @@
+## 2026-10-11 — A2 platform focus and local journey review
+
+- Consolidated the private first-release journey and acceptance inventory around the independent A2 platform; froze new WordPress CRM feature work.
+- Extended isolated synthetic browser and API review to cover reception and CRM handoffs, with source-bound checks and small-sample timing evidence.
+- Recorded unresolved simulator, accessibility, live-source and online staging gates; no deployment or customer-data change.
+
 ## 2026-10-11 — Windows hardware lab acceptance preflight
 
 - Verified the isolated candidate package, protected identity reference and local recovery contracts; recorded the remaining native Windows gates in a reviewable acceptance ledger.
