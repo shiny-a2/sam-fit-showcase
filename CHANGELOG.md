@@ -1,3 +1,9 @@
+## 2026-10-10 — Windows lab management and terminal revocation
+
+- Verified private native administration, signed synthetic delivery, lost-acknowledgement recovery and no-login reboot with retained encrypted custody.
+- Proved access revocation denies new sessions and receiver requests while local edge services retain queued data; removed the temporary management route.
+- Preserved independent production trust blockers; no connector rebuild, pilot rollout or hardware control occurred.
+
 ## 2026-10-10 — Reception preview candidate checkpoint
 
 - Verified read-only Reception correction previews, branch and role boundaries, concurrency and rollback on isolated synthetic visits.

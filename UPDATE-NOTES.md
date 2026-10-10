@@ -1,3 +1,9 @@
+## 2026-10-10 — Windows lab private management and revocation acceptance
+
+The existing Windows edge development package completed authenticated private administration, signed synthetic delivery, duplicate handling and acknowledgement recovery in the isolated ARM64 lab. No-login reboot preserved encrypted queues. After access was revoked, new administration and receiver requests were denied while local services continued and new queued data remained encrypted and durable. The temporary management route was removed.
+
+This is native development evidence, not pilot approval. Trusted installation media, Secure Boot, production release trust and the complete credential lifecycle remain separate gates. No reception, production receiver or physical device was contacted, and no new public port was exposed.
+
 ## 2026-10-10 — Reception preview acceptance in the private CRM candidate
 
 The private WordPress CRM candidate now checks correction previews against the fields the form actually sends. Isolated tests verified that a preview of a synthetic visit changes no visit, event, receipt or audit record; only an expiring notice is created. Cross-branch record IDs and unauthorized staff were denied, while competing correction requests produced one winner and a forced audit failure rolled back safely. Registration replay and encrypted draft tamper checks also passed with synthetic data.
