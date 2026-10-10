@@ -1,3 +1,9 @@
+## 2026-10-10 — Windows edge preview.4 native development release
+
+Preview.4 completed signed package installation, independent service health checks, logout and reboot without user login in an isolated Windows ARM64 lab. Encrypted queue state survived reboot and controlled process/network faults. Signed synthetic delivery, acknowledgement recovery, duplicate handling, guarded replay, installation repair, preserved-state rollback and uninstall/reinstall passed native checks. Two release builds produced identical artifacts. Temporary witnesses were removed and lab custody retained.
+
+Production readiness remains blocked by trusted platform verification and approved private administration and revocation tests. These results do not prove reception integration or live application refresh. No production or physical device was contacted; no new public port was exposed.
+
 ## 2026-10-10 — Native Windows edge recovery development
 
 The private Windows edge candidate now has verified service startup without user login, preserved encrypted queue state after reboot, signed synthetic delivery and durable duplicate handling in an isolated Windows lab. Controlled process and service-host faults recovered safely; lost acknowledgements, operator replay, quarantine refusal and a persistent restart limit were exercised. Ordinary-user custody denial and bounded sanitized diagnostics also passed native checks.

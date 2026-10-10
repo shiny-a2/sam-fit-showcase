@@ -1,3 +1,9 @@
+## 2026-10-10 — Windows edge preview.4 isolated native acceptance
+
+- Completed the reproducible preview.4 development package and native signed-update, protected rollback and installer checks.
+- Verified final-version no-login reboot/logout, encrypted queue continuity, ordinary-user access denial and bounded diagnostics.
+- Retained production/platform/private-administration gates; no pilot rollout or hardware control occurred.
+
 ## 2026-10-10 — Native Windows edge lifecycle checkpoint
 
 - Verified isolated native services, no-login startup, encrypted queue recovery and signed synthetic delivery/replay boundaries.
