@@ -1,3 +1,9 @@
+## 2026-10-10 — Role-aware CRM dashboard and work lists
+
+- Connected existing customer relationship indicators to the private WordPress CRM dashboard with staff-scope checks.
+- Removed unavailable commercial shortcuts from read-only work lists.
+- Passed synthetic role checks and 24 responsive light/dark browser states; kept the restricted pilot unchanged pending full acceptance.
+
 ## 2026-10-10 — Local identity collision safeguards
 
 - Routed verified-contact collisions and unrelated guest-to-member links to manual review in the private local platform.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Role-aware CRM dashboard and work lists
+
+The private WordPress CRM candidate now brings existing customer relationship indicators into the main dashboard. Opportunity counts follow each staff member's approved scope, and read-only staff no longer see shortcuts for commercial edits they cannot perform. This helps operators find their next action while keeping the established permission rules visible in the interface.
+
+Synthetic checks covered five staff roles, a dedicated Sales scope and 24 mobile/tablet/desktop browser states in light and dark themes. The deployed restricted pilot remains on its previous version; complete workflow, security, accessibility and live-source acceptance are still open. No customer records, financial data or external messages were used for this update.
+
 ## 2026-10-10 — Local identity collision safeguards
 
 The private platform now sends Reception registration and guest-conversion requests to review when a phone is already tied to another account or an unrelated member. A valid explicit guest-to-member match still works. Isolated synthetic tests passed for member registration, CRM conversion and Member360, along with a database restore check.
