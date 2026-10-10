@@ -9,3 +9,5 @@ Production-mode browser review passed 48 representative surface cases: five work
 The checkpoint is prepared independently for selective review. Existing staging services, backend models, migrations, financial records, source systems and physical devices are unchanged. No automatic Main merge or deployment is included.
 
 Developer: [a2 sport](https://amiraliyaghouti.com).
+
+Final regression passed after private push on the exact frontend checkpoint. Shared menu review is accepted for this bounded scope; full canonical integration remains blocked on selective adaptation to the newer Main frontend and its target runtime.
