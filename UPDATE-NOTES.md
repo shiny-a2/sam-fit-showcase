@@ -1,3 +1,7 @@
+## 2026-10-10 — Isolated Windows edge management handoff
+
+The private platform issued a time-limited synthetic identity and a versioned handoff for the Windows edge development lab. The handoff defines scoped device identity, a private-only administration route, receiver access and revocation steps. Local contract tests and the existing synthetic receiver checks passed. The Windows guest was not enrolled or remotely administered, so live route and revocation acceptance remain open. No customer, pilot or production system was changed.
+
 ## 2026-10-10 — Local Member360 projection verification
 
 The private platform's member profile projection now limits fields by the reader's purpose and current branch access. It shows the source and known freshness of each section, makes missing or revoked marketing consent explicit, and avoids presenting unavailable financial or physical status as confirmed facts. Isolated tests covered member, reception, CRM and management reads, related identity and workflow regressions, and database restore. No customer-facing screen, pilot or production deployment changed; real-source freshness and browser acceptance remain separate.

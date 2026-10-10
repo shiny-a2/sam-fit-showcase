@@ -1,3 +1,9 @@
+## 2026-10-10 — Windows edge lab handoff
+
+- Issued a synthetic, expiring device identity with private local credential custody.
+- Documented the private lab route, signed receiver scope and revocation procedure.
+- Passed local contract tests; live VM administration and revocation remain blocked.
+
 ## 2026-10-10 — Local Member360 projection
 
 - Limited profile fields by purpose, permission and current branch scope.
