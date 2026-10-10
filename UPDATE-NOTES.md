@@ -1,3 +1,7 @@
+## 2026-10-10 — Cross-branch member eligibility, local verification
+
+The private platform now evaluates cross-branch member eligibility from explicit, current grants in an isolated test environment. The default is denial. Authorized administrators can issue bounded scopes and short, recorded exceptions; branch managers and members receive only their permitted views. Local tests covered expiry, revocation, concurrent changes, upgrade, restore and related organization and customer-service workflows. This service does not make payments or operate gates and lockers. The organization foundation passed its local review, and the member foundation is next for contract review. Pilot and production acceptance remain separate.
+
 ## 2026-10-10 — Typed branch settings foundation
 
 The private platform now supports one approved setting in local tests: the number of rows in a CRM work list. Authorized administrators can set a Branch value or Organization default, reset either level and retain its change history. Existing CRM paging uses the effective value; other proposed settings remain inactive because their consumers have not passed review. Local database upgrade, recovery and related workflows passed. The feature does not change permissions, payments, membership or physical access, and has not been deployed to the pilot or production.

@@ -1,3 +1,9 @@
+## 2026-10-10 — Local cross-branch eligibility foundation
+
+- Added an explicit, default-deny member eligibility service for use across branches in isolated local testing.
+- Verified branch-specific, multi-branch and business-wide scopes, plus short authorized exceptions with expiry, revocation and change history.
+- Checked permissions, concurrent commands, database upgrade and restore, and existing customer-service flows. Local organization foundation review is complete; the next member-domain review is open. No pilot or production rollout occurred.
+
 ## 2026-10-10 — Local typed branch settings verification
 
 - Added a versioned, audited settings foundation with Branch, Organization and system fallback in an isolated test environment.
