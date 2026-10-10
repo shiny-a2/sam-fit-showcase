@@ -1,3 +1,9 @@
+## 2026-10-10 — Reception preview acceptance in the private CRM candidate
+
+The private WordPress CRM candidate now checks correction previews against the fields the form actually sends. Isolated tests verified that a preview of a synthetic visit changes no visit, event, receipt or audit record; only an expiring notice is created. Cross-branch record IDs and unauthorized staff were denied, while competing correction requests produced one winner and a forced audit failure rolled back safely. Registration replay and encrypted draft tamper checks also passed with synthetic data.
+
+The Reception page now wraps unusually long member names on mobile and announces preview errors as focused alerts. Eight browser combinations covered mobile and desktop widths in light and dark themes. The deployed restricted pilot was not updated; the remaining Reception commands, full accessibility and overall CRM security acceptance are still open.
+
 ## 2026-10-10 — Isolated Windows edge management handoff
 
 The private platform issued a time-limited synthetic identity and a versioned handoff for the Windows edge development lab. The handoff defines scoped device identity, a private-only administration route, receiver access and revocation steps. Local contract tests and the existing synthetic receiver checks passed. The Windows guest was not enrolled or remotely administered, so live route and revocation acceptance remain open. No customer, pilot or production system was changed.

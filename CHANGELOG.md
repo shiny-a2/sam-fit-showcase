@@ -1,3 +1,9 @@
+## 2026-10-10 — Reception preview candidate checkpoint
+
+- Verified read-only Reception correction previews, branch and role boundaries, concurrency and rollback on isolated synthetic visits.
+- Fixed extra-field rejection, mobile long-name wrapping and accessible preview-error announcements.
+- Preserved the deployed restricted pilot while the broader Reception command matrix remains open.
+
 ## 2026-10-10 — Windows edge lab handoff
 
 - Issued a synthetic, expiring device identity with private local credential custody.
