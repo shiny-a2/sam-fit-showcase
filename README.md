@@ -139,3 +139,9 @@ The package remains partial: Windows runtime adapters, services, reboot/network 
 The next preview adds shared-core Windows adapter candidates and isolated simulator service tooling. Mac verification passed 146 core tests, 54 package tests and 36 isolated PostgreSQL scenarios; eight Windows-native tests have not run. A detached lab-only signature and tamper rejection were verified separately from production signing.
 
 Actual Windows service, secret custody, reboot, private-network and active update acceptance remain open. The package is not pilot-ready and was not installed on live reception. Live recovery acceptance remains open and hardware control stays disabled.
+
+### 2026-10-11 — Isolated Windows lab media gate
+
+An isolated Windows ARM64 lab retry preserved the prior VM state and verified a recovery clone before testing removable report storage. Windows did not enumerate the candidate report medium, so the team stopped before the planned persistence and service-recovery tests. The VM remained healthy and the original lab state was unchanged.
+
+This is a test result, not a release or pilot approval. The next lab step is to validate a revised report-medium layout on a recovery clone before repeating native service acceptance. Live reception, customer systems and physical equipment were not contacted; hardware control remains disabled.
