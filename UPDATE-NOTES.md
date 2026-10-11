@@ -1,3 +1,9 @@
+## 2026-10-11 — Guided hardware observation rehearsal
+
+The private hardware team prepared an offline guide for nine sequential, operator-led observation scenarios. It advances only when a confirmed action has the required correlated evidence; missing or ambiguous evidence pauses or stops the run. Two complete synthetic rehearsals and 31 automated checks covered ordering, duplicates, clock drift, interruption, privacy field rejection and export integrity. A separate artifact checker verifies the evidence and rejects treating simulated results as live device proof.
+
+The source-only review package is reproducible. Site authorization, a compatible native collector, actual observer health, real device evidence and operator usability remain open. No reception system, customer data, financial record, device or online service was changed; hardware control remains disabled.
+
 ## 2026-10-11 — Synthetic source observation preflight
 
 The private A2 platform added a strictly scoped local prototype for signed source observations, durable receipts and independent delivery tracking for two downstream consumers. A protected Technical read model distinguishes simulated observations, delivery acknowledgment and unknown outcomes. Disposable database tests covered replay, competing requests, outages and restore; existing member and staff journeys were rerun. A guided, read-only observation checklist is prepared for a separately authorized field session. No live source, native device, customer data, physical equipment or online service was changed. The next release gate remains open.
