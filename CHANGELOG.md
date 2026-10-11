@@ -1,7 +1,8 @@
 ## 2026-10-11 — Guided hardware observation rehearsal
 
 - Prepared a private, deterministic offline source package and nine-step operator guide with evidence-based stop/go decisions.
-- Passed two full synthetic rehearsals and 31 automated checks, including independent export inspection and tamper rejection.
+- Passed two full synthetic rehearsals and 32 automated checks, including independent export inspection and tamper rejection.
+- Cross-built an uninstalled Windows observer candidate with locked dependencies for later authorized host checks.
 - Kept live observation, native compatibility, site authorization and physical-device control outside this release.
 
 ## 2026-10-11 — Synthetic source observation preflight

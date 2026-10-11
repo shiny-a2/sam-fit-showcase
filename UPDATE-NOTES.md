@@ -1,8 +1,8 @@
 ## 2026-10-11 — Guided hardware observation rehearsal
 
-The private hardware team prepared an offline guide for nine sequential, operator-led observation scenarios. It advances only when a confirmed action has the required correlated evidence; missing or ambiguous evidence pauses or stops the run. Two complete synthetic rehearsals and 31 automated checks covered ordering, duplicates, clock drift, interruption, privacy field rejection and export integrity. A separate artifact checker verifies the evidence and rejects treating simulated results as live device proof.
+The private hardware team prepared an offline guide for nine sequential, operator-led observation scenarios. It advances only when a confirmed action has the required correlated evidence; missing or ambiguous evidence pauses or stops the run. Two complete synthetic rehearsals and 32 automated checks covered ordering, duplicates, clock drift, interruption, privacy field rejection and export integrity. A separate artifact checker verifies the evidence and rejects treating simulated results as live device proof.
 
-The source-only review package is reproducible. Site authorization, a compatible native collector, actual observer health, real device evidence and operator usability remain open. No reception system, customer data, financial record, device or online service was changed; hardware control remains disabled.
+The source-only review package is reproducible. A Windows observer candidate also cross-built with locked dependencies, but has not run on a Windows host or been installed at reception. Site authorization, native compatibility, actual observer health, real device evidence and operator usability remain open. No reception system, customer data, financial record, device or online service was changed; hardware control remains disabled.
 
 ## 2026-10-11 — Synthetic source observation preflight
 
