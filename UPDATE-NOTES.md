@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic tenant-isolation review
+
+The private A2 platform tested a review-only database access design on disposable infrastructure. The local checks covered separate organization credentials, direct database reads, reused connections, interrupted transactions, restart, and backup/restore. Existing member and staff journeys passed again, and the read-only Technical page passed 61 authenticated browser cases without external requests or device actions.
+
+The candidate protects a limited set of tables in this lab. Wider application coverage, connection-pool compatibility, policy approval and independent security review are still required. The tenant-boundary risk remains open; no migration was promoted, and no customer database or online service was changed.
+
 ## 2026-10-11 — Isolated database access and tenant-boundary review
 
 The private A2 platform tested separate, limited PostgreSQL roles for synthetic source intake, status reading, delivery processing, audit writing and backup reading. Positive workflow tests and denied-access checks ran on a disposable database, alongside alternating organization and branch requests, dependency recovery, existing product journeys and the read-only Technical browser flow.

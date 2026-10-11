@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic tenant-isolation review
+
+- Tested an isolated, review-only database access candidate with organization-scoped credentials, denied direct reads, connection reuse and restore checks.
+- Revalidated existing product journeys and the read-only Technical browser flow.
+- Kept the tenant-isolation risk open pending wider coverage, connection-pool testing and owner/security review; no migration or deployment occurred.
+
 ## 2026-10-11 — Isolated database access and tenant-boundary review
 
 - Tested limited synthetic database roles with positive workflows and denied cross-role operations.
