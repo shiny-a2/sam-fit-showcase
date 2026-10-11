@@ -145,3 +145,9 @@ Actual Windows service, secret custody, reboot, private-network and active updat
 An isolated Windows ARM64 lab retry preserved the prior VM state and verified a recovery clone before testing removable report storage. Windows did not enumerate the candidate report medium, so the team stopped before the planned persistence and service-recovery tests. The VM remained healthy and the original lab state was unchanged.
 
 This is a test result, not a release or pilot approval. The next lab step is to validate a revised report-medium layout on a recovery clone before repeating native service acceptance. Live reception, customer systems and physical equipment were not contacted; hardware control remains disabled.
+
+### 2026-10-11 — Offline report-media recovery candidate
+
+Prepared a replacement report medium for the isolated Windows lab with a consistent partition and filesystem layout. Independent host-side checks confirmed file readback and rejected six deliberately damaged copies. This reduces uncertainty in the media format before another bounded lab attempt.
+
+Windows guest enumeration, reboot persistence and native service tests have not run for this candidate. A fresh, narrowly scoped owner approval is required before testing it on a recovery clone. The original lab VM and live systems remain untouched; no customer data or hardware commands were involved.
