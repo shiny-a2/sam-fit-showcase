@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic source observation preflight
+
+- Added a private local prototype for signed observation receipts and independent consumer delivery state.
+- Verified scope, replay, interruption and isolated restore behavior; prepared a read-only field checklist.
+- Kept live-source, device, browser integration and release approval pending; no deployment or customer-data change.
+
 ## 2026-10-11 — Local audit retention and recovery prototype
 
 - Added a bounded synthetic audit archive and encrypted local recovery prototype with exact time-boundary checks.

@@ -1,3 +1,7 @@
+## 2026-10-11 — Synthetic source observation preflight
+
+The private A2 platform added a strictly scoped local prototype for signed source observations, durable receipts and independent delivery tracking for two downstream consumers. A protected Technical read model distinguishes simulated observations, delivery acknowledgment and unknown outcomes. Disposable database tests covered replay, competing requests, outages and restore; existing member and staff journeys were rerun. A guided, read-only observation checklist is prepared for a separately authorized field session. No live source, native device, customer data, physical equipment or online service was changed. The next release gate remains open.
+
 ## 2026-10-11 — Local audit retention and recovery prototype
 
 The private A2 platform documented an owner-controlled policy for a local, synthetic audit archive. Isolated tests verified exact retention boundaries, encrypted same-computer recovery, key rotation, competing workers, interruption recovery and database restore. The existing member and staff journeys passed another local regression run. Legal and privacy review, independent recovery, archive access, human accessibility and the Phase 04 release gate remain open. No retention service was deployed and no customer data or physical equipment was used.
