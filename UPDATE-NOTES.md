@@ -1,3 +1,9 @@
+## 2026-10-11 — Revenue and access integrity contract review
+
+The private A2 platform recorded an owner-approved rule for a fresh price quote, explicit confirmation by the same member and a new financial decision after every confirmed checkout, even when reentry follows immediately. A synthetic, non-authorizing contract now checks that evidence and keeps a repeated scan, uncertain checkout, gate acknowledgment and observed passage distinct. The team also inventoried existing pricing, wallet and visit components and documented 25 potential integrity risks with review and appeal boundaries.
+
+Six focused contract tests passed. The established local member and staff regression was rerun against the exact private commit, including browser journeys, interruption recovery, event receipt deduplication and database restore. Pricing basis, offline admission, assisted confirmation and financial second-approval thresholds still need owner decisions. No new payment, gate control, customer data use, deployment or production capability was activated.
+
 ## 2026-10-11 — Guided hardware observation rehearsal
 
 The private hardware team prepared an offline guide for nine sequential, operator-led observation scenarios. It advances only when a confirmed action has the required correlated evidence; missing or ambiguous evidence pauses or stops the run. Two complete synthetic rehearsals and 32 automated checks covered ordering, duplicates, clock drift, interruption, privacy field rejection and export integrity. A separate artifact checker verifies the evidence and rejects treating simulated results as live device proof.

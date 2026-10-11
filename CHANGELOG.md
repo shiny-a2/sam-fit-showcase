@@ -1,3 +1,10 @@
+## 2026-10-11 — Revenue and access integrity contract review
+
+- Registered the immediate-reentry policy and four pending owner decisions in the private control plane.
+- Added a synthetic, non-authorizing evidence contract and 25-risk review with no payment or device effect.
+- Passed six contract tests and the exact-commit local browser, recovery, event and restore regression.
+- Kept pricing, offline entry, assisted confirmation, financial approvals and physical activation gated; no deployment.
+
 ## 2026-10-11 — Guided hardware observation rehearsal
 
 - Prepared a private, deterministic offline source package and nine-step operator guide with evidence-based stop/go decisions.
