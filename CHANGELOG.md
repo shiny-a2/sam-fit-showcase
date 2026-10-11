@@ -1,3 +1,10 @@
+## 2026-10-11 — Isolated Windows synthetic observer service candidate
+
+- Built a separate, hash-pinned ARM64 lab service candidate with a guarded installer and local synthetic heartbeat journal.
+- Added encrypted synthetic export, crash-tail preservation, duplicate rejection and a bounded storage cap; nine local service checks and existing 61 guide checks passed.
+- Preserved the production reception-host guard and documented the outstanding Windows service, rollback and source-evidence gates.
+- No VM service installation, customer-system contact, public listener or physical command occurred.
+
 ## 2026-10-11 — Synthetic source replay and schema admission review
 
 - Added a versioned signed synthetic source contract with scoped identity, durable nonce replay protection and original-receipt recovery.

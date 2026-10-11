@@ -1,3 +1,7 @@
+## 2026-10-11 — Isolated Windows synthetic observer service candidate
+
+The private hardware team prepared a separate Windows ARM64 lab service that emits only local synthetic heartbeat evidence. Its package includes the guarded installer, encrypted export logic and bounded, signed journal; the production reception observer was unchanged. Nine local service checks, the existing 61 guide checks and two complete synthetic rehearsals passed. The candidate has not been installed in the Windows VM. Native service lifecycle, unattended reboot, access controls, protected-key recovery and independent export restore still require a separately approved, snapshotted lab session. Live observation, customer data and physical equipment remain outside this update.
+
 ## 2026-10-11 — Synthetic source replay and schema admission review
 
 The private A2 platform added a separately versioned, signed synthetic source-observation contract. Its local receiver binds each observation to a current organization, branch and installation identity, records a unique message nonce in PostgreSQL, and returns the original receipt for an exact retry. A proposed database extension was tested on fresh and restored disposable databases; it was **not** added to the accepted product migration lineage.
