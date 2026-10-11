@@ -1,3 +1,9 @@
+## 2026-10-12 — Independent product reality review
+
+A source-based review found a working local A2 product checkpoint for core member, CRM, reception and management journeys. It also identified unfinished branch integration, online staging and operator acceptance. The next delivery focus is one reviewed build with end-to-end workflows, current data provenance and explicit limits. Historical test reports are kept distinct from current operational proof.
+
+This review did not change customer data, software services, financial records, physical devices or deployment status.
+
 ## 2026-10-12 — Tenant read boundary and coverage review
 
 The private A2 platform now keeps its synthetic Technical tenant reader behind a transaction-scoped application boundary, preventing that route from taking the raw database client. A regenerated route and data-category ledger explicitly marks paths that still lack restricted runtime proof. Local product journeys, 61 read-only Technical browser cases and isolated pooled reads passed again, including recovery after a connection-pool interruption.

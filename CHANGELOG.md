@@ -1,3 +1,9 @@
+## 2026-10-12 — Independent product reality review
+
+- Reconciled the roadmap and local product evidence with source control and current endpoint checks.
+- Confirmed connected local workflows while keeping online deployment and operational acceptance as separate open gates.
+- Set a seven-day integration and operator-review plan focused on one testable product build. No customer system or deployment changed.
+
 ## 2026-10-12 — Tenant read boundary and coverage review
 
 - Kept the synthetic Technical read within a scoped transaction and removed direct access to its database client from the route handler.
