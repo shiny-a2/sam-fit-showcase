@@ -1,3 +1,15 @@
+## 2026-10-11 — Isolated Windows service lifecycle check
+
+- Tested the synthetic Windows ARM64 lab service after verifying a fresh rollback copy and recovery-clone boot.
+- Observed automatic startup before user login and ordinary-user access denial, then removed the lab service and shut down the VM cleanly.
+- Stopped further crash and export tests when the lab report medium was unavailable after reboot. Full native lab and live-site readiness remain open.
+
+## 2026-10-11 — Isolated Windows lab native preflight and correction
+
+- Verified the owner-approved lab package, a cold rollback copy and a successful recovery-clone boot on the isolated Windows ARM64 VM.
+- Nine synthetic executable checks passed on Windows. A PowerShell ARM64 detection issue stopped installation before Windows Service Control Manager changes; service lifecycle and reboot checks remain untested.
+- Prepared a corrected, separately pinned lab candidate for a new approval and snapshot. No customer system, public listener or physical equipment was used.
+
 ## 2026-10-11 — Synthetic tenant-isolation review
 
 - Tested an isolated, review-only database access candidate with organization-scoped credentials, denied direct reads, connection reuse and restore checks.
@@ -1184,8 +1196,3 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Added a separate local Central Manager review entry point and synthetic customer journey.
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
-## 2026-10-11 — Isolated Windows lab native preflight and correction
-
-- Verified the owner-approved lab package, a cold rollback copy and a successful recovery-clone boot on the isolated Windows ARM64 VM.
-- Nine synthetic executable checks passed on Windows. A PowerShell ARM64 detection issue stopped installation before Windows Service Control Manager changes; service lifecycle and reboot checks remain untested.
-- Prepared a corrected, separately pinned lab candidate for a new approval and snapshot. No customer system, public listener or physical equipment was used.

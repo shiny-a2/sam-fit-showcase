@@ -1,3 +1,11 @@
+## 2026-10-11 — Isolated Windows service lifecycle check
+
+An owner-approved session on the isolated Windows ARM64 VM verified a fresh cold rollback copy, a bootable recovery clone and the synthetic service's installation, restart, automatic startup before login and removal. A limited-user test denied access to protected lab files. After reboot, the separate lab report medium was unavailable, so the team stopped before forced-crash, independent encrypted-export and resource-percentile tests. The VM was shut down cleanly and the full lab acceptance gate remains open. No customer system, public endpoint, payment data or physical equipment was used.
+
+## 2026-10-11 — Isolated Windows lab native preflight and correction
+
+An owner-approved synthetic lab package was checked on the isolated Windows ARM64 VM after a cold snapshot and a successful recovery-clone boot. Its nine executable self-tests passed, but the installation preflight stopped on an ARM64 detection mismatch in Windows PowerShell before any Windows service was created. The remaining service, reboot, access-control, crash-recovery and independent export tests are still open. A corrected private lab candidate is prepared for a separate exact-package approval; the VM was shut down cleanly. No customer system, public endpoint or physical equipment was contacted.
+
 ## 2026-10-11 — Synthetic tenant-isolation review
 
 The private A2 platform tested a review-only database access design on disposable infrastructure. The local checks covered separate organization credentials, direct database reads, reused connections, interrupted transactions, restart, and backup/restore. Existing member and staff journeys passed again, and the read-only Technical page passed 61 authenticated browser cases without external requests or device actions.
@@ -995,6 +1003,3 @@ The current CRM and platform candidates have **not** been deployed. The hosting 
 A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.
 
 Isolated tests covered current-access checks after staff permissions or customer ownership change, disabled sign-in, interrupted-request recovery, concurrent outcomes and transaction rollback. Nine pages were checked at phone, tablet and desktop widths in light and dark themes. A versioned candidate package is ready for a separate staging review, but online staging and production have not changed. Full accessibility, remaining workflow acceptance and VPS stability are still open.
-## 2026-10-11 — Isolated Windows lab native preflight and correction
-
-An owner-approved synthetic lab package was checked on the isolated Windows ARM64 VM after a cold snapshot and a successful recovery-clone boot. Its nine executable self-tests passed, but the installation preflight stopped on an ARM64 detection mismatch in Windows PowerShell before any Windows service was created. The remaining service, reboot, access-control, crash-recovery and independent export tests are still open. A corrected private lab candidate is prepared for a separate exact-package approval; the VM was shut down cleanly. No customer system, public endpoint or physical equipment was contacted.
