@@ -1,3 +1,9 @@
+## 2026-10-12 — Tenant read boundary and coverage review
+
+- Kept the synthetic Technical read within a scoped transaction and removed direct access to its database client from the route handler.
+- Rebuilt a conservative application-route and data-category ledger so incomplete isolation remains visible.
+- Rechecked local product journeys, read-only Technical browser cases, pooled tenant reads and recovery. Authentication, background processing and broad data isolation still need separate acceptance; nothing was deployed.
+
 ## 2026-10-11 — Contained tenant lab routes and recovery review
 
 - Closed unreviewed application routes in the isolated tenant test mode and stopped its worker before it could use shared database access.

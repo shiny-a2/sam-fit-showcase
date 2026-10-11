@@ -1,3 +1,9 @@
+## 2026-10-12 — Tenant read boundary and coverage review
+
+The private A2 platform now keeps its synthetic Technical tenant reader behind a transaction-scoped application boundary, preventing that route from taking the raw database client. A regenerated route and data-category ledger explicitly marks paths that still lack restricted runtime proof. Local product journeys, 61 read-only Technical browser cases and isolated pooled reads passed again, including recovery after a connection-pool interruption.
+
+This is a narrow engineering step. Authentication, most application routes, background processing and full data isolation remain open for independent security review. No customer database, public service, payment workflow or physical device was changed, and no release was deployed.
+
 ## 2026-10-11 — Contained tenant lab routes and recovery review
 
 The private A2 platform now denies unreviewed routes in its isolated tenant test mode and prevents the worker from starting there with shared database credentials. A source inventory maps the remaining work without treating a classification as proof of isolation. On disposable infrastructure, direct and pooled reads were checked across two organizations; active reads interrupted by a connection-pool restart were replayed after recovery with no cross-organization result observed.
