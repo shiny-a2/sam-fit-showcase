@@ -151,3 +151,9 @@ This is a test result, not a release or pilot approval. The next lab step is to 
 Prepared a replacement report medium for the isolated Windows lab with a consistent partition and filesystem layout. Independent host-side checks confirmed file readback and rejected six deliberately damaged copies. This reduces uncertainty in the media format before another bounded lab attempt.
 
 Windows guest enumeration, reboot persistence and native service tests have not run for this candidate. A fresh, narrowly scoped owner approval is required before testing it on a recovery clone. The original lab VM and live systems remain untouched; no customer data or hardware commands were involved.
+
+### 2026-10-12 — Windows lab clone media visibility, safety stop
+
+In the approved isolated clone session, the first USB attachment reported a Windows device error. A single fallback on the existing storage controller made the report disk, partition and FAT volume visible to Windows. This confirms the guest can enumerate the revised medium through that path.
+
+The virtual keyboard then repeated input unexpectedly, so the session stopped before writing a valid test marker. Reboot persistence and native service acceptance remain untested. The clone was shut down, the original VM stayed unchanged, and live reception and physical equipment were not contacted. Further lab work requires resolving the input fault and a new bounded approval.
