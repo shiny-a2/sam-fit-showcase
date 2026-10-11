@@ -157,3 +157,5 @@ Windows guest enumeration, reboot persistence and native service tests have not 
 In the approved isolated clone session, the first USB attachment reported a Windows device error. A single fallback on the existing storage controller made the report disk, partition and FAT volume visible to Windows. This confirms the guest can enumerate the revised medium through that path.
 
 The virtual keyboard then repeated input unexpectedly, so the session stopped before writing a valid test marker. Reboot persistence and native service acceptance remain untested. The clone was shut down, the original VM stayed unchanged, and live reception and physical equipment were not contacted. Further lab work requires resolving the input fault and a new bounded approval.
+
+An offline guarded-input helper now caps command length, binds input to the intended lab clone and command hash, and separates typing from screenshot-reviewed submission. Seven synthetic protocol tests passed; the helper has not been validated in a Windows guest and does not change the stopped lab outcome.
