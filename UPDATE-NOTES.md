@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated database schema governance review
+
+The private A2 platform reviewed three proposed database extensions for synthetic source observations, hardware command records and sensitive-read audit retention. Two revised proposals wrap the source and hardware schema changes in transactions so a failed installation can roll back cleanly. Disposable database tests checked fresh setup, upgrade from a restored baseline, role-denial behavior, schema compatibility and backup/restore.
+
+The review found decisions still needed for tenant isolation, source replay protection, signed hardware results, archive legal hold and key custody. Proposed migration numbers remain unreserved and no candidate was applied to the product database. Existing member and staff journeys passed the private review commit, and the read-only Technical page passed its responsive browser checks. No customer data, live source, physical device, financial record or online service was changed.
+
 ## 2026-10-11 — Isolated Windows observer native check
 
 After an owner-approved lab snapshot, the existing Windows ARM64 observer candidate ran its synthetic self-test and local probe on an isolated Windows VM. A separately verified runtime was installed for the lab. The self-test verified synthetic encrypted export before and after a real reboot, while both Windows data-protection scopes preserved test data across that reboot. A copy of the pre-test snapshot also booted successfully, confirming a usable rollback point.

@@ -1,3 +1,10 @@
+## 2026-10-11 — Isolated database schema governance review
+
+- Prepared reviewable source, hardware and audit-archive schema contracts with transaction-safe source and hardware proposals.
+- Tested candidate coexistence, fresh setup, restored upgrade, permission denial and isolated backup/restore.
+- Recorded the remaining tenant, replay, signature, privacy and owner-approval gates.
+- Kept migration numbering, production rollout, customer data and physical control unchanged.
+
 ## 2026-10-11 — Isolated Windows observer native check
 
 - Verified the exact ARM64 lab candidate through a native synthetic self-test and local probe.
