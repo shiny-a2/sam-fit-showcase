@@ -1,3 +1,9 @@
+## 2026-10-11 — Revenue and Access Integrity UI candidate (unreleased)
+
+- Added local-only tariff, reentry, Reception exception, dual-control and potential discrepancy previews.
+- Kept money, member confirmation and physical controls disabled pending Main and Hardware gates.
+- Documented policy and local browser scope in [product notes](RAI01-REVENUE-ACCESS-EXPERIENCE-UPDATE.md). No deployment.
+
 ## 2026-10-11 — Technical J8 synthetic UI candidate (unreleased)
 
 - Added accessible local simulator views for Technical operations, with physical control explicitly disabled.

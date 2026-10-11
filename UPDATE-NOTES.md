@@ -1,3 +1,7 @@
+# 2026-10-11 — Revenue and Access Integrity UI preparation
+
+Added four protected synthetic previews and an explicit Main contract handoff. Local browser checks covered role routes, denied access and disabled financial/device actions. See [product experience update](RAI01-REVENUE-ACCESS-EXPERIENCE-UPDATE.md). No deployment.
+
 # 2026-10-11 — Technical J8 synthetic experience candidate
 
 Added a safe, responsive Technical preview with separate command stages and consumer states. Local browser checks passed; Main read-model and hardware gates remain pending. See [Technical experience update](PREHW04-TECHNICAL-EXPERIENCE-UPDATE.md). No deployment.
