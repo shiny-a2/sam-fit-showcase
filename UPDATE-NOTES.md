@@ -1,3 +1,9 @@
+## 2026-10-11 — Windows hardware observer native-readiness package
+
+The private hardware team prepared a reproducible, offline readiness package for a future isolated Windows lab session. It adds a strict nine-step guided evidence flow, source and device correlation checks, a bounded Windows preflight script, and an independent inspector that vetoes unsupported live-readiness claims. Locked Windows x64 and ARM64 observer candidates were cross-built without changing the existing collector behavior.
+
+Sixty-one automated checks passed, and two complete synthetic nine-step rehearsals passed independent export review. Neither candidate has run natively on Windows, and no site session or real device action was authorized. The review identified remaining membership and wallet signal coverage and per-action device correlation gaps. Native compatibility, privacy custody and a separate site approval remain open; physical control stays disabled.
+
 ## 2026-10-11 — Revenue and access integrity contract review
 
 The private A2 platform recorded an owner-approved rule for a fresh price quote, explicit confirmation by the same member and a new financial decision after every confirmed checkout, even when reentry follows immediately. A synthetic, non-authorizing contract now checks that evidence and keeps a repeated scan, uncertain checkout, gate acknowledgment and observed passage distinct. The team also inventoried existing pricing, wallet and visit components and documented 25 potential integrity risks with review and appeal boundaries.

@@ -1,3 +1,10 @@
+## 2026-10-11 — Windows hardware observer native-readiness package
+
+- Prepared a private offline Windows lab preflight, locked x64 and ARM64 cross-builds, and strict nine-step evidence guidance.
+- Passed 61 automated checks and two complete synthetic rehearsals; the independent inspector vetoed live-readiness promotion.
+- Documented unresolved source-signal and per-action device-correlation gaps.
+- Kept native Windows, site, privacy and physical-control gates open; no production deployment or customer data use.
+
 ## 2026-10-11 — Revenue and access integrity contract review
 
 - Registered the immediate-reentry policy and four pending owner decisions in the private control plane.
