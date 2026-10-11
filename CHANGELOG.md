@@ -1,3 +1,9 @@
+## 2026-10-11 — Contained tenant lab routes and recovery review
+
+- Closed unreviewed application routes in the isolated tenant test mode and stopped its worker before it could use shared database access.
+- Reconciled the reported table inventory and added route and database-client checks for future changes.
+- Tested connection-pool restart during active synthetic reads, including reconnect and replay; broader tenant isolation and release approval remain open.
+
 ## 2026-10-11 — Isolated tenant runtime review
 
 - Tested a limited Technical read route with organization-specific database credentials and scoped transactions on disposable infrastructure.

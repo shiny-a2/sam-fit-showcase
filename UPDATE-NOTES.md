@@ -1,3 +1,9 @@
+## 2026-10-11 — Contained tenant lab routes and recovery review
+
+The private A2 platform now denies unreviewed routes in its isolated tenant test mode and prevents the worker from starting there with shared database credentials. A source inventory maps the remaining work without treating a classification as proof of isolation. On disposable infrastructure, direct and pooled reads were checked across two organizations; active reads interrupted by a connection-pool restart were replayed after recovery with no cross-organization result observed.
+
+The normal application login, worker and most data paths still need restricted credentials and wider security tests. The tenant-isolation risk remains open. No accepted migration, customer database, online service, payment or physical device was changed.
+
 ## 2026-10-11 — Isolated tenant runtime review
 
 The private A2 platform tested a limited Technical read path with separate organization credentials and transaction-scoped database access. An isolated PostgreSQL and connection-pool setup checked two organizations, denied cross-organization requests, connection reuse, restart and restore. A follow-up run measured direct and pooled reads and confirmed recovery after idle connection-pool restarts. Existing member and staff journeys passed again, and the read-only Technical page passed 61 browser cases without external requests or device actions.
