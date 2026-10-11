@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated tenant runtime review
+
+The private A2 platform tested a limited Technical read path with separate organization credentials and transaction-scoped database access. An isolated PostgreSQL and connection-pool setup checked two organizations, denied cross-organization requests, connection reuse, restart and restore. Existing member and staff journeys passed again, and the read-only Technical page passed 61 browser cases without external requests or device actions.
+
+The work is a local candidate. Most application data paths still need coverage, along with independent security review and owner policy decisions. The tenant-isolation risk remains open; no migration, customer database or online service was changed.
+
 ## 2026-10-11 — Isolated Windows service lifecycle check
 
 An owner-approved session on the isolated Windows ARM64 VM verified a fresh cold rollback copy, a bootable recovery clone and the synthetic service's installation, restart, automatic startup before login and removal. A limited-user test denied access to protected lab files. After reboot, the separate lab report medium was unavailable, so the team stopped before forced-crash, independent encrypted-export and resource-percentile tests. The VM was shut down cleanly and the full lab acceptance gate remains open. No customer system, public endpoint, payment data or physical equipment was used.

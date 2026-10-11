@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated tenant runtime review
+
+- Tested a limited Technical read route with organization-specific database credentials and scoped transactions on disposable infrastructure.
+- Exercised direct and pooled database reads, denial cases, existing product journeys and the read-only Technical browser flow.
+- Kept full tenant isolation, migration adoption and deployment blocked pending wider coverage and security approval.
+
 ## 2026-10-11 — Isolated Windows service lifecycle check
 
 - Tested the synthetic Windows ARM64 lab service after verifying a fresh rollback copy and recovery-clone boot.
