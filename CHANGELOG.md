@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated database access and tenant-boundary review
+
+- Tested limited synthetic database roles with positive workflows and denied cross-role operations.
+- Rechecked local source replay, restore, member and staff journeys, and read-only Technical browser behavior.
+- Recorded the remaining tenant-isolation decision as an open security risk; no migration or deployment was promoted.
+
 ## 2026-10-11 — Isolated Windows synthetic observer service candidate
 
 - Built a separate, hash-pinned ARM64 lab service candidate with a guarded installer and local synthetic heartbeat journal.

@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated database access and tenant-boundary review
+
+The private A2 platform tested separate, limited PostgreSQL roles for synthetic source intake, status reading, delivery processing, audit writing and backup reading. Positive workflow tests and denied-access checks ran on a disposable database, alongside alternating organization and branch requests, dependency recovery, existing product journeys and the read-only Technical browser flow.
+
+The review identified a remaining database-level tenant boundary: a compromised read credential could bypass application scoping. This is recorded as an open security risk and blocks migration and release promotion until the owner and security team approve the access model. No customer database, accepted migration, online service, payment or physical device was changed.
+
 ## 2026-10-11 — Isolated Windows synthetic observer service candidate
 
 The private hardware team prepared a separate Windows ARM64 lab service that emits only local synthetic heartbeat evidence. Its package includes the guarded installer, encrypted export logic and bounded, signed journal; the production reception observer was unchanged. Nine local service checks, the existing 61 guide checks and two complete synthetic rehearsals passed. The candidate has not been installed in the Windows VM. Native service lifecycle, unattended reboot, access controls, protected-key recovery and independent export restore still require a separately approved, snapshotted lab session. Live observation, customer data and physical equipment remain outside this update.
