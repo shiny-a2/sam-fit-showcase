@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic source replay and schema admission review
+
+The private A2 platform added a separately versioned, signed synthetic source-observation contract. Its local receiver binds each observation to a current organization, branch and installation identity, records a unique message nonce in PostgreSQL, and returns the original receipt for an exact retry. A proposed database extension was tested on fresh and restored disposable databases; it was **not** added to the accepted product migration lineage.
+
+Local tests covered altered signatures, wrong scope, replay, failed audit writes, independent downstream delivery records, dependency interruptions and backup/restore with matching row digests. The existing member and staff journeys and the read-only Technical page were rerun on the private review commit. Owner-approved revenue and access rules were recorded as policy only. External receivers, production identity and database privileges, offline retention limits, human review and release admission remain open. No customer data, live source, payment, physical device or deployed service was changed.
+
 ## 2026-10-11 — Isolated database schema governance review
 
 The private A2 platform reviewed three proposed database extensions for synthetic source observations, hardware command records and sensitive-read audit retention. Two revised proposals wrap the source and hardware schema changes in transactions so a failed installation can roll back cleanly. Disposable database tests checked fresh setup, upgrade from a restored baseline, role-denial behavior, schema compatibility and backup/restore.

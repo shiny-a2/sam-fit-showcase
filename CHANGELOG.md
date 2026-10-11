@@ -1,3 +1,11 @@
+## 2026-10-11 — Synthetic source replay and schema admission review
+
+- Added a versioned signed synthetic source contract with scoped identity, durable nonce replay protection and original-receipt recovery.
+- Checked a review-only database proposal on fresh and restored isolated databases; accepted migrations remain unchanged.
+- Revalidated existing local journeys and the read-only Technical browser flow.
+- Registered owner-approved revenue and access directions without activating financial or physical operations.
+- Kept external delivery, production security, human acceptance and deployment gates open.
+
 ## 2026-10-11 — Isolated database schema governance review
 
 - Prepared reviewable source, hardware and audit-archive schema contracts with transaction-safe source and hardware proposals.
