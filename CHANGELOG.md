@@ -1,3 +1,10 @@
+## 2026-10-11 — Synthetic Technical source-status integration
+
+- Connected the private Technical review page to the existing authenticated synthetic status contract and added bounded event pagination.
+- Verified branch-scoped access, offline and disabled-account behavior across responsive light and dark browser states.
+- Rechecked established local member and operator journeys and isolated database recovery.
+- Reviewed three database candidates only in disposable environments; no canonical migration or live hardware was activated.
+
 ## 2026-10-11 — Windows hardware observer native-readiness package
 
 - Prepared a private offline Windows lab preflight, locked x64 and ARM64 cross-builds, and strict nine-step evidence guidance.

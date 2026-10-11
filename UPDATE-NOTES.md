@@ -1,3 +1,9 @@
+## 2026-10-11 — Synthetic Technical source-status integration
+
+The private A2 platform connected its Technical review page to an authenticated, branch-scoped synthetic source-status API. Staff can inspect safe observation metadata, page through events, see each downstream consumer's separate delivery state, and distinguish a simulated receipt from a verified physical action. The page labels missing, offline and denied states clearly and keeps hardware controls disabled.
+
+Local browser checks covered mobile and desktop widths in light and dark themes, current permissions, branch switching and interrupted connectivity. The existing member and operator journeys were rerun. Three unnumbered database proposals were checked for provisional coexistence in disposable databases, but none was adopted. Native device operation, the external WordPress receiver, human accessibility review and release approval remain open. No customer data, physical device, production service or online deployment was changed.
+
 ## 2026-10-11 — Windows hardware observer native-readiness package
 
 The private hardware team prepared a reproducible, offline readiness package for a future isolated Windows lab session. It adds a strict nine-step guided evidence flow, source and device correlation checks, a bounded Windows preflight script, and an independent inspector that vetoes unsupported live-readiness claims. Locked Windows x64 and ARM64 observer candidates were cross-built without changing the existing collector behavior.
