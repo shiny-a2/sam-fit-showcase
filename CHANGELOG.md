@@ -1178,3 +1178,8 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Added a separate local Central Manager review entry point and synthetic customer journey.
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
+## 2026-10-11 — Isolated Windows lab native preflight and correction
+
+- Verified the owner-approved lab package, a cold rollback copy and a successful recovery-clone boot on the isolated Windows ARM64 VM.
+- Nine synthetic executable checks passed on Windows. A PowerShell ARM64 detection issue stopped installation before Windows Service Control Manager changes; service lifecycle and reboot checks remain untested.
+- Prepared a corrected, separately pinned lab candidate for a new approval and snapshot. No customer system, public listener or physical equipment was used.
