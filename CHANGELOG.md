@@ -1,3 +1,10 @@
+## 2026-10-11 — Isolated Windows observer native check
+
+- Verified the exact ARM64 lab candidate through a native synthetic self-test and local probe.
+- Confirmed synthetic encrypted-export checks, Windows data protection across reboot, and a bootable pre-test rollback copy.
+- Preserved the production host guard; service, real-source and physical-control gates remain open.
+- Kept the test VM offline and shut it down without touching customer or production systems.
+
 ## 2026-10-11 — Synthetic Technical source-status integration
 
 - Connected the private Technical review page to the existing authenticated synthetic status contract and added bounded event pagination.

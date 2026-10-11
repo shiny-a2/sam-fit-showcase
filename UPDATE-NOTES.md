@@ -1,3 +1,9 @@
+## 2026-10-11 — Isolated Windows observer native check
+
+After an owner-approved lab snapshot, the existing Windows ARM64 observer candidate ran its synthetic self-test and local probe on an isolated Windows VM. A separately verified runtime was installed for the lab. The self-test verified synthetic encrypted export before and after a real reboot, while both Windows data-protection scopes preserved test data across that reboot. A copy of the pre-test snapshot also booted successfully, confirming a usable rollback point.
+
+The observer was not installed as a service because its existing production host guard correctly rejects the lab machine. Service startup, access controls for a configured observer, real-source freshness and the remaining native fault cases stay open. The VM was shut down after testing. No reception system, Nafis, customer record, online service or physical device was contacted; hardware control remains disabled.
+
 ## 2026-10-11 — Synthetic Technical source-status integration
 
 The private A2 platform connected its Technical review page to an authenticated, branch-scoped synthetic source-status API. Staff can inspect safe observation metadata, page through events, see each downstream consumer's separate delivery state, and distinguish a simulated receipt from a verified physical action. The page labels missing, offline and denied states clearly and keeps hardware controls disabled.
