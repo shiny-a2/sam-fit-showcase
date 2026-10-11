@@ -1,6 +1,6 @@
 ## 2026-10-11 — Isolated tenant runtime review
 
-The private A2 platform tested a limited Technical read path with separate organization credentials and transaction-scoped database access. An isolated PostgreSQL and connection-pool setup checked two organizations, denied cross-organization requests, connection reuse, restart and restore. Existing member and staff journeys passed again, and the read-only Technical page passed 61 browser cases without external requests or device actions.
+The private A2 platform tested a limited Technical read path with separate organization credentials and transaction-scoped database access. An isolated PostgreSQL and connection-pool setup checked two organizations, denied cross-organization requests, connection reuse, restart and restore. A follow-up run measured direct and pooled reads and confirmed recovery after idle connection-pool restarts. Existing member and staff journeys passed again, and the read-only Technical page passed 61 browser cases without external requests or device actions.
 
 The work is a local candidate. Most application data paths still need coverage, along with independent security review and owner policy decisions. The tenant-isolation risk remains open; no migration, customer database or online service was changed.
 
