@@ -1,3 +1,9 @@
+## 2026-10-11 — Local audit retention and recovery prototype
+
+- Added a bounded synthetic audit archive and encrypted local recovery prototype with exact time-boundary checks.
+- Rechecked member and staff journeys, concurrent processing, interruption handling and isolated restore.
+- Kept legal, operational and human review gates open; no deployment or customer-data change.
+
 ## 2026-10-11 — Phase 04 privacy review
 
 - Added a bounded local review of encrypted audit recovery, failure behavior and safe test cleanup.
