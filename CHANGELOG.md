@@ -1,3 +1,9 @@
+## 2026-10-11 — Technical J8 synthetic UI candidate (unreleased)
+
+- Added accessible local simulator views for Technical operations, with physical control explicitly disabled.
+- Passed disposable 29-migration shell and Technical browser reviews; no external runtime dependency was observed in the blocked-internet test.
+- Kept Main read-model integration, hardware acceptance and deployment outside this candidate. See [update notes](PREHW04-TECHNICAL-EXPERIENCE-UPDATE.md).
+
 ## 2026-10-10 — UI-04/05 candidate
 
 - Added bounded Member onboarding draft and authorized profile/identity review interactions.

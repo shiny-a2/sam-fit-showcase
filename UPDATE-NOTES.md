@@ -1,3 +1,7 @@
+# 2026-10-11 — Technical J8 synthetic experience candidate
+
+Added a safe, responsive Technical preview with separate command stages and consumer states. Local browser checks passed; Main read-model and hardware gates remain pending. See [Technical experience update](PREHW04-TECHNICAL-EXPERIENCE-UPDATE.md). No deployment.
+
 # 2026-10-10 — UI-04/05 selective frontend integration candidate
 
 Member draft recovery and authorized case review flows were tested against accepted local contracts. Reception correction submission and full onboarding remain partial. See [product experience update](UI0405-PRODUCT-EXPERIENCE-UPDATE.md). No deployment.
