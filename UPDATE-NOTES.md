@@ -2,7 +2,7 @@
 
 The local A2 candidate now has a separately credentialed sign-in path exercised on disposable infrastructure: login, session, explicit organization and branch selection, an authorized branch read, logout and revoked-session denial. Tests covered two synthetic organizations, separate member and staff users, direct database denials, and dependency outages. The existing operator interface also gained clearer CRM partial-failure handling, safer Reception keyboard behavior, and refreshed management and member states. Responsive browser checks covered phone, tablet and desktop widths in both themes.
 
-The combined private build passed its 29-migration synthetic regression, including 172 connected assertions, 43 adversarial checks, 66 background receipts and a 22-table restore. This is still a local candidate: the new sign-in boundary awaits independent database and security admission, most routes and the business Worker remain outside restricted-runtime acceptance, and online staging is paused. No customer data, public service, payment or physical device was changed.
+The combined private build passed its 29-migration synthetic regression, including 172 connected assertions, 43 adversarial checks, 66 background receipts and a 22-table restore. A follow-up pooled-connection check found and corrected an overly broad route denial while preserving cross-organization rejection. This is still a local candidate: the new sign-in boundary awaits independent database and security admission, most routes and the business Worker remain outside restricted-runtime acceptance, and online staging is paused. No customer data, public service, payment or physical device was changed.
 
 ## 2026-10-12 — Local organization selection guard
 
