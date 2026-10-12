@@ -1,3 +1,10 @@
+## 2026-10-12 — Local organization selection guard (unreleased)
+
+- Bound organization and branch choices to the current session and active assignments.
+- Added synthetic two-organization checks for revoked assignments, separate sessions and separate member and staff users.
+- Kept multi-organization business routes closed while restricted authentication and tenant routing remain unverified.
+- Preserved the 29 accepted migrations and paused online staging.
+
 ## 2026-10-12 — Restricted Worker health probe (unreleased)
 
 - Added a separate low-privilege database probe for Worker health in the local release candidate.

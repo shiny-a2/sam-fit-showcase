@@ -1,3 +1,9 @@
+## 2026-10-12 — Local organization selection guard
+
+The A2 local candidate now derives available organizations and branches from each signed-in user's current assignments. An explicit selection is tied to that session, and removing an assignment invalidates the selection. A synthetic check covers two organizations, separate sessions and separate member and staff users sharing one person. Existing database-owner business routes are denied when the database contains multiple organizations, keeping the unfinished tenant runtime closed.
+
+This is an interim security boundary. Authentication, OTP and sessions still need restricted database credentials, and pooled tenant requests need independent acceptance. The accepted database migrations are unchanged; online staging remains paused. No customer data, public service, payment or physical device was changed.
+
 ## 2026-10-12 — Restricted Worker health probe
 
 The local Worker health check can now use a separate low-privilege database credential. An isolated test confirmed the Worker starts and stops with that credential while direct account reads, session writes and an accidentally broadened grant are rejected. The existing member, CRM, reception and management regression suite passed again. Authentication, the background business queue and broad tenant isolation still need restricted end-to-end acceptance; online staging remains paused. No customer system or public service changed.
