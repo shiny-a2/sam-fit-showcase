@@ -159,3 +159,7 @@ In the approved isolated clone session, the first USB attachment reported a Wind
 The virtual keyboard then repeated input unexpectedly, so the session stopped before writing a valid test marker. Reboot persistence and native service acceptance remain untested. The clone was shut down, the original VM stayed unchanged, and live reception and physical equipment were not contacted. Further lab work requires resolving the input fault and a new bounded approval.
 
 An offline guarded-input helper now caps command length, binds input to the intended lab clone and command hash, and separates typing from screenshot-reviewed submission. Seven synthetic protocol tests passed; the helper has not been validated in a Windows guest and does not change the stopped lab outcome.
+
+### 2026-10-12 — Windows Edge offline source-adapter preparation
+
+Prepared a read-only Windows source-adapter candidate that reuses the existing schema checks, encrypted event queue and recovery checkpoints. It remains disconnected from the running preview and has not accessed a live customer system. The current Mac test suites passed 88 Windows Edge cases and 146 shared-core cases; eight Windows-native cases were skipped. Native service acceptance, the Track B receiver and a production-ready release remain open. No customer information or access material is included here.
