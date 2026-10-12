@@ -165,3 +165,5 @@ An offline guarded-input helper now caps command length, binds input to the inte
 ### 2026-10-12 — Windows Edge offline source-adapter preparation
 
 Prepared a read-only Windows source-adapter candidate that reuses the existing schema checks, encrypted event queue and recovery checkpoints. It remains disconnected from the running preview and has not accessed a live customer system. The current Mac test suites passed 88 Windows Edge cases and 146 shared-core cases; eight Windows-native cases were skipped. Native service acceptance, the Track B receiver and a production-ready release remain open. No customer information or access material is included here.
+
+The next offline step connected that adapter to a guarded runtime dispatch seam while keeping the shipped service on synthetic input. A contract review found that the current Track B receiver candidate uses different event and revision identifiers, so direct delivery remains disabled to preserve replay and receipt recovery. The updated Mac suite passed 91 cases; eight Windows-native cases remain unrun. No VM, reception system or live data was touched.
