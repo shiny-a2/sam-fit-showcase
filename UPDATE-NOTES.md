@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge reader diagnostic recovery
+
+The isolated Windows retest of preview.7 stopped at the synthetic reader: it exited before any event, queue or checkpoint could be accepted. Its test did not preserve a safe error category, so the exact cause is still unknown. The lab VM was shut down and its recovery point remained intact.
+
+Preview.8 adds bounded, privacy-safe error categories and offline fault tests. Two package builds matched exactly; 103 offline tests passed and 10 Windows-only tests were skipped, with no failures. This candidate has not been tested on Windows; a new isolated native session is required before service or delivery tests resume. No customer data, reception system, online receiver or physical device was contacted.
+
 ## 2026-10-13 — Local member relationship database admission
 
 The reviewed member relationship database change is now part of the local development migration sequence. Independent security and database checks covered organization and branch separation, input validation, permission changes, fresh installation, upgrade and encrypted recovery into a separate database cluster. Earlier proposals remain in the private review history.
