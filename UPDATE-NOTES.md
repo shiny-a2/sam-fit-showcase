@@ -1,3 +1,9 @@
+## 2026-10-12 — First usable local A2 release candidate
+
+The independent A2 platform now has one reproducible local build for selected member, CRM, reception and management workflows. Staff can reschedule an open CRM follow-up through the existing audited command flow, and new lead opportunities retain their responsible user. A second command cannot create a duplicate open opportunity effect. The existing Persian interface was retained and checked across phone, tablet and desktop widths in both themes.
+
+An isolated synthetic run rebuilt the application against 29 existing database migrations, exercised browser and API journeys, checked concurrent and replayed commands, and verified recovery of 22 data tables. Three of ten selected journeys met the complete local evidence gate; five need more joined checks and two depend on real-source acceptance. Online staging, full tenant security, live-source freshness and operator approval remain open. Nothing was deployed and no customer records, payments or physical devices were changed.
+
 ## 2026-10-12 — Independent product reality review
 
 A source-based review found a working local A2 product checkpoint for core member, CRM, reception and management journeys. It also identified unfinished branch integration, online staging and operator acceptance. The next delivery focus is one reviewed build with end-to-end workflows, current data provenance and explicit limits. Historical test reports are kept distinct from current operational proof.
