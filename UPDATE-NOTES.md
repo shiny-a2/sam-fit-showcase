@@ -1,6 +1,6 @@
 ## 2026-10-13 — Member search security review
 
-A local review of the proposed organization-scoped member search found a database role boundary that needed tightening. The original proposal remains unchanged for traceability; a corrected review candidate and a regression test now reject the unsafe role configuration in a disposable environment. Synthetic two-organization isolation checks pass on the corrected proposal.
+A local review of the proposed organization-scoped member search found two database role configurations that needed tightening. Both earlier proposals remain unchanged for traceability. A new review-only candidate rejects the tested unsafe configurations in a disposable environment; synthetic two-organization isolation checks also pass.
 
 Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent review, migration recovery checks and integrated application tests remain open. No customer data, staging service or production system changed.
 
