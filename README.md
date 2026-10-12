@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The Windows Edge preview now has a protected synthetic local-reader fixture for isolated Windows testing. Its source identity and schema checks feed the existing encrypted queue without enabling live reception access. Reproducible preview packaging and offline contract vectors are ready for review; native Windows acceptance, the canonical receiver and the lab media persistence test remain open. See [update notes](UPDATE-NOTES.md).
+An isolated Windows session verified the Edge preview's native encryption and storage safeguards, then found a compatibility issue in its synthetic reader before any event was queued. The follow-up preview fixes that reader and has a reproducible package, but still needs a fresh native test session. Live reception, the canonical receiver and lab media persistence remain open. See [update notes](UPDATE-NOTES.md).
 
 The first usable A2 release candidate combines selected member, CRM, reception and management workflows in one reproducible synthetic local build. Member search supports bounded pagination; Member360 purpose views and a converted-member sales opportunity have joined browser and API checks. A separate low-privilege Worker health probe passed local access-denial checks. Seven of ten selected journeys passed the complete local gate; online staging, full tenant isolation and real-source acceptance remain open. See [update notes](UPDATE-NOTES.md).
 

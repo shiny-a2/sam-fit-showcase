@@ -1281,3 +1281,9 @@ These are provisional development results. Media integrity, Secure Boot, service
 - Added a separate local Central Manager review entry point and synthetic customer journey.
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
+## 2026-10-13 — Windows Edge native lab finding and preview.7 (unreleased)
+
+- Ran one isolated Windows lab session: eight native encryption, protected-storage and atomic-write checks passed, while a synthetic-reader compatibility issue stopped the source fixture before any event was queued.
+- Corrected the reader in a reproducible preview.7 package and added a native regression test. The new package has not been tested in Windows, so service, receiver and production acceptance remain open.
+- Shut down the lab VM and preserved its recovery snapshot. No customer system, public service or physical device was contacted.
+
