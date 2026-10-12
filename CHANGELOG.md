@@ -1,3 +1,10 @@
+## 2026-10-13 — Operational Experience 14 (unreleased)
+
+- Prioritized CRM Today with verified counts and one shared operator roster.
+- Improved denied and unavailable states without adding backend authority.
+- Added Management and Member refresh controls and visible Reception focus.
+- Kept reservation and notification experiences behind owning contracts; no deployment.
+
 ## 2026-10-12 — Operator Experience 13 (unreleased)
 
 - Improved Reception profile opening and CRM partial-read recovery.

@@ -1,3 +1,7 @@
+# 2026-10-13 — Operational Experience 14 candidate
+
+Consolidated server-backed CRM daily priorities and operator context, with clearer refresh and focus behavior across Management, Reception and Member. See [experience notes](OPERATIONAL-EXPERIENCE-14-UPDATE.md). Local synthetic browser evidence only; no deployment or automatic Main merge.
+
 # 2026-10-12 — Operator Experience 13 candidate
 
 Refined existing Reception, CRM, Management and Member journeys around current server reads and accessible keyboard flow. The local browser review covered responsive light/dark states and failure recovery. See [operator experience notes](OPERATOR-EXPERIENCE-13-UPDATE.md). No deployment or automatic Main merge.
