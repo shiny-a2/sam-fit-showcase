@@ -1,3 +1,9 @@
+## 2026-10-12 — Local RC journey hardening
+
+Member search now supports bounded, branch-scoped pagination with stable ordering while preserving the existing search response for current clients. Browser checks exercised page changes, refresh, invalid and foreign-branch requests, and light/dark phone and desktop layouts. Staff session refresh/logout and management empty/error/retry were checked against the disposable local API and database. A mobile header overflow and theme-heading contrast issue were corrected.
+
+Five of ten selected journeys now pass the local synthetic evidence gate; three remain partial and two require external source acceptance. Restricted database credentials for authentication and background processing, broad tenant isolation, the integrated source receiver and online staging are still open. No customer data, public service, payment or physical device was changed.
+
 ## 2026-10-12 — First usable local A2 release candidate
 
 The independent A2 platform now has one reproducible local build for selected member, CRM, reception and management workflows. Staff can reschedule an open CRM follow-up through the existing audited command flow, and new lead opportunities retain their responsible user. A second command cannot create a duplicate open opportunity effect. The existing Persian interface was retained and checked across phone, tablet and desktop widths in both themes.

@@ -1,3 +1,10 @@
+## 2026-10-12 — Local RC journey hardening (unreleased)
+
+- Added bounded Member search pagination with browser and API coverage for branch scope, refresh and invalid requests.
+- Verified staff session refresh/logout and management empty/error/retry on an isolated synthetic runtime.
+- Corrected a mobile header overflow and checked settled light/dark reception presentation.
+- Reclassified the selected local journeys as five passed, three partial and two blocked; tenant security and online staging remain open.
+
 ## 2026-10-12 — Independent product reality review
 
 - Reconciled the roadmap and local product evidence with source control and current endpoint checks.

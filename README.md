@@ -6,7 +6,7 @@ Work toward a central platform for a multi-branch fitness business begins with u
 
 ## Current work
 
-The first usable A2 release candidate now combines selected member, CRM, reception and management workflows in one reproducible synthetic local build. CRM follow-up rescheduling and lead-opportunity ownership were added with replay and audit checks. Three of ten selected journeys passed the complete local gate; online staging, full tenant isolation and real-source acceptance remain open. See [update notes](UPDATE-NOTES.md).
+The first usable A2 release candidate combines selected member, CRM, reception and management workflows in one reproducible synthetic local build. Member search now supports bounded pagination, and browser checks cover session refresh/logout and management empty/error/retry states. Five of ten selected journeys passed the complete local gate; online staging, full tenant isolation and real-source acceptance remain open. See [update notes](UPDATE-NOTES.md).
 
 The independent A2 platform is the primary path for the next synthetic member and staff review. The WordPress CRM candidate is preserved under a feature freeze. Source-bound packages and isolation checks exist in private CI. The first online release is paused after an infrastructure availability failure; neither new review application nor owner login is live yet. Existing validation services remain the current deployed versions. See [update notes](UPDATE-NOTES.md).
 
