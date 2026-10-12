@@ -1,8 +1,8 @@
 ## 2026-10-13 — Member search security review
 
-A local review of the proposed organization-scoped member search found database role, missing-request-context and whitespace-only input cases that needed tightening. Earlier proposals remain unchanged for traceability. The latest review-only candidate passed the earlier synthetic checks, but a broader Unicode input test found more whitespace-only values it still accepts. Its local admission is blocked while the validation is corrected and reviewed.
+A local review of the proposed organization-scoped member search found database role, missing-request-context and whitespace-only input cases that needed tightening. Earlier proposals remain unchanged for traceability. A separate review candidate now passes broader Unicode input, organization isolation, permission-change detection, encrypted recovery and pooled database tests in disposable local environments.
 
-Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent review, post-installation privilege checks, migration recovery checks and integrated application tests remain open. No customer data, staging service or production system changed.
+Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent security and database review, migration approval and integrated application tests remain open. No customer data, staging service or production system changed.
 
 ## 2026-10-13 — Windows Edge native lab finding and preview.7
 
