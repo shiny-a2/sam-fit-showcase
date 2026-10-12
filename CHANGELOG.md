@@ -1,3 +1,10 @@
+## 2026-10-13 — Restricted member search local runtime candidate
+
+- Added a locally tested, organization- and branch-scoped member name search using restricted database credentials.
+- Verified responsive Reception search behavior and negative security cases on disposable data.
+- Kept broader activation paused after reproducing a concurrent paging consistency gap.
+- No deployment or customer-system change.
+
 ## 2026-10-13 — Windows Edge reader diagnostics preview.8 (unreleased)
 
 - A bounded isolated Windows retest found that the synthetic reader still exited before creating an event. The earlier test did not retain a safe error category, so its exact cause remains unknown.

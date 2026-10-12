@@ -1,3 +1,9 @@
+## 2026-10-13 — Restricted member search local runtime candidate
+
+Staff can now test name-only member search in a disposable local environment after explicitly choosing an organization and branch. The application uses restricted database access and relationship-based visibility; results do not include global contact or customer identifiers. Browser checks covered search, paging, keyboard use and light/dark layouts at phone through desktop widths. Security tests checked organization separation, session revocation, permission changes, recovery and database pooling.
+
+The local review also reproduced a paging overlap when a member relationship is added between page requests. The feature therefore remains disabled outside the isolated lab pending a reviewed cursor or snapshot contract. Opening an operational record from a search result also awaits a separate secure identifier contract. No customer database, online staging, production service, payment or physical device was changed.
+
 ## 2026-10-13 — Windows Edge reader diagnostic recovery
 
 The isolated Windows retest of preview.7 stopped at the synthetic reader: it exited before any event, queue or checkpoint could be accepted. Its test did not preserve a safe error category, so the exact cause is still unknown. The lab VM was shut down and its recovery point remained intact.
