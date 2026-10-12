@@ -1,3 +1,9 @@
+## 2026-10-13 — Operator experience 14 selective integration
+
+The local A2 candidate now shows server-sourced CRM priorities, keeps owner filters tied to the selected branch, refreshes management information on demand, and makes the Reception keyboard target visible. Members can refresh their account status in Persian or English. Responsive browser checks covered the updated interactions in light and dark themes.
+
+Reservation and notification inbox remain pending service contracts. The update did not add backend authority or change customer systems, payments or physical devices; online staging remains paused.
+
 ## 2026-10-13 — Local restricted sign-in foundation admitted
 
 The reviewed sign-in database change is now accepted for local development. Security review tightened role provisioning before admission. A separate low-privilege migration operator and disposable runtime passed fresh setup, encrypted backup and restore, credential rotation, organization separation, session revocation and database drift checks.

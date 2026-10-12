@@ -1,3 +1,9 @@
+## 2026-10-13 — Operator experience 14 selective integration (unreleased)
+
+- Added clearer CRM daily priorities, safer owner filters, a management refresh and visible Reception keyboard focus.
+- Added a bilingual member account refresh and checked responsive interaction states in an isolated browser review.
+- Kept reservation and notification inbox pending their service contracts; no customer system, payment or device behavior changed.
+
 ## 2026-10-13 — Local restricted sign-in foundation admitted (unreleased)
 
 - Admitted the reviewed authentication database change into the local migration lineage after tightening role provisioning during security review.
