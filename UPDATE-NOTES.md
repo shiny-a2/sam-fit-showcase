@@ -1,3 +1,9 @@
+## 2026-10-13 — Restricted sign-in candidate hardening
+
+The local A2 candidate reuses its existing sign-in and session design with separate restricted database credentials. A disposable test covered password access, optional synthetic-code recovery, current organization and branch selection, an authorized branch view, session revocation and denial after revoked authority. It also checked fresh setup, an encrypted local restore, two synthetic organizations and both connection-pool modes.
+
+The database change is reserved for review and has not been adopted or deployed. Most application routes and the background business worker still need independent tenant-isolation acceptance, and online staging remains paused. No customer database, public service, payment or physical device was changed.
+
 ## 2026-10-13 — Isolated sign-in path and operator interface integration
 
 The local A2 candidate now has a separately credentialed sign-in path exercised on disposable infrastructure: login, session, explicit organization and branch selection, an authorized branch read, logout and revoked-session denial. Tests covered two synthetic organizations, separate member and staff users, direct database denials, and dependency outages. The existing operator interface also gained clearer CRM partial-failure handling, safer Reception keyboard behavior, and refreshed management and member states. Responsive browser checks covered phone, tablet and desktop widths in both themes.

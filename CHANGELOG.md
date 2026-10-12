@@ -1,3 +1,10 @@
+## 2026-10-13 — Restricted sign-in candidate hardening (unreleased)
+
+- Extended the existing separately credentialed sign-in path to cover optional synthetic-code recovery, session revocation and an authorized organization-scoped read.
+- Exercised fresh setup, encrypted local restore, two-organization isolation and both connection-pool modes on disposable infrastructure.
+- Recorded a reviewed database-change reservation while retaining independent approval gates for its adoption and for online staging.
+- Kept the background business worker and broad tenant coverage outside the accepted scope; no customer data or live system changed.
+
 ## 2026-10-13 — Isolated Auth and operator UI candidate (unreleased)
 
 - Tested a separately credentialed local sign-in flow with explicit organization and branch choice and one authorized read.
