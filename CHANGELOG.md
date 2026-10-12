@@ -1,3 +1,9 @@
+## 2026-10-12 — Operator Experience 13 (unreleased)
+
+- Improved Reception profile opening and CRM partial-read recovery.
+- Added Management snapshot refresh and more truthful Member home destinations.
+- Extended isolated responsive browser QA. Main integration and production rollout remain separate.
+
 ## 2026-10-11 — Revenue and Access Integrity UI candidate (unreleased)
 
 - Added local-only tariff, reentry, Reception exception, dual-control and potential discrepancy previews.

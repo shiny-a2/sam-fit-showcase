@@ -1,3 +1,7 @@
+# 2026-10-12 — Operator Experience 13 candidate
+
+Refined existing Reception, CRM, Management and Member journeys around current server reads and accessible keyboard flow. The local browser review covered responsive light/dark states and failure recovery. See [operator experience notes](OPERATOR-EXPERIENCE-13-UPDATE.md). No deployment or automatic Main merge.
+
 # 2026-10-11 — Revenue and Access Integrity UI preparation
 
 Added four protected synthetic previews and an explicit Main contract handoff. Local browser checks covered role routes, denied access and disabled financial/device actions. See [product experience update](RAI01-REVENUE-ACCESS-EXPERIENCE-UPDATE.md). No deployment.
