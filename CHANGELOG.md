@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge preview.6 engineering checkpoint (unreleased)
+
+- Added a synthetic VM-only local reader path for repeatable source-schema and encrypted-queue tests while keeping the shipped service on simulator input.
+- Prepared a sanitized sender-to-receiver contract decision and reproducible preview bundle; native Windows and receiver acceptance remain pending.
+- Rechecked lab media and guarded-input evidence offline. Live reception, customer data and physical devices were not changed.
+
 ## 2026-10-13 — Restricted sign-in candidate hardening (unreleased)
 
 - Extended the existing separately credentialed sign-in path to cover optional synthetic-code recovery, session revocation and an authorized organization-scoped read.

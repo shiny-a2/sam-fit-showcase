@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge synthetic reader and contract gate
+
+Prepared preview.6 with a fixed synthetic Windows reader profile that reuses the existing schema validation, stable event identity, encrypted queue and checkpoint behavior. The shipped service still accepts only its earlier simulator profile, so this work does not activate a live customer source. Two independent package builds matched. Offline checks passed 98 Windows Edge cases, 151 connector cases and seven guarded lab-input cases; eight Windows-only tests remain unrun on this candidate.
+
+The sender and current application receiver use different event, signature and receipt formats. A sanitized handoff now defines the required compatibility decision without changing the application receiver. The isolated lab's report medium was rechecked offline, but marker persistence and the new Windows service tests still need a separately authorized lab session. No live reception, customer data, public port or physical device was changed.
+
 ## 2026-10-13 — Restricted sign-in candidate hardening
 
 The local A2 candidate reuses its existing sign-in and session design with separate restricted database credentials. A disposable test covered password access, optional synthetic-code recovery, current organization and branch selection, an authorized branch view, session revocation and denial after revoked authority. It also checked fresh setup, an encrypted local restore, two synthetic organizations and both connection-pool modes.
