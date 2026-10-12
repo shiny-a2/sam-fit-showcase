@@ -2,6 +2,7 @@
 
 - Added a locally tested, organization- and branch-scoped member name search using restricted database credentials.
 - Verified responsive Reception search behavior and negative security cases on disposable data.
+- Serialized concurrent sign-out decisions after an isolated regression exposed duplicate success responses.
 - Kept broader activation paused after reproducing a concurrent paging consistency gap.
 - No deployment or customer-system change.
 
