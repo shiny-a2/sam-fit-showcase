@@ -1,3 +1,9 @@
+## 2026-10-13 — Local restricted sign-in foundation admitted (unreleased)
+
+- Admitted the reviewed authentication database change into the local migration lineage after tightening role provisioning during security review.
+- Verified low-privilege sign-in, organization selection, session revocation, credential rotation, fresh setup and encrypted restore on disposable infrastructure.
+- Added database-object drift checks and kept broader application and background-worker tenant coverage open. Online staging and customer systems were unchanged.
+
 ## 2026-10-13 — Windows Edge preview.6 engineering checkpoint (unreleased)
 
 - Added a synthetic VM-only local reader path for repeatable source-schema and encrypted-queue tests while keeping the shipped service on simulator input.

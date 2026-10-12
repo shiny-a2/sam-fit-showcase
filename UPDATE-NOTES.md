@@ -1,3 +1,9 @@
+## 2026-10-13 — Local restricted sign-in foundation admitted
+
+The reviewed sign-in database change is now accepted for local development. Security review tightened role provisioning before admission. A separate low-privilege migration operator and disposable runtime passed fresh setup, encrypted backup and restore, credential rotation, organization separation, session revocation and database drift checks.
+
+This acceptance covers the local sign-in foundation. Most product routes and the background business worker still need tenant-runtime proof. Online staging and customer systems were not changed.
+
 ## 2026-10-13 — Windows Edge synthetic reader and contract gate
 
 Prepared preview.6 with a fixed synthetic Windows reader profile that reuses the existing schema validation, stable event identity, encrypted queue and checkpoint behavior. The shipped service still accepts only its earlier simulator profile, so this work does not activate a live customer source. Two independent package builds matched. Offline checks passed 98 Windows Edge cases, 151 connector cases and seven guarded lab-input cases; eight Windows-only tests remain unrun on this candidate.
