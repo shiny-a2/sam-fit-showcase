@@ -1,3 +1,10 @@
+## 2026-10-13 — Isolated Auth and operator UI candidate (unreleased)
+
+- Tested a separately credentialed local sign-in flow with explicit organization and branch choice and one authorized read.
+- Integrated selected operator UI improvements for CRM, Reception, management and member views; checked responsive light/dark browser states.
+- Rebuilt the combined synthetic candidate from 29 existing migrations and passed connected, adversarial, background-receipt and restore checks.
+- Kept online staging and full tenant-runtime acceptance open pending independent database/security review.
+
 ## 2026-10-12 — Local organization selection guard (unreleased)
 
 - Bound organization and branch choices to the current session and active assignments.
