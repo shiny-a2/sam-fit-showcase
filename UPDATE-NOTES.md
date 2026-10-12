@@ -1,3 +1,9 @@
+## 2026-10-13 — Member search security review
+
+A local review of the proposed organization-scoped member search found a database role boundary that needed tightening. The original proposal remains unchanged for traceability; a corrected review candidate and a regression test now reject the unsafe role configuration in a disposable environment. Synthetic two-organization isolation checks pass on the corrected proposal.
+
+Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent review, migration recovery checks and integrated application tests remain open. No customer data, staging service or production system changed.
+
 ## 2026-10-13 — Windows Edge native lab finding and preview.7
 
 One isolated Windows lab session confirmed eight native encryption, key protection, writer-lock, durable-storage and atomic-write checks. The synthetic reader stopped before recording an event because it used an API unavailable in the lab's Windows PowerShell version. The VM was shut down and its recovery snapshot preserved.
