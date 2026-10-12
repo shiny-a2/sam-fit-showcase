@@ -1,3 +1,9 @@
+## 2026-10-12 — Restricted Worker health probe (unreleased)
+
+- Added a separate low-privilege database probe for Worker health in the local release candidate.
+- Verified direct account and session access denial and Worker startup/shutdown in an isolated test.
+- Kept authentication, business queues, tenant isolation and online staging outside the accepted scope.
+
 ## 2026-10-12 — Member360 and opportunity local checks (unreleased)
 
 - Exercised four purpose-bound Member360 views through browser failure and retry.

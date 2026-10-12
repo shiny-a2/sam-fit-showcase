@@ -1,3 +1,7 @@
+## 2026-10-12 — Restricted Worker health probe
+
+The local Worker health check can now use a separate low-privilege database credential. An isolated test confirmed the Worker starts and stops with that credential while direct account reads, session writes and an accidentally broadened grant are rejected. The existing member, CRM, reception and management regression suite passed again. Authentication, the background business queue and broad tenant isolation still need restricted end-to-end acceptance; online staging remains paused. No customer system or public service changed.
+
 ## 2026-10-12 — Member360 and opportunity local checks
 
 The local browser suite now checks Member360 request failure and retry for Member, Reception, Management and CRM purposes. A converted member's sales opportunity is checked through creation, responsible user, stage change, receipt, outbox and browser refresh. A second active opportunity of the same type for that lead is rejected after stage progression. These checks use synthetic records and create no payment or wallet effect.
