@@ -1,6 +1,6 @@
 ## 2026-10-13 — Member search security review
 
-A local review of the proposed organization-scoped member search found database role and missing-request-context cases that needed tightening. Earlier proposals remain unchanged for traceability. A new review-only candidate rejects the tested unsafe inputs and role configurations in a disposable environment; synthetic two-organization isolation checks also pass.
+A local review of the proposed organization-scoped member search found database role, missing-request-context and whitespace-only input cases that needed tightening. Earlier proposals remain unchanged for traceability. A new review-only candidate rejects the tested unsafe inputs and role configurations in a disposable environment; synthetic two-organization isolation checks also pass.
 
 Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent review, post-installation privilege checks, migration recovery checks and integrated application tests remain open. No customer data, staging service or production system changed.
 
