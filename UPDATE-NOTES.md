@@ -1,8 +1,14 @@
+## 2026-10-13 — Local member relationship database admission
+
+The reviewed member relationship database change is now part of the local development migration sequence. Independent security and database checks covered organization and branch separation, input validation, permission changes, fresh installation, upgrade and encrypted recovery into a separate database cluster. Earlier proposals remain in the private review history.
+
+The member search page and API have not been activated through the new restricted database route. They still need application and browser acceptance. No customer database, online staging or production service was changed.
+
 ## 2026-10-13 — Member search security review
 
 A local review of the proposed organization-scoped member search found database role, missing-request-context and whitespace-only input cases that needed tightening. Earlier proposals remain unchanged for traceability. A separate review candidate now passes broader Unicode input, organization isolation, permission-change detection, encrypted recovery and pooled database tests in disposable local environments.
 
-Member search has not been enabled under restricted credentials, and the new database proposal has not been admitted or deployed. Independent security and database review, migration approval and integrated application tests remain open. No customer data, staging service or production system changed.
+At this earlier review checkpoint, member search had not been enabled under restricted credentials, and the database proposal had not been admitted or deployed. Independent security and database review, migration approval and integrated application tests were still open. No customer data, staging service or production system changed.
 
 ## 2026-10-13 — Windows Edge native lab finding and preview.7
 
