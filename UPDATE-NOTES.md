@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge native lab finding and preview.7
+
+One isolated Windows lab session confirmed eight native encryption, key protection, writer-lock, durable-storage and atomic-write checks. The synthetic reader stopped before recording an event because it used an API unavailable in the lab's Windows PowerShell version. The VM was shut down and its recovery snapshot preserved.
+
+Preview.7 replaces that API and includes a native regression test; two independent package builds matched. This follow-up has passed offline checks only and needs a new exact-package Windows session. No live reception, customer data, online receiver, public port or physical device was contacted.
+
 ## 2026-10-13 — Operator experience 14 selective integration
 
 The local A2 candidate now shows server-sourced CRM priorities, keeps owner filters tied to the selected branch, refreshes management information on demand, and makes the Reception keyboard target visible. Members can refresh their account status in Persian or English. Responsive browser checks covered the updated interactions in light and dark themes.
@@ -1085,9 +1091,3 @@ The current CRM and platform candidates have **not** been deployed. The hosting 
 A separate local review account can now inspect all nine main CRM areas using only synthetic people and branches. The review covers the dashboard, customer history, sales, tasks, campaigns, reports, reception and management without granting WordPress administration. A mobile reception heading overlap was corrected during responsive checks.
 
 Isolated tests covered current-access checks after staff permissions or customer ownership change, disabled sign-in, interrupted-request recovery, concurrent outcomes and transaction rollback. Nine pages were checked at phone, tablet and desktop widths in light and dark themes. A versioned candidate package is ready for a separate staging review, but online staging and production have not changed. Full accessibility, remaining workflow acceptance and VPS stability are still open.
-## 2026-10-13 — Windows Edge native lab finding and preview.7
-
-One isolated Windows lab session confirmed eight native encryption, key protection, writer-lock, durable-storage and atomic-write checks. The synthetic reader stopped before recording an event because it used an API unavailable in the lab's Windows PowerShell version. The VM was shut down and its recovery snapshot preserved.
-
-Preview.7 replaces that API and includes a native regression test; two independent package builds matched. This follow-up has passed offline checks only and needs a new exact-package Windows session. No live reception, customer data, online receiver, public port or physical device was contacted.
-
