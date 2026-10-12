@@ -1,8 +1,14 @@
+## 2026-10-12 — Member360 and opportunity local checks
+
+The local browser suite now checks Member360 request failure and retry for Member, Reception, Management and CRM purposes. A converted member's sales opportunity is checked through creation, responsible user, stage change, receipt, outbox and browser refresh. A second active opportunity of the same type for that lead is rejected after stage progression. These checks use synthetic records and create no payment or wallet effect.
+
+Seven of ten selected journeys meet the local evidence gate. Restricted authentication and worker database access, broad tenant isolation, the integrated source receiver and online staging remain open. No customer system or public service changed.
+
 ## 2026-10-12 — Local RC journey hardening
 
 Member search now supports bounded, branch-scoped pagination with stable ordering while preserving the existing search response for current clients. Browser checks exercised page changes, refresh, invalid and foreign-branch requests, and light/dark phone and desktop layouts. Staff session refresh/logout and management empty/error/retry were checked against the disposable local API and database. A mobile header overflow and theme-heading contrast issue were corrected.
 
-Five of ten selected journeys now pass the local synthetic evidence gate; three remain partial and two require external source acceptance. Restricted database credentials for authentication and background processing, broad tenant isolation, the integrated source receiver and online staging are still open. No customer data, public service, payment or physical device was changed.
+At this earlier checkpoint, five of ten selected journeys passed the local synthetic evidence gate; three were partial and two required external source acceptance. Restricted database credentials for authentication and background processing, broad tenant isolation, the integrated source receiver and online staging remained open. No customer data, public service, payment or physical device was changed.
 
 ## 2026-10-12 — First usable local A2 release candidate
 

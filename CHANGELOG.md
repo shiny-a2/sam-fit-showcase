@@ -1,3 +1,10 @@
+## 2026-10-12 — Member360 and opportunity local checks (unreleased)
+
+- Exercised four purpose-bound Member360 views through browser failure and retry.
+- Checked a converted-member opportunity from creation to stage change, receipt, outbox and refresh.
+- Rejected a second active same-type opportunity for the same lead after stage progression.
+- Updated the selected local journey count to seven passed, one partial and two blocked; online staging and tenant isolation remain open.
+
 ## 2026-10-12 — Local RC journey hardening (unreleased)
 
 - Added bounded Member search pagination with browser and API coverage for branch scope, refresh and invalid requests.
