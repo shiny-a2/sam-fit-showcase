@@ -1,3 +1,9 @@
+## 2026-10-13 — Member search pagination review candidate
+
+- Replaced local offset paging with signed, scoped next and previous cursors over a stable relationship order.
+- Passed isolated insertion, revocation, two-organization, browser, pooling and encrypted cross-cluster recovery tests.
+- Kept the new database function unnumbered and general activation closed pending independent review; no online deployment occurred.
+
 ## 2026-10-13 — Windows Edge reader diagnostic preview.9 (unreleased)
 
 - Distinguished parent-generated PowerShell startup failures from a single validated child diagnostic; added a fixed parser preflight without changing Windows execution policy.

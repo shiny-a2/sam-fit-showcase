@@ -1,3 +1,9 @@
+## 2026-10-13 — Member search pagination closure candidate
+
+The local member search now has signed next and previous cursors and a stable relationship-based order. Isolated tests covered concurrent additions, access removal, session changes, cross-organization boundaries, browser navigation, database pooling and encrypted recovery on a separate database cluster. The Reception search keeps its existing layout and does not reveal global customer identifiers.
+
+This is a live-results design: access is checked again on each page, and newly added records may appear after the current position. The database change remains an unnumbered review candidate, so general activation and online deployment are still closed pending independent security and database acceptance. No customer data or production service was changed.
+
 ## 2026-10-13 — Windows Edge reader diagnostic closure candidate
 
 An isolated preview.8 retest confirmed that the synthetic reader still exits before its schema, queue or checkpoint checks. The exact internal cause remains unknown. Preview.9 now separates PowerShell startup and script parsing failures from reader failures using bounded, privacy-safe diagnostics. It also checks package and read-only media filenames and bytes before another lab session.
