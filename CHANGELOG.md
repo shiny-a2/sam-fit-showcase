@@ -1,3 +1,9 @@
+## 2026-10-14 — Hardware field integration readiness (unreleased)
+
+- Prepared a bounded, read-only metadata toolkit and field decision playbook for a future authorized visit.
+- Passed synthetic fail-closed tests and kept live source, receiver and physical control acceptance open.
+- Contacted no customer system, production receiver or physical device.
+
 ## 2026-10-14 — Restricted member self-service candidate (unreleased)
 
 - Added a local restricted member sign-in and account journey with explicit organization and branch selection, refresh, expiry and safe sign-out.

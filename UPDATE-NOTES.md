@@ -1,3 +1,9 @@
+## 2026-10-14 — Hardware field integration preparation
+
+Prepared a read-only field checklist for a future authorized visit to the existing reception environment. It compares on-site, restricted remote and staged hybrid access, records safe network stop conditions, and provides a bounded metadata collection toolkit with synthetic failure tests and a hardware inventory template. This should make the first visit more focused while preserving the current system's operation.
+
+The toolkit has passed offline tests only. No reception computer, customer database, device, production receiver or Windows lab VM was contacted for this update. Live source compatibility, the canonical receiver and physical control remain unaccepted; a separate owner-approved field session is required.
+
 ## 2026-10-14 — Restricted member self-service local candidate
 
 Members can now test a restricted sign-in and account view in a disposable local environment. The flow requires explicit organization and branch selection, checks current access, supports refresh and safe sign-out, and shows unavailable membership or account data clearly rather than inventing it. Browser checks covered Persian and English layouts in light and dark themes at phone and desktop widths. Reception member search keeps its accepted navigation.
