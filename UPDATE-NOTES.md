@@ -1,3 +1,9 @@
+## 2026-10-14 — Windows Edge Reader trust-gate candidate
+
+The isolated Windows Edge preview now separates diagnostic results from the Python harness, PowerShell launcher and Reader. Its metadata check reports a bounded view of script trust, policy and process context without revealing account details or file contents. The laboratory queue fixture uses the same Reader launch path as the native test, and unsupported request or fixture fields are refused before acceptance.
+
+Two preview.11 package builds matched, and a read-only mounted test image passed exact filename, byte, import and script-encoding checks. Offline Windows Edge and source-contract regressions passed. The Windows VM was not booted: the earlier Reader refusal still has no proven root cause, and native Reader, queue and service acceptance remain open. No customer system, receiver or physical device was contacted.
+
 ## 2026-10-13 — Member search local security and pagination acceptance
 
 The local member search now uses single-use, signed page navigation with an explicit refresh path when a token expires or has already been used. A final review found and closed an alternate token-encoding replay case. The reviewed database change was admitted to the local development sequence, and the Reception experience retains its existing layout.

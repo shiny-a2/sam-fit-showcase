@@ -1,3 +1,9 @@
+## 2026-10-14 — Windows Edge preview.11 Reader trust gate (unreleased)
+
+- Clarified diagnostic origin and expanded a bounded metadata-only trust check for future isolated Windows testing.
+- Aligned the synthetic queue fixture with the Reader launcher and tightened request/fixture validation.
+- Verified reproducible offline packaging and read-only media; native execution and deployment remain unaccepted.
+
 ## 2026-10-13 — Member search local acceptance
 
 - Admitted the reviewed keyset pagination database change to the local development sequence and retained current-access checks on each page.
