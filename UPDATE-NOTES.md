@@ -1,3 +1,9 @@
+## 2026-10-14 — Windows Edge isolated native-session custody
+
+The pinned preview.11 candidate was started in the isolated Windows lab after its package, test media, VM identity and recovery snapshots were verified. The temporary VM launch had no guest network device or public listener. Windows rejected one sign-in using the existing protected lab access path, so the team stopped before running the Reader or trust checks. The VM shut down cleanly and the recovery copies remained intact.
+
+The sign-in result does not identify the cause of the earlier Reader refusal. Native Reader, queue, service and release acceptance remain open. No customer system, production receiver or physical device was contacted.
+
 ## 2026-10-14 — Windows Edge Reader trust-gate candidate
 
 The isolated Windows Edge preview now separates diagnostic results from the Python harness, PowerShell launcher and Reader. Its metadata check reports a bounded view of script trust, policy and process context without revealing account details or file contents. The laboratory queue fixture uses the same Reader launch path as the native test, and unsupported request or fixture fields are refused before acceptance.

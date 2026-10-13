@@ -1,3 +1,9 @@
+## 2026-10-14 — Windows Edge preview.11 native session (unreleased)
+
+- Verified isolated VM identity, pinned media, recoverable snapshots and zero guest network devices.
+- Stopped before native Reader testing after a single protected lab sign-in was rejected; no credential was exposed.
+- Shut down cleanly and kept Reader, queue, service and release acceptance open.
+
 ## 2026-10-14 — Windows Edge preview.11 Reader trust gate (unreleased)
 
 - Clarified diagnostic origin and expanded a bounded metadata-only trust check for future isolated Windows testing.
