@@ -1,3 +1,9 @@
+## 2026-10-14 — Restricted member self-service candidate (unreleased)
+
+- Added a local restricted member sign-in and account journey with explicit organization and branch selection, refresh, expiry and safe sign-out.
+- Verified local browser presentation across languages, themes and screen widths, and kept unavailable business data explicit.
+- Left the database contract under independent review and online deployment blocked; no customer or production system changed.
+
 ## 2026-10-14 — Windows Edge preview.11 native session (unreleased)
 
 - Verified isolated VM identity, pinned media, recoverable snapshots and zero guest network devices.
