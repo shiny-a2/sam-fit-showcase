@@ -8,6 +8,12 @@ The local member search now has signed next and previous cursors and a stable re
 
 This is a live-results design: access is checked again on each page, and newly added records may appear after the current position. The database change remains an unnumbered review candidate, so general activation and online deployment are still closed pending independent security and database acceptance. No customer data or production service was changed.
 
+## 2026-10-13 — Windows Edge isolated Reader retest
+
+The preview.9 package passed its Windows media and diagnostic-module checks in an isolated VM with networking disabled. The synthetic Reader test then stopped before the Reader could execute. The new launcher produced a safe, specific failure category, so this run no longer has the earlier diagnostic blind spot; the underlying system-policy cause still needs investigation.
+
+The VM was shut down and its recovery points verified. Schema, queue and checkpoint tests were not run, and preview.9 remains unaccepted for deployment. No customer system, online receiver or physical device was contacted.
+
 ## 2026-10-13 — Windows Edge reader diagnostic closure candidate
 
 An isolated preview.8 retest confirmed that the synthetic reader still exits before its schema, queue or checkpoint checks. The exact internal cause remains unknown. Preview.9 now separates PowerShell startup and script parsing failures from reader failures using bounded, privacy-safe diagnostics. It also checks package and read-only media filenames and bytes before another lab session.
