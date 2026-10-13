@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge trust diagnostics preview.10
+
+An offline review found that the prior Windows launcher grouped several security denials under one label. Preview.10 now keeps that result general and prepares a metadata-only check of script trust, file access and Windows policy state for a future isolated lab session. Its diagnostic output is bounded and excludes file contents and raw errors.
+
+Two package builds matched, and a read-only mounted test image passed filename, byte and module-import checks. Offline Windows Edge and source-contract tests passed. The exact cause of the earlier native script refusal remains unknown; this candidate has not run on Windows and is not approved for deployment. No customer system, online receiver or physical device was contacted.
+
 ## 2026-10-13 — Member search cursor replay review
 
 The local pagination review found that a signed navigation token could be reused. A separate local candidate now consumes each token once and rejects concurrent reuse; isolated API and Reception checks also covered dependency restart, organization separation and database pooling. The database proposal remains unnumbered and unadmitted while the full security review is open. General activation and online deployment remain closed. No customer data or production service was changed.
@@ -10,7 +16,7 @@ This is a live-results design: access is checked again on each page, and newly a
 
 ## 2026-10-13 — Windows Edge isolated Reader retest
 
-The preview.9 package passed its Windows media and diagnostic-module checks in an isolated VM with networking disabled. The synthetic Reader test then stopped before the Reader could execute. The new launcher produced a safe, specific failure category, so this run no longer has the earlier diagnostic blind spot; the underlying system-policy cause still needs investigation.
+The preview.9 package passed its Windows media and diagnostic-module checks in an isolated VM with networking disabled. The synthetic Reader test then stopped before the Reader could execute. The launcher produced a safe but broad security-denial category. Its exact cause still needs investigation.
 
 The VM was shut down and its recovery points verified. Schema, queue and checkpoint tests were not run, and preview.9 remains unaccepted for deployment. No customer system, online receiver or physical device was contacted.
 

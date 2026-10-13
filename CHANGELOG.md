@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge preview.10 trust diagnostics (unreleased)
+
+- Corrected an overbroad script-security label and prepared metadata-only checks for future isolated Windows diagnosis.
+- Verified matching offline package builds and read-only media filenames, bytes and diagnostic imports.
+- Kept native acceptance and deployment closed; the previous script refusal remains unexplained.
+
 ## 2026-10-13 — Member search cursor replay correction candidate
 
 - Reproduced reusable pagination tokens and added a separate local single-use cursor candidate.
