@@ -1,3 +1,9 @@
+## 2026-10-14 — Member self-service security review (unreleased)
+
+- Reproduced and documented a cross-account identity issue in the review-only member account contract.
+- Prepared a separate explicit-binding candidate and verified isolated installation, upgrade, encrypted recovery and rollback.
+- Strengthened local permission-change detection; retained database admission and online activation as open gates.
+
 ## 2026-10-14 — Hardware field integration readiness (unreleased)
 
 - Prepared a bounded, read-only metadata toolkit and field decision playbook for a future authorized visit.

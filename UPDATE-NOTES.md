@@ -1,3 +1,9 @@
+## 2026-10-14 — Member self-service security review
+
+An independent local review found that the proposed member account database contract could confuse two accounts belonging to the same person. The original proposal stays in review history; a separate candidate now requires an explicit account-to-member link. Disposable tests covered a fresh install, populated upgrade, encrypted recovery in a separate database cluster and restoration of the prior state. Permission-change detection for the existing local account view was also tightened.
+
+The revised contract is still under security and database review. Member self-service remains a local candidate, and the broader product exit gate and online deployment remain closed. No customer data, live service, payment or physical device was changed.
+
 ## 2026-10-14 — Hardware field integration preparation
 
 Prepared a read-only field checklist for a future authorized visit to the existing reception environment. It compares on-site, restricted remote and staged hybrid access, records safe network stop conditions, and provides a bounded metadata collection toolkit with synthetic failure tests and a hardware inventory template. This should make the first visit more focused while preserving the current system's operation.
