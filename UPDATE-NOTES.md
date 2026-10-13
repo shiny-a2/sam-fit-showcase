@@ -1,3 +1,7 @@
+## 2026-10-13 — Member search cursor replay review
+
+The local pagination review found that a signed navigation token could be reused. A separate local candidate now consumes each token once and rejects concurrent reuse; isolated API and Reception checks also covered dependency restart, organization separation and database pooling. The database proposal remains unnumbered and unadmitted while the full security review is open. General activation and online deployment remain closed. No customer data or production service was changed.
+
 ## 2026-10-13 — Member search pagination closure candidate
 
 The local member search now has signed next and previous cursors and a stable relationship-based order. Isolated tests covered concurrent additions, access removal, session changes, cross-organization boundaries, browser navigation, database pooling and encrypted recovery on a separate database cluster. The Reception search keeps its existing layout and does not reveal global customer identifiers.

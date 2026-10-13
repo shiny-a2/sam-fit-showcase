@@ -1,3 +1,9 @@
+## 2026-10-13 — Member search cursor replay correction candidate
+
+- Reproduced reusable pagination tokens and added a separate local single-use cursor candidate.
+- Verified concurrent reuse denial, Redis restart behavior, tenant boundaries and Reception navigation on disposable infrastructure.
+- Left database admission and broader activation pending full independent review; no online deployment occurred.
+
 ## 2026-10-13 — Member search pagination review candidate
 
 - Replaced local offset paging with signed, scoped next and previous cursors over a stable relationship order.
