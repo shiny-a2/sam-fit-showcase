@@ -4,6 +4,12 @@
 - Verified local browser presentation across languages, themes and screen widths, and kept unavailable business data explicit.
 - Left the database contract under independent review and online deployment blocked; no customer or production system changed.
 
+## 2026-10-14 — Windows Edge lab input maintenance (unreleased)
+
+- Rechecked isolated VM custody, cold recovery and zero guest network devices.
+- Stopped before credential entry because no visible non-sensitive sign-in text field could verify keyboard input.
+- Preserved the clean VM shutdown and kept account, Reader and release acceptance open.
+
 ## 2026-10-14 — Windows Edge preview.11 native session (unreleased)
 
 - Verified isolated VM identity, pinned media, recoverable snapshots and zero guest network devices.

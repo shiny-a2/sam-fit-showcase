@@ -4,6 +4,12 @@ Members can now test a restricted sign-in and account view in a disposable local
 
 The new member self-service database contract remains a review-only candidate. Independent security and database acceptance, wider tenant coverage, human accessibility review and online staging gates remain open. No customer database, online service, payment or physical device was changed.
 
+## 2026-10-14 — Windows Edge laboratory input maintenance
+
+The isolated Windows lab passed another recovery and no-network check. Its sign-in screen did not offer a visible, non-sensitive text field for confirming the automation's keyboard output before account authentication, so the maintenance test stopped without entering a credential or attempting login. The VM shut down cleanly and its recovery copies remained intact.
+
+Keyboard input, account access and native Reader acceptance are still open. No customer system, receiver or physical device was contacted.
+
 ## 2026-10-14 — Windows Edge isolated native-session custody
 
 The pinned preview.11 candidate was started in the isolated Windows lab after its package, test media, VM identity and recovery snapshots were verified. The temporary VM launch had no guest network device or public listener. Windows rejected one sign-in using the existing protected lab access path, so the team stopped before running the Reader or trust checks. The VM shut down cleanly and the recovery copies remained intact.
