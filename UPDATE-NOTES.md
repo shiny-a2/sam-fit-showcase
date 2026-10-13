@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account link integrity candidate
+
+A follow-up local database review found that the first account-link revision could record a member and user associated with different people. A new, separate review candidate adds a database constraint for that relationship. Disposable tests rejected the mismatched link, checked a populated upgrade and verified encrypted recovery into another database cluster.
+
+This candidate still needs a pinned security catalog, adversarial privilege checks and owner admission before any broader activation. The online service and customer data remain unchanged.
+
 ## 2026-10-14 — Member self-service security review
 
 An independent local review found that the proposed member account database contract could confuse two accounts belonging to the same person. The original proposal stays in review history; a separate candidate now requires an explicit account-to-member link. Disposable tests covered a fresh install, populated upgrade, encrypted recovery in a separate database cluster and restoration of the prior state. Permission-change detection for the existing local account view was also tightened.

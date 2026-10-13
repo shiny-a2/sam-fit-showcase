@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account link integrity candidate (unreleased)
+
+- Added a separate review-only database constraint that rejects mismatched member and user identities.
+- Passed isolated upgrade, encrypted cross-cluster recovery and direct-access denial checks.
+- Kept database admission and wider activation blocked pending security catalog and owner review.
+
 ## 2026-10-14 — Member self-service security review (unreleased)
 
 - Reproduced and documented a cross-account identity issue in the review-only member account contract.
