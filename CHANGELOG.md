@@ -1,3 +1,10 @@
+## 2026-10-13 — Windows Edge reader diagnostic preview.9 (unreleased)
+
+- Distinguished parent-generated PowerShell startup failures from a single validated child diagnostic; added a fixed parser preflight without changing Windows execution policy.
+- Added exact-case, byte-identical package/media and import checks after a media filename issue in the previous lab run.
+- Two preview.9 package builds matched; 111 offline tests passed, 10 Windows-only tests were skipped, and the case-preserving media passed offline preflight.
+- Preview.8's native reader exit remains unexplained. Preview.9 has not run on Windows; no customer system or physical device was contacted.
+
 ## 2026-10-13 — Restricted member search local runtime candidate
 
 - Added a locally tested, organization- and branch-scoped member name search using restricted database credentials.
@@ -10,7 +17,7 @@
 
 - A bounded isolated Windows retest found that the synthetic reader still exited before creating an event. The earlier test did not retain a safe error category, so its exact cause remains unknown.
 - Added privacy-safe failure categories and offline fault checks in a reproducible preview.8 package; 103 offline tests passed and 10 Windows-only tests were skipped, with no failures.
-- Preview.8 has not run in Windows. Service, receiver and production acceptance remain open; no customer system or physical equipment was contacted.
+- A subsequent isolated preview.8 retest still exited before a valid diagnostic; its cause remains unknown. Service, receiver and production acceptance remain open; no customer system or physical equipment was contacted.
 
 ## 2026-10-13 — Windows Edge native lab finding and preview.7 (unreleased)
 

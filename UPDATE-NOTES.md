@@ -1,3 +1,9 @@
+## 2026-10-13 — Windows Edge reader diagnostic closure candidate
+
+An isolated preview.8 retest confirmed that the synthetic reader still exits before its schema, queue or checkpoint checks. The exact internal cause remains unknown. Preview.9 now separates PowerShell startup and script parsing failures from reader failures using bounded, privacy-safe diagnostics. It also checks package and read-only media filenames and bytes before another lab session.
+
+The preview.9 package built reproducibly, and its case-preserving media passed an offline import check. The Windows VM was not booted for this update. Native acceptance, live-source integration and physical control remain closed; no customer system or device was contacted.
+
 ## 2026-10-13 — Restricted member search local runtime candidate
 
 Staff can now test name-only member search in a disposable local environment after explicitly choosing an organization and branch. The application uses restricted database access and relationship-based visibility; results do not include global contact or customer identifiers. Browser checks covered search, paging, keyboard use and light/dark layouts at phone through desktop widths. Security tests checked concurrent organization requests, session revocation, permission changes, recovery and database pooling. A concurrent sign-out race found during this review was fixed and retested without changing the accepted database migrations.
@@ -8,7 +14,7 @@ The local review also reproduced a paging overlap when a member relationship is 
 
 The isolated Windows retest of preview.7 stopped at the synthetic reader: it exited before any event, queue or checkpoint could be accepted. Its test did not preserve a safe error category, so the exact cause is still unknown. The lab VM was shut down and its recovery point remained intact.
 
-Preview.8 adds bounded, privacy-safe error categories and offline fault tests. Two package builds matched exactly; 103 offline tests passed and 10 Windows-only tests were skipped, with no failures. This candidate has not been tested on Windows; a new isolated native session is required before service or delivery tests resume. No customer data, reception system, online receiver or physical device was contacted.
+Preview.8 added bounded, privacy-safe error categories and offline fault tests. Two package builds matched exactly; 103 offline tests passed and 10 Windows-only tests were skipped, with no failures. A later isolated native retest confirmed another exit before a valid diagnostic was available. Service and delivery tests did not resume. No customer data, reception system, online receiver or physical device was contacted.
 
 ## 2026-10-13 — Local member relationship database admission
 
