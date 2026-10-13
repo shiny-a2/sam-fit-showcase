@@ -1,3 +1,10 @@
+## 2026-10-13 — Member search local acceptance
+
+- Admitted the reviewed keyset pagination database change to the local development sequence and retained current-access checks on each page.
+- Closed a same-signature token-encoding replay gap and verified single-use navigation and safe refresh behavior.
+- Passed exact-checkpoint security, browser, full regression and encrypted separate-cluster recovery checks.
+- Kept broader tenant-runtime acceptance, online staging and production activation open.
+
 ## 2026-10-13 — Windows Edge preview.10 trust diagnostics (unreleased)
 
 - Corrected an overbroad script-security label and prepared metadata-only checks for future isolated Windows diagnosis.

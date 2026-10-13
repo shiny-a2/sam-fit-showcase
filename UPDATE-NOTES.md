@@ -1,3 +1,9 @@
+## 2026-10-13 — Member search local security and pagination acceptance
+
+The local member search now uses single-use, signed page navigation with an explicit refresh path when a token expires or has already been used. A final review found and closed an alternate token-encoding replay case. The reviewed database change was admitted to the local development sequence, and the Reception experience retains its existing layout.
+
+On the exact private checkpoint, isolated sign-in, organization separation, concurrent changes, browser navigation, permission-change detection, database pooling, full product regression and encrypted recovery in a separate database cluster passed. This is a live-results search: each page checks current access, and changes to visible records can affect later pages. Broader tenant-runtime and phase-exit work remain open; online staging and production activation are not approved. No customer data or live system was changed.
+
 ## 2026-10-13 — Windows Edge trust diagnostics preview.10
 
 An offline review found that the prior Windows launcher grouped several security denials under one label. Preview.10 now keeps that result general and prepares a metadata-only check of script trust, file access and Windows policy state for a future isolated lab session. Its diagnostic output is bounded and excludes file contents and raw errors.
