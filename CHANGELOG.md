@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account recovery check (unreleased)
+
+- Corrected a bounded local account-read recovery issue after database restart.
+- Rechecked both connection-pool modes, concurrent reads, browser refresh and broader product regressions on the final private revision.
+- Kept database admission, Phase-04 exit and online release pending their separate approvals.
+
 ## 2026-10-14 — Restricted member account journey (unreleased)
 
 - Verified the proposed account read through a real signed-in local API and both connection-pool modes with synthetic identities.

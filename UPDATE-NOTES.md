@@ -1,3 +1,7 @@
+## 2026-10-14 — Member account recovery check
+
+The private platform corrected a short-lived member account read failure after an isolated database restart. The signed-in local journey now passes both connection-pool modes, concurrent reads, interruption recovery and responsive account refresh on the same verified source revision. Broader Phase-04 product, privacy, security and human acceptance remains open. The proposed database change is still review-only and the member route remains inactive online. No customer, staging, production or physical device changed.
+
 ## 2026-10-14 — Restricted member account journey and Phase-04 review
 
 The private platform now checks its proposed member account read through the actual signed-in API and restricted database connections in an isolated local environment. Synthetic tests covered separate Member and Staff accounts for one person, two organizations, three branches, permission and session changes, both connection-pool modes, interruption recovery and responsive account refresh. A local review packet records the remaining Phase-04 decisions.
