@@ -1,3 +1,9 @@
+## 2026-10-14 — Main member experience integration
+
+The private Main candidate selectively adopted reviewed member interface updates: expired sessions return to the appropriate sign-in screen, optional setup answers survive a draft revision conflict for review, and a confirmed save rereads the server draft. The account privacy view shows consent history and asks for confirmation before withdrawal. Reception search gives a clear restart path when a page cursor has already been used. Narrow-screen layout and keyboard cues were reviewed in both themes.
+
+The integration preserves the newer authentication, tenant, database and worker work. Local browser journeys and product regressions passed on disposable data; this update does not enable the pending Member Self database contract, Reception member-context bridge, new production consent grants or full seven-step onboarding. No online deployment, customer data, payment or physical device changed.
+
 ## 2026-10-14 — Joined member privacy journey review
 
 An isolated product review now checks that a member's marketing preference alone does not enable the Member360 view. It follows an explicit consent grant, refresh, withdrawal and a new sign-in, and verifies that retrying the same command does not create a second consent record. A full local browser review also covered Member, Reception, CRM and Management flows, including safe retry and receipt recovery. A small synthetic response-time baseline accompanies the flow.
