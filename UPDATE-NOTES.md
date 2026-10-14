@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account review guard
+
+The private platform tightened a local review guard for the proposed member account link. It now checks the exact reviewed catalog record before use and refuses unexpected delegation of database access. The proposed database change itself was left untouched. Synthetic fresh-install, populated-upgrade and encrypted recovery checks passed across two separate local database instances.
+
+Independent security review, connection-pool and full member account browser acceptance are still pending. The proposal has no migration number and is not active online. No customer, staging, production or hardware data changed.
+
 ## 2026-10-14 — Main member experience integration
 
 The private Main candidate selectively adopted reviewed member interface updates: expired sessions return to the appropriate sign-in screen, optional setup answers survive a draft revision conflict for review, and a confirmed save rereads the server draft. The account privacy view shows consent history and asks for confirmation before withdrawal. Reception search gives a clear restart path when a page cursor has already been used. Narrow-screen layout and keyboard cues were reviewed in both themes.
