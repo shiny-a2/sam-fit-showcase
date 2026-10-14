@@ -1,3 +1,9 @@
+## 2026-10-14 — Member experience and draft recovery
+
+The independent member interface now keeps unsaved onboarding answers visible when a saved draft changes elsewhere, then asks the member to review the current server version before reapplying them. Account screens clear protected details when access is lost. The mobile step indicator fits narrow screens, and the account privacy area shows recorded consent history with a separate withdrawal confirmation. New consent grants remain unavailable while the production policy text is unapproved.
+
+Disposable Chromium checks covered Member, Reception, CRM and Management journeys, four screen widths, both themes, conflict recovery and session boundaries. The seven-step flow is still an optional draft experience; full completion, restricted Member Self admission and the Reception-to-Member context bridge remain pending backend/security decisions. No online service or customer data was changed.
+
 ## 2026-10-14 — Member account link integrity candidate
 
 A follow-up local database review found that the first account-link revision could record a member and user associated with different people. A new, separate review candidate adds a database constraint for that relationship. Disposable tests rejected the mismatched link, checked a populated upgrade and verified encrypted recovery into another database cluster.

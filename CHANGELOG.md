@@ -1,3 +1,9 @@
+## 2026-10-14 — Member experience and recovery (unreleased)
+
+- Preserved unsaved onboarding answers through a revision conflict and added a review step before reapply.
+- Improved protected account recovery, mobile step navigation and consent history/withdrawal presentation.
+- Passed isolated browser regression across Member, Reception, CRM and Management. Full onboarding completion and production privacy approval remain open.
+
 ## 2026-10-14 — Member account link integrity candidate (unreleased)
 
 - Added a separate review-only database constraint that rejects mismatched member and user identities.
