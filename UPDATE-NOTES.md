@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account evidence validation review
+
+An isolated database test found that the current review-only member account link could accept a blank evidence reference. A separate candidate now rejects that input and pins a broader database catalog for local integrity checks. Disposable tests covered concurrent account linking, organization and branch separation, installation, upgrade and encrypted recovery in another database cluster.
+
+The revised contract has not been admitted or enabled online. Integrated browser and connection-pool acceptance, independent security approval and the product exit decision remain open. No customer, staging or production data changed.
+
 ## 2026-10-14 — Member experience and draft recovery
 
 The independent member interface now keeps unsaved onboarding answers visible when a saved draft changes elsewhere, then asks the member to review the current server version before reapplying them. Account screens clear protected details when access is lost. The mobile step indicator fits narrow screens, and the account privacy area shows recorded consent history with a separate withdrawal confirmation. New consent grants remain unavailable while the production policy text is unapproved.

@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account evidence validation (unreleased)
+
+- Prepared a separate review-only contract that rejects blank account-link evidence references.
+- Verified isolated identity, branch separation, concurrent linking and encrypted cross-cluster recovery.
+- Kept database admission, integrated runtime and online deployment blocked pending separate acceptance.
+
 ## 2026-10-14 — Member experience and recovery (unreleased)
 
 - Preserved unsaved onboarding answers through a revision conflict and added a review step before reapply.
