@@ -1,3 +1,9 @@
+## 2026-10-14 — Restricted member account journey (unreleased)
+
+- Verified the proposed account read through a real signed-in local API and both connection-pool modes with synthetic identities.
+- Added a bounded Phase-04 review packet and preserved the pending database, privacy and human acceptance gates.
+- Made no online, customer, financial or hardware change.
+
 ## 2026-10-14 — Member account connection-pool review (unreleased)
 
 - Added disposable restricted-database tests for both connection-pool modes, authorization changes and interruption recovery.

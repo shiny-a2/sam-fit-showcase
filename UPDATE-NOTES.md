@@ -1,3 +1,9 @@
+## 2026-10-14 — Restricted member account journey and Phase-04 review
+
+The private platform now checks its proposed member account read through the actual signed-in API and restricted database connections in an isolated local environment. Synthetic tests covered separate Member and Staff accounts for one person, two organizations, three branches, permission and session changes, both connection-pool modes, interruption recovery and responsive account refresh. A local review packet records the remaining Phase-04 decisions.
+
+The proposed database change still needs independent security and database review plus owner admission. Full onboarding, privacy and human accessibility acceptance remain open. The member route is not enabled online; no customer, staging, production or physical device changed.
+
 ## 2026-10-14 — Member account connection-pool review
 
 The private platform added a reproducible local check for its proposed member account read across both connection-pool modes. Disposable tests covered account binding, permission and session changes, organization and branch boundaries, direct database access denial, and recovery after pool and database interruption. An independently provisioned encrypted restore still passed.
