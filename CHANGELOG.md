@@ -1,3 +1,9 @@
+## 2026-10-14 — Member privacy and recovery (unreleased)
+
+- Required both active consent and an explicit preference for marketing eligibility in the local Member360 view.
+- Strengthened synthetic archive recovery checks and verified the focused browser and database flow.
+- Kept broader onboarding, operational archive, legal, human and online release gates open.
+
 ## 2026-10-14 — Member account evidence validation (unreleased)
 
 - Prepared a separate review-only contract that rejects blank account-link evidence references.

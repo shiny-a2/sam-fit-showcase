@@ -1,3 +1,9 @@
+## 2026-10-14 — Member privacy and recovery review
+
+The local Member360 view now treats a marketing preference and current consent as separate requirements. Synthetic browser and database checks covered the resulting view after a grant, a preference change and a withdrawal. The local archive recovery prototype also preserves encryption nonce history and rejects records before their approved archival boundary.
+
+The broader onboarding, legal retention, independent key custody and human accessibility decisions remain open. This update did not enable an archive, approve a database migration or change any customer, online or production system.
+
 ## 2026-10-14 — Member account evidence validation review
 
 An isolated database test found that the current review-only member account link could accept a blank evidence reference. A separate candidate now rejects that input and pins a broader database catalog for local integrity checks. Disposable tests covered concurrent account linking, organization and branch separation, installation, upgrade and encrypted recovery in another database cluster.
