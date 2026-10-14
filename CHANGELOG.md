@@ -1,3 +1,9 @@
+## 2026-10-15 — Isolated account-read interruption checks (unreleased)
+
+- Verified that local signed-in account reads become unavailable when a required review file disappears, then recover after it is restored.
+- Added a bounded synthetic database lookup measurement and prepared separate security and database review requests.
+- Kept database admission and online release pending independent decisions; no customer data or hardware changed.
+
 ## 2026-10-15 — Isolated member account security review (unreleased)
 
 - Added repeatable synthetic checks for unexpected database permission changes and safe account-read denial and recovery.
