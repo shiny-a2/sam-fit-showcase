@@ -1,3 +1,7 @@
+## 2026-10-15 — Member account and CRM delivery review
+
+The private platform rechecked its proposed member account journey, local database recovery and broader CRM workflows on one verified source revision. The review also separates features ready for a synthetic local demonstration from contracts that still need security, privacy, database or human approval. The member database proposal remains inactive online. No customer, staging, production, payment or physical device changed.
+
 ## 2026-10-14 — Member account recovery check
 
 The private platform corrected a short-lived member account read failure after an isolated database restart. The signed-in local journey now passes both connection-pool modes, concurrent reads, interruption recovery and responsive account refresh on the same verified source revision. Broader Phase-04 product, privacy, security and human acceptance remains open. The proposed database change is still review-only and the member route remains inactive online. No customer, staging, production or physical device changed.
