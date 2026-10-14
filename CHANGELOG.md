@@ -1,6 +1,6 @@
 ## 2026-10-15 — Member account and CRM delivery review (unreleased)
 
-- Rechecked signed-in local account access, database recovery and CRM browser journeys on the final private revision.
+- Rechecked signed-in local account access, CRM browser journeys and a separate newly provisioned test-database recovery on the final private revision.
 - Recorded the remaining independent security, database, privacy and human acceptance decisions.
 - Kept the database proposal and online release inactive; no customer or hardware change occurred.
 

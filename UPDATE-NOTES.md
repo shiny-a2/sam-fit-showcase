@@ -1,6 +1,6 @@
 ## 2026-10-15 — Member account and CRM delivery review
 
-The private platform rechecked its proposed member account journey, local database recovery and broader CRM workflows on one verified source revision. The review also separates features ready for a synthetic local demonstration from contracts that still need security, privacy, database or human approval. The member database proposal remains inactive online. No customer, staging, production, payment or physical device changed.
+The private platform rechecked its proposed member account journey, local database recovery and broader CRM workflows on one verified source revision. A separate local recovery check used a newly provisioned test database and fresh temporary access, then confirmed that old sessions were rejected and the signed-in member journey could resume. The review separates features ready for a synthetic local demonstration from contracts that still need security, privacy, database or human approval. The member database proposal remains inactive online. No customer, staging, production, payment or physical device changed.
 
 ## 2026-10-14 — Member account recovery check
 
