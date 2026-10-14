@@ -1,3 +1,9 @@
+## 2026-10-14 — Joined member privacy journey (unreleased)
+
+- Added a disposable API and browser check for consent, preference, withdrawal, replay and account refresh.
+- Recorded a bounded local performance baseline for available member read views.
+- Preserved the open member account, Reception context, onboarding, privacy and release approvals.
+
 ## 2026-10-14 — Member privacy and recovery (unreleased)
 
 - Required both active consent and an explicit preference for marketing eligibility in the local Member360 view.

@@ -1,3 +1,9 @@
+## 2026-10-14 — Joined member privacy journey review
+
+An isolated product review now checks that a member's marketing preference alone does not enable the Member360 view. It follows an explicit consent grant, refresh, withdrawal and a new sign-in, and verifies that retrying the same command does not create a second consent record. Local browser checks and a small synthetic response-time baseline accompany the flow.
+
+The broader member account connection, Reception context, full onboarding, legal archive and human accessibility decisions remain open. The measurements describe only a disposable local environment. No customer, online or production data changed.
+
 ## 2026-10-14 — Member privacy and recovery review
 
 The local Member360 view now treats a marketing preference and current consent as separate requirements. Synthetic browser and database checks covered the resulting view after a grant, a preference change and a withdrawal. The local archive recovery prototype also preserves encryption nonce history and rejects records before their approved archival boundary.
