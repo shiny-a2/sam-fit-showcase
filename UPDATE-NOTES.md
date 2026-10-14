@@ -1,3 +1,7 @@
+## 2026-10-15 — Member account security review in an isolated lab
+
+The private platform added a repeatable local check for unexpected database permission and schema changes affecting the proposed member account view. Each synthetic test restores the expected database state and confirms that account access resumes safely. The signed-in browser journey and separate test-database recovery were rechecked against the same private source revision. The database proposal remains under independent security and database review; no online or customer environment was changed.
+
 ## 2026-10-15 — Member account and CRM delivery review
 
 The private platform rechecked its proposed member account journey, local database recovery and broader CRM workflows on one verified source revision. A separate local recovery check used a newly provisioned test database and fresh temporary access, then confirmed that old sessions were rejected and the signed-in member journey could resume. The review separates features ready for a synthetic local demonstration from contracts that still need security, privacy, database or human approval. The member database proposal remains inactive online. No customer, staging, production, payment or physical device changed.

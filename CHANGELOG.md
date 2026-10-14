@@ -1,3 +1,9 @@
+## 2026-10-15 — Isolated member account security review (unreleased)
+
+- Added repeatable synthetic checks for unexpected database permission changes and safe account-read denial and recovery.
+- Rechecked local browser access and independent test-database restore on the private release candidate.
+- Kept database admission, Phase-04 exit and online release pending independent approval; no customer or hardware change occurred.
+
 ## 2026-10-15 — Member account and CRM delivery review (unreleased)
 
 - Rechecked signed-in local account access, CRM browser journeys and a separate newly provisioned test-database recovery on the final private revision.
