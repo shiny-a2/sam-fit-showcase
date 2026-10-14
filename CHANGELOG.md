@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account connection-pool review (unreleased)
+
+- Added disposable restricted-database tests for both connection-pool modes, authorization changes and interruption recovery.
+- Rechecked encrypted restore and kept signed-in HTTP acceptance and database admission open for separate review.
+- Made no customer, online or hardware change.
+
 ## 2026-10-14 — Joined member privacy journey (unreleased)
 
 - Added a disposable API and browser check for consent, preference, withdrawal, replay and account refresh.

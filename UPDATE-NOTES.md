@@ -1,3 +1,9 @@
+## 2026-10-14 — Member account connection-pool review
+
+The private platform added a reproducible local check for its proposed member account read across both connection-pool modes. Disposable tests covered account binding, permission and session changes, organization and branch boundaries, direct database access denial, and recovery after pool and database interruption. An independently provisioned encrypted restore still passed.
+
+The actual signed-in HTTP journey needs a separately reviewed runtime security catalog before acceptance. The database proposal remains unnumbered and inactive online. No customer, staging, production or physical device changed.
+
 ## 2026-10-14 — Member account review guard
 
 The private platform tightened a local review guard for the proposed member account link. It now checks the exact reviewed catalog record before use and refuses unexpected delegation of database access. The proposed database change itself was left untouched. Synthetic fresh-install, populated-upgrade and encrypted recovery checks passed across two separate local database instances.
