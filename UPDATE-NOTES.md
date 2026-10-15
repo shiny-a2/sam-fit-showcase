@@ -1,3 +1,9 @@
+## 2026-10-15 — CRM read recovery and bilingual local review (unreleased)
+
+The private platform completed a joined local review of member search and read-only CRM pages using synthetic organizations and branches. A separately restored test database rejected old sessions and accepted fresh sign-in. The checks also covered both connection-pool modes, service recovery, current access changes, and Persian and English browser layouts in light and dark themes.
+
+Independent security and database review, broader accessibility checks and release approval remain open. CRM editing is still disabled in the restricted path. No customer environment, online service, financial record or physical device was changed.
+
 ## 2026-10-15 — Restricted CRM reading review (unreleased)
 
 The private platform added a review-only CRM list and detail path for an isolated, synthetic multi-organization test environment. Signed-in local API checks covered branch separation, bounded cursor navigation, foreign-record denial, and session and permission changes. A separate database check confirmed that the proposed reader could not query CRM tables directly.

@@ -1,3 +1,9 @@
+## 2026-10-15 — CRM read recovery and bilingual review (unreleased)
+
+- Verified read-only CRM and member search after an isolated synthetic database restore, including rejection of old sessions.
+- Rechecked both local connection-pool modes, service recovery, access changes and Persian/English responsive browser views.
+- Kept CRM editing, independent database admission and online release pending their separate gates.
+
 ## 2026-10-15 — Restricted CRM read candidate (unreleased)
 
 - Added a local, review-only CRM list and detail path with synthetic organization and branch checks.
