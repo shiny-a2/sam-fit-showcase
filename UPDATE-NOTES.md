@@ -1234,6 +1234,12 @@ The responsive browser journey remains partially accepted, and the VPS intermitt
 
 The private candidate now checks the latest customer assignment within the same transaction as a follow-up change. In an isolated two-request test, a manager's reassignment and a Sales completion were ordered safely: completion occurred before reassignment or was refused without an effect. Follow-up, role-security and responsive browser regressions passed. A later read-only VPS check found services active and protected backup copies readable on both the VPS and owner laptop; it did not explain the intermittent timeouts. Release acceptance remains open.
 
+## 2026-10-15 — Isolated CRM and member search compatibility review
+
+The private platform now tests its restricted CRM read view and member search together under one explicitly pinned local catalog profile. Synthetic checks covered separate organizations and branches, signed pagination, permission changes, connection pooling, dependency recovery, encrypted database restore and responsive light/dark browser states. A cursor encoding edge case was corrected so an altered token is rejected.
+
+The work is a local review candidate. Independent security and database review, post-restore application checks, accessibility and release gates remain open. No live pilot, staging, production or hardware service changed.
+
 The real-browser recovery check now also covers a sales opportunity progressing to Contacted, Won and Lost when a successful server response is withheld. After reloading, staff saw the saved outcome in the customer history; the isolated tests reconciled one command receipt per action and the expected outcome records. The candidate still needs clear guidance for uncertain outcomes and further permission-change and accessibility checks. The restricted pilot was not updated.
 ## 2026-10-10 — Phase 04 execution and deployment inventory
 

@@ -417,6 +417,12 @@
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
 
+## 2026-10-15 — Restricted CRM read compatibility candidate
+
+- Added a synthetic combined member-search and CRM-read catalog review profile with both guards active.
+- Checked scoped browsing, pagination, revocation, connection pooling and encrypted restore; corrected cursor token encoding validation.
+- Kept independent review and release acceptance open, with no live deployment.
+
 ## 2026-10-10 — Isolated hardware integration candidate
 
 - Connected a signed local hardware-command handoff to durable receipt tracking and a separate simulated result.
