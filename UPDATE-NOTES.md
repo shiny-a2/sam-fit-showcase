@@ -1,3 +1,9 @@
+## 2026-10-15 — Member consent boundary and Phase-04 decision packet
+
+The private platform now limits new consent grants to named disposable local test environments. Production-shaped requests cannot turn the unfinished consent policy into a real grant, while withdrawal remains available. Local checks cover the direct API boundary, purpose-aware member views, draft recovery and authenticated browser journeys. A separate decision packet identifies the remaining onboarding, privacy archive and human accessibility approvals before Phase-04 can exit.
+
+The synthetic CRM demonstration remains distinct from a sellable multi-tenant release. The proposed member account database change remains under independent review. No online environment, customer record, payment or physical device was changed.
+
 ## 2026-10-15 — Member account security review in an isolated lab
 
 The private platform added a repeatable local check for unexpected database permission and schema changes affecting the proposed member account view. Each synthetic test restores the expected database state and confirms that account access resumes safely. The signed-in browser journey and separate test-database recovery were rechecked against the same private source revision. The database proposal remains under independent security and database review; no online or customer environment was changed.
