@@ -1,3 +1,9 @@
+## 2026-10-15 — Local CRM demonstration and Phase-04 review preparation
+
+The private platform re-ran its synthetic CRM journey on a verified source revision. Local checks covered staff navigation, lead and follow-up work, opportunity and task updates, management refresh, command receipts, recovery and a responsive browser review. A compact operator review guide and decision forms now separate the working demonstration from privacy, accessibility and database approvals still needed for a broader release.
+
+The CRM demonstration remains isolated and synthetic. Multi-organization commercial access, full onboarding, archival policy and human acceptance are still pending. No customer environment, staging service, payment or physical device was changed.
+
 ## 2026-10-15 — Member consent boundary and Phase-04 decision packet
 
 The private platform now limits new consent grants to named disposable local test environments. Production-shaped requests cannot turn the unfinished consent policy into a real grant, while withdrawal remains available. Local checks cover the direct API boundary, purpose-aware member views, draft recovery and authenticated browser journeys. A separate decision packet identifies the remaining onboarding, privacy archive and human accessibility approvals before Phase-04 can exit.
