@@ -1,3 +1,9 @@
+## 2026-10-15 — Member account review decision packet (unreleased)
+
+- Closed the local engineering evidence packet for a proposed member account database change and prepared separate independent review requests.
+- Kept the proposed change inactive while security, database and owner decisions remain pending.
+- Made no customer, online release, financial or hardware change.
+
 ## 2026-10-15 — Isolated account-read interruption checks (unreleased)
 
 - Verified that local signed-in account reads become unavailable when a required review file disappears, then recover after it is restored.
