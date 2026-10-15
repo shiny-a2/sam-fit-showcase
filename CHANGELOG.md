@@ -1,3 +1,9 @@
+## 2026-10-15 — Restricted CRM read candidate (unreleased)
+
+- Added a local, review-only CRM list and detail path with synthetic organization and branch checks.
+- Verified signed-in API pagination, scoped detail and access revocation in disposable tests.
+- Kept database admission, restricted CRM commands and online activation pending independent review.
+
 ## 2026-10-15 — Member account review decision packet (unreleased)
 
 - Closed the local engineering evidence packet for a proposed member account database change and prepared separate independent review requests.

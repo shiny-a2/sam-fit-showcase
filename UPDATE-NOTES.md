@@ -1,3 +1,9 @@
+## 2026-10-15 — Restricted CRM reading review (unreleased)
+
+The private platform added a review-only CRM list and detail path for an isolated, synthetic multi-organization test environment. Signed-in local API checks covered branch separation, bounded cursor navigation, foreign-record denial, and session and permission changes. A separate database check confirmed that the proposed reader could not query CRM tables directly.
+
+The proposed database change has not been admitted. A compatibility issue with an existing security catalog still requires independent review. CRM commands and the new browser journey remain unavailable on restricted credentials. This work did not change any customer environment, online service, financial record or physical device.
+
 ## 2026-10-15 — Local CRM demonstration and Phase-04 review preparation
 
 The private platform re-ran its synthetic CRM journey on a verified source revision. Local checks covered staff navigation, lead and follow-up work, opportunity and task updates, management refresh, command receipts, recovery and a responsive browser review. A compact operator review guide and decision forms now separate the working demonstration from privacy, accessibility and database approvals still needed for a broader release.
