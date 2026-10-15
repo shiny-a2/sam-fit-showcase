@@ -1,3 +1,9 @@
+## 2026-10-15 — Multi-organization sign-in and recovery checks (unreleased)
+
+The private platform now lets an authorized staff account choose its organization and branch before opening a workspace. A synthetic two-organization browser check verified both selections, current permissions and responsive light/dark layouts. The local CRM recovery suite also reconnects its test fixture after a database restart and verifies that read-only pages recover safely.
+
+These checks are local engineering evidence. Independent security and database review, human accessibility and release approval remain open. No customer, online, payment or device environment changed.
+
 ## 2026-10-15 — CRM read recovery and bilingual local review (unreleased)
 
 The private platform completed a joined local review of member search and read-only CRM pages using synthetic organizations and branches. A separately restored test database rejected old sessions and accepted fresh sign-in. The checks also covered both connection-pool modes, service recovery, current access changes, and Persian and English browser layouts in light and dark themes.

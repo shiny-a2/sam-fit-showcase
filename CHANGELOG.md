@@ -1,3 +1,9 @@
+## 2026-10-15 — Multi-organization context selection (unreleased)
+
+- Made organization and branch selection available before an authorized staff workspace is shown.
+- Rechecked synthetic two-organization browser behavior and CRM database interruption recovery.
+- Kept restricted CRM editing and online release behind separate approval gates.
+
 ## 2026-10-15 — CRM read recovery and bilingual review (unreleased)
 
 - Verified read-only CRM and member search after an isolated synthetic database restore, including rejection of old sessions.
