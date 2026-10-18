@@ -2,7 +2,7 @@
 
 In the isolated synthetic staff workspace, reception staff can now select a member search result and see it clearly identified as a recent search result. Starting a new search or changing branch clears that selection. The interface continues to explain that membership status, visits and locker actions are unavailable until their access contracts are reviewed.
 
-Local browser checks covered mobile and desktop layouts in light and dark themes. A separate restricted context proposal was tested with synthetic data but remains under review; it is not an active customer feature. No live source, payment, online service or physical device was changed.
+Local browser checks covered mobile and desktop layouts in light and dark themes. A separate restricted context proposal and a check for unexpected access changes were tested with synthetic data. Both remain under review; this is not an active customer feature. No live source, payment, online service or physical device was changed.
 
 ## 2026-10-18 — Safer reception review workspace (unreleased)
 

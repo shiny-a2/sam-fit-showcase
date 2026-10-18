@@ -2,6 +2,7 @@
 
 - Made the selected search result visible and easy to clear in the isolated reception workspace.
 - Rechecked responsive browser behavior and synthetic access boundaries.
+- Added a local review check that rejects unexpected access changes to the proposed context read.
 - Kept operational context and software or physical actions behind separate review and release gates.
 
 ## 2026-10-18 — Restricted reception review desk (unreleased)
