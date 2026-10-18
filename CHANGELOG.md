@@ -1,3 +1,9 @@
+## 2026-10-18 — Reception workflow evidence desk (unreleased)
+
+- Added a current-access recheck and clearer unavailable visit, locker, receipt, source and physical states in the synthetic reception desk.
+- Rechecked bilingual responsive browser behavior and existing member-search and CRM recovery paths.
+- Kept check-in, locker assignment and device control disabled pending their separate contracts.
+
 ## 2026-10-18 — Scoped reception context laboratory (unreleased)
 
 - Connected authorized member search selection to a limited reception context read in an isolated synthetic lab.

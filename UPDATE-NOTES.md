@@ -1,3 +1,9 @@
+## 2026-10-18 — Reception workflow evidence in the synthetic lab (unreleased)
+
+The isolated reception desk now lets staff recheck current access to a selected member relationship. It explains the next step for a software check-in and separates unavailable visit history, locker inventory and command receipts from unknown source and device observations. The screen does not present missing data as an empty visit, a free locker or a confirmed physical entry.
+
+Local browser checks covered Persian and English, mobile through desktop widths, light and dark themes, and disabled actions. The established member-search and CRM recovery suites remained passing. Eligibility decisions, software check-in/out, locker assignment and physical control still require separate accepted access contracts and are disabled. No customer, online, payment or device environment changed.
+
 ## 2026-10-18 — Limited reception context in the synthetic lab
 
 Reception staff in the isolated review workspace can now select an authorized member search result and see a small, branch-scoped context view. The screen shows the member's display name and when the relevant relationship became visible. It explicitly marks membership decisions, visits, locker status, source data and physical outcomes as unavailable when their separate contracts have not been accepted.
