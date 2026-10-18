@@ -1,3 +1,9 @@
+## 2026-10-18 — Reception search selection review (unreleased)
+
+- Made the selected search result visible and easy to clear in the isolated reception workspace.
+- Rechecked responsive browser behavior and synthetic access boundaries.
+- Kept operational context and software or physical actions behind separate review and release gates.
+
 ## 2026-10-18 — Restricted reception review desk (unreleased)
 
 - Isolated authorized member search from legacy reception actions in a synthetic multi-organization workspace.
