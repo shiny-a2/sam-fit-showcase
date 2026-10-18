@@ -1,3 +1,9 @@
+## 2026-10-18 — Restricted reception review desk (unreleased)
+
+- Isolated authorized member search from legacy reception actions in a synthetic multi-organization workspace.
+- Clarified unavailable operational information and kept software and physical controls disabled.
+- Added synthetic contract checks for future source and device evidence without enabling a receiver or device command.
+
 ## 2026-10-18 — Passive hardware status lab (unreleased)
 
 - Added synthetic checks for status freshness, identity, replay, disconnection and transport acknowledgments.

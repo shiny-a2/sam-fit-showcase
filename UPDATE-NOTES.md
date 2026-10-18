@@ -1,3 +1,9 @@
+## 2026-10-18 — Safer reception review workspace (unreleased)
+
+The private platform now gives staff in the isolated multi-organization lab a dedicated read-only reception desk. It supports authorized name search, keyboard navigation and page recovery while clearly marking membership context and operational actions as unavailable until their access contracts are accepted. Responsive light and dark browser checks covered the changed desk.
+
+A separate versioned review package describes how future source observations, device status, delivery acknowledgments and physical outcomes must remain distinct. The package uses synthetic examples and does not connect to live equipment. Human receptionist review, real-source integration, restricted operational commands and release approval remain open; no customer or online environment changed.
+
 ## 2026-10-18 — Passive device integration laboratory (unreleased)
 
 The private hardware workstream added a small synthetic laboratory for validating device-status boundaries, including stale readings, duplicate and reordered events, connection loss, and the distinction between a transport acknowledgment and an observed physical result. It also prepared a conditional field-evidence map and a review-only reception interface so the next integration step can target a safely identified spare device.
