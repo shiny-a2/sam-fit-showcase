@@ -1,3 +1,9 @@
+## 2026-10-18 — Hardware integration audit and field readiness
+
+Reviewed the existing reception data path and physical-device integration as separate milestones. The private audit now records which observations are historical, which checks pass only in a synthetic lab, and what evidence a future supervised field session needs. A version-format mismatch in the offline metadata checker was corrected and tested so the checker handles the historically observed file version while still rejecting other versions.
+
+No customer system, live source, device or production receiver was contacted in this update. Native Windows acceptance, a canonical real-source receiver, device model and supported interface, and physical-control approval remain open. No hardware replacement or live-control outcome is claimed.
+
 ## 2026-10-15 — Multi-organization sign-in and recovery checks (unreleased)
 
 The private platform now lets an authorized staff account choose its organization and branch before opening a workspace. A synthetic two-organization browser check verified both selections, current permissions and responsive light/dark layouts. The local CRM recovery suite also reconnects its test fixture after a database restart and verifies that read-only pages recover safely.

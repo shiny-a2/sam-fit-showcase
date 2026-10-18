@@ -1,3 +1,9 @@
+## 2026-10-18 — Hardware integration audit (unreleased)
+
+- Reconciled historical source observations with current offline, native and physical-device acceptance gates.
+- Corrected and tested an offline source-version metadata check without changing live systems.
+- Prepared scoped future access and single-device safety review packets; no live control is enabled.
+
 ## 2026-10-15 — Multi-organization context selection (unreleased)
 
 - Made organization and branch selection available before an authorized staff workspace is shown.
