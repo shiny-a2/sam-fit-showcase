@@ -1,3 +1,9 @@
+## 2026-10-18 — Passive hardware status lab (unreleased)
+
+- Added synthetic checks for status freshness, identity, replay, disconnection and transport acknowledgments.
+- Prepared a field-evidence and reception handoff packet while the site remained offline.
+- Kept real device control, production ingestion and native Windows acceptance pending separate evidence.
+
 ## 2026-10-18 — Hardware integration audit (unreleased)
 
 - Reconciled historical source observations with current offline, native and physical-device acceptance gates.

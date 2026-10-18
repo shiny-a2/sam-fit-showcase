@@ -1,3 +1,9 @@
+## 2026-10-18 — Passive device integration laboratory (unreleased)
+
+The private hardware workstream added a small synthetic laboratory for validating device-status boundaries, including stale readings, duplicate and reordered events, connection loss, and the distinction between a transport acknowledgment and an observed physical result. It also prepared a conditional field-evidence map and a review-only reception interface so the next integration step can target a safely identified spare device.
+
+The reception computer was offline during this update. Historical software connections were not reclassified as current device protocols or physical proof. No customer data, live equipment, production receiver or Windows service changed; hardware control remains disabled.
+
 ## 2026-10-18 — Hardware integration audit and field readiness
 
 Reviewed the existing reception data path and physical-device integration as separate milestones. The private audit now records which observations are historical, which checks pass only in a synthetic lab, and what evidence a future supervised field session needs. A version-format mismatch in the offline metadata checker was corrected and tested so the checker handles the historically observed file version while still rejecting other versions.
