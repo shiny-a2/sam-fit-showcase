@@ -1,3 +1,9 @@
+## 2026-10-18 — Honest eligibility status for reception review (unreleased)
+
+The isolated reception desk now rechecks eligibility after an authorized staff member selects a member relationship. Because the general entitlement policy and its data source are still under review, the desk shows an explicit unknown result, reason and check time. It does not present the search result or an old membership display as permission to admit someone.
+
+Local synthetic checks covered two organizations, branch boundaries, revoked access, temporary errors and recovery, and Persian and English responsive views. Software visits, locker assignments, payments and physical control remain disabled. Independent security and database review, human acceptance and online release approval are still pending. No customer or live system changed.
+
 ## 2026-10-18 — Reception workflow evidence in the synthetic lab (unreleased)
 
 The isolated reception desk now lets staff recheck current access to a selected member relationship. It explains the next step for a software check-in and separates unavailable visit history, locker inventory and command receipts from unknown source and device observations. The screen does not present missing data as an empty visit, a free locker or a confirmed physical entry.

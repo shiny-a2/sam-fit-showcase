@@ -1,3 +1,9 @@
+## 2026-10-18 — Reception eligibility review in the synthetic lab (unreleased)
+
+- Connected a selected, authorized member relationship to a fresh reception eligibility read in the isolated review workspace.
+- Displayed an explicit unknown result and checked time when no approved entitlement source can support an access decision.
+- Rechecked bilingual responsive layouts, access revocation and local service recovery while keeping check-in, lockers and physical control disabled.
+
 ## 2026-10-18 — Reception workflow evidence desk (unreleased)
 
 - Added a current-access recheck and clearer unavailable visit, locker, receipt, source and physical states in the synthetic reception desk.
