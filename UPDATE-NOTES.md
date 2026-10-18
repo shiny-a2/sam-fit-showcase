@@ -1,3 +1,9 @@
+## 2026-10-18 — Limited reception context in the synthetic lab
+
+Reception staff in the isolated review workspace can now select an authorized member search result and see a small, branch-scoped context view. The screen shows the member's display name and when the relevant relationship became visible. It explicitly marks membership decisions, visits, locker status, source data and physical outcomes as unavailable when their separate contracts have not been accepted.
+
+Local checks covered Persian and English layouts, mobile and desktop themes, changed access, service recovery and both connection-pool modes. This improves review of the staff journey while keeping check-in, locker assignment and hardware actions disabled. Independent security, database, human accessibility and release approvals are still pending. No customer data, online service, payment or device changed.
+
 ## 2026-10-18 — Clearer reception search selection (unreleased)
 
 In the isolated synthetic staff workspace, reception staff can now select a member search result and see it clearly identified as a recent search result. Starting a new search or changing branch clears that selection. The interface continues to explain that membership status, visits and locker actions are unavailable until their access contracts are reviewed.

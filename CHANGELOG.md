@@ -1,3 +1,10 @@
+## 2026-10-18 — Scoped reception context laboratory (unreleased)
+
+- Connected authorized member search selection to a limited reception context read in an isolated synthetic lab.
+- Added Persian and English responsive review states that distinguish verified relationship visibility from unavailable operational facts.
+- Rechecked access changes, service recovery and both local connection-pool modes without enabling visits, lockers or physical control.
+- Kept independent security, database, accessibility and release approvals open; no customer or online environment changed.
+
 ## 2026-10-18 — Reception search selection review (unreleased)
 
 - Made the selected search result visible and easy to clear in the isolated reception workspace.
