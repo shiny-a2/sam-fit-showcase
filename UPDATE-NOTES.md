@@ -1,3 +1,9 @@
+## 2026-10-19 — Supervised reception hardware observation (unreleased)
+
+An authorized, read-only session confirmed the identity of the existing reception computer, the running passive observer and active software connections to equipment. Staff reported a normal spare-locker operation through the existing reception application. The resulting observer metadata is not specific enough to identify a controller, decode a device acknowledgment or prove independent control; overlapping ordinary actions were recorded as an evidence limitation.
+
+The current reception application version differs from the version pinned by the proposed source reader, so that reader remains inactive while its source contract is reviewed. A synthetic status lab now fails closed on inconsistent observations and denies all command intents. Eleven local checks passed. No customer data was published, no independent device command was issued, and real-source delivery remains unaccepted.
+
 ## 2026-10-18 — Honest eligibility status for reception review (unreleased)
 
 The isolated reception desk now rechecks eligibility after an authorized staff member selects a member relationship. Because the general entitlement policy and its data source are still under review, the desk shows an explicit unknown result, reason and check time. It does not present the search result or an old membership display as permission to admit someone.

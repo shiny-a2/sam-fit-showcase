@@ -1,3 +1,10 @@
+## 2026-10-19 — Supervised passive hardware review (unreleased)
+
+- Confirmed the authorized reception source and current observer health through a bounded read-only review.
+- Recorded a staff-operated spare-locker outcome separately from software connection metadata; controller identity, protocol and independent control remain unverified.
+- Strengthened synthetic status checks for conflicting observations and command-scope denial; 11 local checks passed.
+- Kept the source reader, real-source receiver and hardware commands disabled pending separate acceptance.
+
 ## 2026-10-18 — Reception eligibility review in the synthetic lab (unreleased)
 
 - Connected a selected, authorized member relationship to a fresh reception eligibility read in the isolated review workspace.
