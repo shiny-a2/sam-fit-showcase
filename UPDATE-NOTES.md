@@ -1,3 +1,9 @@
+## 2026-10-19 — Clearer synthetic eligibility review at Reception (unreleased)
+
+In the isolated local test environment, the Reception desk can now show an eligible, ineligible or unknown result after an authorized member relationship is selected. Each result is tied to current synthetic test facts and a short review window. The screen labels a positive result as synthetic and does not offer software check-in from that result.
+
+Local checks covered two organizations and branch scope, changed membership evidence, restricted database access, service and restore recovery, both local connection-pool modes, and Persian and English layouts on mobile and desktop. Existing member-search and CRM tests remained passing. This is a review candidate, not a live eligibility or entry decision. Software visits, locker control, payments and physical equipment remain disabled pending an owner policy and independent security, database and human acceptance. No customer or online system changed.
+
 ## 2026-10-19 — Supervised reception hardware observation (unreleased)
 
 An authorized, read-only session confirmed the identity of the existing reception computer, the running passive observer and active software connections to equipment. Staff reported a normal spare-locker operation through the existing reception application. The resulting observer metadata is not specific enough to identify a controller, decode a device acknowledgment or prove independent control; overlapping ordinary actions were recorded as an evidence limitation.

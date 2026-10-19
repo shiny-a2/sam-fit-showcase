@@ -1,3 +1,9 @@
+## 2026-10-19 — Synthetic reception eligibility decisions (unreleased)
+
+- Added a read-only local review that distinguishes eligible, ineligible and unknown outcomes from explicitly synthetic, branch-scoped test facts.
+- Rechecked two-organization boundaries, responsive Persian and English views, local connection-pool modes and restore recovery.
+- Kept software check-in, lockers, payments and physical control disabled while policy and independent reviews remain open.
+
 ## 2026-10-19 — Supervised passive hardware review (unreleased)
 
 - Confirmed the authorized reception source and current observer health through a bounded read-only review.
