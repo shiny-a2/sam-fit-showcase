@@ -1,3 +1,10 @@
+## 2026-10-19 — Exact source compatibility candidate (unreleased)
+
+- Bound the legacy source contract and semantic mapping to exact reviewed hashes; kept the newly discovered build review-only.
+- Enforced SQL encryption and certificate verification and preserved queue identity across synthetic restart and timeout checks.
+- Identified existing transport and software-relock code paths through static metadata without executing application code or device commands.
+- Recorded 287 passing local checks and 12 Windows-only skips; kept native, receiver and physical acceptance pending.
+
 ## 2026-10-19 — Synthetic reception eligibility decisions (unreleased)
 
 - Added a read-only local review that distinguishes eligible, ineligible and unknown outcomes from explicitly synthetic, branch-scoped test facts.

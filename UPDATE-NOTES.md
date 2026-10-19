@@ -1,3 +1,9 @@
+## 2026-10-19 — Exact source compatibility and static transport review (unreleased)
+
+The Windows Edge candidate now binds its reviewed source contract, normalization and field map to exact hashes. A newly observed application build remains review-only, even when it presents the old schema. Synthetic checks cover drift, restart, stable event identity, timeout and clock uncertainty; SQL reads require encryption and certificate validation. The current source certificate chain prevents safe catalog verification, so no new source compatibility is claimed.
+
+A supervised metadata-only inspection identified several existing locker transport paths and a separate software relock path without executing application methods or sending device commands. This narrows the integration investigation while preserving unknown controller identity and physical outcomes. Local suites recorded 287 passing checks and 12 Windows-only skips. Native Reader acceptance, an accepted real-source receiver and physical integration remain open; no customer data was published or live application configuration changed.
+
 ## 2026-10-19 — Clearer synthetic eligibility review at Reception (unreleased)
 
 In the isolated local test environment, the Reception desk can now show an eligible, ineligible or unknown result after an authorized member relationship is selected. Each result is tied to current synthetic test facts and a short review window. The screen labels a positive result as synthetic and does not offer software check-in from that result.
