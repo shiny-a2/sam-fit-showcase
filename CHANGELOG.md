@@ -1,3 +1,10 @@
+## 2026-10-20 — Isolated hardware metadata lab candidate (unreleased)
+
+- Added a synthetic-only Windows metadata probe with bounded output, explicit privacy filters and reproducible packaging.
+- Passed 18 local policy and packaging checks; kept native capture acceptance pending after a bounded laboratory session encountered an environment and disk-health blocker.
+- Verified recovery copies and documented the recovery gate without changing customer systems, enabling source capture or issuing device commands.
+- Distinguished application configuration labels from verified controller identity and protocol evidence.
+
 ## 2026-10-19 — Exact source compatibility candidate (unreleased)
 
 - Bound the legacy source contract and semantic mapping to exact reviewed hashes; kept the newly discovered build review-only.
