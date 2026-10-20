@@ -1,3 +1,9 @@
+## 2026-10-20 — Reception access-change race evidence (unreleased)
+
+- Added repeatable local checks for both commit orders of staff logout and software check-in.
+- Confirmed the restricted administrative role-change path remains closed pending a separately reviewed write contract.
+- Kept full administrative concurrency acceptance and release gates open; no live, financial or physical change occurred.
+
 ## 2026-10-20 — Reception check-in concurrency review (unreleased)
 
 - Contained an earlier local check-in candidate after a concurrent access-change defect was reproduced.

@@ -1,3 +1,9 @@
+## 2026-10-20 — Reception access-change verification (unreleased)
+
+The private platform now has repeatable local tests for both orders of a staff logout racing with a software check-in. When logout completed first, the check-in was rejected without creating a visit or delivery record. When check-in completed first, its records were created once and the later logout succeeded.
+
+The broader administrative access-change path remains closed in the restricted runtime and needs its own reviewed write authority before acceptance. This is partial synthetic evidence, with no online release or change to customer data, payments or physical equipment.
+
 ## 2026-10-20 — Reception check-in concurrency hardening (unreleased)
 
 An isolated laboratory review found that an earlier software check-in candidate could accept a request after an access change. The affected candidate is now closed to normal activation, and a separate review version adds transaction checks for concurrent access, membership and opening-hours changes. Local synthetic races, recovery and responsive bilingual browser checks passed for the tested cases.
