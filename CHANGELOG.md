@@ -500,6 +500,12 @@
 - Verified current-access receipt recovery, disabled sign-in, responsive main routes and a mobile reception layout fix in isolated QA.
 - Prepared a private staging candidate for independent review; no online deployment or public CRM access change occurred.
 
+## 2026-10-20 — Restricted reception visit contract review
+
+- Added bounded software check-in and check-out request contracts for a synthetic local review.
+- Verified that the proposed routes reject unsafe input and remain closed without an independently approved tenant write credential.
+- Preserved existing member search and reception read journeys; no customer Visit, financial, equipment or deployed state changed.
+
 ## 2026-10-15 — Restricted CRM read compatibility candidate
 
 - Added a synthetic combined member-search and CRM-read catalog review profile with both guards active.
