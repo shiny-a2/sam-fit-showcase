@@ -1,3 +1,9 @@
+## 2026-10-20 — Synthetic Reception software check-in candidate (unreleased)
+
+- Added an isolated software check-in review path with an atomic visit, event, receipt, audit and delivery record.
+- Verified local replay, receipt recovery, bilingual responsive browser states and existing product regressions.
+- Kept independent security, database, access-change, accessibility and release gates open; no customer, online, financial or physical environment changed.
+
 ## 2026-10-20 — Offline hardware recovery and evidence review (unreleased)
 
 - Added read-only laboratory custody checks, bounded schema comparison and redacted evidence review with explicit ambiguity and privacy rules.

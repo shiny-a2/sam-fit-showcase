@@ -1,3 +1,9 @@
+## 2026-10-20 — Synthetic Reception software check-in review (unreleased)
+
+The private platform now has an isolated laboratory path for an authorized Reception software check-in. Local checks showed one coherent visit, event, command receipt, audit record and delivery record, with safe replay and receipt recovery after a database interruption. The Persian and English Reception screens were reviewed at mobile and desktop widths in light and dark themes.
+
+This is a local review candidate. Independent security and database review, concurrent access-change testing, human accessibility review and release approval remain open. No customer system, online service, payment, locker or physical device changed.
+
 ## 2026-10-20 — Offline hardware readiness review (unreleased)
 
 The hardware workstream now has read-only laboratory custody checks, bounded source-schema comparison and a review tool that keeps ambiguous or self-reported evidence separate from independently verified device outcomes. A prepared recovery and online-resume packet preserves the existing connector, stable event identity and Main integration boundary.
