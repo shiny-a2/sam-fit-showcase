@@ -1,3 +1,10 @@
+## 2026-10-20 — Offline hardware recovery and evidence review (unreleased)
+
+- Added read-only laboratory custody checks, bounded schema comparison and redacted evidence review with explicit ambiguity and privacy rules.
+- Passed 333 synthetic checks with 12 Windows-only skips while preserving the existing connector package and event identity.
+- Prepared recovery, device-mapping, Main handoff and resume packets; native recovery, real-source admission and physical control remain separately gated.
+- Kept customer systems, operational data and equipment unchanged; no live or physical acceptance is claimed.
+
 ## 2026-10-20 — Isolated Reception write scope candidate (unreleased)
 
 - Added a separate, review-only synthetic database credential scope with fail-closed checks for unexpected privileges.

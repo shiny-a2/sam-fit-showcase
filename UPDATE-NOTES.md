@@ -1,3 +1,9 @@
+## 2026-10-20 — Offline hardware readiness review (unreleased)
+
+The hardware workstream now has read-only laboratory custody checks, bounded source-schema comparison and a review tool that keeps ambiguous or self-reported evidence separate from independently verified device outcomes. A prepared recovery and online-resume packet preserves the existing connector, stable event identity and Main integration boundary.
+
+Local synthetic suites recorded 333 passing checks and 12 Windows-only skips. Native recovery, real-source compatibility, actual controller mapping and physical command acceptance remain open. No customer system, deployed application or equipment changed, and the review tools cannot authorize or transmit hardware commands.
+
 ## 2026-10-20 — Isolated Reception write access groundwork (unreleased)
 
 The private platform now has a separate, review-only database scope for future Reception software visits. Local synthetic checks confirm that its credential cannot read or change business tables directly, cannot act for another organization, and becomes invalid after expiry or revocation. Unexpected access grants are detected before any future activation. Existing member search and Reception reading, both local pooling modes, browser checks and independent restore remained passing.
