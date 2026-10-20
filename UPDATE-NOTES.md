@@ -1,3 +1,9 @@
+## 2026-10-20 — Isolated Reception write access groundwork (unreleased)
+
+The private platform now has a separate, review-only database scope for future Reception software visits. Local synthetic checks confirm that its credential cannot read or change business tables directly, cannot act for another organization, and becomes invalid after expiry or revocation. Unexpected access grants are detected before any future activation. Existing member search and Reception reading, both local pooling modes, browser checks and independent restore remained passing.
+
+Software check-in and check-out are still disabled. A current member relationship and synthetic eligibility must be rechecked inside the eventual write transaction, then the complete visit, receipt, audit and recovery workflow needs separate testing and independent security and database approval. No customer source, online service, payment or physical equipment changed.
+
 ## 2026-10-19 — Exact source compatibility and static transport review (unreleased)
 
 The Windows Edge candidate now binds its reviewed source contract, normalization and field map to exact hashes. A newly observed application build remains review-only, even when it presents the old schema. Synthetic checks cover drift, restart, stable event identity, timeout and clock uncertainty; SQL reads require encryption and certificate validation. The current source certificate chain prevents safe catalog verification, so no new source compatibility is claimed.

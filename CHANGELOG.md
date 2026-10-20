@@ -1,3 +1,9 @@
+## 2026-10-20 — Isolated Reception write scope candidate (unreleased)
+
+- Added a separate, review-only synthetic database credential scope with fail-closed checks for unexpected privileges.
+- Rechecked organization isolation, role changes, expiry, revocation and independent restore alongside existing Reception read flows.
+- Kept software visits, payments, locker control and physical access disabled pending accepted transaction-scoped write authority and independent review.
+
 ## 2026-10-20 — Isolated hardware metadata lab candidate (unreleased)
 
 - Added a synthetic-only Windows metadata probe with bounded output, explicit privacy filters and reproducible packaging.
