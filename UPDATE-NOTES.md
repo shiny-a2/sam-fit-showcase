@@ -1,3 +1,9 @@
+## 2026-10-20 — Reception check-in concurrency hardening (unreleased)
+
+An isolated laboratory review found that an earlier software check-in candidate could accept a request after an access change. The affected candidate is now closed to normal activation, and a separate review version adds transaction checks for concurrent access, membership and opening-hours changes. Local synthetic races, recovery and responsive bilingual browser checks passed for the tested cases.
+
+The broader administrative race matrix and independent security and database reviews remain open. This work has not been released online and did not touch customer data, payments or physical equipment.
+
 ## 2026-10-20 — Synthetic Reception software check-in review (unreleased)
 
 The private platform now has an isolated laboratory path for an authorized Reception software check-in. Local checks showed one coherent visit, event, command receipt, audit record and delivery record, with safe replay and receipt recovery after a database interruption. The Persian and English Reception screens were reviewed at mobile and desktop widths in light and dark themes.

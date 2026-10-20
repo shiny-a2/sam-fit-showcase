@@ -1,3 +1,9 @@
+## 2026-10-20 — Reception check-in concurrency review (unreleased)
+
+- Contained an earlier local check-in candidate after a concurrent access-change defect was reproduced.
+- Added a separate synthetic review version and verified bounded access, membership and operating-hours races with no partial visit effects in the tested cases.
+- Kept independent review, full administrative concurrency acceptance and release approval open; no customer or deployed environment changed.
+
 ## 2026-10-20 — Synthetic Reception software check-in candidate (unreleased)
 
 - Added an isolated software check-in review path with an atomic visit, event, receipt, audit and delivery record.
